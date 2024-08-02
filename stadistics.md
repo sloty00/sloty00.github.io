@@ -8,6 +8,13 @@ permalink: /stadistics/
 ## Estadisticas
 
 <div align='center'>
+	
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sloty00&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-contributor-stats.vercel.app/api?username=sloty00&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+
+</div>
+
+<div align='center'>
 
 ![](https://github-profile-trophy.vercel.app/?username=sloty00&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
