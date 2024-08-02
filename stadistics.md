@@ -8,10 +8,6 @@ permalink: /stadistics/
 ## Estadisticas
 
 <div align='center'>
-
-![image](https://github.com/sloty00/sloty00/assets/22121541/7f60053a-5df8-4868-8c01-254f0013c0dd)
-
-<br>
 	  
 ![](https://github-readme-stats.vercel.app/api?username=sloty00&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sloty00&theme=transparent&hide_border=false)
