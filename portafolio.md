@@ -4,7 +4,6 @@ title: Portafolio
 permalink: /portafolio/
 ---
 
-
 ## Experiencia
 
 **Septiembre 2022 - Julio 2024 / Ingeniero TI CASS CASS, Llanquihue/Puerto Montt**<br/><br/>
