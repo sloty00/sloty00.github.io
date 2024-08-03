@@ -38,11 +38,10 @@ permalink: /stadistics/
   <img src="/images/VMTSP_Public_Cloud_Badge_2024 (1).png" alt="Achievement 1" height="80">
   <img src="/images/VMTSP_SaaS.png" alt="Achievement 1" height="80">
   <br>
-  <img src="/images/VMTSP_Cloud_Service_Provider_Badge_2024 (1).png" alt="Badge 1" height="80">
-  <img src="/images/VMTSP_Cybersecurity_DR.png" alt="Badge 2" height="80">
-  <img src="/images/VMTSP_Kubernetes_Data_Protection.png" alt="Achievement 1" height="80">
-  <img src="/images/VMTSP_Public_Cloud_Badge_2024 (1).png" alt="Achievement 1" height="80">
-  <img src="/images/VMTSP_SaaS.png" alt="Achievement 1" height="80">
+  <img src="/images/Professional_Cloud_service_provider.png" alt="Badge 1" height="80">
+  <img src="/images/Professional_Fundamentals.png" alt="Badge 2" height="80">
+  <img src="/images/Professional_Public_Cloud.png" alt="Achievement 1" height="80">
+  <img src="/images/Professional_SaaS.png" alt="Achievement 1" height="80">
 </div>
 
 ## Estadísticas GitHub
