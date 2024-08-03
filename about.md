@@ -10,7 +10,7 @@ permalink: /about/
 </p>
 
 Soy un Desarrollador Senior con 8 años de experiencia en DevOps y desarrollo Fullstack, especializado en ciberseguridad. Con más de 18
-años en el ámbito de TI, me destaco en el diseño, implementación y mantenimiento de sistemas informáticos robustos. Profesional altamente creativo y orientado a resultados, mi perfil DISC destaca mi capacidad innovadora y proactiva, permitiéndome pensar fuera de lo común y motivar a los equipos hacia la excelencia. Poseo una notable adaptabilidad y habilidades para resolver problemas complejos, manteniendo la eficiencia en entornos dinámicos.
+años en el ámbito de TI, me destaco en el diseño, implementación y mantenimiento de sistemas informáticos robustos. Profesional altamente creativo y orientado a resultados, mi perfil DISC destaca mi capacidad innovadora y proactiva, permitiéndome pensar fuera de lo común y motivar a los equipos hacia la excelencia. Poseo una notable adaptabilidad y habilidades para resolver problemas complejos, manteniendo la eficiencia en entornos dinámicos.
 
 ### Contact me
 
