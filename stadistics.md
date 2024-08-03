@@ -16,6 +16,13 @@ permalink: /stadistics/
 
 ### Hackerank
 
+<div align='center'>
+  <img src="/images/Hackerrank CPP.png" alt="Badge 1" height="80">
+  <img src="/images/Hackerrank Problem Resolving.png" alt="Badge 2" height="80">
+  <img src="/images/Hackerrank JAVA.png" alt="Achievement 1" height="80">
+  <img src="/images/Hackerrank SQL.png" alt="Achievement 1" height="80">
+</div>
+
 ### Veeam Data Plataform
 
 ## Estadísticas GitHub
