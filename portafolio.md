@@ -31,7 +31,24 @@ permalink: /portafolio/
   - Cubicación y evaluación de proyectos utilizando el software Valorizador en Citrix.
   - Elaboración de planos de servidumbre.
   - Diseño e implementación de un sistema de geolocalización y dibujo en congruencia con GPS, utilizando Google Maps para proyectos de infraestructura eléctrica.
-  - Colaboración en la integración de tecnologías de mapeo para garantizar la precisión en los cálculos de ubicación y trazado de cables eléctricos.
+  - Colaboración en la integración de tecnologías de mapeo para garantizar la precisión en los cálculos de ubicación y trazado de cables eléctricos.<br/><br/>
+
+**Enero 2017 - Presente / Desarrollador Software VARTO INC, Llanquihue/Puerto Montt**
+  - Desarrollo de software de monitoreo remoto.
+  - Implementación de seguimiento en línea para clientes.
+
+**Mar 2016 - Ene 2017 / Desarrollador Software Mirador de Frutillar, Llanquihue/Frutillar**
+  - Creación de un software de gestión utilizando Java SE.
+  - Desarrollo de una página web autoadministrable con PHP, HTML5, JavaScript y CSS.
+
+**Marzo 2012 - Marzo 2016 / Inspector de Proyectos Telefonica del Sur/GTD, Llanquihue/Puerto Montt**
+  - Levantamiento de proyectos.
+  - Planos de demanda Inmobiliaria.
+  - Desarrollo de proyectos.
+  - Elaboración de documentos "As-Built".
+  - Detalles de Ingeniería.
+  - Tramitación de permisos en Saesa y municipales.
+  - Cubicación/Avaluacion de proyecto.
 
 
 
