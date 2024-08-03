@@ -49,6 +49,14 @@ permalink: /stadistics/
   <img src="/images/Professional_SP_SaaS.png" alt="Achievement 1" height="80">
 </div>
 
+## SUSE Enterprise
+
+<div align='center'>
+  <img src="/images/5252-partner-SLES.png" alt="Badge 1" height="80">
+  <img src="/images/Suse1.png" alt="Badge 2" height="80">
+  <img src="/images/Suse2.png" alt="Achievement 1" height="80">
+</div>
+
 ## Estadísticas GitHub
 <div align='center'>
   <img src="https://github-profile-trophy.vercel.app/?username=sloty00&theme=transparent&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
