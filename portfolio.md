@@ -8,10 +8,10 @@ permalink: /portfolio/
 ## Experiencia
 
 **Ingeniero TI CASS CASS, Llanquihue/Puerto Montt**
-• Anteproyecto de Diseño y Diseño Proyectado del Sistema de Respaldos Veeam BR en Draw.io con Viñetado utilizando Block GIS de las marcas para Salmones Austral.
-• Creación y despliegue de un servidor Rocketchat en SUSE mediante Contenedor.
-• Creación y despliegue de un Relay de correo para cass.cl.
-• Creación y despliegue de Nagios con monitorizacion via SNMP y NRPE en cada Servidor Invitado y dispositivos.
+• Anteproyecto de Diseño y Diseño Proyectado del Sistema de Respaldos Veeam BR en Draw.io con Viñetado utilizando Block GIS de las marcas para Salmones Austral.<br/>
+• Creación y despliegue de un servidor Rocketchat en SUSE mediante Contenedor.<br/>
+• Creación y despliegue de un Relay de correo para cass.cl.<br/>
+• Creación y despliegue de Nagios con monitorizacion via SNMP y NRPE en cada Servidor Invitado y dispositivos.<br/>
 • Creación y despliegue de un servidor Grafana via Prometheus en cada Servidor Invitado.
 • Creación y despliegue de un servidor GLPI mediante contenedor (Helpdesk e inventario de equipos).
 • Creación y despliegue de un servidor Owncloud con control de acceso y carpetas por usuarios.
