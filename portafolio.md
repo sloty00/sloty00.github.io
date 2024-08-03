@@ -19,6 +19,7 @@ permalink: /portafolio/
   - Creación y despliegue de un servidor Rustdesk con Key privada en SUSE mediante contenedor.<br/>
   - Creación y despliegue de un repositorio Inmutable en SUSE para ser usado en Veeam Backup Replication.<br/>
   - Software CRUD para manejar el Workflow empresa (Personal, Vehiculos, Permisos Pers., Vacaciones, Permisos Vehiculos, Checklist) con integración AD con JWT / Firebase con JWT para Login y paginación en backend (Nodejs+PrismaORM(Mysql)), consumidos via React + Material-UI.<br/><br/>
+  
 **Marzo 2022 - Junio 2022 / Analista de Software Senior Bicom, Llanquihue/Puerto Montt**<br/>
   - Creación de una API de Ecommerce para Bicom y sus clientes (Node.js).
   - Colaboración en el desarrollo del sitio Bicom Academy (Node.js).
