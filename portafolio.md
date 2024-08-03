@@ -9,7 +9,7 @@ permalink: /portafolio/
 <header class="post-header">
     <h1 class="post-title">Ingeniero TI</h1>
     <div class="post-meta">
-      <span class="post-period">Septiembre-2022 - Julio-2024 / Llanquihue, Puerto Montt</span>
+      <span class="post-period">Septiembre-2022 - Julio-2024 / Puerto Montt</span>
       <span class="post-company">CASS S.A</span>
     </div>
 </header>
