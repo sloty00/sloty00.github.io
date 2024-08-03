@@ -13,10 +13,10 @@ permalink: /portfolio/
 • Creación y despliegue de un Relay de correo para cass.cl.<br/>
 • Creación y despliegue de Nagios con monitorizacion via SNMP y NRPE en cada Servidor Invitado y dispositivos.<br/>
 • Creación y despliegue de un servidor Grafana via Prometheus en cada Servidor Invitado.<br/>
-• Creación y despliegue de un servidor GLPI mediante contenedor (Helpdesk e inventario de equipos).<br/>
-• Creación y despliegue de un servidor Owncloud con control de acceso y carpetas por usuarios.<br/>
-• Creación y despliegue de un servidor DNS en SUSE Enterprise usando contenedor.<br/>
-• Creación y despliegue de un servidor Documize por contenedor.<br/>
+• Creación y despliegue de un servidor GLPI mediante contenedor (Helpdesk e inventario de equipos).<br/>
+• Creación y despliegue de un servidor Owncloud con control de acceso y carpetas por usuarios.<br/>
+• Creación y despliegue de un servidor DNS en SUSE Enterprise usando contenedor.<br/>
+• Creación y despliegue de un servidor Documize por contenedor.<br/>
 • Creación y despliegue de un servidor Rustdesk con Key privada en SUSE mediante contenedor.<br/>
 • Creación y despliegue de un repositorio Inmutable en SUSE para ser usado en Veeam Backup Replication.<br/>
 • Software CRUD para manejar el Workflow empresa (Personal, Vehiculos, Permisos Pers., Vacaciones, Permisos
