@@ -17,10 +17,10 @@ permalink: /portfolio/
 • Creación y despliegue de un servidor Owncloud con control de acceso y carpetas por usuarios.<br/>
 • Creación y despliegue de un servidor DNS en SUSE Enterprise usando contenedor.<br/>
 • Creación y despliegue de un servidor Documize por contenedor.<br/>
-• Creación y despliegue de un servidor Rustdesk con Key privada en SUSE mediante contenedor.<br/>
+• Creación y despliegue de un servidor Rustdesk con Key privada en SUSE mediante contenedor.<br/>
 • Creación y despliegue de un repositorio Inmutable en SUSE para ser usado en Veeam Backup Replication.<br/>
-• Software CRUD para manejar el Workflow empresa (Personal, Vehiculos, Permisos Pers., Vacaciones, Permisos
-Vehiculos, Checklist) con integración AD con JWT / Firebase con JWT para Login y paginación en backend (Nodejs+PrismaORM(Mysql)), consumidos via React + Material-UI.<br/>
+• Software CRUD para manejar el Workflow empresa (Personal, Vehiculos, Permisos Pers., Vacaciones, Permisos
+Vehiculos, Checklist) con integración AD con JWT / Firebase con JWT para Login y paginación en backend (Nodejs+PrismaORM(Mysql)), consumidos via React + Material-UI.<br/>
 
 
 ### Contact me
