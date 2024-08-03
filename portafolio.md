@@ -13,8 +13,6 @@ permalink: /portafolio/
       <span class="post-company">CASS S.A</span>
     </div>
 </header>
-
-**Septiembre 2022 - Julio 2024 / Ingeniero TI CASS, Llanquihue/Puerto Montt**<br/>
   - Anteproyecto de Diseño y Diseño Proyectado del Sistema de Respaldos Veeam BR en Draw.io con Viñetado utilizando Block GIS de las marcas para Salmones Austral.<br/>
   - Creación y despliegue de un servidor Rocketchat en SUSE mediante Contenedor.<br/>
   - Creación y despliegue de un Relay de correo para cass.cl.<br/>
