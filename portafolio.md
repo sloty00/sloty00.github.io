@@ -22,7 +22,16 @@ permalink: /portafolio/
   
 **Marzo 2022 - Junio 2022 / Analista de Software Senior Bicom, Llanquihue/Puerto Montt**<br/>
   - Creación de una API de Ecommerce para Bicom y sus clientes (Node.js).
-  - Colaboración en el desarrollo del sitio Bicom Academy (Node.js).
+  - Colaboración en el desarrollo del sitio Bicom Academy (Node.js).<br/><br/>
+
+**Mar/2020 Inspector de Proyectos SAESA, Llanquihue/Puerto Montt**
+  - Gestión de proyectos eléctricos.
+  - Preparación de carpetas para permisos de la SEC.
+  - Creación de órdenes de trabajo (OT) para las tareas.
+  - Cubicación y evaluación de proyectos utilizando el software Valorizador en Citrix.
+  - Elaboración de planos de servidumbre.
+  - Diseño e implementación de un sistema de geolocalización y dibujo en congruencia con GPS, utilizando Google Maps para proyectos de infraestructura eléctrica.
+  - Colaboración en la integración de tecnologías de mapeo para garantizar la precisión en los cálculos de ubicación y trazado de cables eléctricos.
 
 
 
