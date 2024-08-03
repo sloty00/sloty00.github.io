@@ -51,11 +51,23 @@ permalink: /portafolio/
   - Diseño e implementación de un sistema de geolocalización y dibujo en congruencia con GPS, utilizando Google Maps para proyectos de infraestructura eléctrica.
   - Colaboración en la integración de tecnologías de mapeo para garantizar la precisión en los cálculos de ubicación y trazado de cables eléctricos.<br/><br/>
 
-**Enero 2017 - Presente / Desarrollador Software VARTO INC, Llanquihue/Puerto Montt**
+<header class="post-header">
+    <h1 class="post-title">Desarrollador de Software</h1>
+    <div class="post-meta">
+      <span class="post-period">Enero 2017 - Presente / Puerto Montt</span>
+      <span class="post-company">Varto INC</span>
+    </div>
+</header>
   - Desarrollo de software de monitoreo remoto.
   - Implementación de seguimiento en línea para clientes.
 
-**Mar 2016 - Ene 2017 / Desarrollador Software Mirador de Frutillar, Llanquihue/Frutillar**
+<header class="post-header">
+    <h1 class="post-title">Desarrollador de Software</h1>
+    <div class="post-meta">
+      <span class="post-period">Marzo 2016 - Enero 2017 / Frutillar</span>
+      <span class="post-company">Mirador de Frutillar</span>
+    </div>
+</header>
   - Creación de un software de gestión utilizando Java SE.
   - Desarrollo de una página web autoadministrable con PHP, HTML5, JavaScript y CSS.
 
