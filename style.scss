@@ -284,20 +284,33 @@ footer {
   text-align: center;
 }
 
-.post-title a {
-  text-decoration: none;
-  color: #333;
+/* Estilos generales para el post */
+
+.post-header {
+  display: flex;
+  justify-content: space-between; /* Espacio entre los elementos */
+  align-items: flex-start; /* Alineación vertical de los elementos */
+  margin-bottom: 10px;
+}
+
+.post-title {
+  flex: 1;
+  text-align: left; /* Alinea el título a la izquierda */
+  font-size: 18px;
+  margin: 0;
 }
 
 .post-meta {
+  flex: 1;
   display: flex;
-  justify-content: space-between; /* Alinea el contenido a los extremos */
+  justify-content: flex-end; /* Alinea el contenido al extremo derecho */
   font-size: 14px;
   color: #555;
 }
 
 .post-period {
   font-weight: bold;
+  margin-right: 10px; /* Espacio entre el período y la empresa */
 }
 
 .post-company {
@@ -314,9 +327,11 @@ footer {
   color: #007BFF;
   text-decoration: none;
 }
+
 .read-more:hover {
   text-decoration: underline;
 }
+
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
