@@ -50,6 +50,19 @@ permalink: /portafolio/
   - Tramitación de permisos en Saesa y municipales.
   - Cubicación/Avaluacion de proyecto.
 
+**Enero 2010 - Marzo 2012 / Ingeniero TI Consultora KB, Llanquihue/Puerto Montt**
+  - Levantamiento y mantenimiento de servidores.
+  - Provisión de soporte técnico en IT
+
+**Marzo - 2008 Junio 2009 / Ingeniero TI Escuela Rural Alerce Histórico, Llanquihue/Alerce**
+  - Diseño y configuración de sistemas de redes.
+  - Implementación y organización de servidores Linux.
+  - Provisión de soporte técnico en IT.
+
+**Marzo 1998 - Marzo 2008 / Tecnico Informatico NodeBug, Chiloé/Dalcahue**
+  - Provisión de soporte Informático.,Desarrollo de programas en VB6.
+  - Realización de arreglos electrónicos.
+
 
 
 ### Contact me
