@@ -23,7 +23,7 @@ permalink: /stadistics/
   <img src="/images/Hackerrank SQL.png" alt="Achievement 1" height="80">
 </div>
 <div align='center'>
-<img src="/images/TopChile.png" alt="Achievement 1" height="200">
+<img src="/images/TopChile.png" alt="Achievement 1" height="300">
 </div>
 
 ### Veeam Data Plataform
