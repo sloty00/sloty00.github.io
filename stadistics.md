@@ -42,6 +42,11 @@ permalink: /stadistics/
   <img src="/images/Professional_Fundamentals.png" alt="Badge 2" height="80">
   <img src="/images/Professional_Public_Cloud.png" alt="Achievement 1" height="80">
   <img src="/images/Professional_SaaS.png" alt="Achievement 1" height="80">
+  <br>
+  <img src="/images/Professional_SP_Offsite_Backup.png" alt="Badge 1" height="80">
+  <img src="/images/Professional_SP_DRaaS.png" alt="Badge 2" height="80">
+  <img src="/images/Professiona_SP_Public_Cloud.png" alt="Achievement 1" height="80">
+  <img src="/images/Professional_SP_SaaS.png" alt="Achievement 1" height="80">
 </div>
 
 ## Estadísticas GitHub
