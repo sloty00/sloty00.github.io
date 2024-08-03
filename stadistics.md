@@ -3,8 +3,22 @@ layout: page
 title: Estadísticas
 permalink: /stadistics/
 ---
+## Achievements y Badges
 
-## Estadísticas
+### Desarrollo
+
+<div align='center'>
+  <img src="/images/nodejs.jpeg" alt="Badge 1" height="50">
+  <img src="/images/pairextra.png" alt="Badge 2" height="50">
+  <img src="/images/pullshark.png" alt="Achievement 1" height="50">
+  <img src="/images/quickdraw.png" alt="Achievement 1" height="50">
+</div>
+
+### Hackerank
+
+### Veeam Data Plataform
+
+## Estadísticas GitHub
 
 <div align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=sloty00&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
