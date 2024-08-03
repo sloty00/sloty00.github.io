@@ -36,7 +36,13 @@ permalink: /portafolio/
   - Creación de una API de Ecommerce para Bicom y sus clientes (Node.js).
   - Colaboración en el desarrollo del sitio Bicom Academy (Node.js).<br/><br/>
 
-**Abril 2019 - Marzo 2020 / Inspector de Proyectos SAESA, Llanquihue/Puerto Montt**
+<header class="post-header">
+    <h1 class="post-title">Inspector de Proyectos</h1>
+    <div class="post-meta">
+      <span class="post-period">Abril 2019 - Marzo 2020 / Puerto Montt</span>
+      <span class="post-company">SAESA</span>
+    </div>
+</header>
   - Gestión de proyectos eléctricos.
   - Preparación de carpetas para permisos de la SEC.
   - Creación de órdenes de trabajo (OT) para las tareas.
