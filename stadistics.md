@@ -14,7 +14,7 @@ permalink: /stadistics/
   <img src="/images/quickdraw.png" alt="Achievement 1" height="80">
 </div>
 
-### Hackerank
+### Hackerrank
 
 <div align='center'>
   <img src="/images/Hackerrank CPP.png" alt="Badge 1" height="80">
