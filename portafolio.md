@@ -64,14 +64,20 @@ permalink: /portafolio/
 <header class="post-header">
     <h1 class="post-title">Desarrollador de Software</h1>
     <div class="post-meta">
-      <span class="post-period">Marzo 2016 - Enero 2017 / Frutillar</span>
-      <span class="post-company">Mirador de Frutillar</span>
+      <span class="post-period">Enero 2017 - Presente / Puerto Montt</span>
+      <span class="post-company">Varto INC</span>
     </div>
 </header>
   - Creación de un software de gestión utilizando Java SE.
   - Desarrollo de una página web autoadministrable con PHP, HTML5, JavaScript y CSS.
-
-**Marzo 2012 - Marzo 2016 / Inspector de Proyectos Telefonica del Sur/GTD, Llanquihue/Puerto Montt**
+  
+<header class="post-header">
+    <h1 class="post-title">Inspector de Proyectos</h1>
+    <div class="post-meta">
+      <span class="post-period">Marzo 2012 - Marzo 2016 / Puerto Montt</span>
+      <span class="post-company">Telefonica del Sur/GTD</span>
+    </div>
+</header>
   - Levantamiento de proyectos.
   - Planos de demanda Inmobiliaria.
   - Desarrollo de proyectos.
