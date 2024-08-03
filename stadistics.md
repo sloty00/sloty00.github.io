@@ -8,10 +8,10 @@ permalink: /stadistics/
 ### Desarrollo
 
 <div align='center'>
-  <img src="/images/nodejs.jpeg" alt="Badge 1" height="50">
-  <img src="/images/pairextra.png" alt="Badge 2" height="50">
-  <img src="/images/pullshark.png" alt="Achievement 1" height="50">
-  <img src="/images/quickdraw.png" alt="Achievement 1" height="50">
+  <img src="/images/nodejs.jpeg" alt="Badge 1" height="80">
+  <img src="/images/pairextra.png" alt="Badge 2" height="80">
+  <img src="/images/pullshark.png" alt="Achievement 1" height="80">
+  <img src="/images/quickdraw.png" alt="Achievement 1" height="80">
 </div>
 
 ### Hackerank
