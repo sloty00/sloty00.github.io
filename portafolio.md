@@ -33,7 +33,7 @@ permalink: /portafolio/
       <span class="post-company">Bicom</span>
     </div>
 </header>
-  - Creación de una API de Ecommerce para Bicom y sus clientes (Node.js).
+  - Creación de una API de Ecommerce para Bicom y sus clientes (Node.js).<br/>
   - Colaboración en el desarrollo del sitio Bicom Academy (Node.js).<br/><br/>
 
 <header class="post-header">
@@ -43,12 +43,12 @@ permalink: /portafolio/
       <span class="post-company">SAESA</span>
     </div>
 </header>
-  - Gestión de proyectos eléctricos.
-  - Preparación de carpetas para permisos de la SEC.
-  - Creación de órdenes de trabajo (OT) para las tareas.
-  - Cubicación y evaluación de proyectos utilizando el software Valorizador en Citrix.
-  - Elaboración de planos de servidumbre.
-  - Diseño e implementación de un sistema de geolocalización y dibujo en congruencia con GPS, utilizando Google Maps para proyectos de infraestructura eléctrica.
+  - Gestión de proyectos eléctricos.<br/>
+  - Preparación de carpetas para permisos de la SEC.<br/>
+  - Creación de órdenes de trabajo (OT) para las tareas.<br/>
+  - Cubicación y evaluación de proyectos utilizando el software Valorizador en Citrix.<br/>
+  - Elaboración de planos de servidumbre.<br/>
+  - Diseño e implementación de un sistema de geolocalización y dibujo en congruencia con GPS, utilizando Google Maps para proyectos de infraestructura eléctrica.<br/>
   - Colaboración en la integración de tecnologías de mapeo para garantizar la precisión en los cálculos de ubicación y trazado de cables eléctricos.<br/><br/>
 
 <header class="post-header">
@@ -58,8 +58,8 @@ permalink: /portafolio/
       <span class="post-company">Varto INC</span>
     </div>
 </header>
-  - Desarrollo de software de monitoreo remoto.
-  - Implementación de seguimiento en línea para clientes.
+  - Desarrollo de software de monitoreo remoto.<br/>
+  - Implementación de seguimiento en línea para clientes.<br/>
 
 <header class="post-header">
     <h1 class="post-title">Desarrollador de Software</h1>
@@ -68,8 +68,8 @@ permalink: /portafolio/
       <span class="post-company">Varto INC</span>
     </div>
 </header>
-  - Creación de un software de gestión utilizando Java SE.
-  - Desarrollo de una página web autoadministrable con PHP, HTML5, JavaScript y CSS.
+  - Creación de un software de gestión utilizando Java SE.<br/>
+  - Desarrollo de una página web autoadministrable con PHP, HTML5, JavaScript y CSS.<br/>
   
 <header class="post-header">
     <h1 class="post-title">Inspector de Proyectos</h1>
@@ -78,26 +78,44 @@ permalink: /portafolio/
       <span class="post-company">Telefonica del Sur/GTD</span>
     </div>
 </header>
-  - Levantamiento de proyectos.
-  - Planos de demanda Inmobiliaria.
-  - Desarrollo de proyectos.
-  - Elaboración de documentos "As-Built".
-  - Detalles de Ingeniería.
-  - Tramitación de permisos en Saesa y municipales.
-  - Cubicación/Avaluacion de proyecto.
+  - Levantamiento de proyectos.<br/>
+  - Planos de demanda Inmobiliaria.<br/>
+  - Desarrollo de proyectos.<br/>
+  - Elaboración de documentos "As-Built".<br/>
+  - Detalles de Ingeniería.<br/>
+  - Tramitación de permisos en Saesa y municipales.<br/>
+  - Cubicación/Avaluacion de proyecto.<br/>
 
-**Enero 2010 - Marzo 2012 / Ingeniero TI Consultora KB, Llanquihue/Puerto Montt**
-  - Levantamiento y mantenimiento de servidores.
-  - Provisión de soporte técnico en IT
+<header class="post-header">
+    <h1 class="post-title">Ingeniero TI</h1>
+    <div class="post-meta">
+      <span class="post-period">Enero 2010 - Marzo 2012 / Puerto Montt</span>
+      <span class="post-company">Consultora KB</span>
+    </div>
+</header>
+  - Levantamiento y mantenimiento de servidores.<br/>
+  - Provisión de soporte técnico en IT<br/>
 
-**Marzo - 2008 Junio 2009 / Ingeniero TI Escuela Rural Alerce Histórico, Llanquihue/Alerce**
-  - Diseño y configuración de sistemas de redes.
-  - Implementación y organización de servidores Linux.
-  - Provisión de soporte técnico en IT.
+<header class="post-header">
+    <h1 class="post-title">Ingeniero TI</h1>
+    <div class="post-meta">
+      <span class="post-period">Marzo - 2008 Junio 2009 / Alerce</span>
+      <span class="post-company">Escuela Rural Alerce Histórico</span>
+    </div>
+</header>
+  - Diseño y configuración de sistemas de redes.<br/>
+  - Implementación y organización de servidores Linux.<br/>
+  - Provisión de soporte técnico en IT.<br/>
 
-**Marzo 1998 - Marzo 2008 / Tecnico Informatico NodeBug, Chiloé/Dalcahue**
-  - Provisión de soporte Informático.,Desarrollo de programas en VB6.
-  - Realización de arreglos electrónicos.
+<header class="post-header">
+    <h1 class="post-title">Tecnico Informatico</h1>
+    <div class="post-meta">
+      <span class="post-period">Marzo 1998 - Marzo 2008 / Dalcahue</span>
+      <span class="post-company">NodeBug</span>
+    </div>
+</header>
+  - Provisión de soporte Informático.,Desarrollo de programas en VB6.<br/>
+  - Realización de arreglos electrónicos.<br/>
 
 
 
