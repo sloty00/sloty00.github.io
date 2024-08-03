@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Estadísticas
-permalink: /estadistics/
+permalink: /stadistics/
 ---
 
 ## Estadísticas
