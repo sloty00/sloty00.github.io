@@ -242,7 +242,8 @@ nav {
 //
 
 .posts > .post {
-  padding-bottom: 2em;
+  padding-bottom: 2em
+  margin-bottom: 20px;
   border-bottom: 1px solid $lightGray;
 }
 
@@ -281,6 +282,40 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+.post-title a {
+  text-decoration: none;
+  color: #333;
+}
+
+.post-meta {
+  display: flex;
+  justify-content: space-between; /* Alinea el contenido a los extremos */
+  font-size: 14px;
+  color: #555;
+}
+
+.post-period {
+  font-weight: bold;
+}
+
+.post-company {
+  font-style: italic;
+}
+
+.entry {
+  margin: 10px 0;
+}
+
+.read-more {
+  display: inline-block;
+  margin-top: 10px;
+  color: #007BFF;
+  text-decoration: none;
+}
+.read-more:hover {
+  text-decoration: underline;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
