@@ -6,6 +6,14 @@ permalink: /portafolio/
 
 ## Experiencia
 
+<header class="post-header">
+    <h1 class="post-title">Ingeniero TI</h1>
+    <div class="post-meta">
+      <span class="post-period">Septiembre-2022 - Julio-2024 / Llanquihue, Puerto Montt</span>
+      <span class="post-company">CASS S.A</span>
+    </div>
+</header>
+
 **Septiembre 2022 - Julio 2024 / Ingeniero TI CASS, Llanquihue/Puerto Montt**<br/>
   - Anteproyecto de Diseño y Diseño Proyectado del Sistema de Respaldos Veeam BR en Draw.io con Viñetado utilizando Block GIS de las marcas para Salmones Austral.<br/>
   - Creación y despliegue de un servidor Rocketchat en SUSE mediante Contenedor.<br/>
