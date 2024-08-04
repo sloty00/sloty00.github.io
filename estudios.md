@@ -20,90 +20,6 @@ Mi Anteproyecto de Titulo se centro en "Cyberseguridad en las empresas" se reali
   - Se levanto para todos los servicios configuracion de Fail2ban.<br/> 
   - El SSH pasaba por doble certificado.<br/><br/>
 
-## Cursos
-
-<header class="post-header">
-    <h1 class="post-title">Node: De cero a experto.</h1>
-    <div class="post-meta">
-      <span class="post-period">Julio 2022 / Online</span>
-      <span class="post-company">Prof. Fernando Herrera - Udemy</span>
-    </div>
-</header>
-
-<header class="post-header">
-    <h1 class="post-title">Node.js Application Developer</h1>
-    <div class="post-meta">
-      <span class="post-period">Julio 2024 / Online</span>
-      <span class="post-company">OpenJS</span>
-    </div>
-</header>
-
-<header class="post-header">
-    <h1 class="post-title">Desarrollador de Software</h1>
-    <div class="post-meta">
-      <span class="post-period">Enero 2017 - Presente / Puerto Montt</span>
-      <span class="post-company">Varto INC</span>
-    </div>
-</header>
-  - Desarrollo de software de monitoreo remoto.<br/>
-  - Implementación de seguimiento en línea para clientes.<br/>
-
-<header class="post-header">
-    <h1 class="post-title">Desarrollador de Software</h1>
-    <div class="post-meta">
-      <span class="post-period">Enero 2017 - Presente / Puerto Montt</span>
-      <span class="post-company">Varto INC</span>
-    </div>
-</header>
-  - Creación de un software de gestión utilizando Java SE.<br/>
-  - Desarrollo de una página web autoadministrable con PHP, HTML5, JavaScript y CSS.<br/>
-  
-<header class="post-header">
-    <h1 class="post-title">Inspector de Proyectos</h1>
-    <div class="post-meta">
-      <span class="post-period">Marzo 2012 - Marzo 2016 / Puerto Montt</span>
-      <span class="post-company">Telefonica del Sur/GTD</span>
-    </div>
-</header>
-  - Levantamiento de proyectos.<br/>
-  - Planos de demanda Inmobiliaria.<br/>
-  - Desarrollo de proyectos.<br/>
-  - Elaboración de documentos "As-Built".<br/>
-  - Detalles de Ingeniería.<br/>
-  - Tramitación de permisos en Saesa y municipales.<br/>
-  - Cubicación/Avaluacion de proyecto.<br/>
-
-<header class="post-header">
-    <h1 class="post-title">Ingeniero TI</h1>
-    <div class="post-meta">
-      <span class="post-period">Enero 2010 - Marzo 2012 / Puerto Montt</span>
-      <span class="post-company">Consultora KB</span>
-    </div>
-</header>
-  - Levantamiento y mantenimiento de servidores.<br/>
-  - Provisión de soporte técnico en IT<br/>
-
-<header class="post-header">
-    <h1 class="post-title">Ingeniero TI</h1>
-    <div class="post-meta">
-      <span class="post-period">Marzo - 2008 Junio 2009 / Alerce</span>
-      <span class="post-company">Escuela Rural Alerce Histórico</span>
-    </div>
-</header>
-  - Diseño y configuración de sistemas de redes.<br/>
-  - Implementación y organización de servidores Linux.<br/>
-  - Provisión de soporte técnico en IT.<br/>
-
-<header class="post-header">
-    <h1 class="post-title">Tecnico Informatico</h1>
-    <div class="post-meta">
-      <span class="post-period">Marzo 1998 - Marzo 2008 / Dalcahue</span>
-      <span class="post-company">NodeBug</span>
-    </div>
-</header>
-  - Provisión de soporte Informático.,Desarrollo de programas en VB6.<br/>
-  - Realización de arreglos electrónicos.<br/>
-
 ## Certificaciones
 
 <header class="post-header">
@@ -217,6 +133,90 @@ Mi Anteproyecto de Titulo se centro en "Cyberseguridad en las empresas" se reali
       <span class="post-company">Veeam Partner Program</span>
     </div>
 </header>
+
+## Cursos
+
+<header class="post-header">
+    <h1 class="post-title">Node: De cero a experto.</h1>
+    <div class="post-meta">
+      <span class="post-period">Julio 2022 / Online</span>
+      <span class="post-company">Prof. Fernando Herrera - Udemy</span>
+    </div>
+</header>
+
+<header class="post-header">
+    <h1 class="post-title">Node.js Application Developer</h1>
+    <div class="post-meta">
+      <span class="post-period">Julio 2024 / Online</span>
+      <span class="post-company">OpenJS</span>
+    </div>
+</header>
+
+<header class="post-header">
+    <h1 class="post-title">Desarrollador de Software</h1>
+    <div class="post-meta">
+      <span class="post-period">Enero 2017 - Presente / Puerto Montt</span>
+      <span class="post-company">Varto INC</span>
+    </div>
+</header>
+  - Desarrollo de software de monitoreo remoto.<br/>
+  - Implementación de seguimiento en línea para clientes.<br/>
+
+<header class="post-header">
+    <h1 class="post-title">Desarrollador de Software</h1>
+    <div class="post-meta">
+      <span class="post-period">Enero 2017 - Presente / Puerto Montt</span>
+      <span class="post-company">Varto INC</span>
+    </div>
+</header>
+  - Creación de un software de gestión utilizando Java SE.<br/>
+  - Desarrollo de una página web autoadministrable con PHP, HTML5, JavaScript y CSS.<br/>
+  
+<header class="post-header">
+    <h1 class="post-title">Inspector de Proyectos</h1>
+    <div class="post-meta">
+      <span class="post-period">Marzo 2012 - Marzo 2016 / Puerto Montt</span>
+      <span class="post-company">Telefonica del Sur/GTD</span>
+    </div>
+</header>
+  - Levantamiento de proyectos.<br/>
+  - Planos de demanda Inmobiliaria.<br/>
+  - Desarrollo de proyectos.<br/>
+  - Elaboración de documentos "As-Built".<br/>
+  - Detalles de Ingeniería.<br/>
+  - Tramitación de permisos en Saesa y municipales.<br/>
+  - Cubicación/Avaluacion de proyecto.<br/>
+
+<header class="post-header">
+    <h1 class="post-title">Ingeniero TI</h1>
+    <div class="post-meta">
+      <span class="post-period">Enero 2010 - Marzo 2012 / Puerto Montt</span>
+      <span class="post-company">Consultora KB</span>
+    </div>
+</header>
+  - Levantamiento y mantenimiento de servidores.<br/>
+  - Provisión de soporte técnico en IT<br/>
+
+<header class="post-header">
+    <h1 class="post-title">Ingeniero TI</h1>
+    <div class="post-meta">
+      <span class="post-period">Marzo - 2008 Junio 2009 / Alerce</span>
+      <span class="post-company">Escuela Rural Alerce Histórico</span>
+    </div>
+</header>
+  - Diseño y configuración de sistemas de redes.<br/>
+  - Implementación y organización de servidores Linux.<br/>
+  - Provisión de soporte técnico en IT.<br/>
+
+<header class="post-header">
+    <h1 class="post-title">Tecnico Informatico</h1>
+    <div class="post-meta">
+      <span class="post-period">Marzo 1998 - Marzo 2008 / Dalcahue</span>
+      <span class="post-company">NodeBug</span>
+    </div>
+</header>
+  - Provisión de soporte Informático.,Desarrollo de programas en VB6.<br/>
+  - Realización de arreglos electrónicos.<br/>
 
 ### Contact me
 
