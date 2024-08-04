@@ -20,6 +20,8 @@ Mi Anteproyecto de Titulo se centro en "Cyberseguridad en las empresas" se reali
   - Se levanto para todos los servicios configuracion de Fail2ban.<br/> 
   - El SSH pasaba por doble certificado.<br/><br/>
 
+## Cursos
+
 <header class="post-header">
     <h1 class="post-title">Analista de Software Senior</h1>
     <div class="post-meta">
