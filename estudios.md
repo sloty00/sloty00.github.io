@@ -37,13 +37,6 @@ Mi Anteproyecto de Titulo se centro en "Cyberseguridad en las empresas" se reali
       <span class="post-company">OpenJS</span>
     </div>
 </header>
-  - Gestión de proyectos eléctricos.<br/>
-  - Preparación de carpetas para permisos de la SEC.<br/>
-  - Creación de órdenes de trabajo (OT) para las tareas.<br/>
-  - Cubicación y evaluación de proyectos utilizando el software Valorizador en Citrix.<br/>
-  - Elaboración de planos de servidumbre.<br/>
-  - Diseño e implementación de un sistema de geolocalización y dibujo en congruencia con GPS, utilizando Google Maps para proyectos de infraestructura eléctrica.<br/>
-  - Colaboración en la integración de tecnologías de mapeo para garantizar la precisión en los cálculos de ubicación y trazado de cables eléctricos.<br/><br/>
 
 <header class="post-header">
     <h1 class="post-title">Desarrollador de Software</h1>
