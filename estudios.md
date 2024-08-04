@@ -113,7 +113,119 @@ Mi Anteproyecto de Titulo se centro en "Cyberseguridad en las empresas" se reali
   - Provisión de soporte Informático.,Desarrollo de programas en VB6.<br/>
   - Realización de arreglos electrónicos.<br/>
 
+## Certificaciones
 
+<header class="post-header">
+    <h1 class="post-title">Javascript Intermediate</h1>
+    <div class="post-meta">
+      <span class="post-period">Julio 2024 - Julio 2024 / Online</span>
+      <span class="post-company">Hackerrank</span>
+    </div>
+</header>
+
+<header class="post-header">
+    <h1 class="post-title">Nodejs Intermediate</h1>
+    <div class="post-meta">
+      <span class="post-period">Julio 2024 - Julio 2024 / Online</span>
+      <span class="post-company">Hackerrank</span>
+    </div>
+</header>
+
+<header class="post-header">
+    <h1 class="post-title">Rest API Intermediate</h1>
+    <div class="post-meta">
+      <span class="post-period">Julio 2024 - Julio 2024 / Online</span>
+      <span class="post-company">Hackerrank</span>
+    </div>
+</header>
+
+<header class="post-header">
+    <h1 class="post-title">SQL Advanced</h1>
+    <div class="post-meta">
+      <span class="post-period">Julio 2024 - Julio 2024 / Online</span>
+      <span class="post-company">Hackerrank</span>
+    </div>
+</header>
+
+<header class="post-header">
+    <h1 class="post-title">SUSE Partner Support Accreditation - SUSE Rancher</h1>
+    <div class="post-meta">
+      <span class="post-period">Julio 2024 - Julio 2024 / Online</span>
+      <span class="post-company">Suse Partner Program</span>
+    </div>
+</header>
+
+<header class="post-header">
+    <h1 class="post-title">SUSE Partner Support Accreditation – SUSE Linux Enterprise Server</h1>
+    <div class="post-meta">
+      <span class="post-period">Julio 2024 - Julio 2024 / Online</span>
+      <span class="post-company">Suse Partner Program</span>
+    </div>
+</header>
+
+<header class="post-header">
+    <h1 class="post-title">Veeam Profesional Public Cloud</h1>
+    <div class="post-meta">
+      <span class="post-period">Julio 2024 - Julio 2024 / Online</span>
+      <span class="post-company">Veeam Partner Program</span>
+    </div>
+</header>
+
+<header class="post-header">
+    <h1 class="post-title">Veeam Profesional Cloud Service Provider</h1>
+    <div class="post-meta">
+      <span class="post-period">Julio 2024 - Julio 2024 / Online</span>
+      <span class="post-company">Veeam Partner Program</span>
+    </div>
+</header>
+
+<header class="post-header">
+    <h1 class="post-title">Veeam Profesional: Fundamentals</h1>
+    <div class="post-meta">
+      <span class="post-period">Julio 2024 - Julio 2024 / Online</span>
+      <span class="post-company">Veeam Partner Program</span>
+    </div>
+</header>
+
+<header class="post-header">
+    <h1 class="post-title">Veeam Profesional: SaaS</h1>
+    <div class="post-meta">
+      <span class="post-period">Julio 2024 - Julio 2024 / Online</span>
+      <span class="post-company">Veeam Partner Program</span>
+    </div>
+</header>
+
+<header class="post-header">
+    <h1 class="post-title">Veeam Profesional SP DRaaS</h1>
+    <div class="post-meta">
+      <span class="post-period">Julio 2024 - Julio 2024 / Online</span>
+      <span class="post-company">Veeam Partner Program</span>
+    </div>
+</header>
+
+<header class="post-header">
+    <h1 class="post-title">Veeam Profesional SP Offsite Backup</h1>
+    <div class="post-meta">
+      <span class="post-period">Julio 2024 - Julio 2024 / Online</span>
+      <span class="post-company">Veeam Partner Program</span>
+    </div>
+</header>
+
+<header class="post-header">
+    <h1 class="post-title">Veeam Profesional SP Public Cloud</h1>
+    <div class="post-meta">
+      <span class="post-period">Julio 2024 - Julio 2024 / Online</span>
+      <span class="post-company">Veeam Partner Program</span>
+    </div>
+</header>
+
+<header class="post-header">
+    <h1 class="post-title">Veeam Profesional SP SaaS</h1>
+    <div class="post-meta">
+      <span class="post-period">Julio 2024 - Julio 2024 / Online</span>
+      <span class="post-company">Veeam Partner Program</span>
+    </div>
+</header>
 
 ### Contact me
 
