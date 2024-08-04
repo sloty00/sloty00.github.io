@@ -30,8 +30,8 @@ Mi Anteproyecto de Titulo se centro en "Cyberseguridad en las empresas" se reali
     </div>
 </header>
 La certificación OpenJS Node.js Application Developer (JSNAD) prueba y verifica las habilidades de los candidatos en el uso de Node.js para crear aplicaciones basadas en web.
-    - La certificación JSNAD es ideal para desarrolladores de Node.js con al menos dos años de experiencia trabajando con Node.js. Está diseñado para cualquiera que busque demostrar competencia con Node.js para crear aplicaciones de cualquier tipo, centrándose en el conocimiento de las API principales de Node.js.
-    - El examen de dos horas pone a prueba sus habilidades, desde la depuración de Node.js hasta la gestión de operaciones asincrónicas y el control de procesos. Pone a prueba los conocimientos y habilidades que se esperaría que poseyera un desarrollador de aplicaciones Node.js experimentado. El examen se basa en el desempeño e incluye elementos que simulan escenarios en el trabajo.
+    - La certificación JSNAD es ideal para desarrolladores de Node.js con al menos dos años de experiencia trabajando con Node.js. Está diseñado para cualquiera que busque demostrar competencia con Node.js para crear aplicaciones de cualquier tipo, centrándose en el conocimiento de las API principales de Node.js.<br/>
+    - El examen de dos horas pone a prueba sus habilidades, desde la depuración de Node.js hasta la gestión de operaciones asincrónicas y el control de procesos. Pone a prueba los conocimientos y habilidades que se esperaría que poseyera un desarrollador de aplicaciones Node.js experimentado. El examen se basa en el desempeño e incluye elementos que simulan escenarios en el trabajo.<br/><br/>
 
 <header class="post-header">
     <h1 class="post-title">Javascript Intermediate</h1>
