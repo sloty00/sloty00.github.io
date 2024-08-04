@@ -23,14 +23,12 @@ Mi Anteproyecto de Titulo se centro en "Cyberseguridad en las empresas" se reali
 ## Cursos
 
 <header class="post-header">
-    <h1 class="post-title">Analista de Software Senior</h1>
+    <h1 class="post-title">Node: De cero a experto.</h1>
     <div class="post-meta">
-      <span class="post-period">Marzo 2022 - Junio 2022 / Puerto Montt</span>
-      <span class="post-company">Bicom</span>
+      <span class="post-period">Marzo 2022 - Junio 2022 / Online</span>
+      <span class="post-company">Prof. Fernando Herrera - Udemy</span>
     </div>
 </header>
-  - Creación de una API de Ecommerce para Bicom y sus clientes (Node.js).<br/>
-  - Colaboración en el desarrollo del sitio Bicom Academy (Node.js).<br/><br/>
 
 <header class="post-header">
     <h1 class="post-title">Inspector de Proyectos</h1>
