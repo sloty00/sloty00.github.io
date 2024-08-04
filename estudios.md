@@ -169,20 +169,18 @@ Mi Anteproyecto de Titulo se centro en "Cyberseguridad en las empresas" se reali
 </header>
 
 <header class="post-header">
-    <h1 class="post-title">Desarrollador de Software</h1>
+    <h1 class="post-title">Maestria en Javascript: Desde principiante hasta experto</h1>
     <div class="post-meta">
-      <span class="post-period">Enero 2017 - Presente / Puerto Montt</span>
-      <span class="post-company">Varto INC</span>
+      <span class="post-period">Junio 2024 / Online</span>
+      <span class="post-company">Prof. Lubutech - Udemy</span>
     </div>
 </header>
-  - Creación de un software de gestión utilizando Java SE.<br/>
-  - Desarrollo de una página web autoadministrable con PHP, HTML5, JavaScript y CSS.<br/>
   
 <header class="post-header">
-    <h1 class="post-title">Inspector de Proyectos</h1>
+    <h1 class="post-title">MERN Stack: All You Need to Know with Practical Project</h1>
     <div class="post-meta">
-      <span class="post-period">Marzo 2012 - Marzo 2016 / Puerto Montt</span>
-      <span class="post-company">Telefonica del Sur/GTD</span>
+      <span class="post-period">Junio 2024 / Online</span>
+      <span class="post-company">Prof. Jahid Hiron - Udemy</span>
     </div>
 </header>
   - Levantamiento de proyectos.<br/>
