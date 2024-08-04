@@ -23,6 +23,14 @@ Mi Anteproyecto de Titulo se centro en "Cyberseguridad en las empresas" se reali
 ## Certificaciones
 
 <header class="post-header">
+    <h1 class="post-title">Node.js Application Developer</h1>
+    <div class="post-meta">
+      <span class="post-period">Julio 2024 / Online</span>
+      <span class="post-company">OpenJS</span>
+    </div>
+</header>
+
+<header class="post-header">
     <h1 class="post-title">Javascript Intermediate</h1>
     <div class="post-meta">
       <span class="post-period">Julio 2024 - Julio 2024 / Online</span>
@@ -141,14 +149,6 @@ Mi Anteproyecto de Titulo se centro en "Cyberseguridad en las empresas" se reali
     <div class="post-meta">
       <span class="post-period">Julio 2022 / Online</span>
       <span class="post-company">Prof. Fernando Herrera - Udemy</span>
-    </div>
-</header>
-
-<header class="post-header">
-    <h1 class="post-title">Node.js Application Developer</h1>
-    <div class="post-meta">
-      <span class="post-period">Julio 2024 / Online</span>
-      <span class="post-company">OpenJS</span>
     </div>
 </header>
 
