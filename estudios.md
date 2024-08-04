@@ -31,7 +31,7 @@ Mi Anteproyecto de Titulo se centro en "Cyberseguridad en las empresas" se reali
 </header>
 La certificación OpenJS Node.js Application Developer (JSNAD) prueba y verifica las habilidades de los candidatos en el uso de Node.js para crear aplicaciones basadas en web.<br/>
     - La certificación JSNAD es ideal para desarrolladores de Node.js con al menos dos años de experiencia trabajando con Node.js. Está diseñado para cualquiera que busque demostrar competencia con Node.js para crear aplicaciones de cualquier tipo, centrándose en el conocimiento de las API principales de Node.js.<br/>
-    - El examen de dos horas pone a prueba sus habilidades, desde la depuración de Node.js hasta la gestión de operaciones asincrónicas y el control de procesos. Pone a prueba los conocimientos y habilidades que se esperaría que poseyera un desarrollador de aplicaciones Node.js experimentado. El examen se basa en el desempeño e incluye elementos que simulan escenarios en el trabajo.<br/><br/>
+    - El examen de dos horas pone a prueba sus habilidades, desde la depuración de Node.js hasta la gestión de operaciones asincrónicas y el control de procesos. Pone a prueba los conocimientos y habilidades que se esperaría que poseyera un desarrollador de aplicaciones Node.js experimentado. El examen se basa en el desempeño e incluye elementos que simulan escenarios en el trabajo.<br/>
 
 <header class="post-header">
     <h1 class="post-title">Javascript Intermediate</h1>
@@ -40,6 +40,7 @@ La certificación OpenJS Node.js Application Developer (JSNAD) prueba y verifica
       <span class="post-company">Hackerrank</span>
     </div>
 </header>
+Cubre temas como patrones de diseño, gestión de memoria, modelo de concurrencia y bucles de eventos, entre otros.<br/>
 
 <header class="post-header">
     <h1 class="post-title">Nodejs Intermediate</h1>
@@ -48,6 +49,7 @@ La certificación OpenJS Node.js Application Developer (JSNAD) prueba y verifica
       <span class="post-company">Hackerrank</span>
     </div>
 </header>
+Comprender los conceptos detrás de una arquitectura basada en eventos y concurrencias.<br/>
 
 <header class="post-header">
     <h1 class="post-title">Rest API Intermediate</h1>
@@ -56,6 +58,7 @@ La certificación OpenJS Node.js Application Developer (JSNAD) prueba y verifica
       <span class="post-company">Hackerrank</span>
     </div>
 </header>
+Cubre temas como obtener datos de una API y procesar usando parámetros o paginación.<br/>
 
 <header class="post-header">
     <h1 class="post-title">SQL Advanced</h1>
@@ -64,6 +67,7 @@ La certificación OpenJS Node.js Application Developer (JSNAD) prueba y verifica
       <span class="post-company">Hackerrank</span>
     </div>
 </header>
+Cubre temas como optimización de consultas, modelado de datos, indexación, funciones de ventana y pivotes en SQL.<br/>
 
 <header class="post-header">
     <h1 class="post-title">SUSE Partner Support Accreditation - SUSE Rancher</h1>
@@ -72,6 +76,8 @@ La certificación OpenJS Node.js Application Developer (JSNAD) prueba y verifica
       <span class="post-company">Suse Partner Program</span>
     </div>
 </header>
+Esta certificación valida el conocimiento y las habilidades avanzadas en el soporte y la gestión de SUSE Rancher, una plataforma de administración de Kubernetes que simplifica la implementación, gestión y escalado de clústeres de Kubernetes.
+Obtener esta certificación demuestra la capacidad para proporcionar soporte técnico avanzado y gestión de soluciones basadas en Kubernetes en entornos empresariales, garantizando una implementación eficiente y operativa de SUSE Rancher.
 
 <header class="post-header">
     <h1 class="post-title">SUSE Partner Support Accreditation – SUSE Linux Enterprise Server</h1>
@@ -80,6 +86,8 @@ La certificación OpenJS Node.js Application Developer (JSNAD) prueba y verifica
       <span class="post-company">Suse Partner Program</span>
     </div>
 </header>
+Esta certificación valida la competencia avanzada en la implementación, soporte y administración de SUSE Linux Enterprise Server (SLES), un sistema operativo empresarial robusto y versátil utilizado para servidores y entornos críticos de misión.<br/>
+Obtener esta certificación demuestra la habilidad para ofrecer soporte técnico experto y gestionar de manera eficiente entornos críticos utilizando SUSE Linux Enterprise Server, asegurando una operación estable y segura en infraestructuras empresariales.
 
 <header class="post-header">
     <h1 class="post-title">Veeam Profesional Public Cloud</h1>
@@ -88,6 +96,7 @@ La certificación OpenJS Node.js Application Developer (JSNAD) prueba y verifica
       <span class="post-company">Veeam Partner Program</span>
     </div>
 </header>
+La certificación Veeam Professional: Public Cloud valida la habilidad para implementar, gestionar y mantener soluciones de respaldo y recuperación para entornos de nube pública utilizando Veeam. Este reconocimiento demuestra un profundo conocimiento en la protección de datos y la gestión de copias de seguridad en plataformas de nube como AWS, Microsoft Azure y Google Cloud.
 
 <header class="post-header">
     <h1 class="post-title">Veeam Profesional Cloud Service Provider</h1>
