@@ -25,16 +25,16 @@ Mi Anteproyecto de Titulo se centro en "Cyberseguridad en las empresas" se reali
 <header class="post-header">
     <h1 class="post-title">Node: De cero a experto.</h1>
     <div class="post-meta">
-      <span class="post-period">Marzo 2022 - Junio 2022 / Online</span>
+      <span class="post-period">Julio 2022 / Online</span>
       <span class="post-company">Prof. Fernando Herrera - Udemy</span>
     </div>
 </header>
 
 <header class="post-header">
-    <h1 class="post-title">Inspector de Proyectos</h1>
+    <h1 class="post-title">Node.js Application Developer</h1>
     <div class="post-meta">
-      <span class="post-period">Abril 2019 - Marzo 2020 / Puerto Montt</span>
-      <span class="post-company">SAESA</span>
+      <span class="post-period">Julio 2024 / Online</span>
+      <span class="post-company">OpenJS</span>
     </div>
 </header>
   - Gestión de proyectos eléctricos.<br/>
