@@ -183,44 +183,40 @@ Mi Anteproyecto de Titulo se centro en "Cyberseguridad en las empresas" se reali
       <span class="post-company">Prof. Jahid Hiron - Udemy</span>
     </div>
 </header>
-  - Levantamiento de proyectos.<br/>
-  - Planos de demanda Inmobiliaria.<br/>
-  - Desarrollo de proyectos.<br/>
-  - Elaboración de documentos "As-Built".<br/>
-  - Detalles de Ingeniería.<br/>
-  - Tramitación de permisos en Saesa y municipales.<br/>
-  - Cubicación/Avaluacion de proyecto.<br/>
 
 <header class="post-header">
-    <h1 class="post-title">Ingeniero TI</h1>
+    <h1 class="post-title">Kubernetes for Developers.</h1>
     <div class="post-meta">
-      <span class="post-period">Enero 2010 - Marzo 2012 / Puerto Montt</span>
-      <span class="post-company">Consultora KB</span>
+      <span class="post-period">Junio 2024 / Online</span>
+      <span class="post-company">Prof: Houssem Dellai - Udemy</span>
     </div>
 </header>
-  - Levantamiento y mantenimiento de servidores.<br/>
-  - Provisión de soporte técnico en IT<br/>
 
 <header class="post-header">
-    <h1 class="post-title">Ingeniero TI</h1>
+    <h1 class="post-title">VEEAM Backup y Replication V12 / LAB y VMCE.</h1>
     <div class="post-meta">
-      <span class="post-period">Marzo - 2008 Junio 2009 / Alerce</span>
-      <span class="post-company">Escuela Rural Alerce Histórico</span>
+      <span class="post-period">Agosto 2023 / Online</span>
+      <span class="post-company">Prof. Yaz Becker</span>
     </div>
 </header>
-  - Diseño y configuración de sistemas de redes.<br/>
-  - Implementación y organización de servidores Linux.<br/>
-  - Provisión de soporte técnico en IT.<br/>
 
 <header class="post-header">
-    <h1 class="post-title">Tecnico Informatico</h1>
+    <h1 class="post-title">Autocad 2023 MasterClass</h1>
     <div class="post-meta">
-      <span class="post-period">Marzo 1998 - Marzo 2008 / Dalcahue</span>
-      <span class="post-company">NodeBug</span>
+      <span class="post-period">Abril 2023 / Online</span>
+      <span class="post-company">Prof. MetaBrains - Udemy</span>
     </div>
 </header>
-  - Provisión de soporte Informático.,Desarrollo de programas en VB6.<br/>
-  - Realización de arreglos electrónicos.<br/>
+
+
+
+<header class="post-header">
+    <h1 class="post-title">Monitorización con Nagios Core. Certificación.</h1>
+    <div class="post-meta">
+      <span class="post-period">Enero 2023 / Online</span>
+      <span class="post-company">Prof. Carlos Melantuche - Udemy</span>
+    </div>
+</header>
 
 ### Contact me
 
