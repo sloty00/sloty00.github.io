@@ -179,6 +179,7 @@ La certificación está dirigida a profesionales que desean demostrar su habilid
       <span class="post-company">Prof. Fernando Herrera - Udemy</span>
     </div>
 </header>
+Curso integral que abarca desde los fundamentos básicos hasta técnicas avanzadas en desarrollo con Node.js. Incluye instalación y configuración de Node.js, desarrollo con Express.js, integración con bases de datos (MongoDB y MySQL), y prácticas de autenticación y seguridad.
 
 <header class="post-header">
     <h1 class="post-title">TailwindCSS from A to Z: Master in TailwindCSS.</h1>
@@ -187,6 +188,7 @@ La certificación está dirigida a profesionales que desean demostrar su habilid
       <span class="post-company">Prof. MetaBrains - Udemy</span>
     </div>
 </header>
+Curso avanzado en TailwindCSS que abarca desde la instalación y configuración inicial hasta la personalización avanzada y la optimización del rendimiento. Focalizado en el diseño de interfaces de usuario responsivas y estilizadas. Aplicación práctica de los conceptos aprendidos en el desarrollo de interfaces web funcionales y visualmente atractivas.
 
 <header class="post-header">
     <h1 class="post-title">React.JS Crash Course: The Complete Course for Beginners</h1>
@@ -195,6 +197,7 @@ La certificación está dirigida a profesionales que desean demostrar su habilid
       <span class="post-company">Prof. MetaBrains - Udemy</span>
     </div>
 </header>
+Curso introductorio completo sobre React.js, diseñado para llevar a los principiantes desde los conceptos básicos hasta la creación de aplicaciones interactivas y dinámicas. Cubre los fundamentos de React, la construcción de componentes y la gestión del estado de las aplicaciones.
 
 <header class="post-header">
     <h1 class="post-title">Maestria en Javascript: Desde principiante hasta experto</h1>
@@ -203,6 +206,7 @@ La certificación está dirigida a profesionales que desean demostrar su habilid
       <span class="post-company">Prof. Lubutech - Udemy</span>
     </div>
 </header>
+Curso completo de JavaScript que abarca desde los fundamentos básicos hasta técnicas avanzadas, diseñado para llevar a los estudiantes a un nivel experto en el lenguaje. Incluye temas esenciales de JavaScript, así como aspectos avanzados y mejores prácticas de desarrollo.
   
 <header class="post-header">
     <h1 class="post-title">MERN Stack: All You Need to Know with Practical Project</h1>
@@ -211,6 +215,7 @@ La certificación está dirigida a profesionales que desean demostrar su habilid
       <span class="post-company">Prof. Jahid Hiron - Udemy</span>
     </div>
 </header>
+Curso integral sobre el stack MERN (MongoDB, Express.js, React.js y Node.js) que cubre todos los aspectos necesarios para desarrollar aplicaciones web completas. El curso ofrece una visión detallada de cada componente del stack, seguido de un proyecto práctico para aplicar los conocimientos adquiridos.
 
 <header class="post-header">
     <h1 class="post-title">Kubernetes for Developers.</h1>
@@ -219,14 +224,16 @@ La certificación está dirigida a profesionales que desean demostrar su habilid
       <span class="post-company">Prof: Houssem Dellai - Udemy</span>
     </div>
 </header>
+Curso detallado sobre Kubernetes enfocado en desarrolladores, cubriendo desde los fundamentos básicos hasta el uso avanzado de Kubernetes para la orquestación de contenedores. El curso está diseñado para equipar a los desarrolladores con las habilidades necesarias para implementar, gestionar y escalar aplicaciones en un entorno Kubernetes.
 
 <header class="post-header">
     <h1 class="post-title">VEEAM Backup y Replication V12 / LAB y VMCE.</h1>
     <div class="post-meta">
       <span class="post-period">Agosto 2023 / Online</span>
-      <span class="post-company">Prof. Yaz Becker</span>
+      <span class="post-company">Prof. Yaz Becker - Udemy</span>
     </div>
 </header>
+Curso exhaustivo sobre Veeam Backup & Replication V12, con enfoque práctico en la implementación y gestión de soluciones de backup y recuperación. Incluye laboratorios prácticos y preparación para la certificación Veeam Certified Engineer (VMCE). El curso está diseñado para proporcionar una comprensión profunda de las capacidades de Veeam y preparar a los estudiantes para certificaciones avanzadas.
 
 <header class="post-header">
     <h1 class="post-title">Autocad 2023 MasterClass</h1>
@@ -235,7 +242,7 @@ La certificación está dirigida a profesionales que desean demostrar su habilid
       <span class="post-company">Prof. MetaBrains - Udemy</span>
     </div>
 </header>
-
+Curso avanzado sobre AutoCAD 2023, diseñado para proporcionar un dominio completo de las herramientas y técnicas de diseño asistido por computadora. Cubre desde los fundamentos hasta funcionalidades avanzadas, permitiendo a los participantes crear y gestionar proyectos complejos de manera eficiente. Desarrollo de proyectos completos que demuestran la aplicación de habilidades avanzadas en AutoCAD 2023.
 
 
 <header class="post-header">
@@ -245,6 +252,7 @@ La certificación está dirigida a profesionales que desean demostrar su habilid
       <span class="post-company">Prof. Carlos Melantuche - Udemy</span>
     </div>
 </header>
+Curso completo sobre Nagios Core, centrado en la monitorización de sistemas y redes. El curso cubre desde la instalación y configuración básica hasta el uso avanzado de Nagios Core para gestionar y supervisar entornos de TI complejos. Incluye la preparación para la certificación en Nagios Core. Desarrollo y gestión de proyectos de monitorización utilizando Nagios Core, aplicando los conocimientos adquiridos para mantener la salud y el rendimiento de sistemas y redes.
 
 ### Contact me
 
