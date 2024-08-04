@@ -153,14 +153,20 @@ Mi Anteproyecto de Titulo se centro en "Cyberseguridad en las empresas" se reali
 </header>
 
 <header class="post-header">
-    <h1 class="post-title">Desarrollador de Software</h1>
+    <h1 class="post-title">TailwindCSS from A to Z: Master in TailwindCSS.</h1>
     <div class="post-meta">
-      <span class="post-period">Enero 2017 - Presente / Puerto Montt</span>
-      <span class="post-company">Varto INC</span>
+      <span class="post-period">Junio 2024 / Online</span>
+      <span class="post-company">Prof. MetaBrains - Udemy</span>
     </div>
 </header>
-  - Desarrollo de software de monitoreo remoto.<br/>
-  - Implementación de seguimiento en línea para clientes.<br/>
+
+<header class="post-header">
+    <h1 class="post-title">React.JS Crash Course: The Complete Course for Beginners</h1>
+    <div class="post-meta">
+      <span class="post-period">Junio 2024 / Online</span>
+      <span class="post-company">Prof. MetaBrains - Udemy</span>
+    </div>
+</header>
 
 <header class="post-header">
     <h1 class="post-title">Desarrollador de Software</h1>
