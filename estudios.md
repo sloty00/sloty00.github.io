@@ -13,7 +13,7 @@ permalink: /estudios/
       <span class="post-company">Universidad de los Lagos</span>
     </div>
 </header>
-    Mi Anteproyecto de Titulo se centro en "Cyberseguridad en las empresas" se realizo en un Macintosh de la época con YellowDog, Use cifrado Hash Digital + SSL Certificado + Enjaulamiento de usuario para los servicios como Samba y FTP, además de configurar un Proxy con Squid, configure un DNSSEC para los DNS + DHCP Server, también para los servicios configure Fail2ban.El SSH pasaba por doble certificado.
+    Mi Anteproyecto de Titulo se centro en "Cyberseguridad en las empresas" se realizo en un Macintosh de la época con YellowDog, Use cifrado Hash Digital + SSL Certificado + Enjaulamiento de usuario para los servicios como Samba y FTP, además de configurar un Proxy con Squid, configure un DNSSEC para los DNS + DHCP Server, también para los servicios configure Fail2ban.El SSH pasaba por doble certificado.
 <br/><br/>
 
 <header class="post-header">
