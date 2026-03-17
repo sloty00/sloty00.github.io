@@ -96,7 +96,7 @@ Obtener esta certificación demuestra la habilidad para ofrecer soporte técnico
       <span class="post-company">CISCO - NDG</span>
     </div>
 </header>
-La certificación tiene como objetivo demostrar que el candidato posee una comprensión soluda de habilidades prácticas em linea de comandos pura, preparando una base para administracion de sistemas.
+La certificación tiene como objetivo demostrar que el candidato posee una comprensión solida de habilidades prácticas en linea de comandos pura, preparando una base para administracion de sistemas.
 
 
 <header class="post-header">
