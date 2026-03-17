@@ -3,7 +3,7 @@ layout: page
 title: Estadísticas
 permalink: /stadistics/
 ---
-## Logros
+## Estadisticas
 
 ### Desarrollo
 
