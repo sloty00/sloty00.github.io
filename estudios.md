@@ -98,6 +98,15 @@ Obtener esta certificación demuestra la habilidad para ofrecer soporte técnico
 </header>
 La certificación tiene como objetivo demostrar que el candidato posee una comprensión solida de habilidades prácticas en linea de comandos pura, preparando una base para administracion de sistemas.
 
+<header class="post-header">
+    <h1 class="post-title">Endpoint Security</h1>
+    <div class="post-meta">
+      <span class="post-period">Julio 2023 / Online</span>
+      <span class="post-company">CISCO</span>
+    </div>
+</header>
+La certificación proporciona conocimientos fundamentales sobre seguridad de endpoints, incluyendo como proteger dispositivos finales (computadoras, laptos y servidores) frente amenazas, malware y accesos no autorizados.
+
 
 <header class="post-header">
     <h1 class="post-title">Veeam VMCE11</h1>
