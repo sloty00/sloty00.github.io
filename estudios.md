@@ -107,6 +107,15 @@ La certificación tiene como objetivo demostrar que el candidato posee una compr
 </header>
 La certificación proporciona conocimientos fundamentales sobre seguridad de endpoints, incluyendo como proteger dispositivos finales (computadoras, laptos y servidores) frente amenazas, malware y accesos no autorizados.
 
+<header class="post-header">
+    <h1 class="post-title">Ethical Hacker</h1>
+    <div class="post-meta">
+      <span class="post-period">Julio 2023 / Online</span>
+      <span class="post-company">CISCO</span>
+    </div>
+</header>
+La certificación forma profesionales capaces de identificar, analizar y mitigar vulnerabilidades de seguridad, aplicando tecnicas de hacking etico dentro de entornos controlados y cumpliendo normas legales y eticas..
+
 
 <header class="post-header">
     <h1 class="post-title">Veeam VMCE11</h1>
