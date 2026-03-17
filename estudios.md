@@ -92,7 +92,7 @@ Obtener esta certificación demuestra la habilidad para ofrecer soporte técnico
 <header class="post-header">
     <h1 class="post-title">Linux Unhatched</h1>
     <div class="post-meta">
-      <span class="post-period">Julio 2023 / Online</span>
+      <span class="post-period">Marzo 2026 / Online</span>
       <span class="post-company">CISCO - NDG</span>
     </div>
 </header>
@@ -101,7 +101,7 @@ La certificación tiene como objetivo demostrar que el candidato posee una compr
 <header class="post-header">
     <h1 class="post-title">Endpoint Security</h1>
     <div class="post-meta">
-      <span class="post-period">Julio 2023 / Online</span>
+      <span class="post-period">Marzo 2026 / Online</span>
       <span class="post-company">CISCO</span>
     </div>
 </header>
@@ -110,7 +110,7 @@ La certificación proporciona conocimientos fundamentales sobre seguridad de end
 <header class="post-header">
     <h1 class="post-title">Ethical Hacker</h1>
     <div class="post-meta">
-      <span class="post-period">Julio 2023 / Online</span>
+      <span class="post-period">Marzo 2026 / Online</span>
       <span class="post-company">CISCO</span>
     </div>
 </header>
