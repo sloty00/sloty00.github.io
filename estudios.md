@@ -114,8 +114,34 @@ La certificación proporciona conocimientos fundamentales sobre seguridad de end
       <span class="post-company">CISCO</span>
     </div>
 </header>
-La certificación forma profesionales capaces de identificar, analizar y mitigar vulnerabilidades de seguridad, aplicando tecnicas de hacking etico dentro de entornos controlados y cumpliendo normas legales y eticas..
+La certificación forma profesionales capaces de identificar, analizar y mitigar vulnerabilidades de seguridad, aplicando tecnicas de hacking etico dentro de entornos controlados y cumpliendo normas legales y eticas.
 
+<header class="post-header">
+    <h1 class="post-title">Cybersecurity Certified Fundamentals</h1>
+    <div class="post-meta">
+      <span class="post-period">Marzo 2026 / Online</span>
+      <span class="post-company">Fortinet</span>
+    </div>
+</header>
+La certificación Brinda una base solida en Ciberseguridad, enfocada en conceptos fundamentales de amenazas, redes seguras y soluciones Fortinet, preparando al candidato con herramientas y habilidades iniciales en seguridad en redes.
+
+<header class="post-header">
+    <h1 class="post-title">Cybersecurity Certified Associate</h1>
+    <div class="post-meta">
+      <span class="post-period">Marzo 2026 / Online</span>
+      <span class="post-company">Fortinet</span>
+    </div>
+</header>
+La certificación forma profesionales con conocimientos medio-avanzados en ciberseguridad, capaces de implementar y gestionar soluciones de seguridad en redes empresariales usando tecnologias Fortinet.
+
+<header class="post-header">
+    <h1 class="post-title">NS3 FortiGate</h1>
+    <div class="post-meta">
+      <span class="post-period">Marzo 2026 / Online</span>
+      <span class="post-company">Fortinet</span>
+    </div>
+</header>
+La certificación proporciona conocimentos practicos y teoricos sobre implementacion, configuracion y gestion de dispositivos FortiGate, fortaleciendo la seguridad de redes empresariales y la defensa frente a amenazas.
 
 <header class="post-header">
     <h1 class="post-title">Veeam VMCE11</h1>
