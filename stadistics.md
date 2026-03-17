@@ -3,7 +3,7 @@ layout: page
 title: Estadísticas
 permalink: /stadistics/
 ---
-## Achievements y Badges
+## Logros
 
 ### Desarrollo
 
