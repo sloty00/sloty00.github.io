@@ -90,6 +90,16 @@ La certificación valida la competencia avanzada en la implementación, soporte 
 Obtener esta certificación demuestra la habilidad para ofrecer soporte técnico experto y gestionar de manera eficiente entornos críticos utilizando SUSE Linux Enterprise Server, asegurando una operación estable y segura en infraestructuras empresariales.
 
 <header class="post-header">
+    <h1 class="post-title">Linux Unhatched</h1>
+    <div class="post-meta">
+      <span class="post-period">Julio 2023 / Online</span>
+      <span class="post-company">CISCO - NDG</span>
+    </div>
+</header>
+La certificación tiene como objetivo demostrar que el candidato posee una comprensión soluda de habilidades prácticas em linea de comandos pura, preparando una base para administracion de sistemas.
+
+
+<header class="post-header">
     <h1 class="post-title">Veeam VMCE11</h1>
     <div class="post-meta">
       <span class="post-period">Julio 2023 / Online</span>
