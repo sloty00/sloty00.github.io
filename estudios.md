@@ -90,6 +90,33 @@ La certificación valida la competencia avanzada en la implementación, soporte 
 Obtener esta certificación demuestra la habilidad para ofrecer soporte técnico experto y gestionar de manera eficiente entornos críticos utilizando SUSE Linux Enterprise Server, asegurando una operación estable y segura en infraestructuras empresariales.
 
 <header class="post-header">
+    <h1 class="post-title">Linux II</h1>
+    <div class="post-meta">
+      <span class="post-period">Marzo 2026 / Online</span>
+      <span class="post-company">CISCO - NDG</span>
+    </div>
+</header>
+La certificación tiene como objetivo demostrar que el candidato posee una comprensión avanzada de la administración de sistemas, validando habilidades en la gestión de servicios esenciales, configuración de redes y seguridad.
+
+<header class="post-header">
+    <h1 class="post-title">Linux I</h1>
+    <div class="post-meta">
+      <span class="post-period">Marzo 2026 / Online</span>
+      <span class="post-company">CISCO - NDG</span>
+    </div>
+</header>
+La certificación tiene como objetivo demostrar que el candidato posee una comprensión sólida de la arquitectura del sistema, la instalación y gestión de paquetes, y el manejo avanzado de la línea de comandos.
+
+<header class="post-header">
+    <h1 class="post-title">Linux Essentials</h1>
+    <div class="post-meta">
+      <span class="post-period">Marzo 2026 / Online</span>
+      <span class="post-company">CISCO - NDG</span>
+    </div>
+</header>
+La certificación tiene como objetivo demostrar que el candidato posee una comprensión sólida de los componentes del sistema operativo Linux, la gestión de usuarios y la seguridad básica del sistema.
+
+<header class="post-header">
     <h1 class="post-title">Linux Unhatched</h1>
     <div class="post-meta">
       <span class="post-period">Marzo 2026 / Online</span>
