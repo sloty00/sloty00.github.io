@@ -153,6 +153,15 @@ La certificación proporciona conocimientos fundamentales sobre seguridad de end
 La certificación forma profesionales capaces de identificar, analizar y mitigar vulnerabilidades de seguridad, aplicando tecnicas de hacking etico dentro de entornos controlados y cumpliendo normas legales y eticas.
 
 <header class="post-header">
+    <h1 class="post-title">FortiOS 7.6 Administrator ISC2 CISSP Domain: Security Operations.</h1>
+    <div class="post-meta">
+      <span class="post-period">Marzo 2026 / Online</span>
+      <span class="post-company">Fortinet</span>
+    </div>
+</header>
+La certificación tiene como objetivo demostrar que el candidato posee una comprensión avanzada de la configuración, administración y monitoreo de dispositivos FortiGate. El examen valida habilidades críticas en la protección de infraestructuras de red.
+
+<header class="post-header">
     <h1 class="post-title">Cybersecurity Certified Fundamentals</h1>
     <div class="post-meta">
       <span class="post-period">Marzo 2026 / Online</span>
