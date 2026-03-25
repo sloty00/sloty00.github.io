@@ -207,76 +207,49 @@ La certificación proporciona conocimentos practicos y teoricos sobre implementa
 La certificación tiene como objetivo demostrar que el candidato posee una comprensión avanzada y habilidades prácticas en la administración de la plataforma Veeam Backup & Replication. Está dirigida a profesionales que implementan y administran soluciones de respaldo y recuperación de datos en entornos empresariales utilizando la versión 11 de Veeam Backup & Replication.
 
 <header class="post-header">
-    <h1 class="post-title">Veeam Profesional Public Cloud</h1>
+    <h1 class="post-title">Veeam Technical Specialist Public Cloud Service Provider</h1>
     <div class="post-meta">
-      <span class="post-period">Julio 2024 - Julio 2024 / Online</span>
-      <span class="post-company">Veeam Partner Program</span>
-    </div>
-</header>
-La certificación valida la habilidad para implementar, gestionar y mantener soluciones de respaldo y recuperación para entornos de nube pública utilizando Veeam. Este reconocimiento demuestra un profundo conocimiento en la protección de datos y la gestión de copias de seguridad en plataformas de nube como AWS, Microsoft Azure y Google Cloud.
-
-<header class="post-header">
-    <h1 class="post-title">Veeam Profesional Cloud Service Provider</h1>
-    <div class="post-meta">
-      <span class="post-period">Julio 2024 - Julio 2024 / Online</span>
+      <span class="post-period">Marzo 2026 / Online</span>
       <span class="post-company">Veeam Partner Program</span>
     </div>
 </header>
 La certificacion acredita la habilidad para ofrecer y gestionar servicios de respaldo y recuperación en la nube a través de Veeam. Este reconocimiento valida el conocimiento especializado en la implementación y soporte de soluciones de protección de datos diseñadas para proveedores de servicios en la nube.
 
 <header class="post-header">
-    <h1 class="post-title">Veeam Profesional: Fundamentals</h1>
+    <h1 class="post-title">Veeam Technical Specialist Service Provider DRaaS</h1>
     <div class="post-meta">
-      <span class="post-period">Julio 2024 - Julio 2024 / Online</span>
-      <span class="post-company">Veeam Partner Program</span>
-    </div>
-</header>
-La certificación valida el conocimiento esencial en el uso de las soluciones de protección de datos de Veeam. Esta acreditación está diseñada para aquellos que buscan demostrar una comprensión fundamental de las tecnologías de respaldo, recuperación y gestión de datos proporcionadas por Veeam.
-
-<header class="post-header">
-    <h1 class="post-title">Veeam Profesional: SaaS</h1>
-    <div class="post-meta">
-      <span class="post-period">Julio 2024 - Julio 2024 / Online</span>
-      <span class="post-company">Veeam Partner Program</span>
-    </div>
-</header>
-La certificación valida el conocimiento y las habilidades necesarias para implementar y gestionar soluciones de respaldo y recuperación en entornos de Software como Servicio (SaaS). Esta acreditación está dirigida a profesionales que desean demostrar su capacidad para proteger datos en aplicaciones SaaS y garantizar la continuidad del negocio.
-
-<header class="post-header">
-    <h1 class="post-title">Veeam Profesional SP DRaaS</h1>
-    <div class="post-meta">
-      <span class="post-period">Julio 2024 - Julio 2024 / Online</span>
+      <span class="post-period">Marzo 2026 / Online</span>
       <span class="post-company">Veeam Partner Program</span>
     </div>
 </header>
 La certificación Veeam Professional: SP DRaaS (Disaster Recovery as a Service) valida la competencia en el diseño, implementación y gestión de soluciones de recuperación ante desastres basadas en servicios (DRaaS) utilizando las herramientas de Veeam. Esta acreditación está orientada a profesionales que trabajan en la prestación de servicios de recuperación ante desastres para clientes, asegurando la resiliencia y la continuidad del negocio en entornos de nube.
 
 <header class="post-header">
-    <h1 class="post-title">Veeam Profesional SP Offsite Backup</h1>
+    <h1 class="post-title">Veeam Technical Specialist Service Provider Offsite Backup</h1>
     <div class="post-meta">
-      <span class="post-period">Julio 2024 - Julio 2024 / Online</span>
+      <span class="post-period">Marzo 2026 / Online</span>
       <span class="post-company">Veeam Partner Program</span>
     </div>
 </header>
 La certificación está orientada a validar la capacidad de los profesionales para implementar, gestionar y mantener soluciones de respaldo y recuperación de datos en ubicaciones fuera del sitio utilizando las herramientas y técnicas de Veeam. La certificación demuestra un nivel avanzado de competencia en la gestión de backups fuera del sitio, incluyendo el diseño, configuración, y la solución de problemas.
 
 <header class="post-header">
-    <h1 class="post-title">Veeam Profesional SP Public Cloud</h1>
+    <h1 class="post-title">Veeam Technical Specialist Service Provider SaaS</h1>
     <div class="post-meta">
-      <span class="post-period">Julio 2024 - Julio 2024 / Online</span>
-      <span class="post-company">Veeam Partner Program</span>
-    </div>
-</header>
-La certificación está dirigida a profesionales que desean demostrar su capacidad para manejar y proteger datos en entornos de nube pública mediante las soluciones de Veeam. Esto incluye la implementación, gestión y optimización de backups y estrategias de recuperación en plataformas de nube como Amazon Web Services (AWS), Microsoft Azure y Google Cloud Platform.
-
-<header class="post-header">
-    <h1 class="post-title">Veeam Profesional SP SaaS</h1>
-    <div class="post-meta">
-      <span class="post-period">Julio 2024 - Julio 2024 / Online</span>
+      <span class="post-period">Marzo 2026 / Online</span>
       <span class="post-company">Veeam Partner Program</span>
     </div>
 </header>
 La certificación está dirigida a profesionales que desean demostrar su habilidad para implementar, administrar y proteger datos en entornos SaaS utilizando las herramientas y soluciones de Veeam. Esta certificación cubre la protección de datos en aplicaciones SaaS populares, como Microsoft 365 (anteriormente Office 365) y otras aplicaciones basadas en la nube.
+
+<header class="post-header">
+    <h1 class="post-title">Veeam Technical Specialist Service Provider BaaS on Premises</h1>
+    <div class="post-meta">
+      <span class="post-period">Marzo 2026 / Online</span>
+      <span class="post-company">Veeam Partner Program</span>
+    </div>
+</header>
+Esta certificación valida la capacidad técnica para diseñar y operar servicios de Backup as a Service (BaaS) en infraestructuras locales. Se centra en el uso de las soluciones de Veeam para que los proveedores de servicios puedan gestionar respaldos críticos on-premises, garantizando la soberanía de los datos, la recuperación ante desastres y la continuidad del negocio bajo un modelo de servicios gestionados.
 
 ## Cursos
 
