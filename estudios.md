@@ -43,22 +43,31 @@ La certificación OpenJS Node.js Application Developer (JSNAD) prueba y verifica
 La certificacion cubre temas como patrones de diseño, gestión de memoria, modelo de concurrencia y bucles de eventos, entre otros.
 
 <header class="post-header">
-    <h1 class="post-title">Nodejs Intermediate</h1>
+    <h1 class="post-title">Frontend Developer React</h1>
     <div class="post-meta">
-      <span class="post-period">Julio 2024 - Julio 2024 / Online</span>
+      <span class="post-period">Marzo 2026 / Online</span>
       <span class="post-company">Hackerrank</span>
     </div>
 </header>
-La certificacion comprende los conceptos detrás de una arquitectura basada en eventos y concurrencias.
+Desarrollador enfocado en la creación de interfaces de usuario dinámicas y eficientes utilizando React. Cuento con habilidades validadas en el manejo de componentes, hooks y el ciclo de vida de las aplicaciones, garantizando un código limpio y una experiencia de usuario fluida bajo las mejores prácticas de desarrollo frontend.
 
 <header class="post-header">
-    <h1 class="post-title">Rest API Intermediate</h1>
+    <h1 class="post-title">Software Engineer</h1>
     <div class="post-meta">
-      <span class="post-period">Julio 2024 - Julio 2024 / Online</span>
+      <span class="post-period">Marzo 2026/ Online</span>
       <span class="post-company">Hackerrank</span>
     </div>
 </header>
-La certificacion cubre temas como obtener datos de una API y procesar usando parámetros o paginación.
+Ingeniero con capacidad demostrada para resolver problemas complejos de algoritmos y estructuras de datos, validada a través de la plataforma HackerRank. Poseo un enfoque lógico y eficiente para el desarrollo de software, con habilidades sólidas en la optimización de código y el manejo de lenguajes de programación bajo estándares competitivos de la industria..
+
+<header class="post-header">
+    <h1 class="post-title">Software Engineer Intern</h1>
+    <div class="post-meta">
+      <span class="post-period">Marzo 2026/ Online</span>
+      <span class="post-company">Hackerrank</span>
+    </div>
+</header>
+Desarrollador en etapa inicial con capacidades validadas en la resolución de algoritmos y lógica de programación. Poseo una base sólida en estructuras de datos y una mentalidad orientada a la eficiencia, demostrando aptitud para integrarme en equipos de ingeniería y contribuir en el ciclo de desarrollo de software bajo estándares de calidad profesional..
 
 <header class="post-header">
     <h1 class="post-title">SQL Advanced</h1>
