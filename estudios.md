@@ -120,7 +120,7 @@ La certificación tiene como objetivo demostrar que el candidato posee una compr
     <h1 class="post-title">Linux Essentials</h1>
     <div class="post-meta">
       <span class="post-period">Marzo 2026 / Online</span>
-      <span class="post-company">CISCO - NDG</span>
+      <span class="post-company">CISCO</span>
     </div>
 </header>
 La certificación tiene como objetivo demostrar que el candidato posee una comprensión sólida de los componentes del sistema operativo Linux, la gestión de usuarios y la seguridad básica del sistema.
@@ -129,7 +129,7 @@ La certificación tiene como objetivo demostrar que el candidato posee una compr
     <h1 class="post-title">Linux Unhatched</h1>
     <div class="post-meta">
       <span class="post-period">Marzo 2026 / Online</span>
-      <span class="post-company">CISCO - NDG</span>
+      <span class="post-company">CISCO</span>
     </div>
 </header>
 La certificación tiene como objetivo demostrar que el candidato posee una comprensión solida de habilidades prácticas en linea de comandos pura, preparando una base para administracion de sistemas.
@@ -142,6 +142,15 @@ La certificación tiene como objetivo demostrar que el candidato posee una compr
     </div>
 </header>
 La certificación proporciona conocimientos fundamentales sobre seguridad de endpoints, incluyendo como proteger dispositivos finales (computadoras, laptos y servidores) frente amenazas, malware y accesos no autorizados.
+
+<header class="post-header">
+    <h1 class="post-title">Ethical Hacker</h1>
+    <div class="post-meta">
+      <span class="post-period">Marzo 2026 / Online</span>
+      <span class="post-company">CISCO - Universidad de Pereira</span>
+    </div>
+</header>
+Completé el entrenamiento técnico de los Cyber Games de CISCO (UTP), dominando conceptos de post-explotación con PowerSploit, auditoría de accesos físicos y análisis de vulnerabilidades en aplicaciones móviles.
 
 <header class="post-header">
     <h1 class="post-title">Ethical Hacker</h1>
