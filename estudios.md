@@ -70,6 +70,16 @@ Desarrollador en etapa inicial con capacidades validadas en la resolución de al
 La certificacion cubre temas como optimización de consultas, modelado de datos, indexación, funciones de ventana y pivotes en SQL.
 
 <header class="post-header">
+    <h1 class="post-title">VMware Data Center Virtualization: Core Technical Skills</h1>
+    <div class="post-meta">
+      <span class="post-period">Marzo 2026 / Online</span>
+      <span class="post-company">Broadcom</span>
+    </div>
+</header>
+La certificación valida el conocimiento y las habilidades técnicas fundamentales en la operación y gestión de infraestructuras de centros de datos virtualizados mediante VMware vSphere. Obtener esta certificación demuestra la capacidad para administrar clústeres empresariales, garantizando la alta disponibilidad (vSphere HA) y la optimización de recursos (vSphere DRS) para mantener la continuidad del negocio.
+El titular cuenta con la competencia necesaria para configurar y supervisar soluciones de tolerancia a fallos (Fault Tolerance), gestionar la compatibilidad de hardware mediante EVC y asegurar la movilidad de cargas de trabajo en tiempo real con vMotion, permitiendo una infraestructura de TI eficiente, escalable y resiliente en entornos de misión crítica.
+
+<header class="post-header">
     <h1 class="post-title">SUSE Partner Support Accreditation - SUSE Rancher</h1>
     <div class="post-meta">
       <span class="post-period">Julio 2024 - Julio 2024 / Online</span>
