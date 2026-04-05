@@ -80,6 +80,15 @@ La certificación valida el conocimiento y las habilidades técnicas fundamental
 El titular cuenta con la competencia necesaria para configurar y supervisar soluciones de tolerancia a fallos (Fault Tolerance), gestionar la compatibilidad de hardware mediante EVC y asegurar la movilidad de cargas de trabajo en tiempo real con vMotion, permitiendo una infraestructura de TI eficiente, escalable y resiliente en entornos de misión crítica.
 
 <header class="post-header">
+    <h1 class="post-title">VMware Virtual Cloud Network: Core Technical Skills</h1>
+    <div class="post-meta">
+      <span class="post-period">Marzo 2026 / Online</span>
+      <span class="post-company">Broadcom</span>
+    </div>
+</header>
+La certificacion de Broadcom enseña a transformar redes físicas tradicionales en infraestructuras virtuales mediante software, utilizando VMware NSX como eje central para unificar la conectividad y la seguridad en entornos de nube híbrida. El aprendizaje se enfoca en la implementación de microsegmentación para proteger aplicaciones individualmente y en la automatización del despliegue de servicios para lograr una red ágil, escalable y operativa desde un único punto de gestión.
+
+<header class="post-header">
     <h1 class="post-title">SUSE Partner Support Accreditation - SUSE Rancher</h1>
     <div class="post-meta">
       <span class="post-period">Julio 2024 - Julio 2024 / Online</span>
