@@ -215,6 +215,15 @@ La certificación forma profesionales con conocimientos medio-avanzados en ciber
 La certificación proporciona conocimentos practicos y teoricos sobre implementacion, configuracion y gestion de dispositivos FortiGate, fortaleciendo la seguridad de redes empresariales y la defensa frente a amenazas.
 
 <header class="post-header">
+    <h1 class="post-title">Veeam VMCE12 - Service Provider</h1>
+    <div class="post-meta">
+      <span class="post-period">Abril 2024 / Online</span>
+      <span class="post-company">Veeam Partner Program</span>
+    </div>
+</header>
+Esta certificación acredita los conocimientos avanzados necesarios para diseñar, implementar y administrar arquitecturas de protección de datos en entornos de proveedores de servicios y nube (MSP/VCPP). A diferencia de la certificación estándar, el enfoque "Service Provider" valida la competencia técnica en la entrega de soluciones multi-inquilino a gran escala.
+
+<header class="post-header">
     <h1 class="post-title">Veeam VMCE11</h1>
     <div class="post-meta">
       <span class="post-period">Julio 2023 / Online</span>
