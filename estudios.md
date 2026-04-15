@@ -277,6 +277,33 @@ La certificación está dirigida a profesionales que desean demostrar su habilid
 </header>
 Esta certificación valida la capacidad técnica para diseñar y operar servicios de Backup as a Service (BaaS) en infraestructuras locales. Se centra en el uso de las soluciones de Veeam para que los proveedores de servicios puedan gestionar respaldos críticos on-premises, garantizando la soberanía de los datos, la recuperación ante desastres y la continuidad del negocio bajo un modelo de servicios gestionados.
 
+<header class="post-header">
+    <h1 class="post-title">Veeam Technical Specialist</h1>
+    <div class="post-meta">
+      <span class="post-period">Marzo 2026 / Online</span>
+      <span class="post-company">Veeam Partner Program</span>
+    </div>
+</header>
+Esta acreditación técnica valida el dominio sobre las funcionalidades avanzadas de la Veeam Data Platform, certificando la capacidad para operar y optimizar infraestructuras de respaldo a nivel empresarial. Se centra en la implementación técnica detallada y la monitorización proactiva de la disponibilidad de los datos.
+
+<header class="post-header">
+    <h1 class="post-title">Veeam Technical Sales Professional</h1>
+    <div class="post-meta">
+      <span class="post-period">Marzo 2026 / Online</span>
+      <span class="post-company">Veeam Partner Program</span>
+    </div>
+</header>
+Esta acreditación técnica de preventa demuestra la habilidad para diseñar arquitecturas de protección de datos y realizar demostraciones de concepto (PoC) que validen la viabilidad técnica de la solución. Actúa como el puente entre la visión comercial y la implementación de ingeniería.
+
+<header class="post-header">
+    <h1 class="post-title">Veeam Sales Professional</h1>
+    <div class="post-meta">
+      <span class="post-period">Marzo 2026 / Online</span>
+      <span class="post-company">Veeam Partner Program</span>
+    </div>
+</header>
+Esta certificación valida la capacidad para identificar y asesorar sobre soluciones de disponibilidad de datos que respondan a los desafíos de negocio modernos. Se centra en el valor estratégico de la plataforma Veeam para garantizar la continuidad operativa en entornos híbridos y de nube.
+
 ## Cursos
 
 <header class="post-header">
