@@ -5,39 +5,20 @@ permalink: /portafolio/
 ---
 
 <style>
-  .filter-container { 
-    margin: 20px 0 40px 0; 
-    display: flex; 
-    flex-wrap: wrap; 
-    gap: 10px; 
-    justify-content: center;
-  }
+  .filter-container { margin: 20px 0 40px 0; display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; }
   .filter-btn {
-    padding: 8px 18px; 
-    border: 1px solid #e2e8f0; 
-    border-radius: 20px;
-    background: white; 
-    cursor: pointer; 
-    transition: all 0.3s ease; 
-    font-weight: 600;
-    color: #64748b;
+    padding: 8px 18px; border: 1px solid #e2e8f0; border-radius: 20px;
+    background: white; cursor: pointer; transition: all 0.3s ease; font-weight: 600; color: #64748b;
   }
-  .filter-btn:hover {
-    border-color: #3b82f6;
-    color: #3b82f6;
-  }
-  .filter-btn.active { 
-    background: #3b82f6; 
-    color: white; 
-    border-color: #3b82f6; 
-    box-shadow: 0 4px 10px rgba(59, 130, 246, 0.3);
-  }
-  /* Ajuste de espaciado para las tarjetas */
-  .portfolio-item { 
-    transition: all 0.4s ease; 
-    margin-bottom: 40px; 
-  }
+  .filter-btn:hover { border-color: #3b82f6; color: #3b82f6; }
+  .filter-btn.active { background: #3b82f6; color: white; border-color: #3b82f6; box-shadow: 0 4px 10px rgba(59, 130, 246, 0.3); }
+  
+  /* Ajuste para que las tarjetas tengan aire entre ellas */
+  .portfolio-item { transition: all 0.4s ease; margin-bottom: 40px; }
   .hidden { display: none !important; }
+  
+  .entry ul { margin-top: 10px; padding-left: 20px; }
+  .entry li { margin-bottom: 5px; }
 </style>
 
 <div class="filter-container">
@@ -62,9 +43,18 @@ permalink: /portafolio/
       </header>
       <div class="entry">
         <ul>
-          <li>Diseño de Sistemas de Respaldo Veeam y servicios Cloud (Prometheus, Grafana, Owncloud).</li>
-          <li>Despliegue de infraestructura inmutable y microservicios en contenedores SUSE.</li>
-          <li>Desarrollo de Software CRUD Workflow con NodeJS, React y PrismaORM.</li>
+          <li>Anteproyecto de Diseño y Diseño Proyectado del Sistema de Respaldos Veeam BR en Draw.io con Viñetado utilizando Block GIS de las marcas para Salmones Austral.</li>
+          <li>Creación y despliegue de un servidor Rocketchat en SUSE mediante Contenedor.</li>
+          <li>Creación y despliegue de un Relay de correo para cass.cl.</li>
+          <li>Creación y despliegue de Nagios con monitorizacion via SNMP y NRPE en cada Servidor Invitado y dispositivos.</li>
+          <li>Creación y despliegue de un servidor Grafana via Prometheus en cada Servidor Invitado.</li>
+          <li>Creación y despliegue de un servidor GLPI mediante contenedor (Helpdesk e inventario de equipos).</li>
+          <li>Creación y despliegue de un servidor Owncloud con control de acceso y carpetas por usuarios.</li>
+          <li>Creación y despliegue de un servidor DNS en SUSE Enterprise usando contenedor.</li>
+          <li>Creación y despliegue de un servidor Documize por contenedor.</li>
+          <li>Creación y despliegue de un servidor Rustdesk con Key privada en SUSE mediante contenedor.</li>
+          <li>Creación y despliegue de un repositorio Inmutable en SUSE para ser usado en Veeam Backup Replication.</li>
+          <li>Software CRUD para manejar el Workflow empresa (Personal, Vehiculos, Permisos Pers., Vacaciones, Permisos Vehiculos, Checklist) con integración AD con JWT / Firebase con JWT para Login y paginación en backend (Nodejs+PrismaORM(Mysql)), consumidos via React + Material-UI.</li>
         </ul>
       </div>
     </div>
@@ -81,7 +71,8 @@ permalink: /portafolio/
       </header>
       <div class="entry">
         <ul>
-          <li>Creación de API Ecommerce y colaboración en Bicom Academy usando Node.js.</li>
+          <li>Creación de una API de Ecommerce para Bicom y sus clientes (Node.js).</li>
+          <li>Colaboración en el desarrollo del sitio Bicom Academy (Node.js).</li>
         </ul>
       </div>
     </div>
@@ -98,8 +89,48 @@ permalink: /portafolio/
       </header>
       <div class="entry">
         <ul>
-          <li>Gestión de proyectos eléctricos y diseño de sistemas de geolocalización con Google Maps.</li>
-          <li>Cubicación y evaluación de proyectos utilizando software Valorizador en Citrix.</li>
+          <li>Gestión de proyectos eléctricos y preparación de carpetas para permisos de la SEC.</li>
+          <li>Creación de órdenes de trabajo (OT) para las tareas.</li>
+          <li>Cubicación y evaluación de proyectos utilizando el software Valorizador en Citrix.</li>
+          <li>Elaboración de planos de servidumbre.</li>
+          <li>Diseño e implementación de un sistema de geolocalización y dibujo en congruencia con GPS, utilizando Google Maps para proyectos de infraestructura eléctrica.</li>
+          <li>Colaboración en la integración de tecnologías de mapeo para garantizar la precisión en los cálculos de ubicación y trazado de cables eléctricos.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="portfolio-item desarrollo posts">
+    <div class="post">
+      <header class="post-header">
+          <h1 class="post-title">Desarrollador de Software</h1>
+          <div class="post-meta">
+            <span class="post-period">Enero 2017 - Presente / Puerto Montt</span>
+            <span class="post-company">Varto INC</span>
+          </div>
+      </header>
+      <div class="entry">
+        <ul>
+          <li>Desarrollo de software de monitoreo remoto.</li>
+          <li>Implementación de seguimiento en línea para clientes.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="portfolio-item desarrollo posts">
+    <div class="post">
+      <header class="post-header">
+          <h1 class="post-title">Desarrollador de Software (Java/PHP)</h1>
+          <div class="post-meta">
+            <span class="post-period">Enero 2017 - Presente / Puerto Montt</span>
+            <span class="post-company">Varto INC</span>
+          </div>
+      </header>
+      <div class="entry">
+        <ul>
+          <li>Creación de un software de gestión utilizando Java SE.</li>
+          <li>Desarrollo de una página web autoadministrable con PHP, HTML5, JavaScript y CSS.</li>
         </ul>
       </div>
     </div>
@@ -111,13 +142,15 @@ permalink: /portafolio/
           <h1 class="post-title">Inspector de Proyectos</h1>
           <div class="post-meta">
             <span class="post-period">Marzo 2012 - Marzo 2016 / Puerto Montt</span>
-            <span class="post-company">Telefonica del Sur / GTD</span>
+            <span class="post-company">Telefonica del Sur/GTD</span>
           </div>
       </header>
       <div class="entry">
         <ul>
-          <li>Levantamiento de proyectos, planos de demanda inmobiliaria y detalles de ingeniería.</li>
-          <li>Tramitación de permisos municipales y en Saesa.</li>
+          <li>Levantamiento de proyectos y planos de demanda Inmobiliaria.</li>
+          <li>Desarrollo de proyectos y elaboración de documentos "As-Built".</li>
+          <li>Detalles de Ingeniería y tramitación de permisos en Saesa y municipales.</li>
+          <li>Cubicación y Avaluacion de proyecto.</li>
         </ul>
       </div>
     </div>
@@ -126,25 +159,44 @@ permalink: /portafolio/
   <div class="portfolio-item arquitectura posts">
     <div class="post">
       <header class="post-header">
-          <h1 class="post-title">Ingeniero TI / Soporte</h1>
+          <h1 class="post-title">Ingeniero TI</h1>
           <div class="post-meta">
-            <span class="post-period">2008 - 2012 / Puerto Montt - Alerce</span>
-            <span class="post-company">Consultora KB / Esc. Alerce Histórico</span>
+            <span class="post-period">Enero 2010 - Marzo 2012 / Puerto Montt</span>
+            <span class="post-company">Consultora KB</span>
           </div>
       </header>
       <div class="entry">
         <ul>
-          <li>Diseño, configuración de sistemas de redes e implementación de servidores Linux.</li>
-          <li>Provisión de soporte técnico avanzado en infraestructura IT.</li>
+          <li>Levantamiento y mantenimiento de servidores.</li>
+          <li>Provisión de soporte técnico en IT.</li>
         </ul>
       </div>
     </div>
   </div>
 
-  <div class="portfolio-item tecnico desarrollo posts">
+  <div class="portfolio-item arquitectura posts">
     <div class="post">
       <header class="post-header">
-          <h1 class="post-title">Técnico Informático</h1>
+          <h1 class="post-title">Ingeniero TI</h1>
+          <div class="post-meta">
+            <span class="post-period">Marzo 2008 - Junio 2009 / Alerce</span>
+            <span class="post-company">Escuela Rural Alerce Histórico</span>
+          </div>
+      </header>
+      <div class="entry">
+        <ul>
+          <li>Diseño y configuración de sistemas de redes.</li>
+          <li>Implementación y organización de servidores Linux.</li>
+          <li>Provisión de soporte técnico en IT.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="portfolio-item tecnico posts">
+    <div class="post">
+      <header class="post-header">
+          <h1 class="post-title">Tecnico Informatico</h1>
           <div class="post-meta">
             <span class="post-period">Marzo 1998 - Marzo 2008 / Dalcahue</span>
             <span class="post-company">NodeBug</span>
@@ -152,8 +204,8 @@ permalink: /portafolio/
       </header>
       <div class="entry">
         <ul>
-          <li>Soporte informático integral y desarrollo de aplicaciones en VB6.</li>
-          <li>Realización de reparaciones electrónicas especializadas en Chiloé.</li>
+          <li>Provisión de soporte Informático y desarrollo de programas en VB6.</li>
+          <li>Realización de arreglos electrónicos.</li>
         </ul>
       </div>
     </div>
@@ -178,3 +230,6 @@ function filterSelection(c) {
   event.currentTarget.classList.add("active");
 }
 </script>
+
+### Contact me
+[jvoyarzun81@gmail.com](mailto:jvoyarzun81@gmail.com)
