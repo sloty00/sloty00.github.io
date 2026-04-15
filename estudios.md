@@ -233,6 +233,24 @@ La certificación forma profesionales capaces de identificar, analizar y mitigar
 Esta credencial de nivel profesional acredita el dominio de los fundamentos esenciales de conectividad y redes, validando la capacidad técnica para diseñar, configurar y solucionar problemas en infraestructuras de red modernas bajo los estándares globales de Cisco.
 
 <header class="post-header">
+    <h1 class="post-title">Sophos Firewall V20.0 Certified Architect (AT80)</h1>
+    <div class="post-meta">
+      <span class="post-period">Abril 2026 / Online</span>
+      <span class="post-company">Sophos</span>
+    </div>
+</header>
+Esta certificación de nivel avanzado acredita la competencia técnica para diseñar, implementar y optimizar infraestructuras de seguridad perimetral a escala empresarial. Valida la capacidad de arquitectura para integrar soluciones de Next-Generation Firewall (NGFW) en entornos de red complejos, garantizando la máxima resiliencia y visibilidad ante amenazas avanzadas.
+
+<header class="post-header">
+    <h1 class="post-title">Sophos Endpoint Certified Architect V 6.0 (AT15)</h1>
+    <div class="post-meta">
+      <span class="post-period">Abril 2026 / Online</span>
+      <span class="post-company">Sophos</span>
+    </div>
+</header>
+Esta certificación de nivel experto acredita la competencia técnica para diseñar, implementar y gestionar arquitecturas de protección de estaciones de trabajo y servidores a gran escala. Valida la capacidad de arquitectura para desplegar estrategias de defensa multicapa que integran Inteligencia Artificial y respuesta automatizada frente a amenazas persistentes (APTs).
+
+<header class="post-header">
     <h1 class="post-title">FortiOS 7.6 Administrator ISC2 CISSP Domain: Security Operations.</h1>
     <div class="post-meta">
       <span class="post-period">Marzo 2026 / Online</span>
