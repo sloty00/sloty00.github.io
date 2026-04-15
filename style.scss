@@ -120,10 +120,14 @@ a {
 }
 
 nav {
-  float: right; // Mantiene la alineación a la derecha
-  margin-top: 23px; // Ajusta según tu diseño
   display: flex;
   gap: 20px; // Espacio uniforme entre links sin usar margins manuales
+  align-items: center; // Asegura que los links estén centrados verticalmente con el logo
+  
+  @include mobile {
+    margin-top: 15px; // Solo un poco de aire en móvil
+    justify-content: center;
+  }
 
   a {
     position: relative;
