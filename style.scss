@@ -120,7 +120,7 @@ a {
   font-size: 16px;
 }
 
-nav {
+.nav {
   display: flex;
   gap: 20px; // Espacio uniforme entre links sin usar margins manuales
   align-items: center; // Asegura que los links estén centrados verticalmente con el logo
@@ -178,6 +178,17 @@ nav {
     transform: scale(1.05);
     background: darken($blue, 10%);
   }
+}
+
+.portfolio-item { 
+  margin-bottom: 40px; /* Genera el espacio que falta entre una y otra */
+  display: block; 
+  transition: opacity 0.3s ease; 
+}
+
+.portfolio-item:not(:last-child) {
+  border-bottom: 1px solid #edf2f7;
+  padding-bottom: 30px;
 }
 
 // Estilo de Tarjetas de Experiencia
