@@ -279,5 +279,20 @@ footer {
   clear: both;
 }
 
+@include mobile {
+  nav {
+    float: none;
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    
+    a {
+      display: inline-block;
+      margin: 5px 10px;
+      font-size: 1rem;
+    }
+  }
+}
+
 @import "highlights";
 @import "svg-icons";
