@@ -151,13 +151,13 @@ permalink: /estudios/
     </div>
 </div>
 
-<header class="post-header">
-    <h1 class="post-title">Sophos Endpoint Certified Architect V 6.0 (AT15)</h1>
-    <div class="post-meta">
-      <span class="post-period">Abril 2026 / Online</span>
-      <span class="post-company">Sophos</span>
+<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard">
+    <div class="cert-header">
+    <h3 class="cert-title">Sophos Endpoint Certified Architect V 6.0 (AT15)</h3>
+    <div class="cert-meta"><span class="cert-company">Sophos</span></div>
     </div>
-</header>
+</div>
+
 Certificación de nivel experto para diseñar y gestionar arquitecturas de protección de estaciones de trabajo y servidores a gran escala mediante IA y respuesta automatizada frente a amenazas persistentes (APTs).
 
 <header class="post-header">
@@ -434,6 +434,8 @@ Orquestación de contenedores para desarrolladores y entrenamiento práctico en 
     </div>
 </header>
 Dominio avanzado de herramientas de diseño asistido por computadora para proyectos complejos.
+
+</div>
 
 <script>
 function multiFilter(value, type) {
