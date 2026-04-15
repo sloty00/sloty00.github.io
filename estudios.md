@@ -434,3 +434,36 @@ Orquestación de contenedores para desarrolladores y entrenamiento práctico en 
     </div>
 </header>
 Dominio avanzado de herramientas de diseño asistido por computadora para proyectos complejos.
+
+<script>
+function multiFilter(value, type) {
+  const cards = document.querySelectorAll('.cert-card');
+  const buttons = document.querySelectorAll('.filter-btn');
+
+  // Resetear botones activos del grupo
+  buttons.forEach(btn => {
+    if (btn.getAttribute('onclick').includes(`'${type}'`)) {
+      btn.classList.remove('active');
+    }
+  });
+  event.target.classList.add('active');
+
+  cards.forEach(card => {
+    // La tarjeta de la universidad es fija (no tiene atributos de filtro)
+    if (!card.hasAttribute('data-category')) return;
+
+    const cat = card.getAttribute('data-category');
+    const brand = card.getAttribute('data-brand');
+    const skill = card.getAttribute('data-skill');
+
+    if (value === 'all') {
+      card.style.display = 'block';
+    } else {
+      if (type === 'cat' && cat === value) card.style.display = 'block';
+      else if (type === 'brand' && brand === value) card.style.display = 'block';
+      else if (type === 'skill' && skill === value) card.style.display = 'block';
+      else card.style.display = 'none';
+    }
+  });
+}
+</script>
