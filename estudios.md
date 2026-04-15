@@ -177,25 +177,23 @@ permalink: /estudios/
     </div>
 </div>
 
-### Veeam Software (Data Platform & MSP)
-
-<header class="post-header">
-    <h1 class="post-title">Veeam VMCE12 - Service Provider</h1>
-    <div class="post-meta">
-      <span class="post-period">Abril 2026 / Online</span>
-      <span class="post-company">Veeam Partner Program</span>
+<div class="cert-card" data-category="infraestructura" data-brand="veeam" data-skill="hard">
+    <div class="cert-header">
+      <h3 class="cert-title">Veeam VMCE12 - Service Provider</h3>
+      <div class="cert-meta"><span class="cert-company">Veeam</span></div>
     </div>
-</header>
-Acredita los conocimientos avanzados para diseñar y administrar arquitecturas de protección de datos en entornos de proveedores de servicios y nube (MSP/VCPP) multi-inquilino.
+    <span class="cert-badge">Hard Skill</span>
+    <p>Arquitectura multi-inquilino para proveedores de servicios MSP/VCPP.</p>
+</div>
 
-<header class="post-header">
-    <h1 class="post-title">Veeam VMCE11</h1>
-    <div class="post-meta">
-      <span class="post-period">Julio 2023 / Online</span>
-      <span class="post-company">Adistek - Veeam Partner Program</span>
+<div class="cert-card" data-category="infraestructura" data-brand="veeam" data-skill="hard">
+    <div class="cert-header">
+      <h3 class="cert-title">Veeam VMCE11</h3>
+      <div class="cert-meta"><span class="cert-company">Veeam</span></div>
     </div>
-</header>
-Administración avanzada y habilidades prácticas en la plataforma Veeam Backup & Replication para entornos empresariales.
+    <span class="cert-badge">Hard Skill</span>
+    <p>Administración avanzada y habilidades prácticas en la plataforma Veeam Backup & Replication para entornos empresariales.</p>
+</div>
 
 <header class="post-header">
     <h1 class="post-title">Veeam Technical Specialist (VTS) - Service Provider Full Stack</h1>
