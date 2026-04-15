@@ -217,7 +217,7 @@ La certificación proporciona conocimentos practicos y teoricos sobre implementa
 <header class="post-header">
     <h1 class="post-title">Veeam VMCE12 - Service Provider</h1>
     <div class="post-meta">
-      <span class="post-period">Abril 2024 / Online</span>
+      <span class="post-period">Abril 2026 / Online</span>
       <span class="post-company">Veeam Partner Program</span>
     </div>
 </header>
