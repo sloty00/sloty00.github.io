@@ -101,19 +101,17 @@ permalink: /estudios/
 
 ## Estudios Académicos
 
-<header class="post-header">
-    <h1 class="post-title">Tecnico en Informatica</h1>
-    <div class="post-meta">
-      <span class="post-period">Marzo-2001 - Diciembre-2003 / Puerto Montt</span>
-      <span class="post-company">Universidad de los Lagos</span>
+## Formación Académica Superior
+<div class="cert-card" style="border-left-color: #2c3e50;">
+  <div class="cert-header">
+    <h3 class="cert-title">Técnico en Informática</h3>
+    <div class="cert-meta">
+      <strong>Universidad de los Lagos</strong><br>
+      2001 - 2003 | Puerto Montt
     </div>
-</header>
-Mi Anteproyecto de Titulo se centro en "Cyberseguridad en las empresas" se realizo en un Macintosh de la época con YellowDog con lo siguiente:<br/>
-  - Se Uso cifrado Hash Digital + SSL Certificado + Enjaulamiento de usuario para los servicios como Samba y FTP.<br/>
-  - Se configuro un Proxy con Squid.<br/>
-  - Se configuro un DNSSEC para los DNS + DHCP Server.<br/>
-  - Se levanto para todos los servicios configuracion de Fail2ban.<br/> 
-  - El SSH pasaba por doble certificado.<br/><br/>
+  </div>
+  <p>Especialidad en Ciberseguridad: Macintosh/YellowDog Linux, Proxy Squid, DNSSEC y Hardening avanzado.</p>
+</div>
 
 ## Certificaciones
 
