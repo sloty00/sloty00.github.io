@@ -59,13 +59,13 @@ Desarrollador en etapa inicial con capacidades validadas en la resolución de al
 La certificacion cubre temas como optimización de consultas, modelado de datos, indexación, funciones de ventana y pivotes en SQL.
 
 <header class="post-header">
-    <h1 class="post-title">Kubernetes Fundamentals</h1>
+    <h1 class="post-title">VMware Tanzu: Kubernetes Fundamentals</h1>
     <div class="post-meta">
       <span class="post-period">Abril 2026 / Online</span>
       <span class="post-company">Broadcom</span>
     </div>
 </header>
-Esta certificación valida el conocimiento y las habilidades técnicas fundamentales en la orquestación, despliegue y gestión de aplicaciones contenedorizadas mediante Kubernetes. Obtener esta credencial demuestra la capacidad para administrar el ciclo de vida de las cargas de trabajo, garantizando la alta disponibilidad y la escalabilidad automática de los recursos para mantener la continuidad operativa.
+Esta certificación acredita el dominio de los conceptos fundamentales de Kubernetes y su implementación mediante la plataforma VMware Tanzu. Valida la capacidad para operar infraestructuras de contenedores escalables, facilitando la convergencia entre el desarrollo de software y las operaciones de IT (DevOps).
 
 <header class="post-header">
     <h1 class="post-title">VMware Data Center Virtualization: Core Technical Skills</h1>
