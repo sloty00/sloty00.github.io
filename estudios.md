@@ -68,6 +68,51 @@ La certificacion cubre temas como optimización de consultas, modelado de datos,
 Esta certificación acredita el dominio de los conceptos fundamentales de Kubernetes y su implementación mediante la plataforma VMware Tanzu. Valida la capacidad para operar infraestructuras de contenedores escalables, facilitando la convergencia entre el desarrollo de software y las operaciones de IT (DevOps).
 
 <header class="post-header">
+    <h1 class="post-title">AZ-400: Desarrollo Enterprise Devops</h1>
+    <div class="post-meta">
+      <span class="post-period">Abril 2026 / Online</span>
+      <span class="post-company">Microsoft</span>
+    </div>
+</header>
+Esta certificación de nivel Enterprise acredita la capacidad técnica para diseñar e implementar estrategias de colaboración, código, infraestructura y seguridad en el ecosistema de Azure. Valida la competencia en la creación de procesos de entrega continua (CD) que permiten a las organizaciones modernizar sus aplicaciones con alta disponibilidad y resiliencia.
+
+<header class="post-header">
+    <h1 class="post-title">Seguridad Avanzada de Github I - II</h1>
+    <div class="post-meta">
+      <span class="post-period">Abril 2026 / Online</span>
+      <span class="post-company">Microsoft</span>
+    </div>
+</header>
+Esta credencial acredita la capacidad técnica para implementar un ciclo de vida de desarrollo de software seguro (DevSecOps) mediante herramientas de análisis profundo. Valida el dominio en la detección temprana de vulnerabilidades y la protección de activos críticos dentro del flujo de trabajo de ingeniería.
+
+<header class="post-header">
+    <h1 class="post-title">Automatizacion del flujo de trabajo con acciones de Github I - II</h1>
+    <div class="post-meta">
+      <span class="post-period">Abril 2026 / Online</span>
+      <span class="post-company">Microsoft</span>
+    </div>
+</header>
+Esta credencial acredita la capacidad técnica para diseñar e implementar flujos de trabajo automatizados que optimizan el ciclo de vida del desarrollo de software (SDLC). Valida el dominio en la creación de pipelines de CI/CD para automatizar la compilación, pruebas y despliegue de aplicaciones de forma segura y eficiente.
+
+<header class="post-header">
+    <h1 class="post-title">Fundamentos de Github I - II</h1>
+    <div class="post-meta">
+      <span class="post-period">Abril 2026 / Online</span>
+      <span class="post-company">Microsoft</span>
+    </div>
+</header>
+Esta credencial acredita el dominio de las herramientas de control de versiones y colaboración en la nube utilizando GitHub. Valida la capacidad para gestionar el historial de cambios, mantener la integridad del código y facilitar el desarrollo ágil en entornos de equipo.
+
+<header class="post-header">
+    <h1 class="post-title">Preparacion de datos para el analisis con Power BI</h1>
+    <div class="post-meta">
+      <span class="post-period">Abril 2026 / Online</span>
+      <span class="post-company">Microsoft</span>
+    </div>
+</header>
+Esta credencial acredita la capacidad técnica para conectar, limpiar y transformar datos provenientes de diversas fuentes, asegurando que la información sea íntegra y esté optimizada para la creación de modelos de análisis robustos en Power BI.
+
+<header class="post-header">
     <h1 class="post-title">VMware Data Center Virtualization: Core Technical Skills</h1>
     <div class="post-meta">
       <span class="post-period">Marzo 2026 / Online</span>
