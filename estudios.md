@@ -99,8 +99,6 @@ permalink: /estudios/
   .cert-card[data-category="civil"] { border-left-color: #e67e22; }
 </style>
 
-## Estudios Académicos
-
 ## Formación Académica Superior
 <div class="cert-card" style="border-left-color: #2c3e50;">
   <div class="cert-header">
