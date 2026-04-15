@@ -251,6 +251,51 @@ Esta certificación de nivel avanzado acredita la competencia técnica para dise
 Esta certificación de nivel experto acredita la competencia técnica para diseñar, implementar y gestionar arquitecturas de protección de estaciones de trabajo y servidores a gran escala. Valida la capacidad de arquitectura para desplegar estrategias de defensa multicapa que integran Inteligencia Artificial y respuesta automatizada frente a amenazas persistentes (APTs).
 
 <header class="post-header">
+    <h1 class="post-title">Sophos Firewall: Certified Engineer (v19.5 - v22.0) ET80</h1>
+    <div class="post-meta">
+      <span class="post-period">Abril 2026 / Online</span>
+      <span class="post-company">Sophos</span>
+    </div>
+</header>
+Estas certificaciónes técnicas acreditan el dominio operativo y la configuración de campo de los firewalls de próxima generación de Sophos. Valida la capacidad para realizar puestas en marcha desde cero, gestionar reglas de seguridad granulares y asegurar la continuidad operativa en redes empresariales, manteniendo la vigencia técnica a través de las versiones más recientes del sistema operativo (SFOS).
+
+<header class="post-header">
+    <h1 class="post-title">Sophos Endpoint Certified Engineer v6.0 ET15</h1>
+    <div class="post-meta">
+      <span class="post-period">Abril 2026 / Online</span>
+      <span class="post-company">Sophos</span>
+    </div>
+</header>
+Esta certificación de nivel experto acredita la competencia técnica para diseñar, implementar y gestionar arquitecturas de protección de estaciones de trabajo y servidores a gran escala. Valida la capacidad de arquitectura para desplegar estrategias de defensa multicapa que integran Inteligencia Artificial y respuesta automatizada frente a amenazas persistentes (APTs).
+
+<header class="post-header">
+    <h1 class="post-title">Sophos Detection and Response Certified Engineer v5.5 ET15</h1>
+    <div class="post-meta">
+      <span class="post-period">Abril 2026 / Online</span>
+      <span class="post-company">Sophos</span>
+    </div>
+</header>
+Esta acreditación técnica certifica la capacidad para operar herramientas avanzadas de detección y respuesta en el endpoint (EDR) y respuesta extendida (XDR). Valida la competencia para realizar investigaciones de seguridad profundas, identificar indicadores de compromiso (IoCs) y ejecutar acciones de respuesta inmediata ante ataques sofisticados.
+
+<header class="post-header">
+    <h1 class="post-title">Sophos Central XDR Endpoint and Server Protection v4.0 ET12</h1>
+    <div class="post-meta">
+      <span class="post-period">Abril 2026 / Online</span>
+      <span class="post-company">Sophos</span>
+    </div>
+</header>
+Esta acreditación técnica certifica la competencia para implementar y operar estrategias de Detección y Respuesta Extendida (XDR) unificando la defensa de endpoints y servidores. Valida la capacidad para correlacionar datos de diferentes vectores de ataque, permitiendo una visibilidad profunda y una respuesta coordinada ante amenazas que intentan comprometer la infraestructura crítica.
+
+<header class="post-header">
+    <h1 class="post-title">Sophos Central Endpoint Protection Certified Engineer v5.0 ET15</h1>
+    <div class="post-meta">
+      <span class="post-period">Abril 2026 / Online</span>
+      <span class="post-company">Sophos</span>
+    </div>
+</header>
+Esta acreditación técnica certifica la competencia operativa para desplegar y administrar soluciones de seguridad en dispositivos finales mediante la consola unificada de Sophos Central. Valida el dominio en la configuración de políticas de seguridad, el despliegue de software y la gestión de incidentes en entornos híbridos (Windows, macOS y Servidores).
+
+<header class="post-header">
     <h1 class="post-title">FortiOS 7.6 Administrator ISC2 CISSP Domain: Security Operations.</h1>
     <div class="post-meta">
       <span class="post-period">Marzo 2026 / Online</span>
