@@ -123,7 +123,7 @@ permalink: /estudios/
     <button class="filter-btn" onclick="multiFilter('infraestructura', 'cat')">Infraestructura / Cloud</button>
   </div>
 
-  <span class="filter-group-label">Marcas Principales</span>
+  <span class="filter-group-label">Marcas / Partner</span>
   <div class="filter-container">
     <button class="filter-btn" onclick="multiFilter('veeam', 'brand')">Veeam</button>
     <button class="filter-btn" onclick="multiFilter('sophos', 'brand')">Sophos</button>
