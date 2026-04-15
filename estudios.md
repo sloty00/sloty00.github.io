@@ -112,6 +112,33 @@ permalink: /estudios/
 </div>
 
 ## Certificaciones
+---
+<div class="filter-section">
+  <span class="filter-group-label">Categorías</span>
+  <div class="filter-container">
+    <button class="filter-btn active" onclick="multiFilter('all', 'cat')">Todas</button>
+    <button class="filter-btn" onclick="multiFilter('ciberseguridad', 'cat')">Ciberseguridad</button>
+    <button class="filter-btn" onclick="multiFilter('programacion', 'cat')">Programación</button>
+    <button class="filter-btn" onclick="multiFilter('civil', 'cat')">Ingeniería Civil</button>
+    <button class="filter-btn" onclick="multiFilter('infraestructura', 'cat')">Infraestructura / Cloud</button>
+  </div>
+
+  <span class="filter-group-label">Marcas Principales</span>
+  <div class="filter-container">
+    <button class="filter-btn" onclick="multiFilter('veeam', 'brand')">Veeam</button>
+    <button class="filter-btn" onclick="multiFilter('sophos', 'brand')">Sophos</button>
+    <button class="filter-btn" onclick="multiFilter('microsoft', 'brand')">Microsoft</button>
+    <button class="filter-btn" onclick="multiFilter('cisco', 'brand')">Cisco</button>
+    <button class="filter-btn" onclick="multiFilter('fortinet', 'brand')">Fortinet</button>
+  </div>
+
+  <span class="filter-group-label">Skills</span>
+  <div class="filter-container">
+    <button class="filter-btn" onclick="multiFilter('hard', 'skill')">Hard Skills</button>
+    <button class="filter-btn" onclick="multiFilter('soft', 'skill')">Hab. Blandas</button>
+    <button class="filter-btn" onclick="multiFilter('preventa', 'skill')">Ventas / Preventa</button>
+  </div>
+</div>
 
 ### Sophos (Cybersecurity Architect & Engineer)
 
