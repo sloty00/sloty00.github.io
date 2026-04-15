@@ -1,8 +1,3 @@
-Aquí tienes el código completo y reorganizado. He subido el nivel de HackerRank para que no parezca un detalle menor, ubicándolo justo después de Microsoft y GitHub para fortalecer tu perfil de Ingeniero/Desarrollador.
-
-También agrupé las marcas de infraestructura y seguridad al principio, que es donde tienes el mayor peso de arquitectura.
-
-Markdown
 ---
 layout: page
 title: Estudios y Certificaciones
