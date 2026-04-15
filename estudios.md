@@ -20,7 +20,7 @@ Mi Anteproyecto de Titulo se centro en "Cyberseguridad en las empresas" se reali
   - Se levanto para todos los servicios configuracion de Fail2ban.<br/> 
   - El SSH pasaba por doble certificado.<br/><br/>
 
-## Certificaciones por Marca
+## Certificaciones
 
 ### Sophos (Cybersecurity Architect & Engineer)
 
@@ -31,7 +31,7 @@ Mi Anteproyecto de Titulo se centro en "Cyberseguridad en las empresas" se reali
       <span class="post-company">Sophos</span>
     </div>
 </header>
-Esta certificación de nivel avanzado acredita la competencia técnica para diseñar, implementar y optimizar infraestructuras de seguridad perimetral a escala empresarial. Valida la capacidad de arquitectura para integrar soluciones de Next-Generation Firewall (NGFW) en entornos de red complejos, garantizando la máxima resiliencia y visibilidad ante amenazas avanzadas.
+Esta certificación de nivel avanzado acredita la competencia técnica para diseñar, implementar y optimizar infraestructuras de seguridad perimetral a escala empresarial. Valida la capacidad de arquitectura para integrar soluciones de Next-Generation Firewall (NGFW) en entornos de red complejos.
 
 <header class="post-header">
     <h1 class="post-title">Sophos Endpoint Certified Architect V 6.0 (AT15)</h1>
@@ -40,7 +40,7 @@ Esta certificación de nivel avanzado acredita la competencia técnica para dise
       <span class="post-company">Sophos</span>
     </div>
 </header>
-Esta certificación de nivel experto acredita la competencia técnica para diseñar, implementar y gestionar arquitecturas de protección de estaciones de trabajo y servidores a gran escala. Valida la capacidad de arquitectura para desplegar estrategias de defensa multicapa que integran Inteligencia Artificial y respuesta automatizada frente a amenazas persistentes (APTs).
+Certificación de nivel experto para diseñar y gestionar arquitecturas de protección de estaciones de trabajo y servidores a gran escala mediante IA y respuesta automatizada frente a amenazas persistentes (APTs).
 
 <header class="post-header">
     <h1 class="post-title">Sophos Firewall: Certified Engineer (v19.5 - v22.0) ET80</h1>
@@ -49,43 +49,25 @@ Esta certificación de nivel experto acredita la competencia técnica para dise�
       <span class="post-company">Sophos</span>
     </div>
 </header>
-Estas certificaciónes técnicas acreditan el dominio operativo y la configuración de campo de los firewalls de próxima generación de Sophos. Valida la capacidad para realizar puestas en marcha desde cero, gestionar reglas de seguridad granulares y asegurar la continuidad operativa en redes empresariales, manteniendo la vigencia técnica a través de las versiones más recientes del sistema operativo (SFOS).
+Acredita el dominio operativo y la configuración de campo de los firewalls Sophos. Valida la capacidad para realizar puestas en marcha desde cero y gestionar reglas de seguridad granulares.
 
 <header class="post-header">
-    <h1 class="post-title">Sophos Endpoint Certified Engineer v6.0 ET15</h1>
+    <h1 class="post-title">Sophos Detection and Response Certified Engineer v5.5 ET15 / XDR v4.0</h1>
     <div class="post-meta">
       <span class="post-period">Abril 2026 / Online</span>
       <span class="post-company">Sophos</span>
     </div>
 </header>
-Esta certificación de nivel experto acredita la competencia técnica para diseñar, implementar y gestionar arquitecturas de protección de estaciones de trabajo y servidores a gran escala. Valida la capacidad de arquitectura para desplegar estrategias de defensa multicapa que integran Inteligencia Artificial y respuesta automatizada frente a amenazas persistentes (APTs).
+Capacidad para operar herramientas de detección y respuesta extendida (XDR). Valida la competencia para realizar investigaciones de seguridad profundas e identificar indicadores de compromiso (IoCs).
 
 <header class="post-header">
-    <h1 class="post-title">Sophos Detection and Response Certified Engineer v5.5 ET15</h1>
+    <h1 class="post-title">Sophos Endpoint & Central Protection: Certified Engineer (v5.0 - v6.0)</h1>
     <div class="post-meta">
       <span class="post-period">Abril 2026 / Online</span>
       <span class="post-company">Sophos</span>
     </div>
 </header>
-Esta acreditación técnica certifica la capacidad para operar herramientas avanzadas de detección y respuesta en el endpoint (EDR) y respuesta extendida (XDR). Valida la competencia para realizar investigaciones de seguridad profundas, identificar indicadores de compromiso (IoCs) y ejecutar acciones de respuesta inmediata ante ataques sofisticados.
-
-<header class="post-header">
-    <h1 class="post-title">Sophos Central XDR Endpoint and Server Protection v4.0 ET12</h1>
-    <div class="post-meta">
-      <span class="post-period">Abril 2026 / Online</span>
-      <span class="post-company">Sophos</span>
-    </div>
-</header>
-Esta acreditación técnica certifica la competencia para implementar y operar estrategias de Detección y Respuesta Extendida (XDR) unificando la defensa de endpoints y servidores. Valida la capacidad para correlacionar datos de diferentes vectores de ataque, permitiendo una visibilidad profunda y una respuesta coordinada ante amenazas que intentan comprometer la infraestructura crítica.
-
-<header class="post-header">
-    <h1 class="post-title">Sophos Central Endpoint Protection Certified Engineer v5.0 ET15</h1>
-    <div class="post-meta">
-      <span class="post-period">Abril 2026 / Online</span>
-      <span class="post-company">Sophos</span>
-    </div>
-</header>
-Esta acreditación técnica certifica la competencia operativa para desplegar y administrar soluciones de seguridad en dispositivos finales mediante la consola unificada de Sophos Central. Valida el dominio en la configuración de políticas de seguridad, el despliegue de software y la gestión de incidentes en entornos híbridos (Windows, macOS y Servidores).
+Certifica la competencia técnica para implementar y gestionar arquitecturas de protección de servidores y despliegue de agentes mediante la consola unificada de Sophos Central.
 
 ### Veeam Software (Data Platform & MSP)
 
@@ -96,7 +78,7 @@ Esta acreditación técnica certifica la competencia operativa para desplegar y 
       <span class="post-company">Veeam Partner Program</span>
     </div>
 </header>
-Esta certificación acredita los conocimientos avanzados necesarios para diseñar, implementar y administrar arquitecturas de protección de datos en entornos de proveedores de servicios y nube (MSP/VCPP). A diferencia de la certificación estándar, el enfoque "Service Provider" valida la competencia técnica en la entrega de soluciones multi-inquilino a gran escala.
+Acredita los conocimientos avanzados para diseñar y administrar arquitecturas de protección de datos en entornos de proveedores de servicios y nube (MSP/VCPP) multi-inquilino.
 
 <header class="post-header">
     <h1 class="post-title">Veeam VMCE11</h1>
@@ -105,7 +87,7 @@ Esta certificación acredita los conocimientos avanzados necesarios para diseña
       <span class="post-company">Adistek - Veeam Partner Program</span>
     </div>
 </header>
-La certificación tiene como objetivo demostrar que el candidato posee una comprensión avanzada y habilidades prácticas en la administración de la plataforma Veeam Backup & Replication. Está dirigida a profesionales que implementan y administran soluciones de respaldo y recuperación de datos en entornos empresariales utilizando la versión 11 de Veeam Backup & Replication.
+Administración avanzada y habilidades prácticas en la plataforma Veeam Backup & Replication para entornos empresariales.
 
 <header class="post-header">
     <h1 class="post-title">Veeam Technical Specialist (VTS) - Service Provider Full Stack</h1>
@@ -114,18 +96,32 @@ La certificación tiene como objetivo demostrar que el candidato posee una compr
       <span class="post-company">Veeam Partner Program</span>
     </div>
 </header>
-Acredita la habilidad técnica para ofrecer y gestionar servicios de respaldo y recuperación en la nube (**Public Cloud**), recuperación ante desastres (**DRaaS**), respaldos fuera de sitio (**Offsite Backup**), protección de datos en entornos **SaaS** (M365) y servicios **BaaS on Premises**. Valida el diseño, configuración y mantenimiento de infraestructuras de protección de datos críticas.
+Especializaciones técnicas validadas en:
+- **Public Cloud:** Gestión de respaldo y recuperación en la nube.
+- **DRaaS:** Diseño e implementación de Disaster Recovery as a Service.
+- **Offsite Backup:** Gestión de soluciones de respaldo fuera del sitio.
+- **SaaS:** Protección de datos en Microsoft 365 y aplicaciones Cloud.
+- **BaaS on Premises:** Operación de Backup as a Service en infraestructuras locales.
 
 <header class="post-header">
-    <h1 class="post-title">Veeam Technical Specialist & Sales Professional (VMTSP/VMSP)</h1>
+    <h1 class="post-title">Veeam Technical Sales Professional (VMTSP)</h1>
     <div class="post-meta">
       <span class="post-period">Marzo 2026 / Online</span>
       <span class="post-company">Veeam Partner Program</span>
     </div>
 </header>
-Estas acreditaciones validan el dominio sobre las funcionalidades avanzadas de la Veeam Data Platform, la capacidad de realizar pruebas de concepto (PoC) y el asesoramiento estratégico sobre soluciones de disponibilidad de datos en entornos híbridos.
+Acreditación de preventa técnica para diseñar arquitecturas de protección de datos y realizar demostraciones de concepto (PoC) que validen la viabilidad técnica de la solución.
 
-### Microsoft & GitHub (Cloud & DevOps)
+<header class="post-header">
+    <h1 class="post-title">Veeam Sales Professional (VMSP)</h1>
+    <div class="post-meta">
+      <span class="post-period">Marzo 2026 / Online</span>
+      <span class="post-company">Veeam Partner Program</span>
+    </div>
+</header>
+Capacidad para identificar y asesorar sobre soluciones de disponibilidad de datos estratégicas para la continuidad operativa.
+
+### Microsoft & GitHub (DevOps & Cloud)
 
 <header class="post-header">
     <h1 class="post-title">AZ-400: Desarrollo Enterprise Devops</h1>
@@ -134,7 +130,7 @@ Estas acreditaciones validan el dominio sobre las funcionalidades avanzadas de l
       <span class="post-company">Microsoft</span>
     </div>
 </header>
-Esta certificación de nivel Enterprise acredita la capacidad técnica para diseñar e implementar estrategias de colaboración, código, infraestructura y seguridad en el ecosistema de Azure. Valida la competencia en la creación de procesos de entrega continua (CD) que permiten a las organizaciones modernizar sus aplicaciones con alta disponibilidad y resiliencia.
+Capacidad técnica para diseñar e implementar estrategias de colaboración, código, infraestructura y seguridad (CI/CD) en el ecosistema de Azure.
 
 <header class="post-header">
     <h1 class="post-title">Seguridad Avanzada de Github I - II</h1>
@@ -143,34 +139,54 @@ Esta certificación de nivel Enterprise acredita la capacidad técnica para dise
       <span class="post-company">Microsoft</span>
     </div>
 </header>
-Esta credencial acredita la capacidad técnica para implementar un ciclo de vida de desarrollo de software seguro (DevSecOps) mediante herramientas de análisis profundo. Valida el dominio en la detección temprana de vulnerabilidades y la protección de activos críticos dentro del flujo de trabajo de ingeniería.
+Implementación de un ciclo de vida de desarrollo de software seguro (DevSecOps) mediante análisis profundo y detección de vulnerabilidades.
 
 <header class="post-header">
-    <h1 class="post-title">Automatizacion del flujo de trabajo con acciones de Github I - II</h1>
+    <h1 class="post-title">Automatizacion de Flujo con Acciones de Github I - II</h1>
     <div class="post-meta">
       <span class="post-period">Abril 2026 / Online</span>
       <span class="post-company">Microsoft</span>
     </div>
 </header>
-Esta credencial acredita la capacidad técnica para diseñar e implementar flujos de trabajo automatizados que optimizan el ciclo de vida del desarrollo de software (SDLC). Valida el dominio en la creación de pipelines de CI/CD para automatizar la compilación, pruebas y despliegue de aplicaciones de forma segura y eficiente.
+Diseño de flujos de trabajo automatizados para optimizar el SDLC y despliegue eficiente de aplicaciones.
 
 <header class="post-header">
-    <h1 class="post-title">Fundamentos de Github I - II</h1>
+    <h1 class="post-title">Preparacion de Datos con Power BI</h1>
     <div class="post-meta">
       <span class="post-period">Abril 2026 / Online</span>
       <span class="post-company">Microsoft</span>
     </div>
 </header>
-Esta credencial acredita el dominio de las herramientas de control de versiones y colaboración en la nube utilizando GitHub. Valida la capacidad para gestionar el historial de cambios, mantener la integridad del código y facilitar el desarrollo ágil en entornos de equipo.
+Capacidad para conectar, limpiar y transformar datos optimizados para modelos de análisis robustos.
+
+### HackerRank (Ingeniería de Software)
 
 <header class="post-header">
-    <h1 class="post-title">Preparacion de datos para el analisis con Power BI</h1>
+    <h1 class="post-title">Frontend Developer React</h1>
     <div class="post-meta">
-      <span class="post-period">Abril 2026 / Online</span>
-      <span class="post-company">Microsoft</span>
+      <span class="post-period">Marzo 2026 / Online</span>
+      <span class="post-company">Hackerrank</span>
     </div>
 </header>
-Esta credencial acredita la capacidad técnica para conectar, limpiar y transformar datos provenientes de diversas fuentes, asegurando que la información sea íntegra y esté optimizada para la creación de modelos de análisis robustos en Power BI.
+Desarrollador enfocado en interfaces dinámicas. Habilidades validadas en manejo de componentes, hooks y ciclo de vida bajo las mejores prácticas de desarrollo.
+
+<header class="post-header">
+    <h1 class="post-title">Software Engineer & Engineer Intern</h1>
+    <div class="post-meta">
+      <span class="post-period">Marzo 2026 / Online</span>
+      <span class="post-company">Hackerrank</span>
+    </div>
+</header>
+Resolución de problemas complejos de algoritmos y estructuras de datos. Poseo un enfoque lógico para la optimización de código bajo estándares competitivos.
+
+<header class="post-header">
+    <h1 class="post-title">SQL Advanced</h1>
+    <div class="post-meta">
+      <span class="post-period">Julio 2024 / Online</span>
+      <span class="post-company">Hackerrank</span>
+    </div>
+</header>
+Temas avanzados como optimización de consultas, modelado de datos, indexación y funciones de ventana.
 
 ### VMware by Broadcom
 
@@ -181,7 +197,7 @@ Esta credencial acredita la capacidad técnica para conectar, limpiar y transfor
       <span class="post-company">Broadcom</span>
     </div>
 </header>
-Esta certificación acredita el dominio de los conceptos fundamentales de Kubernetes y su implementación mediante la plataforma VMware Tanzu. Valida la capacidad para operar infraestructuras de contenedores escalables, facilitando la convergencia entre el desarrollo de software y las operaciones de IT (DevOps).
+Dominio de Kubernetes mediante VMware Tanzu para operar infraestructuras de contenedores escalables y convergencia DevOps.
 
 <header class="post-header">
     <h1 class="post-title">VMware Data Center Virtualization: Core Technical Skills</h1>
@@ -190,7 +206,7 @@ Esta certificación acredita el dominio de los conceptos fundamentales de Kubern
       <span class="post-company">Broadcom</span>
     </div>
 </header>
-La certificación valida el conocimiento y las habilidades técnicas fundamentales en la operación y gestión de infraestructuras de centros de datos virtualizados mediante VMware vSphere. Obtener esta certificación demuestra la capacidad para administrar clústeres empresariales, garantizando la alta disponibilidad (vSphere HA) y la optimización de recursos (vSphere DRS) para mantener la continuidad del negocio.
+Gestión de clústeres empresariales (HA, DRS, Fault Tolerance) y optimización de recursos mediante vSphere.
 
 <header class="post-header">
     <h1 class="post-title">VMware Virtual Cloud Network: Core Technical Skills</h1>
@@ -199,9 +215,9 @@ La certificación valida el conocimiento y las habilidades técnicas fundamental
       <span class="post-company">Broadcom</span>
     </div>
 </header>
-La certificacion de Broadcom enseña a transformar redes físicas tradicionales en infraestructuras virtuales mediante software, utilizando VMware NSX como eje central para unificar la conectividad y la seguridad en entornos de nube híbrida.
+Transformación de redes físicas a virtuales mediante software utilizando VMware NSX para conectividad en nube híbrida.
 
-### CISCO (Infrastructure & Cybersecurity)
+### CISCO (Infrastructure, Linux & Security)
 
 <header class="post-header">
     <h1 class="post-title">C++ Advanced</h1>
@@ -210,16 +226,7 @@ La certificacion de Broadcom enseña a transformar redes físicas tradicionales 
       <span class="post-company">CISCO</span>
     </div>
 </header>
-La certificación tiene como objetivo demostrar que el candidato posee una comprensión avanzada de la programación genérica y el ecosistema de la Biblioteca de Plantillas Estándar (STL). El examen valida habilidades críticas en la creación de software eficiente, escalable y de alto rendimiento.
-
-<header class="post-header">
-    <h1 class="post-title">Network Technician Career Path</h1>
-    <div class="post-meta">
-      <span class="post-period">Marzo 2026 / Online</span>
-      <span class="post-company">CISCO</span>
-    </div>
-</header>
-Esta credencial de nivel profesional acredita el dominio de los fundamentos esenciales de conectividad y redes, validando la capacidad técnica para diseñar, configurar y solucionar problemas en infraestructuras de red modernas bajo los estándares globales de Cisco.
+Comprensión avanzada de programación genérica y Biblioteca de Plantillas Estándar (STL) para software de alto rendimiento.
 
 <header class="post-header">
     <h1 class="post-title">Linux Professional Series (I, II, Essentials, Unhatched)</h1>
@@ -228,56 +235,45 @@ Esta credencial de nivel profesional acredita el dominio de los fundamentos esen
       <span class="post-company">CISCO - NDG</span>
     </div>
 </header>
-Serie de certificaciones que validan desde la arquitectura del sistema, instalación y gestión de paquetes, hasta la administración avanzada de sistemas, gestión de servicios esenciales, configuración de redes y seguridad en Linux.
+Dominio avanzado de administración de sistemas, gestión de servicios esenciales, hardening, redes y línea de comandos.
 
 <header class="post-header">
-    <h1 class="post-title">Ethical Hacker & Endpoint Security</h1>
+    <h1 class="post-title">Hacker Etico & Ethical Hacker</h1>
     <div class="post-meta">
       <span class="post-period">Marzo 2026 / Online</span>
-      <span class="post-company">CISCO / UTP</span>
+      <span class="post-company">CISCO / Universidad de Pereira</span>
     </div>
 </header>
-Certificaciones enfocadas en identificar, analizar y mitigar vulnerabilidades de seguridad aplicando tecnicas de hacking etico y protegiendo dispositivos finales (computadoras y servidores) frente a malware y accesos no autorizados.
+Identificación y mitigación de vulnerabilidades. Incluye Cyber Games (UTP) con post-explotación (PowerSploit) y auditoría de accesos físicos.
+
+<header class="post-header">
+    <h1 class="post-title">Network Technician & Endpoint Security</h1>
+    <div class="post-meta">
+      <span class="post-period">Marzo 2026 / Online</span>
+      <span class="post-company">CISCO</span>
+    </div>
+</header>
+Fundamentos de conectividad global y protección de dispositivos finales frente a amenazas y malware.
 
 ### Fortinet (Network Security)
 
 <header class="post-header">
-    <h1 class="post-title">FortiOS 7.6 Administrator & Cybersecurity Associate/Fundamentals</h1>
+    <h1 class="post-title">FortiOS 7.6 Administrator & NS3 FortiGate</h1>
     <div class="post-meta">
       <span class="post-period">Marzo 2026 / Online</span>
       <span class="post-company">Fortinet</span>
     </div>
 </header>
-Demuestra una comprensión avanzada de la configuración, administración y monitoreo de dispositivos FortiGate. Brinda una base sólida en amenazas, redes seguras y gestión de soluciones de seguridad empresarial usando tecnologías Fortinet.
-
-### HackerRank (Software Engineering)
+Configuración, administración y monitoreo de dispositivos FortiGate para la protección de infraestructuras de red.
 
 <header class="post-header">
-    <h1 class="post-title">Frontend Developer React</h1>
+    <h1 class="post-title">Cybersecurity Certified Associate & Fundamentals</h1>
     <div class="post-meta">
       <span class="post-period">Marzo 2026 / Online</span>
-      <span class="post-company">Hackerrank</span>
+      <span class="post-company">Fortinet</span>
     </div>
 </header>
-Desarrollador enfocado en la creación de interfaces de usuario dinámicas y eficientes utilizando React. Cuento con habilidades validadas en el manejo de componentes, hooks y el ciclo de vida de las aplicaciones.
-
-<header class="post-header">
-    <h1 class="post-title">Software Engineer & Engineer Intern</h1>
-    <div class="post-meta">
-      <span class="post-period">Marzo 2026 / Online</span>
-      <span class="post-company">Hackerrank</span>
-    </div>
-</header>
-Capacidad demostrada para resolver problemas complejos de algoritmos y estructuras de datos, con enfoque lógico y eficiente para el desarrollo de software bajo estándares competitivos de la industria.
-
-<header class="post-header">
-    <h1 class="post-title">SQL Advanced</h1>
-    <div class="post-meta">
-      <span class="post-period">Julio 2024 / Online</span>
-      <span class="post-company">Hackerrank</span>
-    </div>
-</header>
-La certificacion cubre temas como optimización de consultas, modelado de datos, indexación, funciones de ventana y pivotes en SQL.
+Implementación y gestión de soluciones de seguridad en redes empresariales usando tecnologías Fortinet.
 
 ### SUSE (Enterprise Support)
 
@@ -288,35 +284,35 @@ La certificacion cubre temas como optimización de consultas, modelado de datos,
       <span class="post-company">Suse Partner Program</span>
     </div>
 </header>
-Valida la competencia avanzada en la implementación, soporte y administración de clústeres Kubernetes con Rancher y sistemas operativos robustos SLES para entornos de misión crítica.
+Soporte avanzado para gestión de Kubernetes con Rancher y administración de SLES en entornos críticos.
 
 ---
 
 ## Cursos de Especialización
 
 <header class="post-header">
-    <h1 class="post-title">Fullstack & Frontend Development (Udemy)</h1>
+    <h1 class="post-title">Desarrollo Web Fullstack (Node, React, MERN)</h1>
     <div class="post-meta">
       <span class="post-period">2022 - 2024 / Online</span>
-      <span class="post-company">Prof. Fernando Herrera / MetaBrains / Lubutech</span>
+      <span class="post-company">Udemy</span>
     </div>
 </header>
-Formación integral en **Node.js** (De cero a experto), **Maestría en Javascript**, **TailwindCSS** de A a Z, **React.JS** Crash Course y el stack completo **MERN** (MongoDB, Express, React, Node).
+Cursos completos con los profesores Fernando Herrera, MetaBrains y Lubutech cubriendo Javascript (Maestría), TailwindCSS, y el stack MERN.
 
 <header class="post-header">
     <h1 class="post-title">Kubernetes & Veeam V12 (Udemy)</h1>
     <div class="post-meta">
       <span class="post-period">2023 - 2024 / Online</span>
-      <span class="post-company">Prof: Houssem Dellai / Yaz Becker</span>
+      <span class="post-company">Udemy</span>
     </div>
 </header>
-Cursos detallados sobre orquestación de contenedores para desarrolladores y entrenamiento exhaustivo para la certificación VMCE sobre Veeam Backup & Replication V12.
+Orquestación de contenedores para desarrolladores y entrenamiento práctico en Veeam B&R V12 (VMCE Prep).
 
 <header class="post-header">
     <h1 class="post-title">Autocad 2023 MasterClass</h1>
     <div class="post-meta">
       <span class="post-period">Abril 2023 / Online</span>
-      <span class="post-company">Prof. MetaBrains</span>
+      <span class="post-company">Prof. MetaBrains - Udemy</span>
     </div>
 </header>
-Dominio completo de las herramientas y técnicas de diseño asistido por computadora para proyectos complejos.
+Dominio avanzado de herramientas de diseño asistido por computadora para proyectos complejos.
