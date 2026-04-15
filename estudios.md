@@ -140,16 +140,16 @@ permalink: /estudios/
   </div>
 </div>
 
+<div id="cert-list">
+  
 ### Sophos (Cybersecurity Architect & Engineer)
 
-<header class="post-header">
-    <h1 class="post-title">Sophos Firewall V20.0 Certified Architect (AT80)</h1>
-    <div class="post-meta">
-      <span class="post-period">Abril 2026 / Online</span>
-      <span class="post-company">Sophos</span>
+<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard">
+    <div class="cert-header">
+    <h3 class="cert-title">Sophos Firewall V20.0 Certified Architect (AT80)</h3>
+    <div class="cert-meta"><span class="cert-company">Sophos</span></div>
     </div>
-</header>
-Esta certificación de nivel avanzado acredita la competencia técnica para diseñar, implementar y optimizar infraestructuras de seguridad perimetral a escala empresarial. Valida la capacidad de arquitectura para integrar soluciones de Next-Generation Firewall (NGFW) en entornos de red complejos.
+</div>
 
 <header class="post-header">
     <h1 class="post-title">Sophos Endpoint Certified Architect V 6.0 (AT15)</h1>
