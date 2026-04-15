@@ -3,6 +3,101 @@ layout: page
 title: Estudios
 permalink: /estudios/
 ---
+<style>
+  /* Contenedores de Filtros */
+  .filter-section {
+    margin: 20px 0;
+    text-align: center;
+    background: #f8f9fa;
+    padding: 15px;
+    border-radius: 12px;
+  }
+  
+  .filter-group-label {
+    display: block;
+    font-weight: 800;
+    margin-bottom: 10px;
+    color: #2c3e50;
+    text-transform: uppercase;
+    font-size: 0.85rem;
+    letter-spacing: 1px;
+  }
+
+  .filter-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    justify-content: center;
+    margin-bottom: 15px;
+  }
+
+  .filter-btn {
+    background: #fff;
+    border: 1px solid #dcdde1;
+    color: #2f3640;
+    padding: 6px 14px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    font-weight: 500;
+    transition: all 0.2s ease;
+  }
+
+  .filter-btn:hover, .filter-btn.active {
+    background: #3498db;
+    color: white;
+    border-color: #3498db;
+    box-shadow: 0 2px 8px rgba(52, 152, 219, 0.3);
+  }
+
+  /* Tarjetas */
+  .cert-card {
+    background: #ffffff;
+    border: 1px solid #e1e4e8;
+    border-left: 6px solid #3498db;
+    border-radius: 8px;
+    padding: 18px;
+    margin-bottom: 15px;
+    transition: all 0.3s ease;
+    display: block;
+  }
+
+  .cert-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+  }
+
+  .cert-title {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #2c3e50;
+    margin: 0;
+  }
+
+  .cert-meta {
+    text-align: right;
+    font-size: 0.85rem;
+    color: #7f8c8d;
+  }
+
+  .cert-badge {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 0.7rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    background: #f1f2f6;
+    margin-top: 5px;
+  }
+
+  /* Colores dinámicos por Skill */
+  .cert-card[data-skill*="Hard"] { border-left-color: #2980b9; }
+  .cert-card[data-skill*="Soft"] { border-left-color: #f1c40f; }
+  .cert-card[data-category="civil"] { border-left-color: #e67e22; }
+</style>
 
 ## Estudios Académicos
 
