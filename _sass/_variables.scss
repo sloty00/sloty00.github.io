@@ -1,27 +1,28 @@
 
 //
-// VARIABLES
+// VARIABLES - Edición Ingeniero TI
 //
 
-// Colors
-$blue: #4183C4;
+// Colors - Un azul más vibrante y moderno
+$blue: #2563eb; 
 
-// Grays
-$black: #000;
-$darkerGray: #222;
-$darkGray: #333;
-$gray: #666;
-$lightGray: #eee;
-$white: #fff;
+// Grays - Tonos más suaves que el negro puro (mejoran la lectura)
+$black: #0f172a;      // Un azul muy oscuro, casi negro
+$darkerGray: #1e293b; 
+$darkGray: #334155; 
+$gray: #64748b; 
+$lightGray: #f1f5f9;  // Gris azulado muy claro para fondos
+$white: #ffffff;
 
-// Font stacks
-$helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+// Font stacks - Cambiamos a fuentes sin remates más modernas
+// Si quieres usar 'Inter', asegúrate de tener el link de Google Fonts en tu head.html
+$helvetica: 'Inter', system-ui, -apple-system, sans-serif;
+$helveticaNeue: 'Inter', 'Montserrat', sans-serif;
 $georgia: Georgia, serif;
 
 // Mobile breakpoints
 @mixin mobile {
-  @media screen and (max-width: 640px) {
+  @media screen and (max-width: 768px) { // Subimos a 768px, que es el estándar actual
     @content;
   }
 }
