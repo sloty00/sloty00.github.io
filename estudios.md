@@ -195,6 +195,25 @@ permalink: /estudios/
     <p>Administración avanzada y habilidades prácticas en la plataforma Veeam Backup & Replication para entornos empresariales.</p>
 </div>
 
+<div class="cert-card" data-category="infraestructura" data-brand="veeam" data-skill="preventa">
+    <div class="cert-header">
+      <h3 class="cert-title">Veeam Technical Sales Professional (VMTSP)</h3>
+      <div class="cert-meta"><span class="cert-company">Veeam</span></div>
+    </div>
+    <span class="cert-badge">Preventa Técnica</span>
+    <p>Diseño de arquitecturas y ejecución de Pruebas de Concepto (PoC).</p>
+  </div>
+
+  <div class="cert-card" data-category="infraestructura" data-brand="veeam" data-skill="soft">
+    <div class="cert-header">
+      <h3 class="cert-title">Veeam Sales Professional (VMSP)</h3>
+      <div class="cert-meta"><span class="cert-company">Veeam</span></div>
+    </div>
+    <span class="cert-badge">Hab. Blandas / Ventas</span>
+    <p>Asesoría estratégica y valor de negocio para la continuidad operativa.</p>
+  </div>
+  
+
 <header class="post-header">
     <h1 class="post-title">Veeam Technical Specialist (VTS) - Service Provider Full Stack</h1>
     <div class="post-meta">
