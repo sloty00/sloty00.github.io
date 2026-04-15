@@ -179,6 +179,15 @@ Completé el entrenamiento técnico de los Cyber Games de CISCO (UTP), dominando
 La certificación forma profesionales capaces de identificar, analizar y mitigar vulnerabilidades de seguridad, aplicando tecnicas de hacking etico dentro de entornos controlados y cumpliendo normas legales y eticas.
 
 <header class="post-header">
+    <h1 class="post-title">Network Technician Career Path</h1>
+    <div class="post-meta">
+      <span class="post-period">Marzo 2026 / Online</span>
+      <span class="post-company">CISCO</span>
+    </div>
+</header>
+Esta credencial de nivel profesional acredita el dominio de los fundamentos esenciales de conectividad y redes, validando la capacidad técnica para diseñar, configurar y solucionar problemas en infraestructuras de red modernas bajo los estándares globales de Cisco.
+
+<header class="post-header">
     <h1 class="post-title">FortiOS 7.6 Administrator ISC2 CISSP Domain: Security Operations.</h1>
     <div class="post-meta">
       <span class="post-period">Marzo 2026 / Online</span>
