@@ -120,18 +120,43 @@ a {
 }
 
 nav {
+  float: right; // Mantiene la alineación a la derecha
+  margin-top: 23px; // Ajusta según tu diseño
   display: flex;
-  gap: 20px;
-  font-weight: 500;
-
-  @include mobile {
-    gap: 15px;
-    font-size: 15px;
-  }
+  gap: 20px; // Espacio uniforme entre links sin usar margins manuales
 
   a {
-    color: $darkGray;
-    &:hover { color: $blue; }
+    position: relative;
+    color: $gray;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 1.1rem;
+    padding: 5px 0;
+    transition: color 0.3s ease;
+
+    // La "línea mágica" que aparece abajo
+    &:after {
+      content: '';
+      position: absolute;
+      width: 0;
+      height: 2px;
+      display: block;
+      margin-top: 5px;
+      right: 0;
+      background: $blue; // Usa la variable de azul que definimos
+      transition: width 0.3s ease;
+      -webkit-transition: width 0.3s ease;
+    }
+
+    &:hover {
+      color: $blue;
+      
+      &:after {
+        width: 100%;
+        left: 0;
+        background: $blue;
+      }
+    }
   }
 }
 
