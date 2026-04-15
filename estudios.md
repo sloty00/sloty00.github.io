@@ -141,8 +141,6 @@ permalink: /estudios/
 </div>
 
 <div id="cert-list">
-  
-### Sophos (Cybersecurity Architect & Engineer)
 
 <div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard">
     <div class="cert-header">
@@ -158,34 +156,26 @@ permalink: /estudios/
     </div>
 </div>
 
-Certificación de nivel experto para diseñar y gestionar arquitecturas de protección de estaciones de trabajo y servidores a gran escala mediante IA y respuesta automatizada frente a amenazas persistentes (APTs).
-
-<header class="post-header">
-    <h1 class="post-title">Sophos Firewall: Certified Engineer (v19.5 - v22.0) ET80</h1>
-    <div class="post-meta">
-      <span class="post-period">Abril 2026 / Online</span>
-      <span class="post-company">Sophos</span>
+<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard">
+    <div class="cert-header">
+    <h3 class="cert-title">Sophos Firewall: Certified Engineer (v19.5 - v22.0) ET80</h3>
+    <div class="cert-meta"><span class="cert-company">Sophos</span></div>
     </div>
-</header>
-Acredita el dominio operativo y la configuración de campo de los firewalls Sophos. Valida la capacidad para realizar puestas en marcha desde cero y gestionar reglas de seguridad granulares.
+</div>
 
-<header class="post-header">
-    <h1 class="post-title">Sophos Detection and Response Certified Engineer v5.5 ET15 / XDR v4.0</h1>
-    <div class="post-meta">
-      <span class="post-period">Abril 2026 / Online</span>
-      <span class="post-company">Sophos</span>
+<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard">
+    <div class="cert-header">
+    <h3 class="cert-title">Sophos Detection and Response Certified Engineer v5.5 ET15 / XDR v4.0</h3>
+    <div class="cert-meta"><span class="cert-company">Sophos</span></div>
     </div>
-</header>
-Capacidad para operar herramientas de detección y respuesta extendida (XDR). Valida la competencia para realizar investigaciones de seguridad profundas e identificar indicadores de compromiso (IoCs).
+</div>
 
-<header class="post-header">
-    <h1 class="post-title">Sophos Endpoint & Central Protection: Certified Engineer (v5.0 - v6.0)</h1>
-    <div class="post-meta">
-      <span class="post-period">Abril 2026 / Online</span>
-      <span class="post-company">Sophos</span>
+<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard">
+    <div class="cert-header">
+    <h3 class="cert-title">Sophos Endpoint & Central Protection: Certified Engineer (v5.0 - v6.0)</h3>
+    <div class="cert-meta"><span class="cert-company">Sophos</span></div>
     </div>
-</header>
-Certifica la competencia técnica para implementar y gestionar arquitecturas de protección de servidores y despliegue de agentes mediante la consola unificada de Sophos Central.
+</div>
 
 ### Veeam Software (Data Platform & MSP)
 
