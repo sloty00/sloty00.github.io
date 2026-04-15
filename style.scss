@@ -1,3 +1,8 @@
+Aquí tienes el código completo y unificado. He corregido el problema del avatar (forzando dimensiones fijas y object-fit) y ajustado el encabezado para que el nombre y la foto no se solapen.
+
+Copia y reemplaza todo tu style.scss con esto:
+
+SCSS
 ---
 ---
 
@@ -26,7 +31,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 850px; // Un poco más ancho para lucir las tarjetas
+  max-width: 850px; 
   padding: 0 20px;
   width: 100%;
 }
@@ -40,8 +45,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 { font-size: 32px; letter-spacing: -0.5px; }
-h2 { font-size: 26px; }
-h3 { font-size: 22px; }
 
 a {
   color: $blue;
@@ -54,7 +57,7 @@ a {
 /* LAYOUT / SECTIONS */
 /*********************/
 
-// Header con Flexbox (Adiós a los Floats)
+// Header corregido
 .wrapper-masthead {
   margin-bottom: 40px;
   border-bottom: 1px solid rgba(0,0,0,0.05);
@@ -73,23 +76,37 @@ a {
   }
 }
 
+// FIX AVATAR: Dimensiones forzadas para evitar que se estire
 .site-avatar {
-  width: 65px;
-  height: 65px;
-  margin-right: 15px;
+  width: 80px !important;
+  height: 80px !important;
+  margin-right: 20px;
   flex-shrink: 0;
+  overflow: hidden;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
 
   img {
-    border-radius: 12px; // Bordes más modernos
-    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important; // Mantiene la proporción de tu cara
+    display: block;
+  }
+
+  @include mobile {
+    margin: 0 auto 15px;
   }
 }
 
 .site-info {
   flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
   @include mobile {
     text-align: center;
-    margin: 15px 0;
+    margin-bottom: 15px;
   }
 }
 
@@ -97,22 +114,22 @@ a {
   margin: 0;
   color: $darkerGray;
   font-weight: 700;
-  font-size: 24px;
+  font-size: 26px;
+  line-height: 1;
 }
 
 .site-description {
-  margin: 0;
+  margin: 5px 0 0 0;
   color: $gray;
-  font-size: 15px;
+  font-size: 16px;
 }
 
 nav {
   display: flex;
-  gap: 25px;
+  gap: 20px;
   font-weight: 500;
 
   @include mobile {
-    margin-top: 15px;
     gap: 15px;
     font-size: 15px;
   }
@@ -123,23 +140,22 @@ nav {
   }
 }
 
-// Estilo de Tarjetas para los Posts / Experiencia
+// Estilo de Tarjetas de Experiencia
 .posts > .post {
   padding: 30px;
-  margin-bottom: 25px;
-  background: #fff;
+  margin-bottom: 30px;
+  background: #ffffff !important;
   border: 1px solid #edf2f7;
   border-radius: 16px;
   box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  transition: all 0.3s ease;
+  position: relative;
 
   &:hover {
     transform: translateY(-4px);
-    box-shadow: 0 12px 20px -5px rgba(0, 0, 0, 0.1);
-    border-color: lighten($blue, 30%);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1);
+    border-color: lighten($blue, 25%);
   }
-
-  &:last-child { margin-bottom: 0; }
 }
 
 .post-header {
@@ -154,16 +170,18 @@ nav {
 }
 
 .post-title {
-  font-size: 20px;
+  font-size: 22px;
   margin: 0;
   color: $darkerGray;
+  flex: 1;
 }
 
 .post-meta {
   text-align: right;
+  flex-shrink: 0;
   @include mobile {
     text-align: left;
-    margin-top: 5px;
+    margin-top: 8px;
   }
 }
 
@@ -176,12 +194,10 @@ nav {
 
 .post-company {
   display: block;
-  font-style: normal;
   font-weight: 700;
   color: $blue;
   font-size: 14px;
   text-transform: uppercase;
-  letter-spacing: 0.5px;
 }
 
 .entry {
@@ -189,18 +205,17 @@ nav {
   color: #4a5568;
 }
 
-// Botón Leer Más
+// Botón "Leer Más" corregido
 .read-more {
   display: inline-block;
   margin-top: 15px;
-  padding: 8px 20px;
-  background: #f7fafc;
+  padding: 10px 22px;
+  background: #f8fafc;
   color: $blue !important;
   border-radius: 8px;
   font-size: 13px;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 1px;
   border: 1px solid #e2e8f0;
 
   &:hover {
@@ -210,9 +225,9 @@ nav {
   }
 }
 
-// Footer Moderno
+// Footer
 .wrapper-footer {
-  margin-top: 60px;
+  margin-top: 80px;
   background-color: #f8fafc;
   border-top: 1px solid #e2e8f0;
 }
@@ -220,12 +235,6 @@ nav {
 footer {
   padding: 50px 0;
   text-align: center;
-  
-  p {
-    font-size: 14px;
-    color: $gray;
-    margin-top: 20px;
-  }
 }
 
 // Utilidades
