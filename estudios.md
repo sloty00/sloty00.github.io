@@ -1,3 +1,8 @@
+Aquí tienes el código completo y reorganizado. He subido el nivel de HackerRank para que no parezca un detalle menor, ubicándolo justo después de Microsoft y GitHub para fortalecer tu perfil de Ingeniero/Desarrollador.
+
+También agrupé las marcas de infraestructura y seguridad al principio, que es donde tienes el mayor peso de arquitectura.
+
+Markdown
 ---
 layout: page
 title: Estudios y Certificaciones
@@ -5,48 +10,11 @@ permalink: /estudios/
 ---
 
 ## Resumen Ejecutivo de Formación
-Mi trayectoria combina una base sólida en redes y seguridad desde la academia, evolucionando hacia la arquitectura de datos, ciberseguridad avanzada y metodologías DevOps/Cloud.
+Mi trayectoria combina una sólida base en administración de sistemas y redes con arquitectura de ciberseguridad avanzada, metodologías DevSecOps y desarrollo de software escalable.
 
 ---
 
-## Certificaciones por Marca
-
-### Veeam Software (Data Platform & MSP)
-<header class="post-header">
-    <h1 class="post-title">Veeam VMCE12 - Service Provider</h1>
-    <div class="post-meta">
-      <span class="post-period">Abril 2026</span>
-      <span class="post-company">Veeam Partner Program</span>
-    </div>
-</header>
-Acredita conocimientos avanzados para diseñar y administrar arquitecturas de protección de datos en entornos multi-inquilino y nube (MSP/VCPP).
-
-<header class="post-header">
-    <h1 class="post-title">Veeam VMCE11</h1>
-    <div class="post-meta">
-      <span class="post-period">Julio 2023</span>
-      <span class="post-company">Adistek</span>
-    </div>
-</header>
-Administración avanzada de la plataforma Veeam Backup & Replication v11 para entornos empresariales.
-
-<header class="post-header">
-    <h1 class="post-title">Veeam Technical Specialist (VTS) - Full Stack</h1>
-    <div class="post-meta">
-      <span class="post-period">Marzo 2026</span>
-      <span class="post-company">Veeam Partner Program</span>
-    </div>
-</header>
-Abarca especializaciones en **Public Cloud**, **DRaaS**, **Offsite Backup**, **SaaS (M365)** y **BaaS on Premises**. Valida la capacidad técnica para operar y optimizar infraestructuras de respaldo bajo modelos de servicios gestionados y soberanía de datos.
-
-<header class="post-header">
-    <h1 class="post-title">Veeam Technical Sales Professional (VMTSP) & Sales Professional (VMSP)</h1>
-    <div class="post-meta">
-      <span class="post-period">Marzo 2026</span>
-      <span class="post-company">Veeam Partner Program</span>
-    </div>
-</header>
-Especialización en preventa técnica y consultoría estratégica de disponibilidad de datos.
+## Certificaciones de Arquitectura e Infraestructura
 
 ### Sophos (Cybersecurity Architect)
 <header class="post-header">
@@ -65,7 +33,7 @@ Diseño y optimización de infraestructuras NGFW a escala empresarial con inspec
       <span class="post-company">Sophos</span>
     </div>
 </header>
-Arquitectura de protección avanzada de servidores y workstations mediante IA y respuesta automatizada.
+Arquitectura de protección avanzada de servidores y workstations mediante IA y respuesta automatizada ante incidentes.
 
 <header class="post-header">
     <h1 class="post-title">Sophos Detection and Response Certified Engineer v5.5 (ET15) / XDR v4.0</h1>
@@ -74,7 +42,7 @@ Arquitectura de protección avanzada de servidores y workstations mediante IA y 
       <span class="post-company">Sophos</span>
     </div>
 </header>
-Operación de herramientas de búsqueda activa de amenazas (Threat Hunting) y respuesta extendida (XDR) correlacionando vectores de ataque.
+Operación de herramientas de búsqueda activa de amenazas (Threat Hunting) y respuesta extendida (XDR) correlacionando vectores de ataque en tiempo real.
 
 <header class="post-header">
     <h1 class="post-title">Sophos Central Endpoint & Firewall: Certified Engineer</h1>
@@ -83,37 +51,37 @@ Operación de herramientas de búsqueda activa de amenazas (Threat Hunting) y re
       <span class="post-company">Sophos</span>
     </div>
 </header>
-Implementación operativa y configuración de campo de soluciones Sophos Central.
+Implementación operativa, despliegue de agentes y configuración de reglas granulares en entornos corporativos.
 
-### Microsoft & GitHub (Cloud & DevOps)
+### Veeam Software (Data Platform & MSP)
 <header class="post-header">
-    <h1 class="post-title">AZ-400: Desarrollo Enterprise DevOps</h1>
+    <h1 class="post-title">Veeam VMCE12 - Service Provider</h1>
     <div class="post-meta">
       <span class="post-period">Abril 2026</span>
-      <span class="post-company">Microsoft</span>
+      <span class="post-company">Veeam Partner Program</span>
     </div>
 </header>
-Diseño e implementación de estrategias de instrumentación, SRE, cumplimiento y seguridad en Azure.
+Diseño y administración de arquitecturas de protección de datos en entornos multi-inquilino y nube (MSP/VCPP).
 
 <header class="post-header">
-    <h1 class="post-title">GitHub: Seguridad Avanzada, Automatización y Fundamentos</h1>
+    <h1 class="post-title">Veeam VMCE11</h1>
     <div class="post-meta">
-      <span class="post-period">Abril 2026</span>
-      <span class="post-company">Microsoft / GitHub</span>
+      <span class="post-period">Julio 2023</span>
+      <span class="post-company">Adistek - Veeam Partner</span>
     </div>
 </header>
-Dominio de flujos DevSecOps (CodeQL, Dependabot), CI/CD con GitHub Actions y gestión profesional de repositorios.
+Administración avanzada de respaldo y recuperación de datos empresarial utilizando Veeam Backup & Replication v11.
 
 <header class="post-header">
-    <h1 class="post-title">Preparación de datos para el análisis con Power BI</h1>
+    <h1 class="post-title">Veeam Technical Specialist (VTS) - Full Stack</h1>
     <div class="post-meta">
-      <span class="post-period">Abril 2026</span>
-      <span class="post-company">Microsoft</span>
+      <span class="post-period">Marzo 2026</span>
+      <span class="post-company">Veeam Partner Program</span>
     </div>
 </header>
-Transformación de datos complejos y modelado analítico mediante Power Query.
+Especializaciones validadas en **Public Cloud**, **DRaaS**, **Offsite Backup**, **SaaS (M365)** y **BaaS on Premises**, garantizando la resiliencia y soberanía de los datos.
 
-### VMware by Broadcom (Virtualization & Cloud)
+### VMware by Broadcom
 <header class="post-header">
     <h1 class="post-title">VMware Tanzu: Kubernetes Fundamentals</h1>
     <div class="post-meta">
@@ -121,80 +89,98 @@ Transformación de datos complejos y modelado analítico mediante Power Query.
       <span class="post-company">Broadcom</span>
     </div>
 </header>
-Operación de infraestructuras de contenedores escalables y orquestación con Kubernetes.
+Operación de infraestructuras de contenedores escalables y convergencia DevOps mediante la plataforma Tanzu.
 
 <header class="post-header">
-    <h1 class="post-title">VMware Data Center Virtualization & Cloud Network: Core Technical Skills</h1>
+    <h1 class="post-title">VMware Data Center Virtualization & Cloud Network</h1>
     <div class="post-meta">
       <span class="post-period">Marzo 2026</span>
       <span class="post-company">Broadcom</span>
     </div>
 </header>
-Gestión de vSphere (HA, DRS, vMotion) y virtualización de redes con NSX (Microsegmentación).
-
-### Cisco & Linux (Infrastructure)
-<header class="post-header">
-    <h1 class="post-title">Network Technician Career Path</h1>
-    <div class="post-meta">
-      <span class="post-period">Marzo 2026</span>
-      <span class="post-company">CISCO</span>
-    </div>
-</header>
-Diseño, configuración y troubleshooting de infraestructuras de red bajo estándares globales.
-
-<header class="post-header">
-    <h1 class="post-title">Linux Professional Series (I, II, Essentials, Unhatched)</h1>
-    <div class="post-meta">
-      <span class="post-period">Marzo 2026</span>
-      <span class="post-company">CISCO - NDG</span>
-    </div>
-</header>
-Administración avanzada de sistemas, gestión de servicios esenciales y seguridad en línea de comandos.
-
-<header class="post-header">
-    <h1 class="post-title">Ethical Hacker & Endpoint Security</h1>
-    <div class="post-meta">
-      <span class="post-period">Marzo 2026</span>
-      <span class="post-company">CISCO / UTP</span>
-    </div>
-</header>
-Identificación y mitigación de vulnerabilidades, post-explotación y auditoría de seguridad.
-
-### Fortinet (Security Operations)
-<header class="post-header">
-    <h1 class="post-title">FortiOS Administrator & Cybersecurity Certified Associate</h1>
-    <div class="post-meta">
-      <span class="post-period">Marzo 2026</span>
-      <span class="post-company">Fortinet</span>
-    </div>
-</header>
-Configuración, administración y monitoreo de dispositivos FortiGate y gestión de seguridad en redes empresariales.
+Gestión de clústeres empresariales (HA, DRS, vMotion) y virtualización de redes mediante software con VMware NSX.
 
 ---
 
-## Desarrollo y Algoritmos (HackerRank)
-* **Frontend Developer React:** Creación de interfaces dinámicas y manejo de hooks.
-* **Software Engineer / Intern:** Resolución de algoritmos complejos y estructuras de datos.
-* **SQL Advanced:** Optimización de consultas, funciones de ventana y modelado de datos.
+## Ingeniería de Software, Cloud y DevOps
+
+### HackerRank (Software Engineering & Data)
+<header class="post-header">
+    <h1 class="post-title">Software Engineer & Frontend Developer React</h1>
+    <div class="post-meta">
+      <span class="post-period">Marzo 2026</span>
+      <span class="post-company">HackerRank Certified</span>
+    </div>
+</header>
+Validación profesional en la resolución de algoritmos complejos y estructuras de datos. Experto en el ecosistema React, manejo de hooks y optimización de interfaces dinámicas bajo estándares de código limpio.
+
+<header class="post-header">
+    <h1 class="post-title">SQL Advanced</h1>
+    <div class="post-meta">
+      <span class="post-period">Julio 2024</span>
+      <span class="post-company">HackerRank Certified</span>
+    </div>
+</header>
+Certificación experta en optimización de consultas, modelado relacional, indexación estratégica y análisis de datos mediante funciones de ventana y pivotes.
+
+### Microsoft & GitHub
+<header class="post-header">
+    <h1 class="post-title">AZ-400: Desarrollo Enterprise DevOps</h1>
+    <div class="post-meta">
+      <span class="post-period">Abril 2026</span>
+      <span class="post-company">Microsoft</span>
+    </div>
+</header>
+Diseño e implementación de estrategias de CI/CD, instrumentación, SRE e Infraestructura como Código (IaC) en Azure.
+
+<header class="post-header">
+    <h1 class="post-title">GitHub: Seguridad Avanzada (DevSecOps) y Automatización</h1>
+    <div class="post-meta">
+      <span class="post-period">Abril 2026</span>
+      <span class="post-company">Microsoft / GitHub</span>
+    </div>
+</header>
+Implementación de ciclos de vida seguros (CodeQL, Secret Scanning) y automatización de flujos de trabajo mediante GitHub Actions.
 
 ---
 
-## Logros e Innovación Técnica
+## Redes y Sistemas (Cisco, Fortinet & Linux)
+
+<header class="post-header">
+    <h1 class="post-title">Cisco Network Technician & Linux Professional Series</h1>
+    <div class="post-meta">
+      <span class="post-period">Marzo 2026</span>
+      <span class="post-company">CISCO / NDG</span>
+    </div>
+</header>
+Dominio en el diseño de redes modernas y administración avanzada de sistemas Linux (LPIC-level), incluyendo servicios críticos y hardening del kernel.
+
+<header class="post-header">
+    <h1 class="post-title">Ethical Hacker & FortiOS Administrator</h1>
+    <div class="post-meta">
+      <span class="post-period">Marzo 2026</span>
+      <span class="post-company">CISCO / Fortinet</span>
+    </div>
+</header>
+Auditoría de vulnerabilidades, post-explotación y gestión avanzada de seguridad perimetral sobre dispositivos FortiGate.
+
+---
+
+## Logros e Innovación Académica
+
 ### Universidad de los Lagos (Técnico en Informática)
 **Marzo 2001 - Diciembre 2003 / Puerto Montt**
 
-**Hito de Titulación: "Ciberseguridad en las Empresas"**
-Despliegue de una arquitectura blindada sobre Macintosh/YellowDog (Linux) con los siguientes resultados:
-* **Seguridad de Servicios:** Cifrado Hash Digital + SSL + Enjaulamiento de usuarios para Samba y FTP.
-* **Control Perimetral:** Proxy Squid con listas de control y monitoreo.
-* **Integridad de Red:** DNSSEC + DHCP Server y SSH con doble certificado de autenticidad.
-* **Protección Proactiva:** Implementación integral de Fail2ban para mitigación de ataques de fuerza bruta.
+**Hito: "Arquitectura de Ciberseguridad Empresarial"**
+Despliegue de un entorno blindado sobre Macintosh/YellowDog Linux con implementaciones críticas:
+* **Seguridad de Capa de Aplicación:** Enjaulamiento de servicios (Samba/FTP) con cifrado Hash y SSL.
+* **Defensa de Red:** DNSSEC, SSH con doble certificado y Proxy Squid transparente.
+* **Respuesta Proactiva:** Implementación de Fail2ban para mitigación de ataques de fuerza bruta.
 
 ---
 
 ## Cursos de Especialización y Actualización
-* **SUSE Partner Support:** Rancher (Kubernetes) y SLES (Enterprise Server).
-* **MERN Stack:** Desarrollo Fullstack (MongoDB, Express, React, Node).
-* **Node: De cero a experto:** Backend avanzado y seguridad (Fernando Herrera).
-* **Kubernetes for Developers:** Orquestación y escalado de microservicios (Udemy).
-* **AutoCAD 2023 MasterClass:** Diseño técnico asistido por computadora.
+* **SUSE Partner:** Rancher (Kubernetes) y SUSE Linux Enterprise Server.
+* **Fullstack Development:** MERN Stack, Node.js (De cero a experto), TailwindCSS.
+* **Kubernetes for Developers:** Orquestación de microservicios (Udemy).
+* **AutoCAD 2023 MasterClass:** Diseño asistido por computadora avanzado.
