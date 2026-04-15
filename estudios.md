@@ -212,6 +212,24 @@ permalink: /estudios/
     <span class="cert-badge">Hab. Blandas / Ventas</span>
     <p>Asesoría estratégica y valor de negocio para la continuidad operativa.</p>
   </div>
+
+<div class="cert-card" data-category="infraestructura" data-brand="veeam" data-skill="hard">
+    <div class="cert-header">
+      <h3 class="cert-title">Veeam Technical Specialist (VTS) - Service Provider Full Stack</h3>
+      <div class="cert-meta">
+        <span class="cert-company">Veeam Partner Program</span>
+      </div>
+    </div>
+    <span class="cert-badge">Hard Skill / Especialista Técnico</span>
+    <p>Acreditación avanzada en el despliegue y gestión de soluciones Veeam para entornos de proveedores de servicios:</p>
+    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2;">
+      <li><strong>Public Cloud:</strong> AWS/Azure/GCP</li>
+      <li><strong>DRaaS:</strong> Replicación y Failover</li>
+      <li><strong>SaaS:</strong> Microsoft 365 / Salesforce</li>
+      <li><strong>BaaS:</strong> Respaldo gestionado</li>
+      <li><strong>Offsite Backup:</strong> Cloud Connect</li>
+    </ul>
+</div>
   
 
 <header class="post-header">
