@@ -183,8 +183,8 @@ paginación en backend.</li>
       </header>
       <div class="entry">
         <ul>
-          <li>Levanteymantuveservidores y provisión soporte técnico en IT.</li>
-          <li>Implementeylidere diferentes proyectos IT.</li>
+          <li>Levante y mantuve servidores y provisión soporte técnico en IT.</li>
+          <li>Implemente y lidere diferentes proyectos IT.</li>
         </ul>
       </div>
     </div>
