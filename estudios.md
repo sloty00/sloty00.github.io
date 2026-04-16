@@ -248,38 +248,6 @@ permalink: /estudios/
     <p>Asesoría estratégica y valor de negocio para la continuidad operativa.</p>
   </div>
 
-<header class="post-header">
-    <h1 class="post-title">Veeam Technical Specialist (VTS) - Service Provider Full Stack</h1>
-    <div class="post-meta">
-      <span class="post-period">Marzo 2026 / Online</span>
-      <span class="post-company">Veeam Partner Program</span>
-    </div>
-</header>
-Especializaciones técnicas validadas en:
-- **Public Cloud:** Gestión de respaldo y recuperación en la nube.
-- **DRaaS:** Diseño e implementación de Disaster Recovery as a Service.
-- **Offsite Backup:** Gestión de soluciones de respaldo fuera del sitio.
-- **SaaS:** Protección de datos en Microsoft 365 y aplicaciones Cloud.
-- **BaaS on Premises:** Operación de Backup as a Service en infraestructuras locales.
-
-<header class="post-header">
-    <h1 class="post-title">Veeam Technical Sales Professional (VMTSP)</h1>
-    <div class="post-meta">
-      <span class="post-period">Marzo 2026 / Online</span>
-      <span class="post-company">Veeam Partner Program</span>
-    </div>
-</header>
-Acreditación de preventa técnica para diseñar arquitecturas de protección de datos y realizar demostraciones de concepto (PoC) que validen la viabilidad técnica de la solución.
-
-<header class="post-header">
-    <h1 class="post-title">Veeam Sales Professional (VMSP)</h1>
-    <div class="post-meta">
-      <span class="post-period">Marzo 2026 / Online</span>
-      <span class="post-company">Veeam Partner Program</span>
-    </div>
-</header>
-Capacidad para identificar y asesorar sobre soluciones de disponibilidad de datos estratégicas para la continuidad operativa.
-
 ### Microsoft & GitHub (DevOps & Cloud)
 
 <header class="post-header">
