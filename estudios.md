@@ -145,42 +145,42 @@ permalink: /estudios/
 <div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard">
     <div class="cert-header">
     <h3 class="cert-title">Sophos Firewall V20.0 Certified Architect (AT80)</h3>
-    <div class="cert-meta"><span class="cert-company">Sophos</span></div>
+    <div class="cert-meta"><span class="cert-company">Sophos Partner Program</span></div>
     </div>
 </div>
 
 <div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard">
     <div class="cert-header">
     <h3 class="cert-title">Sophos Endpoint Certified Architect V 6.0 (AT15)</h3>
-    <div class="cert-meta"><span class="cert-company">Sophos</span></div>
+    <div class="cert-meta"><span class="cert-company">Sophos Partner Program</span></div>
     </div>
 </div>
 
 <div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard">
     <div class="cert-header">
     <h3 class="cert-title">Sophos Firewall: Certified Engineer (v19.5 - v22.0) ET80</h3>
-    <div class="cert-meta"><span class="cert-company">Sophos</span></div>
+    <div class="cert-meta"><span class="cert-company">Sophos Partner Program</span></div>
     </div>
 </div>
 
 <div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard">
     <div class="cert-header">
     <h3 class="cert-title">Sophos Detection and Response Certified Engineer v5.5 ET15 / XDR v4.0</h3>
-    <div class="cert-meta"><span class="cert-company">Sophos</span></div>
+    <div class="cert-meta"><span class="cert-company">Sophos Partner Program</span></div>
     </div>
 </div>
 
 <div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard">
     <div class="cert-header">
     <h3 class="cert-title">Sophos Endpoint & Central Protection: Certified Engineer (v5.0 - v6.0)</h3>
-    <div class="cert-meta"><span class="cert-company">Sophos</span></div>
+    <div class="cert-meta"><span class="cert-company">Sophos Partner Program</span></div>
     </div>
 </div>
 
 <div class="cert-card" data-category="infraestructura" data-brand="veeam" data-skill="hard">
     <div class="cert-header">
       <h3 class="cert-title">Veeam VMCE12 - Service Provider</h3>
-      <div class="cert-meta"><span class="cert-company">Veeam</span></div>
+      <div class="cert-meta"><span class="cert-company">Veeam Partner Program</span></div>
     </div>
     <span class="cert-badge">Hard Skill</span>
     <p>Arquitectura multi-inquilino para proveedores de servicios MSP/VCPP.</p>
@@ -189,7 +189,7 @@ permalink: /estudios/
 <div class="cert-card" data-category="infraestructura" data-brand="veeam" data-skill="hard">
     <div class="cert-header">
       <h3 class="cert-title">Veeam VMCE11</h3>
-      <div class="cert-meta"><span class="cert-company">Veeam</span></div>
+      <div class="cert-meta"><span class="cert-company">Veeam Partner Program</span></div>
     </div>
     <span class="cert-badge">Hard Skill</span>
     <p>Administración avanzada y habilidades prácticas en la plataforma Veeam Backup & Replication para entornos empresariales.</p>
