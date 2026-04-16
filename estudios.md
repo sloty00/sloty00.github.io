@@ -193,7 +193,7 @@ permalink: /estudios/
     </ul>
   </div>
 
-<div class="cert-card" data-category="preventa" data-brand="sophos" data-skill="hard">
+<div class="cert-card" data-category="infraestructura" data-brand="sophos" data-skill="hard, preventa">
     <div class="cert-header">
       <h3 class="cert-title">Winning with Network & Endpoint Protection</h3>
       <div class="cert-meta">
