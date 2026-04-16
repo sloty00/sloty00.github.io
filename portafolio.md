@@ -19,6 +19,25 @@ permalink: /portafolio/
   
   .entry ul { margin-top: 10px; padding-left: 20px; }
   .entry li { margin-bottom: 5px; }
+  /* Forzar la aparición de viñetas */
+  .entry ul { 
+    margin-top: 10px !important; 
+    padding-left: 25px !important; 
+    list-style-type: disc !important; /* Fuerza el círculo negro */
+    display: block !important;
+  }
+
+  .entry li { 
+    margin-bottom: 8px !important; 
+    display: list-item !important; /* Asegura que el navegador lo trate como punto de lista */
+    line-height: 1.5;
+    color: #475569; /* Un gris profesional similar al de tu diseño */
+  }
+  
+  /* Ajuste opcional para que los puntos no se peguen al borde en móviles */
+  @media (max-width: 768px) {
+    .entry ul { padding-left: 20px !important; }
+  }
 </style>
 
 <div class="filter-container">
