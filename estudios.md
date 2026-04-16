@@ -150,12 +150,6 @@ CSS
     <button class="filter-btn" onclick="multiFilter('preventa', 'skill')">Preventa</button>
     <button class="filter-btn" onclick="multiFilter('venta', 'skill')">Venta</button>
   </div>
-  <span class="filter-group-label">Perfil Operacional (Rol)</span>
-    <div class="filter-container">
-      <button class="filter-btn" onclick="multiFilter('tecnico', 'skill')">Técnico</button>
-      <button class="filter-btn" onclick="multiFilter('preventa', 'skill')">Preventa</button>
-      <button class="filter-btn" onclick="multiFilter('venta', 'skill')">Ventas</button>
-  </div>
 </div>
 
 <div id="cert-list">
