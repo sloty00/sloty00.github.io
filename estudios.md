@@ -177,6 +177,40 @@ permalink: /estudios/
     </div>
 </div>
 
+<div class="cert-card" data-category="ventas" data-brand="sophos" data-skill="soft">
+    <div class="cert-header">
+      <h3 class="cert-title">Sales Fundamentals & Selling Sophos</h3>
+      <div class="cert-meta">
+        <span class="cert-company">Sophos Certified Sales Consultant</span>
+      </div>
+    </div>
+    <span class="cert-badge">Professional / Sales Strategy</span>
+    <p>Capacidad para identificar necesidades empresariales y posicionar soluciones de ciberseguridad sincronizada:</p>
+    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '📈 ';">
+      <li><strong>SC01 & SC08:</strong> Fundamentos de consultoría técnica.</li>
+      <li><strong>Value Proposition:</strong> Enfoque en seguridad sincronizada.</li>
+      <li><strong>Market Analysis:</strong> Identificación de riesgos críticos.</li>
+      <li><strong>Quick Start:</strong> Despliegue comercial de soluciones.</li>
+    </ul>
+  </div>
+
+<div class="cert-card" data-category="ventas" data-brand="sophos" data-skill="hard">
+    <div class="cert-header">
+      <h3 class="cert-title">Winning with Network & Endpoint Protection</h3>
+      <div class="cert-meta">
+        <span class="cert-company">Sophos Partner Program</span>
+      </div>
+    </div>
+    <span class="cert-badge">Hard Skill / Competitive Intelligence</span>
+    <p>Especialización en el posicionamiento técnico de Sophos frente a competidores en redes y dispositivos finales:</p>
+    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '🏆 ';">
+      <li><strong>SC08 Network Security:</strong> Arquitectura XGS y SD-WAN.</li>
+      <li><strong>SC09 Endpoint:</strong> Intercept X y protección EDR/XDR.</li>
+      <li><strong>Competitive Edge:</strong> Comparativas técnicas de mercado.</li>
+      <li><strong>Solution Design:</strong> Dimensionamiento de infraestructuras.</li>
+    </ul>
+</div>
+
 <div class="cert-card" data-category="infraestructura" data-brand="veeam" data-skill="hard">
     <div class="cert-header">
       <h3 class="cert-title">Veeam VMCE12 - Service Provider</h3>
