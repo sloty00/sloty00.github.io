@@ -136,11 +136,14 @@ CSS
 
   <span class="filter-group-label">Marcas / Partner</span>
   <div class="filter-container">
+    <button class="filter-btn" onclick="multiFilter('suse', 'brand')">SUSE</button>
     <button class="filter-btn" onclick="multiFilter('veeam', 'brand')">Veeam</button>
     <button class="filter-btn" onclick="multiFilter('sophos', 'brand')">Sophos</button>
-    <button class="filter-btn" onclick="multiFilter('microsoft', 'brand')">Microsoft</button>
     <button class="filter-btn" onclick="multiFilter('cisco', 'brand')">Cisco</button>
     <button class="filter-btn" onclick="multiFilter('fortinet', 'brand')">Fortinet</button>
+    <button class="filter-btn" onclick="multiFilter('microsoft', 'brand')">Microsoft</button>
+    <button class="filter-btn" onclick="multiFilter('hackerrank', 'brand')">HackerRank</button>
+    <button class="filter-btn" onclick="multiFilter('udemy', 'brand')">Udemy</button>
   </div>
 
   <span class="filter-group-label">Skills</span>
