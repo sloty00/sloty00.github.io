@@ -146,6 +146,7 @@ permalink: /estudios/
 
   <span class="filter-group-label">Skills</span>
   <div class="filter-container">
+    <button class="filter-btn active" onclick="multiFilter('all', 'skill')">Todas</button>
     <button class="filter-btn" onclick="multiFilter('hard', 'skill')">Hard Skills</button>
     <button class="filter-btn" onclick="multiFilter('soft', 'skill')">Soft Skills</button>
     <button class="filter-btn" onclick="multiFilter('preventa', 'skill')">Preventa</button>
