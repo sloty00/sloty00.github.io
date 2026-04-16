@@ -93,7 +93,6 @@ permalink: /estudios/
     margin-top: 5px;
   }
 
-  /* Colores dinámicos por Skill */
   .cert-card[data-skill*="Hard"] { border-left-color: #2980b9; }
   .cert-card[data-skill*="Soft"] { border-left-color: #f1c40f; }
   .cert-card[data-category="civil"] { border-left-color: #e67e22; }
@@ -194,7 +193,7 @@ permalink: /estudios/
     </ul>
   </div>
 
-<div class="cert-card" data-category="ventas" data-brand="sophos" data-skill="hard">
+<div class="cert-card" data-category="preventa" data-brand="sophos" data-skill="hard">
     <div class="cert-header">
       <h3 class="cert-title">Winning with Network & Endpoint Protection</h3>
       <div class="cert-meta">
