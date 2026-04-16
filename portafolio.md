@@ -45,17 +45,19 @@ permalink: /portafolio/
         <ul>
           <li>Lideré el anteproyecto de arquitectura e implementación del sistema de respaldo empresarial basado en Veeam Backup y Replication, utilizando diseño de infraestructura y Block GIS del fabricante para Salmones Austral.</li>
           <li>Liderazgo en la arquitectura e implementación de sistemas operativos SUSE Linux Enterprise sobre entornos VMware vSphere, aplicando técnicas de Thin Provisioning (aprovisionamiento fino) para la optimización del almacenamiento físico. Gestión avanzada de almacenamiento lógico mediante LVM (Logical Volume Management), permitiendo el escalado y aumento de discos virtuales y sistemas de archivos en caliente (on-the-fly) para garantizar la disponibilidad continua del servicio. Configuración de redes virtuales para asegurar conectividad de alta velocidad y baja latencia entre nodos críticos de la infraestructura.</li>
-          <li>Creación y despliegue de un servidor Rocketchat en SUSE mediante Contenedor.</li>
+          <li>Administración y despliegue de microservicios mediante contenedores Docker y orquestación en clústeres de Kubernetes, facilitando la portabilidad y escalabilidad de aplicaciones empresariales. Implementación de flujos de trabajo basados en contenedores para la modernización de servicios, asegurando entornos de ejecución aislados, eficientes y alineados con arquitecturas de infraestructura moderna.</li>
+          <li>Desplegué y administré plataformas internas de colaboración y
+operaciones: Rocket.Chat, GLPI, OwnCloud, BIND DNS, Documize y RustDesk.</li>
           <li>Creación y despliegue de un Relay de correo para cass.cl.</li>
-          <li>Creación y despliegue de Nagios con monitorizacion via SNMP y NRPE en cada Servidor Invitado y dispositivos.</li>
-          <li>Creación y despliegue de un servidor Grafana via Prometheus en cada Servidor Invitado.</li>
-          <li>Creación y despliegue de un servidor GLPI mediante contenedor (Helpdesk e inventario de equipos).</li>
-          <li>Creación y despliegue de un servidor Owncloud con control de acceso y carpetas por usuarios.</li>
-          <li>Creación y despliegue de un servidor DNS en SUSE Enterprise usando contenedor.</li>
-          <li>Creación y despliegue de un servidor Documize por contenedor.</li>
-          <li>Creación y despliegue de un servidor Rustdesk con Key privada en SUSE mediante contenedor.</li>
-          <li>Creación y despliegue de un repositorio Inmutable en SUSE para ser usado en Veeam Backup Replication.</li>
-          <li>Software CRUD para manejar el Workflow empresa (Personal, Vehiculos, Permisos Pers., Vacaciones, Permisos Vehiculos, Checklist) con integración AD con JWT / Firebase con JWT para Login y paginación en backend (Nodejs+PrismaORM(Mysql)), consumidos via React + Material-UI.</li>
+          <li>Implementé una plataforma completa de monitoreo y observabilidad basada en Nagios, Prometheus y Grafana, integrando monitoreo vía SNMP y NRPE en servidores y dispositivos de red.</li>
+          <li>Implementé servicios críticos de infraestructura incluyendo servidor DNS, relay de correo y repositorios internos en entornos empresariales Linux.</li>
+          <li>Diseñé un repositorio inmutable en SUSE para integrarse con Veeam Backup y Replication, optimizando la seguridad y resiliencia del sistema de respaldos.</li>
+          <li>Administré y mantuve soluciones de ciberseguridad perimetral y endpoint utilizando Sophos UTM y Sophos XDR, actuando como ingeniero de soporte de última línea para resolución de incidentes complejos.</li>
+          <li>Repliqué y configuré infraestructuras de firewall basadas en pfSense, asegurando continuidad operativa y consistencia de políticas de seguridad.</li>
+<li>Desarrolleunaaplicaciónempresarialparagestióndeoperaciones(personal,vehículos,
+permisos, vacaciones y checklist) utilizando Node.js, Prisma ORM, MySQL y frontend en
+React con Material UI, incluyendo autenticación con JWT, Active Directory ademas de
+paginación en backend.</li>
         </ul>
       </div>
     </div>
