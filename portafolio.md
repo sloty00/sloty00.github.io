@@ -125,8 +125,8 @@ paginación en backend.</li>
     <div class="post">
       <header class="post-header">
           <h1 class="post-title">Desarrollador de Software</h1>
-          <div class="post-meta">Marzo 2016 - Enero 2017
-            <span class="post-period"> Frutillar </span>
+          <div class="post-meta">
+            <span class="post-period">Marzo 2016 - Enero 2017 / Frutillar</span>
             <span class="post-company">Mirador de Frutillar</span>
           </div>
       </header>
@@ -150,10 +150,8 @@ paginación en backend.</li>
       </header>
       <div class="entry">
         <ul>
-          <li>Levantamiento de proyectos y planos de demanda Inmobiliaria.</li>
-          <li>Desarrollo de proyectos y elaboración de documentos "As-Built".</li>
-          <li>Detalles de Ingeniería y tramitación de permisos en Saesa y municipales.</li>
-          <li>Cubicación y Avaluacion de proyecto.</li>
+          <li>Liderelevantamiento de proyectos y cree planos de demanda Inmobiliaria. Desarrolle proyectos de Telecomunicaciones y elaboraba documentos "As-Built".</li>
+          <li>Gestione los permisos hacia Saesa y municipalidad y cubique/Avalue proyectos.</li>
         </ul>
       </div>
     </div>
@@ -170,8 +168,8 @@ paginación en backend.</li>
       </header>
       <div class="entry">
         <ul>
-          <li>Levantamiento y mantenimiento de servidores.</li>
-          <li>Provisión de soporte técnico en IT.</li>
+          <li>Levanteymantuveservidores y provisión soporte técnico en IT.</li>
+          <li>Implementeylidere diferentes proyectos IT.</li>
         </ul>
       </div>
     </div>
@@ -188,9 +186,10 @@ paginación en backend.</li>
       </header>
       <div class="entry">
         <ul>
-          <li>Diseño y configuración de sistemas de redes.</li>
-          <li>Implementación y organización de servidores Linux.</li>
-          <li>Provisión de soporte técnico en IT.</li>
+          <li>Implementé un programa de reciclaje de computadoras, aprovechando componentes
+obsoletos para armar equipos funcionales. Monté un entorno de computación en red utilizando terminales tontos (LTSP) que se iniciaban através de la red, optimizando los recursos disponibles y reduciendo costos. Instalé y configuré una versión oficial de Windows XP Thin en computadoras con discos duros pequeños,asegurando un rendimiento óptimo
+en un entorno educativo.</li>
+          <li>Realice el diseño y configuración de sistemas de redes. Implemente y organice servidores Linux y Provisión de soporte técnico en IT</li>
         </ul>
       </div>
     </div>
@@ -208,7 +207,7 @@ paginación en backend.</li>
       <div class="entry">
         <ul>
           <li>Provisión de soporte Informático y desarrollo de programas en VB6.</li>
-          <li>Realización de arreglos electrónicos.</li>
+          <li>Realicearreglos electrónicos ademas de Provisión de soporte técnico.</li>
         </ul>
       </div>
     </div>
