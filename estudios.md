@@ -157,11 +157,21 @@ CSS
 
 <div id="cert-list">
 
-<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard" data-lop="tecnico">
+<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard tecnico preventa">
     <div class="cert-header">
-    <h3 class="cert-title">Sophos Firewall V20.0 Certified Architect (AT80)</h3>
-    <div class="cert-meta"><span class="cert-company">Sophos Partner Program</span></div>
+      <h3 class="cert-title">Sophos Firewall V20.0 Certified Architect (AT80)</h3>
+      <div class="cert-meta">
+        <span class="cert-company">Sophos Partner Program</span>
+      </div>
     </div>
+    <span class="cert-badge">Hard Skill / Network Architect</span>
+    <p>Certificación técnica avanzada enfocada en el diseño, configuración y optimización de arquitecturas de seguridad perimetral:</p>
+    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '🛡️ ';">
+      <li><strong>XGS Architecture:</strong> Implementación de hardware y virtual.</li>
+      <li><strong>Advanced Networking:</strong> SD-WAN, Enrutamiento y NAT.</li>
+      <li><strong>Deep Packet Inspection:</strong> Descifrado SSL/TLS 1.3.</li>
+      <li><strong>High Availability:</strong> Diseño de clusters y redundancia.</li>
+    </ul>
 </div>
 
 <div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard" data-lop="tecnico">
