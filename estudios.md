@@ -287,7 +287,7 @@ permalink: /estudios/
     <div class="cert-header">
       <h3 class="cert-title">Automatización de Flujos con GitHub Actions I - II</h3>
       <div class="cert-meta">
-        <span class="cert-company">Microsoft / GitHub</span>
+        <span class="cert-company">Microsoft Learn / GitHub</span>
       </div>
     </div>
     <span class="cert-badge">Hard Skill / Automation</span>
