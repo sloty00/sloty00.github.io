@@ -717,6 +717,23 @@ permalink: /estudios/
     </ul>
 </div>
 
+<div class="cert-card" data-category="it-admin" data-brand="udemy" data-skill="monitoring security">
+    <div class="cert-header">
+      <h3 class="cert-title">Monitorización de Sistemas con Nagios Core</h3>
+      <div class="cert-meta">
+        <span class="cert-company">Udemy (Prof. Carlos Melantuche)</span>
+      </div>
+    </div>
+    <span class="cert-badge">Infrastructure Monitoring / NOC</span>
+    <p>Certificación en el despliegue y administración de sistemas de monitorización proactiva para infraestructuras críticas:</p>
+    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '📊 ';">
+      <li><strong>Host & Service Monitoring:</strong> Supervisión de salud y disponibilidad.</li>
+      <li><strong>Custom Plugins:</strong> Desarrollo de scripts para alertas a medida.</li>
+      <li><strong>SNMP Integration:</strong> Gestión de capa física y red avanzada.</li>
+      <li><strong>Alert Escalation:</strong> Configuración de jerarquías de notificación.</li>
+    </ul>
+</div>
+
 </div>
 
 <script>
