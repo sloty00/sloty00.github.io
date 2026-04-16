@@ -134,49 +134,56 @@ permalink: /estudios/
   <span class="filter-group-label">Skills</span>
   <div class="filter-container">
     <button class="filter-btn" onclick="multiFilter('hard', 'skill')">Hard Skills</button>
-    <button class="filter-btn" onclick="multiFilter('soft', 'skill')">Hab. Blandas</button>
-    <button class="filter-btn" onclick="multiFilter('preventa', 'skill')">Ventas / Preventa</button>
+    <button class="filter-btn" onclick="multiFilter('soft', 'skill')">Soft Skills</button>
+    <button class="filter-btn" onclick="multiFilter('preventa', 'skill')">Preventa</button>
+    <button class="filter-btn" onclick="multiFilter('venta', 'skill')">Venta</button>
+  </div>
+  <span class="filter-group-label">Nivel Operacional</span>
+  <div class="filter-container">
+    <button class="filter-btn" onclick="multiFilter('preventa', 'lop')">Preventa</button>
+    <button class="filter-btn" onclick="multiFilter('venta', 'lop')">Venta</button>
+    <button class="filter-btn" onclick="multiFilter('tecnico', 'lop')">Tecnico</button>
   </div>
 </div>
 
 <div id="cert-list">
 
-<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard">
+<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard" data-lop="tecnico">
     <div class="cert-header">
     <h3 class="cert-title">Sophos Firewall V20.0 Certified Architect (AT80)</h3>
     <div class="cert-meta"><span class="cert-company">Sophos Partner Program</span></div>
     </div>
 </div>
 
-<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard">
+<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard" data-lop="tecnico">
     <div class="cert-header">
     <h3 class="cert-title">Sophos Endpoint Certified Architect V 6.0 (AT15)</h3>
     <div class="cert-meta"><span class="cert-company">Sophos Partner Program</span></div>
     </div>
 </div>
 
-<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard">
+<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard" data-lop="tecnico">
     <div class="cert-header">
     <h3 class="cert-title">Sophos Firewall: Certified Engineer (v19.5 - v22.0) ET80</h3>
     <div class="cert-meta"><span class="cert-company">Sophos Partner Program</span></div>
     </div>
 </div>
 
-<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard">
+<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard" data-lop="tecnico">
     <div class="cert-header">
     <h3 class="cert-title">Sophos Detection and Response Certified Engineer v5.5 ET15 / XDR v4.0</h3>
     <div class="cert-meta"><span class="cert-company">Sophos Partner Program</span></div>
     </div>
 </div>
 
-<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard">
+<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard" data-lop="tecnico">
     <div class="cert-header">
     <h3 class="cert-title">Sophos Endpoint & Central Protection: Certified Engineer (v5.0 - v6.0)</h3>
     <div class="cert-meta"><span class="cert-company">Sophos Partner Program</span></div>
     </div>
 </div>
 
-<div class="cert-card" data-category="ventas" data-brand="sophos" data-skill="soft">
+<div class="cert-card" data-category="ventas" data-brand="sophos" data-skill="soft" data-lop="ventas">
     <div class="cert-header">
       <h3 class="cert-title">Sales Fundamentals & Selling Sophos</h3>
       <div class="cert-meta">
@@ -193,7 +200,7 @@ permalink: /estudios/
     </ul>
   </div>
 
-<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard">
+<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard" data-lop="preventa">
     <div class="cert-header">
       <h3 class="cert-title">Winning with Network & Endpoint Protection</h3>
       <div class="cert-meta">
@@ -263,7 +270,7 @@ permalink: /estudios/
     </ul>
 </div>
 
-<div class="cert-card" data-category="infraestructura" data-brand="veeam" data-skill="preventa">
+<div class="cert-card" data-category="infraestructura" data-brand="veeam" data-skill="hard" data-lop="preventa">
     <div class="cert-header">
       <h3 class="cert-title">Veeam Technical Sales Professional (VMTSP)</h3>
       <div class="cert-meta"><span class="cert-company">Veeam Partner Program</span></div>
