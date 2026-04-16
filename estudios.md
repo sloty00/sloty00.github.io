@@ -702,7 +702,7 @@ permalink: /estudios/
     </ul>
 </div>
 
-<div class="cert-card" data-category="civil" data-brand="udemy" data-skill="hard tecnico preventa">
+<div class="cert-card" data-category="civil" data-brand="udemy" data-skill="hard preventa">
     <div class="cert-header">
       <h3 class="cert-title">AutoCAD 2023 MasterClass</h3>
       <div class="cert-meta">
@@ -719,7 +719,7 @@ permalink: /estudios/
     </ul>
 </div>
 
-<div class="cert-card" data-category="infraestructura" data-brand="udemy" data-skill="hard, preventa">
+<div class="cert-card" data-category="infraestructura" data-brand="udemy" data-skill="hard preventa">
     <div class="cert-header">
       <h3 class="cert-title">Monitorización de Sistemas con Nagios Core</h3>
       <div class="cert-meta">
