@@ -633,7 +633,7 @@ CSS
     </ul>
 </div>
 
-<div class="cert-card" data-category="ciberseguridad" data-brand="fortinet" data-skill="hard tecnico preventa venta">
+<div class="cert-card" data-category="ciberseguridad" data-brand="fortinet" data-skill="hard tecnico preventa">
     <div class="cert-header">
       <h3 class="cert-title">Cybersecurity Certified Associate & Fundamentals</h3>
       <div class="cert-meta">
