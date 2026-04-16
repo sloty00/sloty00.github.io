@@ -124,16 +124,16 @@ paginación en backend.</li>
   <div class="portfolio-item desarrollo posts">
     <div class="post">
       <header class="post-header">
-          <h1 class="post-title">Desarrollador de Software (Java/PHP)</h1>
-          <div class="post-meta">
-            <span class="post-period">Enero 2017 - Presente / Puerto Montt</span>
-            <span class="post-company">Varto INC</span>
+          <h1 class="post-title">Desarrollador de Software</h1>
+          <div class="post-meta">Marzo 2016 - Enero 2017
+            <span class="post-period"> Frutillar </span>
+            <span class="post-company">Mirador de Frutillar</span>
           </div>
       </header>
       <div class="entry">
         <ul>
-          <li>Creación de un software de gestión utilizando Java SE.</li>
-          <li>Desarrollo de una página web autoadministrable con PHP, HTML5, JavaScript y CSS.</li>
+          <li>Desarrolle un software de gestión utilizando Java SE.</li>
+          <li>Creeunapáginawebautoadministrable con PHP, HTML5, JavaScript y CSS.</li>
         </ul>
       </div>
     </div>
