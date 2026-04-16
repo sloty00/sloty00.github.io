@@ -282,23 +282,40 @@ permalink: /estudios/
       <li><strong>Dependabot:</strong> Automatización de parches de seguridad.</li>
     </ul>
   </div>
-<header class="post-header">
-    <h1 class="post-title">Automatizacion de Flujo con Acciones de Github I - II</h1>
-    <div class="post-meta">
-      <span class="post-period">Abril 2026 / Online</span>
-      <span class="post-company">Microsoft</span>
-    </div>
-</header>
-Diseño de flujos de trabajo automatizados para optimizar el SDLC y despliegue eficiente de aplicaciones.
 
-<header class="post-header">
-    <h1 class="post-title">Preparacion de Datos con Power BI</h1>
-    <div class="post-meta">
-      <span class="post-period">Abril 2026 / Online</span>
-      <span class="post-company">Microsoft</span>
+<div class="cert-card" data-category="programacion" data-brand="microsoft" data-skill="hard">
+    <div class="cert-header">
+      <h3 class="cert-title">Automatización de Flujos con GitHub Actions I - II</h3>
+      <div class="cert-meta">
+        <span class="cert-company">Microsoft / GitHub</span>
+      </div>
     </div>
-</header>
-Capacidad para conectar, limpiar y transformar datos optimizados para modelos de análisis robustos.
+    <span class="cert-badge">Hard Skill / Automation</span>
+    <p>Diseño y orquestación de flujos de trabajo automatizados para optimizar el ciclo de vida de desarrollo (SDLC):</p>
+    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '⚙️ ';">
+      <li><strong>Workflows:</strong> Automatización de Build, Test y Deploy.</li>
+      <li><strong>Custom Actions:</strong> Creación de acciones personalizadas.</li>
+      <li><strong>SDLC Optimization:</strong> Reducción de tiempos de entrega.</li>
+      <li><strong>Event Triggers:</strong> Disparadores basados en eventos de repositorio.</li>
+    </ul>
+</div>
+
+<div class="cert-card" data-category="dev-data" data-brand="microsoft" data-skill="hard">
+    <div class="cert-header">
+      <h3 class="cert-title">Preparación de Datos con Power BI</h3>
+      <div class="cert-meta">
+        <span class="cert-company">Microsoft Learn</span>
+      </div>
+    </div>
+    <span class="cert-badge">Hard Skill / Data Analysis</span>
+    <p>Capacidad experta para conectar, limpiar y transformar datos en bruto en modelos de análisis robustos y eficientes:</p>
+    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '📊 ';">
+      <li><strong>Power Query:</strong> Procesos avanzados de ETL.</li>
+      <li><strong>Data Modeling:</strong> Diseño de modelos en estrella.</li>
+      <li><strong>Data Cleaning:</strong> Normalización y calidad de datos.</li>
+      <li><strong>DAX:</strong> Fundamentos de expresiones de análisis.</li>
+    </ul>
+</div>
 
 ### HackerRank (Ingeniería de Software)
 
