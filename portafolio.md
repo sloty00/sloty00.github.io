@@ -43,7 +43,7 @@ permalink: /portafolio/
       </header>
       <div class="entry">
         <ul>
-          <li>Lideréelanteproyecto de arquitectura e implementación del sistema de respaldo empresarial basado en Veeam Backup y Replication, utilizando diseño de infraestructura y Block GIS del fabricante para Salmones Austral.</li>
+          <li>Lideré el anteproyecto de arquitectura e implementación del sistema de respaldo empresarial basado en Veeam Backup y Replication, utilizando diseño de infraestructura y Block GIS del fabricante para Salmones Austral.</li>
           <li>Creación y despliegue de un servidor Rocketchat en SUSE mediante Contenedor.</li>
           <li>Creación y despliegue de un Relay de correo para cass.cl.</li>
           <li>Creación y despliegue de Nagios con monitorizacion via SNMP y NRPE en cada Servidor Invitado y dispositivos.</li>
