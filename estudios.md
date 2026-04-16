@@ -319,32 +319,56 @@ permalink: /estudios/
 
 ### HackerRank (Ingeniería de Software)
 
-<header class="post-header">
-    <h1 class="post-title">Frontend Developer React</h1>
-    <div class="post-meta">
-      <span class="post-period">Marzo 2026 / Online</span>
-      <span class="post-company">Hackerrank</span>
+<div class="cert-card" data-category="programacion" data-brand="hackerrank" data-skill="hard">
+    <div class="cert-header">
+      <h3 class="cert-title">Frontend Developer React</h3>
+      <div class="cert-meta">
+        <span class="cert-company">HackerRank Verified</span>
+      </div>
     </div>
-</header>
-Desarrollador enfocado en interfaces dinámicas. Habilidades validadas en manejo de componentes, hooks y ciclo de vida bajo las mejores prácticas de desarrollo.
+    <span class="cert-badge">Hard Skill / Frontend Expert</span>
+    <p>Validación técnica en el desarrollo de interfaces de usuario modernas y dinámicas bajo estándares competitivos:</p>
+    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '⚛️ ';">
+      <li><strong>Hooks Avanzados:</strong> UseState, UseEffect, Context API.</li>
+      <li><strong>Component Lifecycle:</strong> Gestión eficiente del renderizado.</li>
+      <li><strong>State Management:</strong> Arquitectura de datos en el cliente.</li>
+      <li><strong>Best Practices:</strong> Código limpio, modular y escalable.</li>
+    </ul>
+</div>
 
-<header class="post-header">
-    <h1 class="post-title">Software Engineer & Engineer Intern</h1>
-    <div class="post-meta">
-      <span class="post-period">Marzo 2026 / Online</span>
-      <span class="post-company">Hackerrank</span>
+<div class="cert-card" data-category="programacion" data-brand="hackerrank" data-skill="hard">
+    <div class="cert-header">
+      <h3 class="cert-title">Software Engineer & Engineer Intern</h3>
+      <div class="cert-meta">
+        <span class="cert-company">HackerRank Certified</span>
+      </div>
     </div>
-</header>
-Resolución de problemas complejos de algoritmos y estructuras de datos. Poseo un enfoque lógico para la optimización de código bajo estándares competitivos.
+    <span class="cert-badge">Hard Skill / Engineering</span>
+    <p>Certificación de competencias en ingeniería de software, enfocada en la resolución de problemas de alta complejidad lógica:</p>
+    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '💻 ';">
+      <li><strong>Problem Solving:</strong> Algoritmos de búsqueda y ordenamiento.</li>
+      <li><strong>Data Structures:</strong> Pilas, colas, árboles y grafos.</li>
+      <li><strong>Code Efficiency:</strong> Optimización de complejidad Big O.</li>
+      <li><strong>Logic:</strong> Enfoque estructurado bajo estándares competitivos.</li>
+    </ul>
+</div>
 
-<header class="post-header">
-    <h1 class="post-title">SQL Advanced</h1>
-    <div class="post-meta">
-      <span class="post-period">Julio 2024 / Online</span>
-      <span class="post-company">Hackerrank</span>
+<div class="cert-card" data-category="dev-data" data-brand="hackerrank" data-skill="hard">
+    <div class="cert-header">
+      <h3 class="cert-title">SQL Advanced Certified</h3>
+      <div class="cert-meta">
+        <span class="cert-company">HackerRank Verified</span>
+      </div>
     </div>
-</header>
-Temas avanzados como optimización de consultas, modelado de datos, indexación y funciones de ventana.
+    <span class="cert-badge">Hard Skill / Data Engineering</span>
+    <p>Validación de competencias avanzadas en manipulación de datos y optimización de bases de datos relacionales:</p>
+    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '🗄️ ';">
+      <li><strong>Query Optimization:</strong> Mejora de rendimiento y tiempos de respuesta.</li>
+      <li><strong>Window Functions:</strong> Análisis de datos complejo (Rank, Lead, Lag).</li>
+      <li><strong>Advanced Joins:</strong> Modelado y extracción de datos cruzados.</li>
+      <li><strong>Indexing:</strong> Estrategias de indexación para grandes volúmenes.</li>
+    </ul>
+</div>
 
 ### VMware by Broadcom
 
