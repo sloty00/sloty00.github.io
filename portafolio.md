@@ -135,7 +135,7 @@ paginación en backend.</li>
     </div>
   </div>
 
-  <div class="portfolio-item civil posts">
+  <div class="portfolio-item civil arquitectura posts">
     <div class="post">
       <header class="post-header">
           <h1 class="post-title">Inspector de Proyectos</h1>
