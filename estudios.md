@@ -3,24 +3,30 @@ layout: page
 title: Estudios
 permalink: /estudios/
 ---
+Aquí tienes el código completo e integrado. He consolidado el CSS para que los bordes laterales cambien de color según el perfil, el HTML con los nuevos grupos de filtros y el JavaScript con la lógica de inclusión de palabras clave para que una tarjeta pueda ser "Técnica" y "Preventa" al mismo tiempo.
+
+1. Bloque de Estilos (CSS)
+CSS
 <style>
   /* Contenedores de Filtros */
   .filter-section {
     margin: 20px 0;
     text-align: center;
     background: #f8f9fa;
-    padding: 15px;
+    padding: 20px;
     border-radius: 12px;
+    border: 1px solid #e1e4e8;
   }
   
   .filter-group-label {
     display: block;
     font-weight: 800;
-    margin-bottom: 10px;
+    margin-bottom: 12px;
     color: #2c3e50;
     text-transform: uppercase;
-    font-size: 0.85rem;
-    letter-spacing: 1px;
+    font-size: 0.75rem;
+    letter-spacing: 1.5px;
+    margin-top: 15px;
   }
 
   .filter-container {
@@ -28,7 +34,7 @@ permalink: /estudios/
     flex-wrap: wrap;
     gap: 8px;
     justify-content: center;
-    margin-bottom: 15px;
+    margin-bottom: 5px;
   }
 
   .filter-btn {
@@ -38,64 +44,70 @@ permalink: /estudios/
     padding: 6px 14px;
     border-radius: 6px;
     cursor: pointer;
-    font-size: 0.9rem;
-    font-weight: 500;
+    font-size: 0.85rem;
+    font-weight: 600;
     transition: all 0.2s ease;
   }
 
-  .filter-btn:hover, .filter-btn.active {
-    background: #3498db;
-    color: white;
+  .filter-btn:hover {
+    background: #f1f2f6;
     border-color: #3498db;
-    box-shadow: 0 2px 8px rgba(52, 152, 219, 0.3);
   }
 
-  /* Tarjetas */
+  .filter-btn.active {
+    background: #2c3e50 !important;
+    color: white !important;
+    border-color: #2c3e50 !important;
+    box-shadow: 0 2px 8px rgba(44, 62, 80, 0.3);
+  }
+
+  /* Tarjetas de Certificación */
   .cert-card {
     background: #ffffff;
     border: 1px solid #e1e4e8;
-    border-left: 6px solid #3498db;
+    border-left: 6px solid #bdc3c7; /* Color base */
     border-radius: 8px;
     padding: 18px;
     margin-bottom: 15px;
-    transition: all 0.3s ease;
-    display: block;
+    transition: transform 0.2s ease;
   }
+
+  /* Colores Dinámicos por Skill/Nivel (Prioridad de cascada) */
+  .cert-card[data-skill*="tecnico"] { border-left-color: #2ecc71; }   /* Verde */
+  .cert-card[data-skill*="preventa"] { border-left-color: #9b59b6; }  /* Púrpura */
+  .cert-card[data-skill*="venta"] { border-left-color: #e74c3c; }     /* Rojo */
+  .cert-card[data-category="civil"] { border-left-color: #e67e22; }   /* Naranja */
 
   .cert-header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-bottom: 8px;
   }
 
   .cert-title {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     font-weight: 700;
     color: #2c3e50;
     margin: 0;
   }
 
   .cert-meta {
-    text-align: right;
-    font-size: 0.85rem;
+    font-size: 0.8rem;
     color: #7f8c8d;
+    font-weight: 600;
   }
 
   .cert-badge {
     display: inline-block;
-    padding: 2px 8px;
+    padding: 3px 10px;
     border-radius: 4px;
-    font-size: 0.7rem;
+    font-size: 0.65rem;
     font-weight: 800;
     text-transform: uppercase;
     background: #f1f2f6;
-    margin-top: 5px;
+    color: #34495e;
+    margin: 8px 0;
   }
-
-  .cert-card[data-skill*="Hard"] { border-left-color: #2980b9; }
-  .cert-card[data-skill*="Soft"] { border-left-color: #f1c40f; }
-  .cert-card[data-category="civil"] { border-left-color: #e67e22; }
 </style>
 
 ## Formación Académica Superior
@@ -138,11 +150,11 @@ permalink: /estudios/
     <button class="filter-btn" onclick="multiFilter('preventa', 'skill')">Preventa</button>
     <button class="filter-btn" onclick="multiFilter('venta', 'skill')">Venta</button>
   </div>
-  <span class="filter-group-label">Nivel Operacional</span>
-  <div class="filter-container">
-    <button class="filter-btn" onclick="multiFilter('preventa', 'lop')">Preventa</button>
-    <button class="filter-btn" onclick="multiFilter('venta', 'lop')">Venta</button>
-    <button class="filter-btn" onclick="multiFilter('tecnico', 'lop')">Tecnico</button>
+  <span class="filter-group-label">Perfil Operacional (Rol)</span>
+    <div class="filter-container">
+      <button class="filter-btn" onclick="multiFilter('tecnico', 'skill')">Técnico</button>
+      <button class="filter-btn" onclick="multiFilter('preventa', 'skill')">Preventa</button>
+      <button class="filter-btn" onclick="multiFilter('venta', 'skill')">Ventas</button>
   </div>
 </div>
 
@@ -200,7 +212,7 @@ permalink: /estudios/
     </ul>
   </div>
 
-<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard" data-lop="preventa">
+<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard tecnico preventa">
     <div class="cert-header">
       <h3 class="cert-title">Winning with Network & Endpoint Protection</h3>
       <div class="cert-meta">
@@ -270,7 +282,7 @@ permalink: /estudios/
     </ul>
 </div>
 
-<div class="cert-card" data-category="infraestructura" data-brand="veeam" data-skill="hard" data-lop="preventa">
+<div class="cert-card" data-category="infraestructura" data-brand="veeam" data-skill="hard tecnico preventa">
     <div class="cert-header">
       <h3 class="cert-title">Veeam Technical Sales Professional (VMTSP)</h3>
       <div class="cert-meta"><span class="cert-company">Veeam Partner Program</span></div>
@@ -636,31 +648,37 @@ permalink: /estudios/
 <script>
 function multiFilter(value, type) {
   const cards = document.querySelectorAll('.cert-card');
-  const buttons = document.querySelectorAll('.filter-btn');
-
-  // Resetear botones activos del grupo
-  buttons.forEach(btn => {
-    if (btn.getAttribute('onclick').includes(`'${type}'`)) {
-      btn.classList.remove('active');
-    }
-  });
-  event.target.classList.add('active');
+  const currentBtn = event.currentTarget;
+  
+  // Manejo visual de botones activos por grupo
+  const parentContainer = currentBtn.parentNode;
+  parentContainer.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
+  currentBtn.classList.add('active');
 
   cards.forEach(card => {
-    // La tarjeta de la universidad es fija (no tiene atributos de filtro)
+    // Saltamos tarjetas sin atributos de filtrado (como la de la universidad)
     if (!card.hasAttribute('data-category')) return;
 
-    const cat = card.getAttribute('data-category');
-    const brand = card.getAttribute('data-brand');
-    const skill = card.getAttribute('data-skill');
+    // Mapeamos el tipo de filtro al atributo HTML correspondiente
+    const attrMap = {
+      'cat': 'data-category',
+      'brand': 'data-brand',
+      'skill': 'data-skill'
+    };
+
+    const targetAttr = attrMap[type];
+    const cardAttrValue = (card.getAttribute(targetAttr) || "").toLowerCase();
 
     if (value === 'all') {
       card.style.display = 'block';
     } else {
-      if (type === 'cat' && cat === value) card.style.display = 'block';
-      else if (type === 'brand' && brand === value) card.style.display = 'block';
-      else if (type === 'skill' && skill === value) card.style.display = 'block';
-      else card.style.display = 'none';
+      // Dividimos el string de atributos por espacios para buscar coincidencias exactas
+      const tags = cardAttrValue.split(' ');
+      if (tags.includes(value.toLowerCase())) {
+        card.style.display = 'block';
+      } else {
+        card.style.display = 'none';
+      }
     }
   });
 }
