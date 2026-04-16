@@ -208,18 +208,38 @@ CSS
     </ul>
 </div>
 
-<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard" data-lop="tecnico">
+<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard tecnico">
     <div class="cert-header">
-    <h3 class="cert-title">Sophos Detection and Response Certified Engineer v5.5 ET15 / XDR v4.0</h3>
-    <div class="cert-meta"><span class="cert-company">Sophos Partner Program</span></div>
+      <h3 class="cert-title">Detection and Response Certified Engineer v5.5 ET15 / XDR v4.0</h3>
+      <div class="cert-meta">
+        <span class="cert-company">Sophos Partner Program</span>
+      </div>
     </div>
+    <span class="cert-badge">Hard Skill / SOC & Incident Response</span>
+    <p>Especialización técnica en la detección proactiva de amenazas y respuesta ante incidentes utilizando herramientas de análisis forense y XDR:</p>
+    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '🔍 ';">
+      <li><strong>Threat Hunting:</strong> Búsqueda proactiva de indicadores de compromiso (IoC).</li>
+      <li><strong>XDR Queries:</strong> Creación de consultas avanzadas en Data Lake.</li>
+      <li><strong>Incident Response:</strong> Aislamiento de dispositivos y limpieza de amenazas.</li>
+      <li><strong>Root Cause Analysis:</strong> Análisis forense de la cadena de ataque.</li>
+    </ul>
 </div>
 
-<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard" data-lop="tecnico">
+<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard tecnico">
     <div class="cert-header">
-    <h3 class="cert-title">Sophos Endpoint & Central Protection: Certified Engineer (v5.0 - v6.0)</h3>
-    <div class="cert-meta"><span class="cert-company">Sophos Partner Program</span></div>
+      <h3 class="cert-title">Sophos Endpoint & Central Protection: Certified Engineer (v5.0 - v6.0)</h3>
+      <div class="cert-meta">
+        <span class="cert-company">Sophos Partner Program</span>
+      </div>
     </div>
+    <span class="cert-badge">Hard Skill / Central Management</span>
+    <p>Certificación técnica en la gestión centralizada de seguridad y despliegue de protección de endpoints de próxima generación:</p>
+    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '☁️ ';">
+      <li><strong>Central Admin:</strong> Gestión de consola cloud unificada.</li>
+      <li><strong>Policy Setup:</strong> Configuración de protección contra exploits.</li>
+      <li><strong>Deployment:</strong> Métodos de instalación masiva y automatizada.</li>
+      <li><strong>Alert Mgmt:</strong> Monitorización y remediación de eventos críticos.</li>
+    </ul>
 </div>
 
 <div class="cert-card" data-category="ventas" data-brand="sophos" data-skill="soft venta">
@@ -256,13 +276,21 @@ CSS
     </ul>
 </div>
 
-<div class="cert-card" data-category="infraestructura" data-brand="veeam" data-skill="hard">
+<div class="cert-card" data-category="infraestructura" data-brand="veeam" data-skill="hard tecnico preventa">
     <div class="cert-header">
-      <h3 class="cert-title">Veeam VMCE12 - Service Provider</h3>
-      <div class="cert-meta"><span class="cert-company">Veeam Partner Program</span></div>
+      <h3 class="cert-title">Veeam Certified Engineer (VMCE12): Service Provider</h3>
+      <div class="cert-meta">
+        <span class="cert-company">Veeam Partner Program</span>
+      </div>
     </div>
-    <span class="cert-badge">Hard Skill</span>
-    <p>Arquitectura multi-inquilino para proveedores de servicios MSP/VCPP.</p>
+    <span class="cert-badge">Hard Skill / Cloud & MSP Architect</span>
+    <p>Certificación experta en el diseño y administración de arquitecturas multi-inquilino para proveedores de servicios (BaaS & DRaaS):</p>
+    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '☁️ ';">
+      <li><strong>Cloud Connect:</strong> Gestión de repositorios remotos y replicación.</li>
+      <li><strong>Multi-Tenancy:</strong> Aislamiento y seguridad para entornos MSP.</li>
+      <li><strong>VSPC:</strong> Administración vía Service Provider Console.</li>
+      <li><strong>Architecture:</strong> Diseño de soluciones escalables de backup.</li>
+    </ul>
 </div>
 
 <div class="cert-card" data-category="infraestructura" data-brand="veeam" data-skill="hard">
