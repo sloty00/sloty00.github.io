@@ -233,7 +233,7 @@ permalink: /estudios/
 <div class="cert-card" data-category="infraestructura" data-brand="veeam" data-skill="preventa">
     <div class="cert-header">
       <h3 class="cert-title">Veeam Technical Sales Professional (VMTSP)</h3>
-      <div class="cert-meta"><span class="cert-company">Veeam</span></div>
+      <div class="cert-meta"><span class="cert-company">Veeam Partner Program</span></div>
     </div>
     <span class="cert-badge">Preventa Técnica</span>
     <p>Diseño de arquitecturas y ejecución de Pruebas de Concepto (PoC).</p>
@@ -242,7 +242,7 @@ permalink: /estudios/
   <div class="cert-card" data-category="infraestructura" data-brand="veeam" data-skill="soft">
     <div class="cert-header">
       <h3 class="cert-title">Veeam Sales Professional (VMSP)</h3>
-      <div class="cert-meta"><span class="cert-company">Veeam</span></div>
+      <div class="cert-meta"><span class="cert-company">Veeam Partner Program</span></div>
     </div>
     <span class="cert-badge">Hab. Blandas / Ventas</span>
     <p>Asesoría estratégica y valor de negocio para la continuidad operativa.</p>
