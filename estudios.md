@@ -293,67 +293,90 @@ CSS
     </ul>
 </div>
 
-<div class="cert-card" data-category="infraestructura" data-brand="veeam" data-skill="hard">
+<div class="cert-card" data-category="infraestructura" data-brand="veeam" data-skill="hard tecnico preventa">
     <div class="cert-header">
-      <h3 class="cert-title">Veeam VMCE11</h3>
-      <div class="cert-meta"><span class="cert-company">Veeam Partner Program</span></div>
-    </div>
-    <span class="cert-badge">Hard Skill</span>
-    <p>Administración avanzada y habilidades prácticas en la plataforma Veeam Backup & Replication para entornos empresariales.</p>
-</div>
-
-<div class="cert-card" data-category="infraestructura" data-brand="veeam" data-skill="hard">
-    <div class="cert-header">
-      <h3 class="cert-title">Veeam Technical Specialist (VTS) - Service Provider Full Stack</h3>
+      <h3 class="cert-title">Veeam Certified Engineer (VMCE11)</h3>
       <div class="cert-meta">
         <span class="cert-company">Veeam Partner Program</span>
       </div>
     </div>
-    <span class="cert-badge">Hard Skill / Especialista Técnico</span>
-    <p>Acreditación avanzada en el despliegue y gestión de soluciones Veeam para entornos de proveedores de servicios:</p>
-    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2;">
-      <li><strong>Public Cloud:</strong> AWS/Azure/GCP</li>
-      <li><strong>DRaaS:</strong> Replicación y Failover</li>
-      <li><strong>SaaS:</strong> Microsoft 365 / Salesforce</li>
-      <li><strong>BaaS:</strong> Respaldo gestionado</li>
-      <li><strong>Offsite Backup:</strong> Cloud Connect</li>
-    </ul>
-</div>
-
-<div class="cert-card" data-category="infraestructura" data-brand="veeam" data-skill="hard">
-    <div class="cert-header">
-      <h3 class="cert-title">Veeam Technical Specialist (VTS) - Cybersecurity & Disaster Recovery</h3>
-      <div class="cert-meta">
-        <span class="cert-company">Veeam Partner Program</span>
-      </div>
-    </div>
-    <span class="cert-badge">Hard Skill / Security Expert</span>
-    <p>Especialización técnica enfocada en la resiliencia de datos y recuperación ante incidentes críticos:</p>
-    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '✔  ';">
-      <li><strong>Cybersecurity & DR:</strong> Inmutabilidad y Orquestación.</li>
-      <li><strong>Kubernetes Protection:</strong> Respaldo nativo con Kasten K10.</li>
-      <li><strong>Public Cloud:</strong> Protección nativa en Azure, AWS y GCP.</li>
-      <li><strong>SaaS Protection:</strong> Respaldo crítico para Microsoft 365.</li>
+    <span class="cert-badge">Hard Skill / Backup Specialist</span>
+    <p>Certificación técnica avanzada en la implementación, configuración y optimización de la plataforma Veeam Backup & Replication:</p>
+    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '💾 ';">
+      <li><strong>Core Architecture:</strong> Backup Server, Proxies y Repositorios.</li>
+      <li><strong>Recovery:</strong> Instant VM Recovery y recuperaciones granulares.</li>
+      <li><strong>Optimization:</strong> Deduplicación, compresión y WAN Acceleration.</li>
+      <li><strong>Governance:</strong> Cumplimiento de RPO y RTO empresariales.</li>
     </ul>
 </div>
 
 <div class="cert-card" data-category="infraestructura" data-brand="veeam" data-skill="hard tecnico preventa">
     <div class="cert-header">
-      <h3 class="cert-title">Veeam Technical Sales Professional (VMTSP)</h3>
-      <div class="cert-meta"><span class="cert-company">Veeam Partner Program</span></div>
+      <h3 class="cert-title">Veeam Technical Specialist (VTS): Service Provider Full Stack</h3>
+      <div class="cert-meta">
+        <span class="cert-company">Veeam Partner Program</span>
+      </div>
     </div>
-    <span class="cert-badge">Preventa Técnica</span>
-    <p>Diseño de arquitecturas y ejecución de Pruebas de Concepto (PoC).</p>
-  </div>
+    <span class="cert-badge">Hard Skill / Full Stack Specialist</span>
+    <p>Acreditación experta en el diseño, despliegue y gestión de soluciones de disponibilidad para ecosistemas híbridos y multi-cloud:</p>
+    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '🚀 ';">
+      <li><strong>Multi-Cloud:</strong> Protección nativa en AWS, Azure y GCP.</li>
+      <li><strong>SaaS Protection:</strong> Respaldo crítico para M365 y Salesforce.</li>
+      <li><strong>DRaaS & BaaS:</strong> Implementación de servicios de continuidad.</li>
+      <li><strong>Cloud Connect:</strong> Estrategias de Offsite Backup seguro.</li>
+    </ul>
+</div>
 
-  <div class="cert-card" data-category="infraestructura" data-brand="veeam" data-skill="soft venta">
+<div class="cert-card" data-category="infraestructura" data-brand="veeam" data-skill="hard tecnico preventa">
+    <div class="cert-header">
+      <h3 class="cert-title">Veeam Technical Specialist (VTS): Cybersecurity & DR</h3>
+      <div class="cert-meta">
+        <span class="cert-company">Veeam Partner Program</span>
+      </div>
+    </div>
+    <span class="cert-badge">Hard Skill / Cyber-Resilience Expert</span>
+    <p>Especialización técnica avanzada en resiliencia de datos, recuperación ante desastres y protección de entornos modernos (Cloud/K8s):</p>
+    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '🛡️ ';">
+      <li><strong>Immutability:</strong> Protección contra Ransomware (Air-gap).</li>
+      <li><strong>Kasten K10:</strong> Respaldo nativo para Kubernetes.</li>
+      <li><strong>Orchestration:</strong> Automatización de planes de Disaster Recovery.</li>
+      <li><strong>Hybrid Cloud:</strong> Protección nativa en AWS, Azure y GCP.</li>
+    </ul>
+</div>
+
+<div class="cert-card" data-category="infraestructura" data-brand="veeam" data-skill="hard preventa tecnico">
+    <div class="cert-header">
+      <h3 class="cert-title">Veeam Technical Sales Professional (VMTSP)</h3>
+      <div class="cert-meta">
+        <span class="cert-company">Veeam Partner Program</span>
+      </div>
+    </div>
+    <span class="cert-badge">Pre-Sales Engineer / Specialist</span>
+    <p>Certificación en ingeniería de preventa técnica, enfocada en el diseño de arquitecturas de disponibilidad y validación de valor:</p>
+    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '📐 ';">
+      <li><strong>Architecture Design:</strong> Dimensionamiento y Sizing de soluciones.</li>
+      <li><strong>PoC Execution:</strong> Ejecución de Pruebas de Concepto técnicas.</li>
+      <li><strong>Competitive Analysis:</strong> Diferenciación técnica vs competencia.</li>
+      <li><strong>Solution Mapping:</strong> Alineación de TI con objetivos de negocio.</li>
+    </ul>
+</div>
+
+<div class="cert-card" data-category="infraestructura" data-brand="veeam" data-skill="soft venta">
     <div class="cert-header">
       <h3 class="cert-title">Veeam Sales Professional (VMSP)</h3>
-      <div class="cert-meta"><span class="cert-company">Veeam Partner Program</span></div>
+      <div class="cert-meta">
+        <span class="cert-company">Veeam Partner Program</span>
+      </div>
     </div>
-    <span class="cert-badge">Hab. Blandas / Ventas</span>
-    <p>Asesoría estratégica y valor de negocio para la continuidad operativa.</p>
-  </div>
+    <span class="cert-badge">Soft Skill / Sales & Strategy</span>
+    <p>Acreditación en asesoría comercial estratégica, enfocada en el valor de negocio de la disponibilidad y resiliencia de datos:</p>
+    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '💼 ';">
+      <li><strong>Business Value:</strong> Posicionamiento de ROI y TCO.</li>
+      <li><strong>Licensing:</strong> Dominio de esquemas VUL y suscripciones.</li>
+      <li><strong>Market Strategy:</strong> Segmentación y detección de oportunidades.</li>
+      <li><strong>Continuity:</strong> Traducción de RPO/RTO a impacto financiero.</li>
+    </ul>
+</div>
 
 <div class="cert-card" data-category="infraestructura" data-brand="microsoft" data-skill="hard">
     <div class="cert-header">
