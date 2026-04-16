@@ -317,8 +317,6 @@ permalink: /estudios/
     </ul>
 </div>
 
-### HackerRank (Ingeniería de Software)
-
 <div class="cert-card" data-category="programacion" data-brand="hackerrank" data-skill="hard">
     <div class="cert-header">
       <h3 class="cert-title">Frontend Developer React</h3>
