@@ -291,7 +291,7 @@ CSS
     <p>Diseño de arquitecturas y ejecución de Pruebas de Concepto (PoC).</p>
   </div>
 
-  <div class="cert-card" data-category="infraestructura" data-brand="veeam" data-skill="soft">
+  <div class="cert-card" data-category="infraestructura" data-brand="veeam" data-skill="soft venta">
     <div class="cert-header">
       <h3 class="cert-title">Veeam Sales Professional (VMSP)</h3>
       <div class="cert-meta"><span class="cert-company">Veeam Partner Program</span></div>
