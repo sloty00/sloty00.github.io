@@ -174,18 +174,38 @@ CSS
     </ul>
 </div>
 
-<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard" data-lop="tecnico">
+<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard tecnico preventa">
     <div class="cert-header">
-    <h3 class="cert-title">Sophos Endpoint Certified Architect V 6.0 (AT15)</h3>
-    <div class="cert-meta"><span class="cert-company">Sophos Partner Program</span></div>
+      <h3 class="cert-title">Sophos Endpoint Certified Architect V 6.0 (AT15)</h3>
+      <div class="cert-meta">
+        <span class="cert-company">Sophos Partner Program</span>
+      </div>
     </div>
+    <span class="cert-badge">Hard Skill / Endpoint Architect</span>
+    <p>Certificación avanzada en el diseño y despliegue de arquitecturas de protección de próxima generación para estaciones de trabajo y servidores:</p>
+    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '🛡️ ';">
+      <li><strong>Advanced Design:</strong> Estructura de políticas globales.</li>
+      <li><strong>XDR Strategy:</strong> Integración de detección y respuesta.</li>
+      <li><strong>Server Protection:</strong> Hardening de entornos críticos.</li>
+      <li><strong>Migration:</strong> Estrategias de despliegue masivo y transición.</li>
+    </ul>
 </div>
 
-<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard" data-lop="tecnico">
+<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard tecnico">
     <div class="cert-header">
-    <h3 class="cert-title">Sophos Firewall: Certified Engineer (v19.5 - v22.0) ET80</h3>
-    <div class="cert-meta"><span class="cert-company">Sophos Partner Program</span></div>
+      <h3 class="cert-title">Sophos Firewall: Certified Engineer (v19.5 - v22.0) ET80</h3>
+      <div class="cert-meta">
+        <span class="cert-company">Sophos Partner Program</span>
+      </div>
     </div>
+    <span class="cert-badge">Hard Skill / Technical Engineer</span>
+    <p>Certificación técnica de ingeniería para el despliegue, configuración y administración operativa de Sophos Firewall en entornos empresariales:</p>
+    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '🔧 ';">
+      <li><strong>Deployment:</strong> Instalación de XGS y entornos virtuales.</li>
+      <li><strong>Policy Mgmt:</strong> Reglas de firewall, IPS y filtrado Web.</li>
+      <li><strong>VPN Services:</strong> Configuración de SD-RED y Remote Access.</li>
+      <li><strong>Traffic Analysis:</strong> Diagnóstico y log viewer avanzado.</li>
+    </ul>
 </div>
 
 <div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard" data-lop="tecnico">
