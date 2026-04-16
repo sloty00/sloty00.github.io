@@ -574,7 +574,7 @@ permalink: /estudios/
     </ul>
 </div>
 
-<div class="cert-card" data-category="diseno-tecnico" data-brand="udemy" data-skill="hard">
+<div class="cert-card" data-category="civil" data-brand="udemy" data-skill="hard">
     <div class="cert-header">
       <h3 class="cert-title">AutoCAD 2023 MasterClass</h3>
       <div class="cert-meta">
