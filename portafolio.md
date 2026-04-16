@@ -129,7 +129,7 @@ paginación en backend.</li>
       <div class="entry">
         <ul>
           <li>Desarrolle un software de gestión utilizando Java SE.</li>
-          <li>Creeunapáginawebautoadministrable con PHP, HTML5, JavaScript y CSS.</li>
+          <li>Cree una página web autoadministrable con PHP, HTML5, JavaScript y CSS.</li>
         </ul>
       </div>
     </div>
