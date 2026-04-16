@@ -195,7 +195,7 @@ CSS
     </div>
 </div>
 
-<div class="cert-card" data-category="ventas" data-brand="sophos" data-skill="soft" data-lop="ventas">
+<div class="cert-card" data-category="ventas" data-brand="sophos" data-skill="soft venta">
     <div class="cert-header">
       <h3 class="cert-title">Sales Fundamentals & Selling Sophos</h3>
       <div class="cert-meta">
