@@ -3,10 +3,7 @@ layout: page
 title: Estudios
 permalink: /estudios/
 ---
-Aquí tienes el código completo e integrado. He consolidado el CSS para que los bordes laterales cambien de color según el perfil, el HTML con los nuevos grupos de filtros y el JavaScript con la lógica de inclusión de palabras clave para que una tarjeta pueda ser "Técnica" y "Preventa" al mismo tiempo.
 
-1. Bloque de Estilos (CSS)
-CSS
 <style>
   /* Contenedores de Filtros */
   .filter-section {
