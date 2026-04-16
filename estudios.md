@@ -419,8 +419,6 @@ permalink: /estudios/
     </ul>
 </div>
 
-### CISCO (Infrastructure, Linux & Security)
-
 <div class="cert-card" data-category="programacion" data-brand="cisco" data-skill="hard">
     <div class="cert-header">
       <h3 class="cert-title">C++ Advanced</h3>
@@ -504,7 +502,7 @@ permalink: /estudios/
       <li><strong>SD-WAN:</strong> Optimización y seguridad en conectividad WAN.</li>
       <li><strong>Security Fabric:</strong> Visibilidad y protección integrada.</li>
     </ul>
-  </div>
+</div>
 
 <div class="cert-card" data-category="ciberseguridad" data-brand="fortinet" data-skill="hard">
     <div class="cert-header">
@@ -521,7 +519,7 @@ permalink: /estudios/
       <li><strong>Threat Intelligence:</strong> Análisis del panorama de amenazas.</li>
       <li><strong>Ops Management:</strong> Operación de seguridad en red.</li>
     </ul>
-  </div>
+</div>
 
 <div class="cert-card" data-category="infraestructura" data-brand="suse" data-skill="hard">
     <div class="cert-header">
@@ -538,38 +536,60 @@ permalink: /estudios/
       <li><strong>Troubleshooting:</strong> Resolución de problemas en entornos críticos.</li>
       <li><strong>Enterprise Support:</strong> Consultoría técnica nivel Partner.</li>
     </ul>
-  </div>
+</div>
 
 ---
 
-## Cursos de Especialización
-
-<header class="post-header">
-    <h1 class="post-title">Desarrollo Web Fullstack (Node, React, MERN)</h1>
-    <div class="post-meta">
-      <span class="post-period">2022 - 2024 / Online</span>
-      <span class="post-company">Udemy</span>
+<div class="cert-card" data-category="programacion" data-brand="udemy" data-skill="hard">
+    <div class="cert-header">
+      <h3 class="cert-title">Desarrollo Web Fullstack (MERN)</h3>
+      <div class="cert-meta">
+        <span class="cert-company">Udemy (F. Herrera / MetaBrains)</span>
+      </div>
     </div>
-</header>
-Cursos completos con los profesores Fernando Herrera, MetaBrains y Lubutech cubriendo Javascript (Maestría), TailwindCSS, y el stack MERN.
+    <span class="cert-badge">Hard Skill / Fullstack Dev</span>
+    <p>Especialización en el desarrollo de aplicaciones de extremo a extremo utilizando el stack MERN y mejores prácticas de JavaScript:</p>
+    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '⚡ ';">
+      <li><strong>MERN Stack:</strong> MongoDB, Express, React y Node.js.</li>
+      <li><strong>JS Mastery:</strong> ES6+, Programación Funcional y Asíncrona.</li>
+      <li><strong>Tailwind CSS:</strong> Diseño de interfaces modernas y responsive.</li>
+      <li><strong>API Design:</strong> Desarrollo de servicios RESTful robustos.</li>
+    </ul>
+</div>
 
-<header class="post-header">
-    <h1 class="post-title">Kubernetes & Veeam V12 (Udemy)</h1>
-    <div class="post-meta">
-      <span class="post-period">2023 - 2024 / Online</span>
-      <span class="post-company">Udemy</span>
+<div class="cert-card" data-category="infraestructura" data-brand="udemy" data-skill="hard">
+    <div class="cert-header">
+      <h3 class="cert-title">Kubernetes & Veeam V12 (VMCE Prep)</h3>
+      <div class="cert-meta">
+        <span class="cert-company">Udemy / Veeam Training</span>
+      </div>
     </div>
-</header>
-Orquestación de contenedores para desarrolladores y entrenamiento práctico en Veeam B&R V12 (VMCE Prep).
+    <span class="cert-badge">Hard Skill / Backup & Recovery</span>
+    <p>Orquestación de contenedores y gestión avanzada de disponibilidad de datos mediante Veeam Backup & Replication V12:</p>
+    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '💾 ';">
+      <li><strong>K8s Orchestration:</strong> Gestión de clústeres para Devs.</li>
+      <li><strong>Veeam B&R V12:</strong> Configuración de backups inmutables.</li>
+      <li><strong>Disaster Recovery:</strong> Planes de continuidad de negocio.</li>
+      <li><strong>VMCE Alignment:</strong> Preparación técnica de certificación.</li>
+    </ul>
+</div>
 
-<header class="post-header">
-    <h1 class="post-title">Autocad 2023 MasterClass</h1>
-    <div class="post-meta">
-      <span class="post-period">Abril 2023 / Online</span>
-      <span class="post-company">Prof. MetaBrains - Udemy</span>
+<div class="cert-card" data-category="diseno-tecnico" data-brand="udemy" data-skill="hard">
+    <div class="cert-header">
+      <h3 class="cert-title">AutoCAD 2023 MasterClass</h3>
+      <div class="cert-meta">
+        <span class="cert-company">Udemy (MetaBrains)</span>
+      </div>
     </div>
-</header>
-Dominio avanzado de herramientas de diseño asistido por computadora para proyectos complejos.
+    <span class="cert-badge">Hard Skill / CAD Design</span>
+    <p>Dominio avanzado de herramientas de diseño asistido por computadora para la ejecución de proyectos técnicos complejos:</p>
+    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '📐 ';">
+      <li><strong>Precision Drafting:</strong> Dibujo técnico de alta precisión.</li>
+      <li><strong>3D Modeling:</strong> Modelado y visualización de estructuras.</li>
+      <li><strong>Project Management:</strong> Gestión de planos y capas avanzadas.</li>
+      <li><strong>Standardization:</strong> Uso de bloques dinámicos y normativa.</li>
+    </ul>
+</div>
 
 </div>
 
