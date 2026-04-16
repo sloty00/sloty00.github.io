@@ -133,6 +133,7 @@ permalink: /estudios/
 
   <span class="filter-group-label">Marcas / Partner</span>
   <div class="filter-container">
+    <button class="filter-btn active" onclick="multiFilter('all', 'brand')">Todas</button>
     <button class="filter-btn" onclick="multiFilter('suse', 'brand')">SUSE</button>
     <button class="filter-btn" onclick="multiFilter('veeam', 'brand')">Veeam</button>
     <button class="filter-btn" onclick="multiFilter('sophos', 'brand')">Sophos</button>
@@ -717,7 +718,7 @@ permalink: /estudios/
     </ul>
 </div>
 
-<div class="cert-card" data-category="it-admin" data-brand="udemy" data-skill="monitoring security">
+<div class="cert-card" data-category="infraestructura" data-brand="udemy" data-skill="hard, preventa">
     <div class="cert-header">
       <h3 class="cert-title">Monitorización de Sistemas con Nagios Core</h3>
       <div class="cert-meta">
