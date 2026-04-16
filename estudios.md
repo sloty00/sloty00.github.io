@@ -123,7 +123,7 @@ CSS
 </div>
 
 ## Certificaciones
----
+
 <div class="filter-section">
   <span class="filter-group-label">Categorías</span>
   <div class="filter-container">
@@ -378,76 +378,75 @@ CSS
     </ul>
 </div>
 
-<div class="cert-card" data-category="infraestructura" data-brand="microsoft" data-skill="hard">
+<div class="cert-card" data-category="infraestructura" data-brand="microsoft" data-skill="hard tecnico preventa">
     <div class="cert-header">
-      <h3 class="cert-title">AZ-400: Designing and Implementing Microsoft DevOps Solutions</h3>
+      <h3 class="cert-title">AZ-400: Designing & Implementing Microsoft DevOps Solutions</h3>
       <div class="cert-meta">
-        <span class="cert-company">Microsoft Learn</span>
+        <span class="cert-company">Microsoft Certified: DevOps Engineer Expert</span>
       </div>
     </div>
-    <span class="cert-badge">Hard Skill / Enterprise DevOps</span>
-    <p>Capacidad experta para diseñar e implementar procesos de instrumentación, SRE, cumplimiento y seguridad (DevSecOps) en Azure:</p>
+    <span class="cert-badge">Hard Skill / DevOps & SRE Expert</span>
+    <p>Capacidad experta para diseñar e implementar procesos de automatización, instrumentación, SRE y seguridad (DevSecOps) en la nube:</p>
     <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '🚀 ';">
-      <li><strong>CI/CD Pipelines:</strong> Automatización con Azure Pipelines.</li>
-      <li><strong>IaC:</strong> Infraestructura como Código (Bicep/Terraform).</li>
-      <li><strong>Estrategias de Código:</strong> Gestión de Git y ramas.</li>
-      <li><strong>SRE:</strong> Estrategias de monitoreo y fiabilidad.</li>
+      <li><strong>CI/CD Pipelines:</strong> Automatización avanzada de flujos de entrega.</li>
+      <li><strong>IaC:</strong> Infraestructura como Código (Bicep / Terraform / ARM).</li>
+      <li><strong>DevSecOps:</strong> Integración de seguridad en el ciclo de vida.</li>
+      <li><strong>SRE & Monitoring:</strong> Estrategias de fiabilidad y disponibilidad.</li>
     </ul>
 </div>
 
-
-<div class="cert-card" data-category="ciberseguridad" data-brand="microsoft" data-skill="hard">
+<div class="cert-card" data-category="ciberseguridad" data-brand="microsoft" data-skill="hard tecnico preventa">
     <div class="cert-header">
       <h3 class="cert-title">GitHub Advanced Security I - II (GHAS)</h3>
       <div class="cert-meta">
         <span class="cert-company">Microsoft Learn / GitHub</span>
       </div>
     </div>
-    <span class="cert-badge">Hard Skill / DevSecOps</span>
-    <p>Implementación de un ciclo de vida de desarrollo seguro mediante herramientas nativas de GitHub para la protección del código fuente:</p>
-    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '🛡️ ';">
-      <li><strong>Code Scanning:</strong> Análisis estático (CodeQL).</li>
-      <li><strong>Secret Scanning:</strong> Detección de credenciales expuestas.</li>
-      <li><strong>Dependency Review:</strong> Gestión de vulnerabilidades en librerías.</li>
-      <li><strong>Dependabot:</strong> Automatización de parches de seguridad.</li>
+    <span class="cert-badge">Hard Skill / AppSec & DevSecOps</span>
+    <p>Implementación de un ciclo de vida de desarrollo seguro (S-SDLC) mediante seguridad nativa en el flujo de trabajo de Git:</p>
+    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '🔐 ';">
+      <li><strong>CodeQL:</strong> Análisis estático de seguridad de código (SAST).</li>
+      <li><strong>Secret Scanning:</strong> Prevención de fuga de credenciales.</li>
+      <li><strong>Supply Chain:</strong> Gestión de seguridad en dependencias.</li>
+      <li><strong>Dependabot:</strong> Automatización de remediación de vulnerabilidades.</li>
     </ul>
-  </div>
+</div>
 
-<div class="cert-card" data-category="programacion" data-brand="microsoft" data-skill="hard">
+<div class="cert-card" data-category="programacion" data-brand="microsoft" data-skill="hard tecnico preventa">
     <div class="cert-header">
       <h3 class="cert-title">Automatización de Flujos con GitHub Actions I - II</h3>
       <div class="cert-meta">
         <span class="cert-company">Microsoft Learn / GitHub</span>
       </div>
     </div>
-    <span class="cert-badge">Hard Skill / Automation</span>
-    <p>Diseño y orquestación de flujos de trabajo automatizados para optimizar el ciclo de vida de desarrollo (SDLC):</p>
+    <span class="cert-badge">Hard Skill / Automation Engineer</span>
+    <p>Diseño y orquestación de flujos de trabajo automatizados para optimizar y acelerar el ciclo de vida de desarrollo (SDLC):</p>
     <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '⚙️ ';">
-      <li><strong>Workflows:</strong> Automatización de Build, Test y Deploy.</li>
-      <li><strong>Custom Actions:</strong> Creación de acciones personalizadas.</li>
-      <li><strong>SDLC Optimization:</strong> Reducción de tiempos de entrega.</li>
-      <li><strong>Event Triggers:</strong> Disparadores basados en eventos de repositorio.</li>
+      <li><strong>CI/CD Workflows:</strong> Automatización de Build, Test y Deploy.</li>
+      <li><strong>Custom Actions:</strong> Creación y reutilización de acciones.</li>
+      <li><strong>Marketplace Integration:</strong> Uso de extensiones certificadas.</li>
+      <li><strong>Runners & Secrets:</strong> Gestión de ejecución y seguridad.</li>
     </ul>
 </div>
 
-<div class="cert-card" data-category="dev-data" data-brand="microsoft" data-skill="hard">
+<div class="cert-card" data-category="programacion" data-brand="microsoft" data-skill="hard tecnico preventa">
     <div class="cert-header">
       <h3 class="cert-title">Preparación de Datos con Power BI</h3>
       <div class="cert-meta">
         <span class="cert-company">Microsoft Learn</span>
       </div>
     </div>
-    <span class="cert-badge">Hard Skill / Data Analysis</span>
-    <p>Capacidad experta para conectar, limpiar y transformar datos en bruto en modelos de análisis robustos y eficientes:</p>
+    <span class="cert-badge">Hard Skill / Data Analytics</span>
+    <p>Capacidad para conectar, limpiar y transformar datos en bruto en modelos de análisis robustos y eficientes para la toma de decisiones:</p>
     <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '📊 ';">
-      <li><strong>Power Query:</strong> Procesos avanzados de ETL.</li>
-      <li><strong>Data Modeling:</strong> Diseño de modelos en estrella.</li>
-      <li><strong>Data Cleaning:</strong> Normalización y calidad de datos.</li>
-      <li><strong>DAX:</strong> Fundamentos de expresiones de análisis.</li>
+      <li><strong>Power Query:</strong> Procesos avanzados de ETL y limpieza.</li>
+      <li><strong>Data Modeling:</strong> Diseño de esquemas (Star/Snowflake).</li>
+      <li><strong>Data Quality:</strong> Normalización y validación de fuentes.</li>
+      <li><strong>DAX Basics:</strong> Creación de medidas y cálculos lógicos.</li>
     </ul>
 </div>
 
-<div class="cert-card" data-category="programacion" data-brand="hackerrank" data-skill="hard">
+<div class="cert-card" data-category="programacion" data-brand="hackerrank" data-skill="hard tecnico preventa">
     <div class="cert-header">
       <h3 class="cert-title">Frontend Developer React</h3>
       <div class="cert-meta">
@@ -464,7 +463,7 @@ CSS
     </ul>
 </div>
 
-<div class="cert-card" data-category="programacion" data-brand="hackerrank" data-skill="hard">
+<div class="cert-card" data-category="programacion" data-brand="hackerrank" data-skill="hard tecnico preventa">
     <div class="cert-header">
       <h3 class="cert-title">Software Engineer & Engineer Intern</h3>
       <div class="cert-meta">
@@ -481,7 +480,7 @@ CSS
     </ul>
 </div>
 
-<div class="cert-card" data-category="dev-data" data-brand="hackerrank" data-skill="hard">
+<div class="cert-card" data-category="dev-data" data-brand="hackerrank" data-skill="hard tecnico preventa">
     <div class="cert-header">
       <h3 class="cert-title">SQL Advanced Certified</h3>
       <div class="cert-meta">
@@ -498,7 +497,7 @@ CSS
     </ul>
 </div>
 
-<div class="cert-card" data-category="infraestructura" data-brand="broadcom" data-skill="hard">
+<div class="cert-card" data-category="infraestructura" data-brand="broadcom" data-skill="hard tecnico preventa">
     <div class="cert-header">
       <h3 class="cert-title">VMware Tanzu: Kubernetes Fundamentals</h3>
       <div class="cert-meta">
@@ -515,7 +514,7 @@ CSS
     </ul>
 </div>
 
-<div class="cert-card" data-category="infraestructura" data-brand="broadcom" data-skill="hard">
+<div class="cert-card" data-category="infraestructura" data-brand="broadcom" data-skill="hard tecnico preventa">
     <div class="cert-header">
       <h3 class="cert-title">VMware Data Center Virtualization: Core Technical Skills</h3>
       <div class="cert-meta">
@@ -532,7 +531,7 @@ CSS
     </ul>
   </div>
 
-<div class="cert-card" data-category="infraestructura" data-brand="broadcom" data-skill="hard">
+<div class="cert-card" data-category="infraestructura" data-brand="broadcom" data-skill="hard tecnico preventa">
     <div class="cert-header">
       <h3 class="cert-title">VMware Virtual Cloud Network: Core Technical Skills</h3>
       <div class="cert-meta">
@@ -549,7 +548,7 @@ CSS
     </ul>
 </div>
 
-<div class="cert-card" data-category="programacion" data-brand="cisco" data-skill="hard">
+<div class="cert-card" data-category="programacion" data-brand="cisco" data-skill="hard tecnico preventa">
     <div class="cert-header">
       <h3 class="cert-title">C++ Advanced</h3>
       <div class="cert-meta">
@@ -566,7 +565,7 @@ CSS
     </ul>
 </div>
   
-<div class="cert-card" data-category="infraestructura" data-brand="cisco" data-skill="hard">
+<div class="cert-card" data-category="infraestructura" data-brand="cisco" data-skill="hard tecnico preventa">
     <div class="cert-header">
       <h3 class="cert-title">Linux Professional Series (I, II, Essentials, Unhatched)</h3>
       <div class="cert-meta">
@@ -583,7 +582,7 @@ CSS
     </ul>
   </div>
 
-<div class="cert-card" data-category="ciberseguridad" data-brand="cisco" data-skill="hard">
+<div class="cert-card" data-category="ciberseguridad" data-brand="cisco" data-skill="hard tecnico preventa">
     <div class="cert-header">
       <h3 class="cert-title">Hacker Ético & Ethical Hacker</h3>
       <div class="cert-meta">
@@ -600,7 +599,7 @@ CSS
     </ul>
 </div>
 
- <div class="cert-card" data-category="ciberseguridad" data-brand="cisco" data-skill="hard">
+ <div class="cert-card" data-category="ciberseguridad" data-brand="cisco" data-skill="hard tecnico preventa">
     <div class="cert-header">
       <h3 class="cert-title">Network Technician & Endpoint Security</h3>
       <div class="cert-meta">
@@ -617,7 +616,7 @@ CSS
     </ul>
 </div>
 
-<div class="cert-card" data-category="ciberseguridad" data-brand="fortinet" data-skill="hard">
+<div class="cert-card" data-category="ciberseguridad" data-brand="fortinet" data-skill="hard tecnico preventa">
     <div class="cert-header">
       <h3 class="cert-title">FortiOS 7.6 Administrator & NSE 3 FortiGate</h3>
       <div class="cert-meta">
@@ -634,7 +633,7 @@ CSS
     </ul>
 </div>
 
-<div class="cert-card" data-category="ciberseguridad" data-brand="fortinet" data-skill="hard">
+<div class="cert-card" data-category="ciberseguridad" data-brand="fortinet" data-skill="hard tecnico preventa venta">
     <div class="cert-header">
       <h3 class="cert-title">Cybersecurity Certified Associate & Fundamentals</h3>
       <div class="cert-meta">
@@ -651,7 +650,7 @@ CSS
     </ul>
 </div>
 
-<div class="cert-card" data-category="infraestructura" data-brand="suse" data-skill="hard">
+<div class="cert-card" data-category="infraestructura" data-brand="suse" data-skill="hard tecnico preventa">
     <div class="cert-header">
       <h3 class="cert-title">SUSE Partner Support: Rancher & Linux Enterprise Server</h3>
       <div class="cert-meta">
@@ -670,7 +669,7 @@ CSS
 
 ---
 
-<div class="cert-card" data-category="programacion" data-brand="udemy" data-skill="hard">
+<div class="cert-card" data-category="programacion" data-brand="udemy" data-skill="hard tecnico preventa">
     <div class="cert-header">
       <h3 class="cert-title">Desarrollo Web Fullstack (MERN)</h3>
       <div class="cert-meta">
@@ -687,7 +686,7 @@ CSS
     </ul>
 </div>
 
-<div class="cert-card" data-category="infraestructura" data-brand="udemy" data-skill="hard">
+<div class="cert-card" data-category="infraestructura" data-brand="udemy" data-skill="hard tecnico preventa">
     <div class="cert-header">
       <h3 class="cert-title">Kubernetes & Veeam V12 (VMCE Prep)</h3>
       <div class="cert-meta">
@@ -704,7 +703,7 @@ CSS
     </ul>
 </div>
 
-<div class="cert-card" data-category="civil" data-brand="udemy" data-skill="hard">
+<div class="cert-card" data-category="civil" data-brand="udemy" data-skill="hard tecnico preventa">
     <div class="cert-header">
       <h3 class="cert-title">AutoCAD 2023 MasterClass</h3>
       <div class="cert-meta">
