@@ -370,32 +370,56 @@ permalink: /estudios/
 
 ### VMware by Broadcom
 
-<header class="post-header">
-    <h1 class="post-title">VMware Tanzu: Kubernetes Fundamentals</h1>
-    <div class="post-meta">
-      <span class="post-period">Abril 2026 / Online</span>
-      <span class="post-company">Broadcom</span>
+<div class="cert-card" data-category="infraestructura" data-brand="broadcom" data-skill="hard">
+    <div class="cert-header">
+      <h3 class="cert-title">VMware Tanzu: Kubernetes Fundamentals</h3>
+      <div class="cert-meta">
+        <span class="cert-company">Broadcom / VMware</span>
+      </div>
     </div>
-</header>
-Dominio de Kubernetes mediante VMware Tanzu para operar infraestructuras de contenedores escalables y convergencia DevOps.
+    <span class="cert-badge">Hard Skill / Cloud Native</span>
+    <p>Dominio de la orquestación de contenedores mediante Tanzu para operar infraestructuras escalables y convergencia DevOps:</p>
+    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '☸️ ';">
+      <li><strong>K8s Operations:</strong> Gestión de clústeres y pods.</li>
+      <li><strong>Tanzu Edition:</strong> Integración con el ecosistema vSphere.</li>
+      <li><strong>Containerization:</strong> Despliegue de apps escalables.</li>
+      <li><strong>DevOps Flow:</strong> Automatización de infraestructura.</li>
+    </ul>
+</div>
 
-<header class="post-header">
-    <h1 class="post-title">VMware Data Center Virtualization: Core Technical Skills</h1>
-    <div class="post-meta">
-      <span class="post-period">Marzo 2026 / Online</span>
-      <span class="post-company">Broadcom</span>
+<div class="cert-card" data-category="infraestructura" data-brand="broadcom" data-skill="hard">
+    <div class="cert-header">
+      <h3 class="cert-title">VMware Data Center Virtualization: Core Technical Skills</h3>
+      <div class="cert-meta">
+        <span class="cert-company">Broadcom / VMware</span>
+      </div>
     </div>
-</header>
-Gestión de clústeres empresariales (HA, DRS, Fault Tolerance) y optimización de recursos mediante vSphere.
+    <span class="cert-badge">Hard Skill / Virtualization Expert</span>
+    <p>Gestión avanzada de infraestructuras virtualizadas para garantizar la alta disponibilidad y optimización de recursos empresariales:</p>
+    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '🖥️ ';">
+      <li><strong>vSphere HA & DRS:</strong> Alta disponibilidad y balanceo.</li>
+      <li><strong>Fault Tolerance:</strong> Continuidad de servicios críticos.</li>
+      <li><strong>Resource Optimization:</strong> Gestión eficiente de cómputo.</li>
+      <li><strong>vMotion:</strong> Migración de cargas en tiempo real.</li>
+    </ul>
+  </div>
 
-<header class="post-header">
-    <h1 class="post-title">VMware Virtual Cloud Network: Core Technical Skills</h1>
-    <div class="post-meta">
-      <span class="post-period">Marzo 2026 / Online</span>
-      <span class="post-company">Broadcom</span>
+<div class="cert-card" data-category="infraestructura" data-brand="broadcom" data-skill="hard">
+    <div class="cert-header">
+      <h3 class="cert-title">VMware Virtual Cloud Network: Core Technical Skills</h3>
+      <div class="cert-meta">
+        <span class="cert-company">Broadcom / VMware</span>
+      </div>
     </div>
-</header>
-Transformación de redes físicas a virtuales mediante software utilizando VMware NSX para conectividad en nube híbrida.
+    <span class="cert-badge">Hard Skill / Network Virtualization</span>
+    <p>Transformación de redes físicas a arquitecturas virtuales mediante software (SDN) para conectividad en nube híbrida:</p>
+    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '🌐 ';">
+      <li><strong>VMware NSX:</strong> Virtualización integral de redes.</li>
+      <li><strong>Hybrid Cloud:</strong> Conectividad fluida On-prem/Cloud.</li>
+      <li><strong>Micro-segmentación:</strong> Seguridad granular de red.</li>
+      <li><strong>Network Agility:</strong> Despliegue rápido de servicios.</li>
+    </ul>
+</div>
 
 ### CISCO (Infrastructure, Linux & Security)
 
