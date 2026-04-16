@@ -74,8 +74,8 @@ paginación en backend.</li>
       </header>
       <div class="entry">
         <ul>
-          <li>Creación de una API de Ecommerce para Bicom y sus clientes (Node.js).</li>
-          <li>Colaboración en el desarrollo del sitio Bicom Academy (Node.js).</li>
+          <li>Diseñé y desarrollé una API de comercio electrónico para Bicom y sus clientes utilizando Node.js, enfocada en escalabilidad, integración con servicios externos y gestión eficiente de datos.</li>
+          <li>Desarrollé componentes y servicios backend en Node.js, integrando APIs y optimizando el rendimiento de la plataforma educativa. Participé en la planificación técnica y evolución de la plataforma, aplicando buenas prácticas de desarrollo y metodologías ágiles.</li>
         </ul>
       </div>
     </div>
@@ -92,12 +92,8 @@ paginación en backend.</li>
       </header>
       <div class="entry">
         <ul>
-          <li>Gestión de proyectos eléctricos y preparación de carpetas para permisos de la SEC.</li>
-          <li>Creación de órdenes de trabajo (OT) para las tareas.</li>
-          <li>Cubicación y evaluación de proyectos utilizando el software Valorizador en Citrix.</li>
-          <li>Elaboración de planos de servidumbre.</li>
-          <li>Diseño e implementación de un sistema de geolocalización y dibujo en congruencia con GPS, utilizando Google Maps para proyectos de infraestructura eléctrica.</li>
-          <li>Colaboración en la integración de tecnologías de mapeo para garantizar la precisión en los cálculos de ubicación y trazado de cables eléctricos.</li>
+          <li>Gestioné proyectos eléctricos, prepare las carpetas para permisos de la SEC y cree las órdenes de trabajo. Cubique servidumbre y avalue proyectos utilizando el software Valorizador en Citrix. Implemente un sistema de geolocalización y dibujo en congruencia con GPS, utilizando Google Maps para proyectos de infraestructura eléctrica.</li>
+          <li>Gestione la integración de tecnologías de mapeo para garantizar la precisión en los cálculos de ubicación y trazado de cables eléctricos.</li>
         </ul>
       </div>
     </div>
