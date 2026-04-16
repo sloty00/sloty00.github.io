@@ -44,6 +44,7 @@ permalink: /portafolio/
       <div class="entry">
         <ul>
           <li>Lideré el anteproyecto de arquitectura e implementación del sistema de respaldo empresarial basado en Veeam Backup y Replication, utilizando diseño de infraestructura y Block GIS del fabricante para Salmones Austral.</li>
+          <li>Liderazgo en la arquitectura e implementación de sistemas operativos SUSE Linux Enterprise sobre entornos VMware vSphere, aplicando técnicas de Thin Provisioning (aprovisionamiento fino) para la optimización del almacenamiento físico. Gestión avanzada de almacenamiento lógico mediante LVM (Logical Volume Management), permitiendo el escalado y aumento de discos virtuales y sistemas de archivos en caliente (on-the-fly) para garantizar la disponibilidad continua del servicio. Configuración de redes virtuales para asegurar conectividad de alta velocidad y baja latencia entre nodos críticos de la infraestructura.</li>
           <li>Creación y despliegue de un servidor Rocketchat en SUSE mediante Contenedor.</li>
           <li>Creación y despliegue de un Relay de correo para cass.cl.</li>
           <li>Creación y despliegue de Nagios con monitorizacion via SNMP y NRPE en cada Servidor Invitado y dispositivos.</li>
