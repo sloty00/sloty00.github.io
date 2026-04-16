@@ -368,8 +368,6 @@ permalink: /estudios/
     </ul>
 </div>
 
-### VMware by Broadcom
-
 <div class="cert-card" data-category="infraestructura" data-brand="broadcom" data-skill="hard">
     <div class="cert-header">
       <h3 class="cert-title">VMware Tanzu: Kubernetes Fundamentals</h3>
@@ -423,72 +421,124 @@ permalink: /estudios/
 
 ### CISCO (Infrastructure, Linux & Security)
 
-<header class="post-header">
-    <h1 class="post-title">C++ Advanced</h1>
-    <div class="post-meta">
-      <span class="post-period">Marzo 2026 / Online</span>
-      <span class="post-company">CISCO</span>
+<div class="cert-card" data-category="programacion" data-brand="cisco" data-skill="hard">
+    <div class="cert-header">
+      <h3 class="cert-title">C++ Advanced</h3>
+      <div class="cert-meta">
+        <span class="cert-company">Cisco Networking Academy</span>
+      </div>
     </div>
-</header>
-Comprensión avanzada de programación genérica y Biblioteca de Plantillas Estándar (STL) para software de alto rendimiento.
-
-<header class="post-header">
-    <h1 class="post-title">Linux Professional Series (I, II, Essentials, Unhatched)</h1>
-    <div class="post-meta">
-      <span class="post-period">Marzo 2026 / Online</span>
-      <span class="post-company">CISCO - NDG</span>
+    <span class="cert-badge">Hard Skill / Systems Programming</span>
+    <p>Dominio de programación genérica y optimización de software de alto rendimiento mediante estándares avanzados:</p>
+    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '⚙️ ';">
+      <li><strong>STL:</strong> Algoritmos y contenedores avanzados.</li>
+      <li><strong>Generic Programming:</strong> Uso experto de Templates.</li>
+      <li><strong>Memory Management:</strong> Optimización de recursos.</li>
+      <li><strong>Concurrency:</strong> Fundamentos de multihilo.</li>
+    </ul>
+</div>
+  
+<div class="cert-card" data-category="infraestructura" data-brand="cisco" data-skill="hard">
+    <div class="cert-header">
+      <h3 class="cert-title">Linux Professional Series (I, II, Essentials, Unhatched)</h3>
+      <div class="cert-meta">
+        <span class="cert-company">Cisco / NDG</span>
+      </div>
     </div>
-</header>
-Dominio avanzado de administración de sistemas, gestión de servicios esenciales, hardening, redes y línea de comandos.
+    <span class="cert-badge">Hard Skill / Linux SysAdmin</span>
+    <p>Dominio integral de la administración de sistemas Linux, desde la línea de comandos hasta la gestión de servicios críticos y seguridad:</p>
+    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '🐧 ';">
+      <li><strong>CLI Mastery:</strong> Bash scripting y automatización.</li>
+      <li><strong>System Hardening:</strong> Permisos, Firewall y SELinux.</li>
+      <li><strong>Network Services:</strong> Configuración de DNS, SSH y Web.</li>
+      <li><strong>Architecture:</strong> Gestión de kernel, módulos y paquetes.</li>
+    </ul>
+  </div>
 
-<header class="post-header">
-    <h1 class="post-title">Hacker Etico & Ethical Hacker</h1>
-    <div class="post-meta">
-      <span class="post-period">Marzo 2026 / Online</span>
-      <span class="post-company">CISCO / Universidad de Pereira</span>
+<div class="cert-card" data-category="ciberseguridad" data-brand="cisco" data-skill="hard">
+    <div class="cert-header">
+      <h3 class="cert-title">Hacker Ético & Ethical Hacker</h3>
+      <div class="cert-meta">
+        <span class="cert-company">Cisco / Universidad de Pereira</span>
+      </div>
     </div>
-</header>
-Identificación y mitigación de vulnerabilidades. Incluye Cyber Games (UTP) con post-explotación (PowerSploit) y auditoría de accesos físicos.
+    <span class="cert-badge">Hard Skill / Offensive Security</span>
+    <p>Identificación y mitigación de vulnerabilidades mediante técnicas de intrusión controlada y auditoría avanzada:</p>
+    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '💀 ';">
+      <li><strong>Post-Explotación:</strong> Dominio de PowerSploit.</li>
+      <li><strong>Cyber Games:</strong> Simulaciones de ataque/defensa (UTP).</li>
+      <li><strong>Physical Security:</strong> Auditoría de accesos físicos.</li>
+      <li><strong>Vulnerability Assessment:</strong> Análisis y remediación.</li>
+    </ul>
+</div>
 
-<header class="post-header">
-    <h1 class="post-title">Network Technician & Endpoint Security</h1>
-    <div class="post-meta">
-      <span class="post-period">Marzo 2026 / Online</span>
-      <span class="post-company">CISCO</span>
+ <div class="cert-card" data-category="ciberseguridad" data-brand="cisco" data-skill="hard">
+    <div class="cert-header">
+      <h3 class="cert-title">Network Technician & Endpoint Security</h3>
+      <div class="cert-meta">
+        <span class="cert-company">Cisco Networking Academy</span>
+      </div>
     </div>
-</header>
-Fundamentos de conectividad global y protección de dispositivos finales frente a amenazas y malware.
+    <span class="cert-badge">Hard Skill / Network Defense</span>
+    <p>Fundamentos de conectividad escalable y estrategias de protección para dispositivos finales en entornos corporativos:</p>
+    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '🔒 ';">
+      <li><strong>Connectivity:</strong> Fundamentos de redes y enrutamiento.</li>
+      <li><strong>Endpoint Security:</strong> Mitigación de malware y APTs.</li>
+      <li><strong>Threat Landscape:</strong> Análisis de vectores de ataque.</li>
+      <li><strong>Security Policies:</strong> Implementación de controles de acceso.</li>
+    </ul>
+</div>
 
-### Fortinet (Network Security)
-
-<header class="post-header">
-    <h1 class="post-title">FortiOS 7.6 Administrator & NS3 FortiGate</h1>
-    <div class="post-meta">
-      <span class="post-period">Marzo 2026 / Online</span>
-      <span class="post-company">Fortinet</span>
+<div class="cert-card" data-category="ciberseguridad" data-brand="fortinet" data-skill="hard">
+    <div class="cert-header">
+      <h3 class="cert-title">FortiOS 7.6 Administrator & NSE 3 FortiGate</h3>
+      <div class="cert-meta">
+        <span class="cert-company">Fortinet Training Institute</span>
+      </div>
     </div>
-</header>
-Configuración, administración y monitoreo de dispositivos FortiGate para la protección de infraestructuras de red.
+    <span class="cert-badge">Hard Skill / Network Security</span>
+    <p>Configuración, administración y monitoreo avanzado de dispositivos FortiGate para la protección de infraestructuras críticas:</p>
+    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '🛡️ ';">
+      <li><strong>FortiOS 7.6:</strong> Gestión de las últimas funciones de seguridad.</li>
+      <li><strong>NGFW:</strong> Control de aplicaciones y prevención de intrusos.</li>
+      <li><strong>SD-WAN:</strong> Optimización y seguridad en conectividad WAN.</li>
+      <li><strong>Security Fabric:</strong> Visibilidad y protección integrada.</li>
+    </ul>
+  </div>
 
-<header class="post-header">
-    <h1 class="post-title">Cybersecurity Certified Associate & Fundamentals</h1>
-    <div class="post-meta">
-      <span class="post-period">Marzo 2026 / Online</span>
-      <span class="post-company">Fortinet</span>
+<div class="cert-card" data-category="ciberseguridad" data-brand="fortinet" data-skill="hard">
+    <div class="cert-header">
+      <h3 class="cert-title">Cybersecurity Certified Associate & Fundamentals</h3>
+      <div class="cert-meta">
+        <span class="cert-company">Fortinet Training Institute</span>
+      </div>
     </div>
-</header>
-Implementación y gestión de soluciones de seguridad en redes empresariales usando tecnologías Fortinet.
+    <span class="cert-badge">Hard Skill / Security Associate</span>
+    <p>Implementación y gestión de soluciones de seguridad en redes empresariales utilizando el ecosistema tecnológico de Fortinet:</p>
+    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '🛡️ ';">
+      <li><strong>Network Security:</strong> Conceptos fundamentales de defensa.</li>
+      <li><strong>Fortinet Solutions:</strong> Gestión del portafolio de seguridad.</li>
+      <li><strong>Threat Intelligence:</strong> Análisis del panorama de amenazas.</li>
+      <li><strong>Ops Management:</strong> Operación de seguridad en red.</li>
+    </ul>
+  </div>
 
-### SUSE (Enterprise Support)
-
-<header class="post-header">
-    <h1 class="post-title">SUSE Partner Support: Rancher & Linux Enterprise Server</h1>
-    <div class="post-meta">
-      <span class="post-period">Julio 2024 / Online</span>
-      <span class="post-company">Suse Partner Program</span>
+<div class="cert-card" data-category="infraestructura" data-brand="suse" data-skill="hard">
+    <div class="cert-header">
+      <h3 class="cert-title">SUSE Partner Support: Rancher & Linux Enterprise Server</h3>
+      <div class="cert-meta">
+        <span class="cert-company">SUSE Partner Program</span>
+      </div>
     </div>
-</header>
-Soporte avanzado para gestión de Kubernetes con Rancher y administración de SLES en entornos críticos.
+    <span class="cert-badge">Hard Skill / Tier 2 Support</span>
+    <p>Soporte avanzado y administración de infraestructuras críticas basadas en el ecosistema SUSE y orquestación nativa de la nube:</p>
+    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '🦎 ';">
+      <li><strong>SUSE Rancher:</strong> Gestión multi-clúster de Kubernetes.</li>
+      <li><strong>SLES Admin:</strong> Administración de Linux Enterprise Server.</li>
+      <li><strong>Troubleshooting:</strong> Resolución de problemas en entornos críticos.</li>
+      <li><strong>Enterprise Support:</strong> Consultoría técnica nivel Partner.</li>
+    </ul>
+  </div>
 
 ---
 
