@@ -54,7 +54,7 @@ operaciones: Rocket.Chat, GLPI, OwnCloud, BIND DNS, Documize y RustDesk.</li>
           <li>Diseñé un repositorio inmutable en SUSE para integrarse con Veeam Backup y Replication, optimizando la seguridad y resiliencia del sistema de respaldos.</li>
           <li>Administré y mantuve soluciones de ciberseguridad perimetral y endpoint utilizando Sophos UTM y Sophos XDR, actuando como ingeniero de soporte de última línea para resolución de incidentes complejos.</li>
           <li>Repliqué y configuré infraestructuras de firewall basadas en pfSense, asegurando continuidad operativa y consistencia de políticas de seguridad.</li>
-<li>Desarrolle una aplicación empresarial para gestión de operaciones(personal,vehículos,
+<li>Desarrolle una aplicación empresarial para gestión de operaciones (personal,vehículos,
 permisos, vacaciones y checklist) utilizando Node.js, Prisma ORM, MySQL y frontend en
 React con Material UI, incluyendo autenticación con JWT, Active Directory ademas de
 paginación en backend.</li>
