@@ -248,26 +248,40 @@ permalink: /estudios/
     <p>Asesoría estratégica y valor de negocio para la continuidad operativa.</p>
   </div>
 
-### Microsoft & GitHub (DevOps & Cloud)
-
-<header class="post-header">
-    <h1 class="post-title">AZ-400: Desarrollo Enterprise Devops</h1>
-    <div class="post-meta">
-      <span class="post-period">Abril 2026 / Online</span>
-      <span class="post-company">Microsoft</span>
+<div class="cert-card" data-category="infraestructura" data-brand="microsoft" data-skill="hard">
+    <div class="cert-header">
+      <h3 class="cert-title">AZ-400: Designing and Implementing Microsoft DevOps Solutions</h3>
+      <div class="cert-meta">
+        <span class="cert-company">Microsoft Learn</span>
+      </div>
     </div>
-</header>
-Capacidad técnica para diseñar e implementar estrategias de colaboración, código, infraestructura y seguridad (CI/CD) en el ecosistema de Azure.
+    <span class="cert-badge">Hard Skill / Enterprise DevOps</span>
+    <p>Capacidad experta para diseñar e implementar procesos de instrumentación, SRE, cumplimiento y seguridad (DevSecOps) en Azure:</p>
+    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '🚀 ';">
+      <li><strong>CI/CD Pipelines:</strong> Automatización con Azure Pipelines.</li>
+      <li><strong>IaC:</strong> Infraestructura como Código (Bicep/Terraform).</li>
+      <li><strong>Estrategias de Código:</strong> Gestión de Git y ramas.</li>
+      <li><strong>SRE:</strong> Estrategias de monitoreo y fiabilidad.</li>
+    </ul>
+</div>
 
-<header class="post-header">
-    <h1 class="post-title">Seguridad Avanzada de Github I - II</h1>
-    <div class="post-meta">
-      <span class="post-period">Abril 2026 / Online</span>
-      <span class="post-company">Microsoft</span>
+
+<div class="cert-card" data-category="ciberseguridad" data-brand="microsoft" data-skill="hard">
+    <div class="cert-header">
+      <h3 class="cert-title">GitHub Advanced Security I - II (GHAS)</h3>
+      <div class="cert-meta">
+        <span class="cert-company">Microsoft Learn / GitHub</span>
+      </div>
     </div>
-</header>
-Implementación de un ciclo de vida de desarrollo de software seguro (DevSecOps) mediante análisis profundo y detección de vulnerabilidades.
-
+    <span class="cert-badge">Hard Skill / DevSecOps</span>
+    <p>Implementación de un ciclo de vida de desarrollo seguro mediante herramientas nativas de GitHub para la protección del código fuente:</p>
+    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '🛡️ ';">
+      <li><strong>Code Scanning:</strong> Análisis estático (CodeQL).</li>
+      <li><strong>Secret Scanning:</strong> Detección de credenciales expuestas.</li>
+      <li><strong>Dependency Review:</strong> Gestión de vulnerabilidades en librerías.</li>
+      <li><strong>Dependabot:</strong> Automatización de parches de seguridad.</li>
+    </ul>
+  </div>
 <header class="post-header">
     <h1 class="post-title">Automatizacion de Flujo con Acciones de Github I - II</h1>
     <div class="post-meta">
