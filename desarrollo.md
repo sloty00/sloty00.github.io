@@ -1,3 +1,9 @@
+---
+layout: page
+title: Desarrollo
+permalink: /desarrollo/
+---
+
 <section id="lista-desarrollos">
     <h2>Catálogo de Soluciones y Arquitecturas</h2>
     <div id="grid-proyectos" class="desarrollos-grid">
