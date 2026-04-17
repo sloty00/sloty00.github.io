@@ -6,13 +6,5 @@
     "url_repo": "https://github.com/sloty00/CASS-Workflow-Personal",
     "status": "Production",
     "icon": "fas fa-cogs"
-  },
-  {
-    "nombre": "Portafolio GitOps",
-    "stack": ["Jekyll", "Firebase Auth", "Liquid"],
-    "descripcion": "Infraestructura estática inmutable con validación de identidad federada mediante OAuth 2.0.",
-    "url_repo": "https://github.com/sloty00/sloty00.github.io",
-    "status": "Active",
-    "icon": "fas fa-shield-alt"
   }
 ]
