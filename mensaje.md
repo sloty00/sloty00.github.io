@@ -63,50 +63,67 @@ permalink: /mensaje/
 </section>
 
 <script>
-        const GITHUB_USER = "sloty00";
-        const REPO_NAME = "sloty00.github.io"; 
-        const JSON_FILE = "mensajes.json";
+    const GITHUB_USER = "sloty00"; 
+    const REPO_NAME = "sloty00.github.io"; 
+    const JSON_FILE = "mensajes.json";
 
-        // 1. CARGAR MENSAJES EN LA TABLA
-        async function cargarMensajes() {
-            try {
-                const response = await fetch(`https://raw.githubusercontent.com/${GITHUB_USER}/${REPO_NAME}/main/${JSON_FILE}?t=${new Date().getTime()}`);
-                const mensajes = await response.json();
-                const cuerpoTabla = document.getElementById('cuerpo-tabla');
-                if(!cuerpoTabla) return; // Seguridad por si el elemento no existe aún
-                
-                cuerpoTabla.innerHTML = ""; 
-
-                mensajes.forEach(m => {
-                    const fila = `<tr>
-                        <td>${m.fecha}</td>
-                        <td>${m.nombre}</td>
-                        <td>${m.mensaje}</td>
-                    </tr>`;
-                    cuerpoTabla.innerHTML += fila;
-                });
-            } catch (error) {
-                console.error("Error cargando mensajes:", error);
-            }
+    // 1. FUNCIÓN PARA CARGAR LA TABLA (Lectura)
+    async function cargarMensajes() {
+        try {
+            const response = await fetch(`https://raw.githubusercontent.com/${GITHUB_USER}/${REPO_NAME}/main/${JSON_FILE}?t=${new Date().getTime()}`);
+            const mensajes = await response.json();
+            const cuerpoTabla = document.getElementById('cuerpo-tabla');
+            if(!cuerpoTabla) return;
+            
+            cuerpoTabla.innerHTML = ""; 
+            mensajes.forEach(m => {
+                const fila = `<tr>
+                    <td>${m.fecha}</td>
+                    <td>${m.nombre}</td>
+                    <td>${m.mensaje}</td>
+                </tr>`;
+                cuerpoTabla.innerHTML += fila;
+            });
+        } catch (error) {
+            console.error("Error cargando mensajes:", error);
         }
+    }
 
-        // 2. ENVIAR MENSAJE
-        document.getElementById('form-mensaje').addEventListener('submit', async (e) => {
-            e.preventDefault();
-            
-            // Aquí capturamos los datos
-            const name = document.getElementById('nombre').value;
-            const message = document.getElementById('texto-mensaje').value;
+    // 2. FUNCIÓN PARA ENVIAR (Escritura - REEMPLAZADA CON LA NUEVA)
+    document.getElementById('form-mensaje').addEventListener('submit', async (e) => {
+        e.preventDefault();
+        
+        const nombre = document.getElementById('nombre').value;
+        const mensaje = document.getElementById('texto-mensaje').value;
+        
+        // ¡OJO! Aquí pegas tu token clásico de GitHub
+        const token = "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"; 
 
-            // --- PASO SIGUIENTE: CONECTAR AL WEBHOOK ---
-            // Por ahora solo avisamos, pero ya tienes la lógica lista.
-            alert("Enviando validación técnica a la arquitectura GitOps...");
-            
-            // Limpiar formulario tras enviar
-            e.target.reset();
+        const response = await fetch(`https://api.github.com/repos/${GITHUB_USER}/${REPO_NAME}/dispatches`, {
+            method: 'POST',
+            headers: {
+                'Authorization': `token ${token}`,
+                'Accept': 'application/vnd.github.v3+json',
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({
+                event_type: 'nuevo_mensaje', 
+                client_payload: {
+                    name: nombre,
+                    message: mensaje
+                }
+            })
         });
 
-        // Inicializar tabla al cargar
-        document.addEventListener('DOMContentLoaded', cargarMensajes);
-    </script>
+        if (response.ok) {
+            alert("¡Éxito! Tu validación se está procesando (tardará 1-2 min en aparecer).");
+            e.target.reset();
+        } else {
+            alert("Error al conectar con la arquitectura GitOps. Revisa el token.");
+        }
+    });
+
+    // Iniciar la carga al abrir la página
+    document.addEventListener('DOMContentLoaded', cargarMensajes);
+</script>
 
