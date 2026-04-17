@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Portafolio
+title: Experiencia
 permalink: /portafolio/
 ---
 
