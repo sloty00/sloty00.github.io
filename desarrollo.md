@@ -12,22 +12,29 @@ permalink: /desarrollo/
 
 <script>
 async function cargarDesarrollos() {
-    const response = await fetch('/desarrollo.json');
-    const proyectos = await response.json();
-    const grid = document.getElementById('grid-proyectos');
-    
-    grid.innerHTML = proyectos.map(p => `
-        <div class="card-proyecto">
-            <div class="status">${p.status}</div>
-            <i class="${p.icon} tech-icon"></i>
-            <h3>${p.nombre}</h3>
-            <p>${p.descripcion}</p>
-            <div class="stack-tags">
-                ${p.stack.map(s => `<span>${s}</span>`).join('')}
+    try {
+        // Añadimos Date.now() para romper el caché
+        const response = await fetch(`/desarrollo.json?t=${Date.now()}`);
+        const proyectos = await response.json();
+        const grid = document.getElementById('grid-proyectos');
+        
+        if(!grid) return;
+
+        grid.innerHTML = proyectos.map(p => `
+            <div class="card-proyecto">
+                <div class="status">${p.status}</div>
+                <i class="${p.icon} tech-icon"></i>
+                <h3>${p.nombre}</h3>
+                <p>${p.descripcion}</p>
+                <div class="stack-tags">
+                    ${p.stack.map(s => `<span>${s}</span>`).join('')}
+                </div>
+                <a href="${p.url_repo}" target="_blank" class="btn-git">Ver Repositorio</a>
             </div>
-            <a href="${p.url_repo}" target="_blank" class="btn-git">Ver Repositorio</a>
-        </div>
-    `).join('');
+        `).join('');
+    } catch (error) {
+        console.error("Error cargando el catálogo:", error);
+    }
 }
 cargarDesarrollos();
 </script>
