@@ -64,5 +64,14 @@
     "url_repo": "https://github.com/sloty00/AdminPassSecCpp",
     "status": "Production",
     "icon": "fas fa-shield-alt"
+  },
+  {
+    "nombre": "AdminContactoCpp",
+    "tipo": "Backend",
+    "stack": ["C++", "Visual Studio Pro", "File I/O", "Data Management"],
+    "descripcion": "Aplicación de gestión de directorios desarrollada en C++. Implementa un sistema completo de persistencia de datos para el almacenamiento, búsqueda y edición de contactos mediante flujos de archivos.",
+    "url_repo": "https://github.com/sloty00/AdminContactoCpp",
+    "status": "Production",
+    "icon": "fas fa-address-book"
   }
 ]
