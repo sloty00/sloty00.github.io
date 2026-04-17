@@ -1,0 +1,28 @@
+name: Guardar Mensaje GitOps
+on:
+  repository_dispatch:
+    types: [nuevo_mensaje]
+
+jobs:
+  update_json:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Actualizar mensajes.json
+        run: |
+          # Capturamos los datos enviados por el webhook
+          NAME="${{ github.event.client_payload.name }}"
+          MSG="${{ github.event.client_payload.message }}"
+          DATE=$(date +'%Y-%m-%d')
+          
+          # Usamos JQ (que viene en la Action) para insertar el nuevo objeto al inicio del array
+          jq ". | [{fecha: \"$DATE\", nombre: \"$NAME\", mensaje: \"$MSG\"}] + ." mensajes.json > temp.json && mv temp.json mensajes.json
+
+      - name: Commit y Push automático
+        run: |
+          git config --global user.name "GitHub Action Bot"
+          git config --global user.email "actions@github.com"
+          git add mensajes.json
+          git commit -m "Nuevo mensaje de: ${{ github.event.client_payload.name }}"
+          git push
