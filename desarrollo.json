@@ -34,7 +34,7 @@
     "tipo": "Frontend",
     "stack": ["React", "Material UI", "JavaScript", "Responsive Design"],
     "descripcion": "Interfaz de usuario moderna y minimalista desarrollada con React. Implementa un sistema de diseño basado en componentes de Material UI, optimizado para ofrecer una navegación fluida y totalmente responsiva.",
-    "url_repo": "https://github.com/sloty00/varto",
+    "url_repo": "https://github.com/sloty00/varto2024",
     "status": "Production",
     "icon": "fas fa-desktop"
   }
