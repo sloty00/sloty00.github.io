@@ -20,8 +20,4 @@ críticas basadas en Linux, alta disponibilidad y soluciones de respaldo empresa
 Platform. Poseo una probada capacidad para liderar la modernización de sistemas legacy, desplegar entornos
 contenerizados y diseñar infraestructuras robustas y escalables en entornos empresariales de alta exigencia.
 Me caracterizo por un liderazgo técnico agudo, adaptabilidad y una visión estratégica orientada a la protección
-de activos y optimización de operaciones
-
-### Contact me
-
-[jvoyarzun81@gmail.com](mailto:jvoyarzun81@gmail.com)
+de activos y optimización de operaciones.
