@@ -32,14 +32,16 @@ async function forzarCarga() {
         "Express": "000000", "Express.js": "000000", "JavaScript": "F7DF1E", 
         "Active Directory": "0078D4", "Networking": "00599C", "Motion": "00CCFF", 
         "Veeam": "00B336", "Prisma ORM": "2D3748", "MySQL": "4479A1", 
-        "JWT": "FB005F", "Swagger": "85EA2D", "bcrypt": "37474F"
+        "JWT": "FB005F", "Swagger": "85EA2D", "bcrypt": "37474F", 
+        "Cryptography": "000000", "Base64 Encoding": "475569",  "node-gyp": "282C34"
     };
 
     const logoNames = {
         "Nodejs": "nodedotjs", "Node.js": "nodedotjs", "Active Directory": "microsoft",
         "Networking": "cisco", "Motion": "framer", "JavaScript": "javascript",
         "Express.js": "express", "Prisma ORM": "prisma", "MySQL": "mysql",
-        "JWT": "jsonwebtokens", "Swagger": "swagger", "bcrypt": "auth0"
+        "JWT": "jsonwebtokens", "Swagger": "swagger", "bcrypt": "auth0", 
+        "Cryptography": "1password", "Base64 Encoding": "code", "node-gyp": "node-dot-js"
     };
 
     try {
