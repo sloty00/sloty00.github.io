@@ -3,9 +3,6 @@ layout: page
 title: Mensajes
 permalink: /mensaje/
 ---
-
-## Enviar Mensaje.
-
 <section id="mensajes">
     <h2>Deja un mensaje de validación técnica</h2>
     <form id="form-mensaje">
