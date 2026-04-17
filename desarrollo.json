@@ -4,22 +4,25 @@
 [
   {
     "nombre": "CASS-Workflow-Personal",
-    "stack": ["Nodejs", "React", "MySQL", "Prisma ORM", "API Integration", "Firebase", "Active Directory", "Motion"],
-    "descripcion": "Arquitectura de automatización de flujos de trabajo basada en micro-procesos para optimización operativa.",
+    "tipo": "Fullstack",
+    "stack": ["Nodejs", "React", "API Integration", "Firebase", "Active Directory", "Motion"],
+    "descripcion": "Arquitectura de automatización de flujos de trabajo basada en micro-procesos para la optimización operativa y gestión de tareas críticas.",
     "url_repo": "https://github.com/sloty00/CASS-Workflow-Personal",
     "status": "Production",
     "icon": "fas fa-network-wired"
   },
   {
     "nombre": "Calculadora-IP",
+    "tipo": "Backend",
     "stack": ["Nodejs", "Express", "JavaScript", "Networking"],
-    "descripcion": "Herramienta técnica para el cálculo de subredes y segmentación IPv4, optimizando el direccionamiento en redes corporativas.",
+    "descripcion": "Módulo técnico para el cálculo y segmentación de redes IPv4, diseñado para optimizar el direccionamiento jerárquico en infraestructuras locales.",
     "url_repo": "https://github.com/sloty00/Calculadora-IP",
     "status": "Production",
     "icon": "fas fa-calculator"
   },
   {
     "nombre": "Vacademy",
+    "tipo": "Backend",
     "stack": ["Node.js", "Express.js", "Prisma ORM", "MySQL", "JWT", "Swagger", "bcrypt"],
     "descripcion": "Ecosistema educativo backend diseñado para la gestión de cursos y usuarios. Implementa autenticación robusta, persistencia relacional y documentación interactiva de API.",
     "url_repo": "https://github.com/sloty00/vacademy",
