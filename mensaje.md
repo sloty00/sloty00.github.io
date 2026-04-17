@@ -38,7 +38,7 @@ permalink: /mensaje/
 </style>
 <section id="mensajes">
     <h2>Deja un mensaje de validación técnica</h2>
-    <form action="https://formspree.io/f/xpqkddwq" method="POST" id="form-mensaje">
+    <form id="mi-formulario-gitops" action="https://formspree.io/f/xpqkddwq" method="POST" id="form-mensaje">
         <input type="text" name="name" id="nombre" placeholder="Tu Nombre" required>
         <input type="email" name="_replyto" id="email" placeholder="tu@correo.com" required>
         <textarea name="message" id="texto-mensaje" placeholder="Escribe tu validación o mensaje aquí..." required></textarea>
@@ -54,9 +54,9 @@ permalink: /mensaje/
     const REPO_NAME = "sloty00.github.io"; 
     const JSON_FILE = "mensajes.json";
 
+    // --- 1. FUNCIÓN PARA CARGAR LA TABLA ---
     async function cargarMensajes() {
         try {
-            // Añadimos un timestamp para evitar el cache del navegador
             const response = await fetch(`https://raw.githubusercontent.com/${GITHUB_USER}/${REPO_NAME}/main/${JSON_FILE}?t=${new Date().getTime()}`);
             const mensajes = await response.json();
             const cuerpoTabla = document.getElementById('cuerpo-tabla');
@@ -76,5 +76,47 @@ permalink: /mensaje/
         }
     }
 
-    document.addEventListener('DOMContentLoaded', cargarMensajes);
+    // --- 2. FUNCIÓN PARA ENVÍO AJAX (SIN REDIRECCIÓN) ---
+    // Asegúrate de que tu formulario en el HTML tenga el id="form-mensaje"
+    document.addEventListener('DOMContentLoaded', () => {
+        cargarMensajes(); // Cargar la tabla al iniciar
+
+        const formulario = document.getElementById('form-mensaje');
+        if (formulario) {
+            formulario.addEventListener('submit', async (e) => {
+                e.preventDefault(); // Bloquea la redirección a Formspree
+                
+                const boton = formulario.querySelector('button');
+                const estado = document.getElementById('estado-envio') || alert; // Usa un div de estado o un alert
+                
+                boton.disabled = true;
+                boton.innerText = "Enviando...";
+
+                const datos = new FormData(formulario);
+                
+                try {
+                    // REEMPLAZA "tu_codigo" con el ID que te dio Formspree
+                    const response = await fetch("https://formspree.io/f/tu_codigo", {
+                        method: 'POST',
+                        body: datos,
+                        headers: {
+                            'Accept': 'application/json'
+                        }
+                    });
+
+                    if (response.ok) {
+                        alert("✅ ¡Validación enviada! Se publicará tras la revisión técnica.");
+                        formulario.reset();
+                    } else {
+                        alert("❌ Hubo un problema al enviar. Intenta nuevamente.");
+                    }
+                } catch (error) {
+                    alert("❌ Error de conexión con el servidor de validación.");
+                } finally {
+                    boton.disabled = false;
+                    boton.innerText = "Enviar Validación";
+                }
+            });
+        }
+    });
 </script>
