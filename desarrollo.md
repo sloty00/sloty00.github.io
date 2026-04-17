@@ -4,9 +4,6 @@ title: Desarrollo
 permalink: /desarrollo/
 ---
 
-Aquí tienes el código final integrado. He inyectado la lógica de colores y logos de Shields.io directamente en tu función de renderizado para que mantengas la ruta que ya confirmamos que funciona, pero con la estética profesional completa.
-
-HTML
 <style>
     .desarrollos-grid { display: flex; flex-direction: column; gap: 30px; padding: 20px; max-width: 800px; margin: 0 auto; }
     .card-proyecto { background: #fff; border-left: 5px solid #4285F4; padding: 25px; border-radius: 0 10px 10px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.05); margin-bottom: 20px; color: #333; transition: transform 0.2s; }
