@@ -34,8 +34,14 @@ permalink: /desarrollo/
 <script>
 async function cargarDesarrollos() {
     try {
-        // CORRECCIÓN: Ruta relativa y plural
+        // CAMBIO CLAVE: Quitamos la "/" inicial. 
+        // Si el archivo se llama desarrollos.json (con s), cámbialo aquí abajo.
         const response = await fetch(`desarrollo.json?t=${Date.now()}`);
+        
+        if (!response.ok) {
+            throw new Error(`No se pudo cargar el JSON: ${response.status}`);
+        }
+
         const proyectos = await response.json();
         const grid = document.getElementById('grid-proyectos');
         
@@ -53,7 +59,6 @@ async function cargarDesarrollos() {
             "Veeam": "00B336"
         };
 
-        // Mapeo de nombres para logos de Shields.io (Slug oficial)
         const logoNames = {
             "Nodejs": "nodedotjs",
             "Active Directory": "microsoft",
@@ -69,7 +74,7 @@ async function cargarDesarrollos() {
                 <p style="font-size: 0.95em; color: #64748b; margin-bottom: 15px; text-align: justify;">
                     ${p.descripcion}
                 </p>
-                <div class="stack-tags">
+                <div class="stack-tags" style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px;">
                     ${p.stack.map(s => {
                         const color = colors[s] || "475569";
                         const label = s.replace(/ /g, "%20");
@@ -84,7 +89,8 @@ async function cargarDesarrollos() {
         `).join('');
     } catch (error) {
         console.error("Error en la automatización del catálogo:", error);
-        grid.innerHTML = "<p>Error al cargar el catálogo técnico.</p>";
+        const grid = document.getElementById('grid-proyectos');
+        if(grid) grid.innerHTML = `<p style="color: red;">Error: ${error.message}. Verifica que desarrollo.json esté en la misma carpeta.</p>`;
     }
 }
 cargarDesarrollos();
