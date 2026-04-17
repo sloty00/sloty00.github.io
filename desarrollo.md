@@ -5,31 +5,74 @@ permalink: /desarrollo/
 ---
 
 <style>
-    /* Contenedor de las etiquetas */
+.desarrollos-grid {
+    display: flex;
+    flex-direction: column; /* Proyectos uno debajo de otro */
+    gap: 40px;              /* Espacio generoso entre cada proyecto */
+    padding: 30px 0;
+    max-width: 850px;       /* Alineado con tu perfil profesional */
+    margin: 0 auto;
+}
+
+/* Tarjeta de cada proyecto */
+.card-proyecto {
+    background: #ffffff;
+    border-left: 4px solid #4285F4; /* Detalle lateral para dar jerarquía */
+    padding: 25px;
+    position: relative;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    border-radius: 0 12px 12px 0;
+}
+
+/* Espaciado del título y descripción */
+.card-proyecto h3 {
+    margin: 10px 0;
+    font-size: 1.4rem;
+    color: #1e293b;
+}
+
+.card-proyecto p {
+    margin-bottom: 20px;
+    line-height: 1.6;
+    color: #475569;
+}
+
+/* Separación de las etiquetas (Badges) */
 .stack-tags {
     display: flex;
-    flex-wrap: wrap;       /* Permite que las etiquetas bajen de línea si no caben */
-    gap: 8px;              /* CREA EL ESPACIO ENTRE CADA TECNOLOGÍA */
-    margin-top: 15px;
-    margin-bottom: 20px;
+    flex-wrap: wrap;
+    gap: 12px;           /* Espacio entre los logos de Shields.io */
+    margin: 20px 0;      /* Margen arriba y abajo de los logos */
 }
 
-/* Estilo de cada etiqueta individual */
-.stack-tags span {
-    background-color: #f1f5f9; /* Color de fondo suave (Slate 100) */
-    color: #475569;            /* Color de texto profesional */
-    padding: 4px 10px;         /* Espacio interno */
-    border-radius: 6px;        /* Bordes redondeados */
-    font-size: 12px;           /* Tamaño de fuente técnico */
-    font-weight: 600;          /* Grosor para que sea legible */
-    border: 1px solid #e2e8f0; /* Un borde muy fino */
-    white-space: nowrap;       /* Evita que una palabra larga se rompa */
+/* Botón de enlace */
+.btn-git {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background-color: #1e293b;
+    color: white;
+    padding: 10px 18px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 14px;
+    transition: background 0.3s;
 }
 
-/* Efecto opcional para que se vea más pro */
-.stack-tags span:hover {
-    background-color: #e2e8f0;
-    color: #1e293b;
+.btn-git:hover {
+    background-color: #334155;
+}
+
+/* Etiqueta de Status (esquina superior) */
+.status {
+    display: inline-block;
+    font-size: 11px;
+    font-weight: bold;
+    color: #16a34a;
+    background: #dcfce7;
+    padding: 4px 12px;
+    border-radius: 20px;
+    text-transform: uppercase;
 }
 </style>
 
