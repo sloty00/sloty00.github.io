@@ -49,4 +49,32 @@ permalink: /mensaje/
     </form>
     
     </section>
+<script>
+    const GITHUB_USER = "sloty00"; 
+    const REPO_NAME = "sloty00.github.io"; 
+    const JSON_FILE = "mensajes.json";
 
+    async function cargarMensajes() {
+        try {
+            // Añadimos un timestamp para evitar el cache del navegador
+            const response = await fetch(`https://raw.githubusercontent.com/${GITHUB_USER}/${REPO_NAME}/main/${JSON_FILE}?t=${new Date().getTime()}`);
+            const mensajes = await response.json();
+            const cuerpoTabla = document.getElementById('cuerpo-tabla');
+            if(!cuerpoTabla) return;
+            
+            cuerpoTabla.innerHTML = ""; 
+            mensajes.forEach(m => {
+                const fila = `<tr>
+                    <td>${m.fecha}</td>
+                    <td>${m.nombre}</td>
+                    <td>${m.mensaje}</td>
+                </tr>`;
+                cuerpoTabla.innerHTML += fila;
+            });
+        } catch (error) {
+            console.error("Error cargando mensajes:", error);
+        }
+    }
+
+    document.addEventListener('DOMContentLoaded', cargarMensajes);
+</script>
