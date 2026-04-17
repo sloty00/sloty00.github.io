@@ -36,7 +36,7 @@ async function cargarDesarrollos() {
     try {
         // CAMBIO CLAVE: Quitamos la "/" inicial. 
         // Si el archivo se llama desarrollos.json (con s), cámbialo aquí abajo.
-        const response = await fetch(`./desarrollo.json?t=${Date.now()}`);
+        const response = await fetch(`/desarrollo.json?t=${Date.now()}`);
         
         if (!response.ok) {
             throw new Error(`No se pudo cargar el JSON: ${response.status}`);
