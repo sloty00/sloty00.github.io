@@ -55,5 +55,14 @@
     "url_repo": "https://github.com/sloty00/CalculadorIPV4Cpp",
     "status": "Production",
     "icon": "fas fa-network-wired"
+  },
+  {
+    "nombre": "AdminPassSecCpp",
+    "tipo": "Backend",
+    "stack": ["C++", "Visual Studio Pro", "Cybersecurity", "Data Encryption"],
+    "descripcion": "Sistema de gestión de credenciales desarrollado en C++. Implementa almacenamiento seguro de contraseñas mediante técnicas de cifrado y persistencia de datos local, enfocado en la privacidad del usuario.",
+    "url_repo": "https://github.com/sloty00/AdminPassSecCpp",
+    "status": "Production",
+    "icon": "fas fa-shield-alt"
   }
 ]
