@@ -58,7 +58,6 @@ permalink: /mensaje/
         <textarea id="texto-mensaje" placeholder="Escribe aquí tu validación profesional..." required></textarea>
         
         <button type="submit" id="boton-enviar">
-    <img src="https://www.gstatic.com/firebasejs/ui/2.0.0/images/auth/google.svg" alt="Google Logo" class="google-icon">
     Autenticarse con Google y Enviar
 </button>
         <div id="estado-envio" style="margin-top: 15px; text-align: center; font-size: 14px;"></div>
