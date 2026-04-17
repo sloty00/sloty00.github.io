@@ -32,3 +32,51 @@ permalink: /mensaje/
     </table>
 </section>
 
+<script>
+        const GITHUB_USER = "sloty00";
+        const REPO_NAME = "sloty00.github.io"; 
+        const JSON_FILE = "mensajes.json";
+
+        // 1. CARGAR MENSAJES EN LA TABLA
+        async function cargarMensajes() {
+            try {
+                const response = await fetch(`https://raw.githubusercontent.com/${GITHUB_USER}/${REPO_NAME}/main/${JSON_FILE}?t=${new Date().getTime()}`);
+                const mensajes = await response.json();
+                const cuerpoTabla = document.getElementById('cuerpo-tabla');
+                if(!cuerpoTabla) return; // Seguridad por si el elemento no existe aún
+                
+                cuerpoTabla.innerHTML = ""; 
+
+                mensajes.forEach(m => {
+                    const fila = `<tr>
+                        <td>${m.fecha}</td>
+                        <td>${m.nombre}</td>
+                        <td>${m.mensaje}</td>
+                    </tr>`;
+                    cuerpoTabla.innerHTML += fila;
+                });
+            } catch (error) {
+                console.error("Error cargando mensajes:", error);
+            }
+        }
+
+        // 2. ENVIAR MENSAJE
+        document.getElementById('form-mensaje').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            
+            // Aquí capturamos los datos
+            const name = document.getElementById('nombre').value;
+            const message = document.getElementById('texto-mensaje').value;
+
+            // --- PASO SIGUIENTE: CONECTAR AL WEBHOOK ---
+            // Por ahora solo avisamos, pero ya tienes la lógica lista.
+            alert("Enviando validación técnica a la arquitectura GitOps...");
+            
+            // Limpiar formulario tras enviar
+            e.target.reset();
+        });
+
+        // Inicializar tabla al cargar
+        document.addEventListener('DOMContentLoaded', cargarMensajes);
+    </script>
+
