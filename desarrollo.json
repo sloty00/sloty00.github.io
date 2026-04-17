@@ -109,5 +109,14 @@
     "url_repo": "https://github.com/sloty00/Calc_Rut-NodejsCpp",
     "status": "Production",
     "icon": "fas fa-microchip"
+  },
+  {
+    "nombre": "NodejsCppSubred",
+    "tipo": "Backend",
+    "stack": ["Nodejs", "C++", "node-gyp", "Networking", "Performance Optimization"],
+    "descripcion": "Calculadora de subredes IPv4 de alto rendimiento. Utiliza un motor de procesamiento bitwise en C++ vinculado a Node.js para determinar segmentos de red, máscaras y rangos de host con latencia mínima.",
+    "url_repo": "https://github.com/sloty00/NodejsCppSubred",
+    "status": "Production",
+    "icon": "fas fa-network-wired"
   }
 ]
