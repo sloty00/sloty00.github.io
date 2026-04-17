@@ -96,7 +96,7 @@ permalink: /mensaje/
                 
                 try {
                     // REEMPLAZA "tu_codigo" con el ID que te dio Formspree
-                    const response = await fetch("https://formspree.io/f/tu_codigo", {
+                    const response = await fetch("https://formspree.io/f/xpqkddwq", {
                         method: 'POST',
                         body: datos,
                         headers: {
