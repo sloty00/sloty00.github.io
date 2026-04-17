@@ -35,7 +35,7 @@ permalink: /desarrollo/
 async function cargarDesarrollos() {
     try {
         // CORRECCIÓN: Ruta relativa y plural
-        const response = await fetch(`/desarrollo.json?t=${Date.now()}`);
+        const response = await fetch(`desarrollo.json?t=${Date.now()}`);
         const proyectos = await response.json();
         const grid = document.getElementById('grid-proyectos');
         
