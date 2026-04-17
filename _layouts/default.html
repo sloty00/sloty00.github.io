@@ -2,7 +2,68 @@
 <!DOCTYPE html>
 <html lang="es"> <head>
     <meta charset="utf-8" /> <meta name="viewport" content="width=device-width, initial-scale=1.0" /> <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    <style>
+        .tech-stack-footer {
+    margin-top: 50px;
+    padding: 30px 10px;
+    text-align: center;
+    border-top: 1px solid #eee;
+    background-color: #f9f9f9;
+}
 
+.tech-stack-footer p {
+    font-size: 14px;
+    color: #777;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.tech-logos {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 25px;
+    align-items: center;
+}
+
+.tech-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    filter: grayscale(100%); /* Efecto elegante inicial */
+    opacity: 0.7;
+    transition: all 0.3s ease;
+}
+
+.tech-item:hover {
+    filter: grayscale(0%);
+    opacity: 1;
+    transform: translateY(-3px);
+}
+
+.tech-item img {
+    height: 30px;
+    width: auto;
+}
+
+.tech-item span {
+    font-size: 11px;
+    font-weight: 600;
+    color: #555;
+}
+
+/* Ajuste para móviles */
+@media (max-width: 480px) {
+    .tech-logos {
+        gap: 15px;
+    }
+    .tech-item img {
+        height: 25px;
+    }
+}
+    </style>
     {% include meta.html %}
 
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
