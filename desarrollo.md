@@ -12,7 +12,7 @@ permalink: /desarrollo/
 
 <script>
 async function cargarDesarrollos() {
-    const response = await fetch('./desarrollos.json');
+    const response = await fetch('./desarrollo.json');
     const proyectos = await response.json();
     const grid = document.getElementById('grid-proyectos');
     
