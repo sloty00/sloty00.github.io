@@ -100,5 +100,14 @@
     "url_repo": "https://github.com/sloty00/HerenciaPolCpp",
     "status": "Production",
     "icon": "fas fa-sitemap"
+  },
+  {
+    "nombre": "Calc_Rut-NodejsCpp",
+    "tipo": "Backend",
+    "stack": ["Nodejs", "C++", "node-gyp", "Express", "Native Addons"],
+    "descripcion": "API híbrida de alto rendimiento para el cálculo de dígito verificador. Implementa un motor de cálculo algorítmico en C++ integrado como módulo nativo en un entorno Node.js mediante node-gyp.",
+    "url_repo": "https://github.com/sloty00/Calc_Rut-NodejsCpp",
+    "status": "Production",
+    "icon": "fas fa-microchip"
   }
 ]
