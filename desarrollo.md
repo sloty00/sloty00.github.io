@@ -38,7 +38,9 @@ async function forzarCarga() {
         "Performance Optimization": "FF9900", "C++": "00599C", 
         "Native Addons": "61DAFB", "Polimorfismo": "6D28D9", "Herencia": "4338CA",                 "Clases Abstractas": "37474F", "Software Patterns": "10B981",
         "Time Management": "F59E0B", "Data Persistence": "37474F", 
-        "Software Architecture": "4285F4"
+        "Software Architecture": "4285F4", "STL Containers": "00599C", 
+        "File Handling": "37474F",   "Authentication": "16a34a", "File I/O": "37474F",             "Data Management": "0078D4", "C++": "00599C", "Visual Studio Pro": "5C2D91",
+        "Cybersecurity": "E34F26", "Data Encryption": "000000"
     };
 
     const logoNames = {
@@ -51,7 +53,11 @@ async function forzarCarga() {
         "node-gyp": "node-dot-js", "Native Addons": "cplusplus", 
         "Polimorfismo": "cplusplus", "Herencia": "git-compare", 
         "Clases Abstractas": "code", "OOP": "cplusplus", "Time Management": "clock",
-        "Data Persistence": "sqlite"
+        "Data Persistence": "sqlite", "STL Containers": "cplusplus", 
+        "File Handling": "files", "Authentication": "authy", "File I/O": "files",
+        "Data Management": "database", "C++": "cplusplus", 
+        "Visual Studio Pro": "visualstudio", "Cybersecurity": "securityscorecard",
+        "Data Encryption": "gnupg"
     };
 
     try {
