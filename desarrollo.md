@@ -35,7 +35,10 @@ async function forzarCarga() {
         "JWT": "FB005F", "Swagger": "85EA2D", "bcrypt": "37474F", 
         "Cryptography": "000000", "Base64 Encoding": "475569",  "node-gyp": "282C34",
         "Networking": "00599C", "node-gyp": "282C34", 
-        "Performance Optimization": "FF9900", "C++": "00599C"
+        "Performance Optimization": "FF9900", "C++": "00599C", 
+        "Native Addons": "61DAFB", "Polimorfismo": "6D28D9", "Herencia": "4338CA",                 "Clases Abstractas": "37474F", "Software Patterns": "10B981",
+        "Time Management": "F59E0B", "Data Persistence": "37474F", 
+        "Software Architecture": "4285F4"
     };
 
     const logoNames = {
@@ -45,7 +48,10 @@ async function forzarCarga() {
         "JWT": "jsonwebtokens", "Swagger": "swagger", "bcrypt": "auth0", 
         "Cryptography": "1password", "Base64 Encoding": "code", "node-gyp": "node-dot-js",
         "Networking": "cisco", "Performance Optimization": "speedtest", 
-        "node-gyp": "node-dot-js"
+        "node-gyp": "node-dot-js", "Native Addons": "cplusplus", 
+        "Polimorfismo": "cplusplus", "Herencia": "git-compare", 
+        "Clases Abstractas": "code", "OOP": "cplusplus", "Time Management": "clock",
+        "Data Persistence": "sqlite"
     };
 
     try {
