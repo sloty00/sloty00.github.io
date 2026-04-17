@@ -4,7 +4,7 @@
 [
   {
     "nombre": "CASS-Workflow-Personal",
-    "stack": ["Nodejs", "React", "API Integration", "Firebase", "Active Directory", "Motion"],
+    "stack": ["Nodejs", "React", "MySQL", "Prisma ORM", "API Integration", "Firebase", "Active Directory", "Motion"],
     "descripcion": "Arquitectura de automatización de flujos de trabajo basada en micro-procesos para optimización operativa.",
     "url_repo": "https://github.com/sloty00/CASS-Workflow-Personal",
     "status": "Production",
@@ -17,5 +17,13 @@
     "url_repo": "https://github.com/sloty00/Calculadora-IP",
     "status": "Production",
     "icon": "fas fa-calculator"
+  },
+  {
+    "nombre": "Vacademy",
+    "stack": ["Node.js", "Express.js", "Prisma ORM", "MySQL", "JWT", "Swagger", "bcrypt"],
+    "descripcion": "Ecosistema educativo backend diseñado para la gestión de cursos y usuarios. Implementa autenticación robusta, persistencia relacional y documentación interactiva de API.",
+    "url_repo": "https://github.com/sloty00/vacademy",
+    "status": "Development",
+    "icon": "fas fa-university"
   }
 ]
