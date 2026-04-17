@@ -73,5 +73,14 @@
     "url_repo": "https://github.com/sloty00/AdminContactoCpp",
     "status": "Production",
     "icon": "fas fa-address-book"
+  },
+  {
+    "nombre": "LoginCpp",
+    "tipo": "Backend",
+    "stack": ["C++", "STL Containers", "File Handling", "Visual Studio Pro"],
+    "descripcion": "Sistema de autenticación persistente desarrollado en C++. Utiliza estructuras de datos optimizadas (unordered_map) para la gestión de usuarios en memoria y flujos de archivos para el almacenamiento seguro de credenciales.",
+    "url_repo": "https://github.com/sloty00/LoginCpp",
+    "status": "Production",
+    "icon": "fas fa-user-lock"
   }
 ]
