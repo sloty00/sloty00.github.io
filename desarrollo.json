@@ -46,5 +46,14 @@
     "url_repo": "https://github.com/sloty00/ValidadorRutCpp",
     "status": "Production",
     "icon": "fas fa-terminal"
+  },
+  {
+    "nombre": "CalculadorIPV4Cpp",
+    "tipo": "Backend",
+    "stack": ["C++", "Visual Studio Pro", "Networking", "Bitwise Operations"],
+    "descripcion": "Herramienta de ingeniería de redes desarrollada en C++. Realiza cálculos complejos de direccionamiento IPv4, máscaras de subred y rangos de host mediante manipulación de bits a bajo nivel.",
+    "url_repo": "https://github.com/sloty00/CalculadorIPV4Cpp",
+    "status": "Production",
+    "icon": "fas fa-network-wired"
   }
 ]
