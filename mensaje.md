@@ -15,18 +15,18 @@ permalink: /mensaje/
 
     <hr>
 
-    <h3>Mensajes Recibidos</h3>
-    <table id="tabla-mensajes">
-        <thead>
-            <tr>
-                <th>Fecha</th>
-                <th>Nombre</th>
-                <th>Mensaje</th>
-            </tr>
-        </thead>
-        <tbody id="cuerpo-tabla">
-            </tbody>
-    </table>
+<h3>Mensajes Recibidos</h3>
+<table id="tabla-mensajes" style="width:100%; border-collapse: collapse; margin-top: 20px;">
+    <thead>
+        <tr style="background-color: #f2f2f2; text-align: left;">
+            <th style="padding: 10px; border-bottom: 2px solid #ddd;">Fecha</th>
+            <th style="padding: 10px; border-bottom: 2px solid #ddd;">Nombre</th>
+            <th style="padding: 10px; border-bottom: 2px solid #ddd;">Mensaje</th>
+        </tr>
+    </thead>
+    <tbody id="cuerpo-tabla">
+        </tbody>
+</table>
 </section>
 
 <script>
