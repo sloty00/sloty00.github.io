@@ -7,7 +7,7 @@
     "status": "Production",
     "icon": "fas fa-cogs"
   },
-    {
+  {
     "nombre": "Calculadora-IP",
     "stack": ["Nodejs", "Express", "Ip.js", "Cors", "Body-parser"],
     "descripcion": "Arquitectura de automatización de flujos de trabajo basada en micro-procesos para optimización operativa.",
@@ -15,5 +15,4 @@
     "status": "Production",
     "icon": "fas fa-cogs"
   }
-
 ]
