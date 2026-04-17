@@ -13,11 +13,26 @@ permalink: /about/
 <picture><img src="https://crowdfunding.explorerbyx.org/storage/project/4147/img/products/2w3dl6MalNtXpEwAC38azWkTfDMfs7bdA4bcRJ8S.gif" width="120px"></picture> 
 </div>
 
-Ingeniero Senior y Platform Engineer con más de 18 años de trayectoria en TI y una sólida base en informática
-desde 1998. Especialista en Desarrollo Fullstack (8+ años) y prácticas DevOps/DevSecOps, con enfoque en
-ciberseguridad, resiliencia de infraestructura y continuidad operativa. Experto en arquitectura de plataformas
-críticas basadas en Linux, alta disponibilidad y soluciones de respaldo empresarial mediante Veeam Data
-Platform. Poseo una probada capacidad para liderar la modernización de sistemas legacy, desplegar entornos
-contenerizados y diseñar infraestructuras robustas y escalables en entornos empresariales de alta exigencia.
-Me caracterizo por un liderazgo técnico agudo, adaptabilidad y una visión estratégica orientada a la protección
-de activos y optimización de operaciones.
+<div class="perfil-profesional">
+    <p>
+        <strong>Ingeniero Senior y Platform Engineer</strong> con más de 18 años de trayectoria en TI y una sólida base en informática desde 1998. Especialista en <strong>Desarrollo Fullstack (8+ años)</strong> y prácticas <strong>DevOps/DevSecOps</strong>, con enfoque en ciberseguridad, resiliencia de infraestructura y continuidad operativa. Experto en arquitectura de plataformas críticas basadas en Linux, alta disponibilidad y soluciones de respaldo empresarial mediante <strong>Veeam Data Platform</strong>. Poseo una probada capacidad para liderar la modernización de sistemas legacy, desplegar entornos contenerizados y diseñar infraestructuras robustas y escalables en entornos empresariales de alta exigencia. Me caracterizo por un liderazgo técnico agudo, adaptabilidad y una visión estratégica orientada a la protección de activos y optimización de operaciones.
+    </p>
+</div>
+
+<style>
+.perfil-profesional p {
+    text-align: justify;       /* MÁRGENES ALINEADOS */
+    text-justify: inter-word;  /* Distribuye el espacio entre palabras de forma natural */
+    line-height: 1.6;          /* Interlineado óptimo para lectura larga */
+    font-size: 1.1rem;         /* Tamaño equilibrado */
+    color: #334155;            /* Gris azulado profesional (Slate 700) */
+    max-width: 800px;          /* Evita líneas demasiado largas que cansan la vista */
+    margin: 0 auto;            /* Centra el bloque en la página */
+    hyphens: auto;             /* Corta palabras con guiones si es necesario (mejor en móviles) */
+}
+
+.perfil-profesional strong {
+    color: #1e293b;            /* Resalta tus keywords en un tono más oscuro */
+    font-weight: 600;
+}
+</style>
