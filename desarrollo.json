@@ -82,5 +82,14 @@
     "url_repo": "https://github.com/sloty00/LoginCpp",
     "status": "Production",
     "icon": "fas fa-user-lock"
+  },
+  {
+    "nombre": "ProyectoAdminCpp",
+    "tipo": "Backend",
+    "stack": ["C++", "OOP", "Data Persistence", "Time Management", "Visual Studio Pro"],
+    "descripcion": "Gestor de proyectos profesional desarrollado en C++. Implementa Programación Orientada a Objetos para el cálculo de costos operativos, estimación de horas-hombre y gestión de plazos temporales con persistencia de datos.",
+    "url_repo": "https://github.com/sloty00/ProyectoAdminCpp",
+    "status": "Production",
+    "icon": "fas fa-tasks"
   }
 ]
