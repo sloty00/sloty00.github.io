@@ -4,7 +4,7 @@ title: Desarrollo
 permalink: /desarrollo/
 ---
 
-<script>
+<style>
     /* Contenedor de las etiquetas */
 .stack-tags {
     display: flex;
@@ -31,7 +31,7 @@ permalink: /desarrollo/
     background-color: #e2e8f0;
     color: #1e293b;
 }
-</script>
+</style>
 
 <section id="lista-desarrollos">
     <h2>Catálogo de Soluciones y Arquitecturas</h2>
