@@ -247,6 +247,3 @@ function filterSelection(c) {
   event.currentTarget.classList.add("active");
 }
 </script>
-
-### Contact me
-[jvoyarzun81@gmail.com](mailto:jvoyarzun81@gmail.com)
