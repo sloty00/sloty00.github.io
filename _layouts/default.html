@@ -12,24 +12,25 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
     <style>
-        /* --- ESTRUCTURA DEL HEADER (FLEXBOX) --- */
+        /* --- NAVEGACIÓN Y HEADER --- */
         .masthead {
             display: flex;
             align-items: center;
             justify-content: space-between;
             flex-wrap: wrap;
-            padding: 20px 0;
-            border-bottom: 1px solid #eee;
-            margin-bottom: 30px;
+            padding: 25px 0;
+            border-bottom: 1px solid #f1f5f9;
+            margin-bottom: 40px;
         }
 
         .site-avatar {
             margin-right: 20px;
-            transition: transform 0.3s ease;
+            display: block;
         }
 
-        .site-avatar:hover {
-            transform: scale(1.05);
+        .site-avatar img {
+            border-radius: 12px;
+            transition: transform 0.3s ease;
         }
 
         .site-info {
@@ -38,19 +39,23 @@
         }
 
         .site-name {
-            font-size: 1.8rem;
+            font-size: 1.75rem;
+            font-weight: 700;
             margin: 0;
+            letter-spacing: -0.5px;
         }
+
+        .site-name a { color: #1e293b; text-decoration: none; }
 
         .site-description {
             color: #64748b;
-            margin: 5px 0 0 0;
+            margin: 4px 0 0 0;
+            font-size: 0.95rem;
         }
 
-        /* --- MENÚ DE NAVEGACIÓN --- */
         nav {
             display: flex;
-            gap: 12px;
+            gap: 10px;
             flex-wrap: wrap;
             justify-content: flex-end;
         }
@@ -63,41 +68,41 @@
             font-size: 14px;
             font-weight: 600;
             border: 1.5px solid #e2e8f0;
-            transition: all 0.2s ease;
-            background: #fff;
+            background: #ffffff;
+            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
         }
 
         .nav-cta:hover {
             background-color: #4285F4;
-            color: #fff !important;
+            color: #ffffff !important;
             border-color: #4285F4;
             transform: translateY(-2px);
-            box-shadow: 0 4px 12px rgba(66, 133, 244, 0.2);
+            box-shadow: 0 4px 12px rgba(66, 133, 244, 0.25);
         }
 
         /* --- FOOTER TECNOLÓGICO --- */
         .tech-stack-footer {
             margin-top: 60px;
-            padding: 40px 10px;
+            padding: 50px 0;
             text-align: center;
-            border-top: 1px solid #eee;
-            background-color: #fcfcfc;
+            border-top: 1px solid #f1f5f9;
+            background-color: #f8fafc;
         }
 
         .stack-title {
-            font-size: 12px;
+            font-size: 11px;
             color: #94a3b8;
-            margin-bottom: 25px;
+            margin-bottom: 30px;
             text-transform: uppercase;
-            letter-spacing: 1.5px;
-            font-weight: 700;
+            letter-spacing: 2px;
+            font-weight: 800;
         }
 
         .tech-logos {
             display: flex;
             justify-content: center;
             flex-wrap: wrap;
-            gap: 30px;
+            gap: 35px;
             align-items: center;
         }
 
@@ -105,66 +110,39 @@
             display: flex;
             flex-direction: column;
             align-items: center;
-            gap: 10px;
+            gap: 12px;
             filter: grayscale(100%);
-            opacity: 0.6;
-            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+            opacity: 0.5;
+            transition: all 0.4s ease;
         }
 
         .tech-item:hover {
             filter: grayscale(0%);
             opacity: 1;
-            transform: translateY(-5px);
+            transform: translateY(-6px);
         }
 
-        .tech-item img {
-            height: 35px;
-            width: auto;
-        }
+        .tech-item img { height: 32px; width: auto; }
 
         .tech-item span {
             font-size: 11px;
-            font-weight: 600;
-            color: #475569;
+            font-weight: 700;
+            color: #64748b;
         }
 
-        .footer-divider {
-            border: 0;
-            border-top: 1px solid #f1f5f9;
-            margin: 30px auto;
-            width: 50%;
-        }
+        .footer-divider { border: 0; border-top: 1px solid #e2e8f0; margin: 40px auto; width: 60px; }
 
-        .copyright {
-            font-size: 13px;
-            color: #94a3b8;
-            margin-top: 20px;
-        }
+        .copyright { font-size: 13px; color: #94a3b8; margin-top: 20px; }
 
         /* --- RESPONSIVIDAD --- */
         @media (max-width: 850px) {
-            .masthead {
-                flex-direction: column;
-                text-align: center;
-            }
-            nav {
-                justify-content: center;
-                margin-top: 25px;
-                width: 100%;
-            }
-            .site-avatar {
-                margin-right: 0;
-                margin-bottom: 15px;
-            }
+            .masthead { flex-direction: column; text-align: center; }
+            nav { justify-content: center; margin-top: 25px; width: 100%; }
+            .site-avatar { margin-right: 0; margin-bottom: 15px; }
         }
 
         @media (max-width: 480px) {
-            .nav-cta {
-                padding: 8px 12px;
-                font-size: 13px;
-                flex: 1 1 40%; /* Dos botones por fila en móvil */
-                text-align: center;
-            }
+            .nav-cta { flex: 1 1 42%; text-align: center; font-size: 13px; padding: 8px; }
             .tech-logos { gap: 20px; }
         }
     </style>
@@ -175,7 +153,7 @@
         <div class="container">
             <header class="masthead">
                 <a href="{{ site.baseurl }}/" class="site-avatar">
-                    <img src="{{ site.avatar }}" alt="{{ site.name }}" />
+                    <img src="{{ site.avatar }}" alt="{{ site.name }}" width="70" height="70" />
                 </a>
 
                 <div class="site-info">
@@ -201,45 +179,39 @@
     <div class="wrapper-footer">
         <div class="container">
             <footer class="footer tech-stack-footer">
-                <div class="footer-section">
-                    <p class="stack-title">Infraestructura construida con:</p>
-                    <div class="tech-logos">
-                        <div class="tech-item">
-                            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown">
-                            <span>Markdown</span>
-                        </div>
-                        <div class="tech-item">
-                            <img src="https://www.gstatic.com/images/branding/product/1x/googleg_48dp.png" alt="Google">
-                            <span>Google</span>
-                        </div>
-                        <div class="tech-item">
-                            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase">
-                            <span>Firebase</span>
-                        </div>
-                        <div class="tech-item">
-                            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Pages">
-                            <span>GitHub Pages</span>
-                        </div>
-                        <div class="tech-item">
-                            <img src="https://avatars.githubusercontent.com/u/14319378?s=200&v=4" alt="Formspree">
-                            <span>Formspree</span>
-                        </div>
+                <p class="stack-title">Infraestructura construida con:</p>
+                <div class="tech-logos">
+                    <div class="tech-item">
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown">
+                        <span>Markdown</span>
+                    </div>
+                    <div class="tech-item">
+                        <img src="https://www.gstatic.com/images/branding/product/1x/googleg_48dp.png" alt="Google">
+                        <span>Google</span>
+                    </div>
+                    <div class="tech-item">
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase">
+                        <span>Firebase</span>
+                    </div>
+                    <div class="tech-item">
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Pages">
+                        <span>GitHub Pages</span>
+                    </div>
+                    <div class="tech-item">
+                        <img src="https://avatars.githubusercontent.com/u/14319378?s=200&v=4" alt="Formspree">
+                        <span>Formspree</span>
                     </div>
                 </div>
 
                 <hr class="footer-divider">
 
-                <div class="footer-section">
-                    <div class="contact">
-                        {% include svg-icons.html %}
-                    </div>
+                <div class="contact">
+                    {% include svg-icons.html %}
                 </div>
 
-                <div class="footer-section">
-                    <p class="copyright">
-                        &copy; {{ site.time | date: '%Y' }} {{ site.name }} | Portafolio Técnico GitOps
-                    </p>
-                </div>
+                <p class="copyright">
+                    &copy; {{ site.time | date: '%Y' }} {{ site.name }} | Portafolio Técnico GitOps
+                </p>
             </footer>
         </div>
     </div>
