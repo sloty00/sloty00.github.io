@@ -52,10 +52,10 @@ permalink: /mensaje/
 </style>
 
 <section id="mensajes">
-    <h2>Validación Técnica con Google Auth</h2>
+    <h2>Enviar Mensaje</h2>
     <form id="mi-formulario-gitops">
         <input type="text" id="asunto" placeholder="Asunto (ej. Quiero contactarme contigo)" required>
-        <textarea id="texto-mensaje" placeholder="Escribe aquí tu mensaje profesional..." required></textarea>
+        <textarea id="texto-mensaje" placeholder="Escribe aquí el asunto de tu mensaje..." required></textarea>
         
         <button type="submit" id="boton-enviar">
     Autenticarse con Google y Enviar
