@@ -54,8 +54,8 @@ permalink: /mensaje/
 <section id="mensajes">
     <h2>Validación Técnica con Google Auth</h2>
     <form id="mi-formulario-gitops">
-        <input type="text" id="asunto" placeholder="Asunto (ej. Validación de Pipeline)" required>
-        <textarea id="texto-mensaje" placeholder="Escribe aquí tu validación profesional..." required></textarea>
+        <input type="text" id="asunto" placeholder="Asunto (ej. Quiero contactarme contigo)" required>
+        <textarea id="texto-mensaje" placeholder="Escribe aquí tu mensaje profesional..." required></textarea>
         
         <button type="submit" id="boton-enviar">
     Autenticarse con Google y Enviar
