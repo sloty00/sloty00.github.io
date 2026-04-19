@@ -34,7 +34,7 @@
     "tipo": "Backend/Swagger",
     "stack": ["Node.js", "Express.js", "Prisma ORM", "MySQL", "JWT", "Swagger", "bcrypt"],
     "descripcion": "Ecosistema educativo backend diseñado para la gestión de cursos y usuarios. Implementa autenticación robusta, persistencia relacional y documentación interactiva de API.",
-    "url_repo": "https://github.com/sloty00/vacademy",
+    "url_repo": "https://youtu.be/irr8NVixNuM",
     "status": "Development",
     "icon": "fas fa-university"
   },
