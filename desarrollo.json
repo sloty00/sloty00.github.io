@@ -40,7 +40,7 @@
   },
   {
     "nombre": "ValidadorRutCpp",
-    "tipo": "Bash",
+    "tipo": "Low Level Development",
     "stack": ["C++", "Visual Studio Pro", "Algoritmo Módulo 11", "Desktop Development"],
     "descripcion": "Herramienta de validación de Rol Único Tributario (RUT) desarrollada en C++. Implementa lógica algorítmica para el cálculo del dígito verificador, optimizada para rendimiento en entornos de consola.",
     "url_repo": "https://github.com/sloty00/ValidadorRutCpp",
@@ -49,7 +49,7 @@
   },
   {
     "nombre": "CalculadorIPV4Cpp",
-    "tipo": "Bash",
+    "tipo": "Low Level Development",
     "stack": ["C++", "Visual Studio Pro", "Networking", "Bitwise Operations"],
     "descripcion": "Herramienta de ingeniería de redes desarrollada en C++. Realiza cálculos complejos de direccionamiento IPv4, máscaras de subred y rangos de host mediante manipulación de bits a bajo nivel.",
     "url_repo": "https://github.com/sloty00/CalculadorIPV4Cpp",
@@ -58,7 +58,7 @@
   },
   {
     "nombre": "AdminPassSecCpp",
-    "tipo": "Bash",
+    "tipo": "Low Level Development",
     "stack": ["C++", "Visual Studio Pro", "Cybersecurity", "Data Encryption"],
     "descripcion": "Sistema de gestión de credenciales desarrollado en C++. Implementa almacenamiento seguro de contraseñas mediante técnicas de cifrado y persistencia de datos local, enfocado en la privacidad del usuario.",
     "url_repo": "https://github.com/sloty00/AdminPassSecCpp",
@@ -67,7 +67,7 @@
   },
   {
     "nombre": "AdminContactoCpp",
-    "tipo": "Bash",
+    "tipo": "Low Level Development",
     "stack": ["C++", "Visual Studio Pro", "File I/O", "Data Management"],
     "descripcion": "Aplicación de gestión de directorios desarrollada en C++. Implementa un sistema completo de persistencia de datos para el almacenamiento, búsqueda y edición de contactos mediante flujos de archivos.",
     "url_repo": "https://github.com/sloty00/AdminContactoCpp",
@@ -76,7 +76,7 @@
   },
   {
     "nombre": "LoginCpp",
-    "tipo": "Bash",
+    "tipo": "Low Level Development",
     "stack": ["C++", "STL Containers", "File Handling", "Visual Studio Pro"],
     "descripcion": "Sistema de autenticación persistente desarrollado en C++. Utiliza estructuras de datos optimizadas (unordered_map) para la gestión de usuarios en memoria y flujos de archivos para el almacenamiento seguro de credenciales.",
     "url_repo": "https://github.com/sloty00/LoginCpp",
@@ -85,7 +85,7 @@
   },
   {
     "nombre": "ProyectoAdminCpp",
-    "tipo": "Bash",
+    "tipo": "Low Level Development",
     "stack": ["C++", "OOP", "Data Persistence", "Time Management", "Visual Studio Pro"],
     "descripcion": "Gestor de proyectos profesional desarrollado en C++. Implementa Programación Orientada a Objetos para el cálculo de costos operativos, estimación de horas-hombre y gestión de plazos temporales con persistencia de datos.",
     "url_repo": "https://github.com/sloty00/ProyectoAdminCpp",
@@ -94,7 +94,7 @@
   },
   {
     "nombre": "HerenciaPolCpp",
-    "tipo": "Bash",
+    "tipo": "Low Level Development",
     "stack": ["C++", "Polimorfismo", "Herencia", "Clases Abstractas", "Visual Studio Pro"],
     "descripcion": "Demostración técnica de arquitectura de software en C++. Implementa los pilares de la OOP mediante el uso de clases abstractas, métodos virtuales puros y ligadura dinámica para la gestión jerárquica de objetos.",
     "url_repo": "https://github.com/sloty00/HerenciaPolCpp",
