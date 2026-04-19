@@ -4,35 +4,81 @@ title: Perfil
 permalink: /about/
 ---
 
-<h1 align="center"><b>Hi, I'm Jose Vargas Oyarzun</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Jose+Vargas+Oyarzun..&hearts;++;React+Front-End+Developer,;Nodejs+Back-End+Developer,;FullStack+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
+<h1 align="center"><b>Jose Vargas Oyarzun</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<div align='center'>
-<picture><img src="https://crowdfunding.explorerbyx.org/storage/project/4147/img/products/2w3dl6MalNtXpEwAC38azWkTfDMfs7bdA4bcRJ8S.gif" width="120px"></picture> 
-</div>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=00E5FF&size=25&center=true&vCenter=true&width=600&height=70&lines=Platform+Engineer;FullStack+Developer;DevSecOps+Specialist;Infrastructure+Architect">
+  </a>
+</p>
 
 <div class="perfil-profesional">
     <p>
-        <strong>Ingeniero Senior y Platform Engineer</strong> con más de 18 años de trayectoria en TI y una sólida base en informática desde 1998. Especialista en <strong>Desarrollo Fullstack (8+ años)</strong> y prácticas <strong>DevOps/DevSecOps</strong>, con enfoque en ciberseguridad, resiliencia de infraestructura y continuidad operativa. Experto en arquitectura de plataformas críticas basadas en Linux, alta disponibilidad y soluciones de respaldo empresarial mediante <strong>Veeam Data Platform</strong>. Poseo una probada capacidad para liderar la modernización de sistemas legacy, desplegar entornos contenerizados y diseñar infraestructuras robustas y escalables en entornos empresariales de alta exigencia. Me caracterizo por un liderazgo técnico agudo, adaptabilidad y una visión estratégica orientada a la protección de activos y optimización de operaciones.
+        <strong>Ingeniero Senior y Platform Engineer</strong> con más de 18 años de trayectoria en TI y una sólida base en informática desde 1998. Especialista en <strong>Desarrollo Fullstack (8+ años)</strong> y prácticas <strong>DevOps/DevSecOps</strong>, con enfoque en ciberseguridad, resiliencia de infraestructura y continuidad operativa. Experto en arquitectura de plataformas críticas basadas en Linux, alta disponibilidad y soluciones de respaldo empresarial mediante <strong>Veeam Data Platform</strong>.
+    </p>
+</div>
+
+<div class="pdf-container">
+    <h3 align="center"><i class="fas fa-file-pdf"></i> Curriculum Vitae Actualizado</h3>
+    <iframe 
+        src="images/tu_curriculum.pdf#toolbar=0&navpanes=0&scrollbar=0" 
+        width="100%" 
+        height="600px" 
+        style="border: none; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+    </iframe>
+    <p align="center" style="margin-top: 15px;">
+        <a href="images/tu_curriculum.pdf" target="_blank" class="btn-download">
+            <img src="https://img.shields.io/badge/Descargar%20PDF-PDF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=EC1C24">
+        </a>
     </p>
 </div>
 
 <style>
+/* Estética General */
+:root {
+    --slate-900: #0f172a;
+    --slate-700: #334155;
+    --cyan-500: #06b6d4;
+}
+
+.perfil-profesional {
+    max-width: 850px;
+    margin: 2rem auto;
+    padding: 0 20px;
+}
+
 .perfil-profesional p {
-    text-align: justify;       /* MÁRGENES ALINEADOS */
-    text-justify: inter-word;  /* Distribuye el espacio entre palabras de forma natural */
-    line-height: 1.6;          /* Interlineado óptimo para lectura larga */
-    font-size: 1.1rem;         /* Tamaño equilibrado */
-    color: #334155;            /* Gris azulado profesional (Slate 700) */
-    max-width: 800px;          /* Evita líneas demasiado largas que cansan la vista */
-    margin: 0 auto;            /* Centra el bloque en la página */
-    hyphens: auto;             /* Corta palabras con guiones si es necesario (mejor en móviles) */
+    text-align: justify;
+    line-height: 1.8;
+    font-size: 1.15rem;
+    color: var(--slate-700);
+    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
 }
 
 .perfil-profesional strong {
-    color: #1e293b;            /* Resalta tus keywords en un tono más oscuro */
+    color: var(--slate-900);
+    border-bottom: 2px solid var(--cyan-500);
     font-weight: 600;
+}
+
+/* Visor de PDF */
+.pdf-container {
+    max-width: 900px;
+    margin: 3rem auto;
+    background: #f8fafc;
+    padding: 20px;
+    border-radius: 12px;
+    border: 1px solid #e2e8f0;
+}
+
+.pdf-container h3 {
+    color: var(--slate-900);
+    margin-bottom: 20px;
+    font-family: sans-serif;
+}
+
+.btn-download:hover {
+    opacity: 0.8;
+    transition: 0.3s;
 }
 </style>
