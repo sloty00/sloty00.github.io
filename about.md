@@ -21,7 +21,7 @@ permalink: /about/
 <div class="pdf-container">
     <h3 align="center"><i class="fas fa-file-pdf"></i> Curriculum Vitae Actualizado</h3>
     <iframe 
-        src="images/Curriculum Vitae Jose Vargas Oyarzun.pdf#toolbar=0&navpanes=0&scrollbar=0" 
+        src="images/Curriculum_Vitae_Jose_Vargas_Oyarzun.pdf#toolbar=0&navpanes=0&scrollbar=0" 
         width="100%" 
         height="600px" 
         style="border: none; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
