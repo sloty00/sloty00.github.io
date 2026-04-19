@@ -8,7 +8,7 @@ permalink: /about/
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=00E5FF&size=25&center=true&vCenter=true&width=600&height=70&lines=Platform+Engineer;FullStack+Developer;DevSecOps+Specialist;Infrastructure+Architect">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=334155&size=25&center=true&vCenter=true&width=600&height=70&lines=Platform+Engineer;FullStack+Developer;DevSecOps+Specialist;Infrastructure+Architect">
   </a>
 </p>
 
