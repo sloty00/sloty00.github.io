@@ -27,7 +27,7 @@ permalink: /about/
         style="border: none; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
     </iframe>
     <p align="center" style="margin-top: 15px;">
-        <a href="images/tu_curriculum.pdf" target="_blank" class="btn-download">
+        <a href="images/Curriculum_Vitae_Jose_Vargas_Oyarzun.pdf" target="_blank" class="btn-download">
             <img src="https://img.shields.io/badge/Descargar%20PDF-PDF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=EC1C24">
         </a>
     </p>
