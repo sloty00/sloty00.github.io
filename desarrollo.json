@@ -14,8 +14,8 @@
   {
     "nombre": "Calculadora-IP",
     "tipo": "FullStack",
-    "stack": ["Nodejs", "Express", "JavaScript", "Networking"],
-    "descripcion": "Módulo técnico para el cálculo y segmentación de redes IPv4, diseñado para optimizar el direccionamiento jerárquico en infraestructuras locales.",
+    "stack": ["Nodejs", "Express", "React", "API Integration", "Motion", "Networking"],
+    "descripcion": "Módulo técnico para el cálculo y segmentación de redes IPv4 diseñado para optimizar el direccionamiento jerárquico, estructurado bajo el patrón de diseño Repository para la gestión lógica de datos y documentado con Swagger para garantizar la interoperabilidad y pruebas de sus endpoints.",
     "url_repo": "https://github.com/sloty00/Calculadora-IP",
     "status": "Production",
     "icon": "fas fa-calculator"
