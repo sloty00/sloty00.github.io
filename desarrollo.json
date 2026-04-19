@@ -5,7 +5,7 @@
   {
     "nombre": "VARTO-Workflow-Personal",
     "tipo": "Fullstack",
-    "stack": ["Nodejs", "Express", "React", "API Integration", "Firebase", "Active Directory", "Motion"],
+    "stack": ["Nodejs", "Express", "React", "API Integration", "Firebase", "Active Directory", "JWT", "Motion"],
     "descripcion": "Arquitectura de automatización de flujos de trabajo basada en micro-procesos para la optimización operativa y gestión de tareas críticas, implementando el patrón de diseño Pattern Repository para garantizar un desacoplamiento total entre la lógica de negocio y la persistencia de datos.",
     "url_repo": "https://github.com/sloty00/CASS-Workflow-Personal",
     "status": "Production",
