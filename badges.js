@@ -1,10 +1,34 @@
-export const badges = [
-  { id: 1, name: "Cisco Certified", img: "/images/badges/cisco.png", alt: "Cisco Networking" },
-  { id: 2, name: "Veeam VMCE", img: "/images/badges/veeam.png", alt: "Veeam Backup" },
-  { id: 3, name: "LPI Linux", img: "/images/badges/linux.png", alt: "Linux Admin" },
-  { id: 4, name: "Power BI Data", img: "/images/badges/pbi.png", alt: "Data Analytics" },
-  { id: 5, name: "Sophos Architect", img: "/images/badges/sophos.png", alt: "Security" },
-  { id: 6, name: "VMware vCloud", img: "/images/badges/vmware.png", alt: "Virtualization" },
-  { id: 7, name: "Fortinet NSE", img: "/images/badges/fortinet.png", alt: "Network Security" },
-  { id: 8, name: "Microsoft SQL", img: "/images/badges/sql.png", alt: "Database Admin" }
+export const certificaciones = [
+  {
+    id: "cisco-diploma",
+    titulo: "Cisco Networking Academy",
+    institucion: "Cisco",
+    img_miniatura: "/images/certificados/thumb_cisco.png", // Miniatura para el carrusel
+    img_full: "/images/certificados/diploma_cisco_full.png", // El diploma real escaneado
+    descripcion: "Certificación oficial en configuración y administración de redes."
+  },
+  {
+    id: "veeam-diploma",
+    titulo: "Veeam Certified Engineer",
+    institucion: "Veeam Software",
+    img_miniatura: "/images/certificados/thumb_veeam.png",
+    img_full: "/images/certificados/diploma_veeam_full.png",
+    descripcion: "Especialización en protección de datos e infraestructura inmutable."
+  },
+  {
+    id: "pbi-diploma",
+    titulo: "Preparación de Datos con Power BI",
+    institucion: "Microsoft Learn",
+    img_miniatura: "/images/certificados/thumb_pbi.png",
+    img_full: "/images/certificados/diploma_pbi_full.png",
+    descripcion: "Certificación técnica en modelado de datos y DAX."
+  },
+  {
+    id: "linux-diploma",
+    titulo: "Linux Professional Institute",
+    institucion: "LPI",
+    img_miniatura: "/images/certificados/thumb_linux.png",
+    img_full: "/images/certificados/diploma_linux_full.png",
+    descripcion: "Acreditación en administración de sistemas operativos Open Source."
+  }
 ];
