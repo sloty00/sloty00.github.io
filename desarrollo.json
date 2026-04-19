@@ -12,7 +12,7 @@
     "icon": "fas fa-network-wired"
   },
   {
-    "nombre": "Cloud-zorro-cloud",
+    "nombre": "Project Zorro Cloud",
     "tipo": "Fullstack",
     "stack": ["Node.js", "Prisma ORM", "React", "JWT", "Multer", "Swagger"],
     "descripcion": "Arquitectura de nube privada escalable diseñada bajo el patrón de diseño creacional 'Builder'. El sistema implementa una estructura jerárquica compleja (Entities > Groups > Users) para la administración segregada de archivos en entornos corporativos. Incluye gestión de persistencia con Prisma, seguridad mediante cifrado bcrypt y documentación de API automatizada con Swagger, (Builder Design Pattern para construcción de objetos complejos).",
