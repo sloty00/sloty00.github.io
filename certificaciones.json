@@ -12,6 +12,18 @@
     "imagen": "/images/diplomas/Cisco_Hacker_Etico.png"
   },
   {
+    "id": "cert-cisco03",
+    "titulo": "Cisco Linux I",
+    "institucion": "Cisco / NDG",
+    "imagen": "/images/diplomas/Cisco_Linux_I.png"
+  },
+  {
+    "id": "cert-cisco03",
+    "titulo": "Cisco Linux II",
+    "institucion": "Cisco / NDG",
+    "imagen": "/images/diplomas/Cisco_Linux_II.png"
+  },
+  {
     "id": "cert-ms-az400",
     "titulo": "AZ-400 DevOps",
     "institucion": "Microsoft Expert",
