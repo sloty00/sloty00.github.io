@@ -20,7 +20,7 @@
         </div>
         
         <div style="width: 100%; height: 600px; overflow: auto; background: white; border: 1px solid #ddd; box-shadow: inset 0 0 10px rgba(0,0,0,0.05);">
-            <img src="./images/diseños/tu-diagrama-arquitectura.svg" style="min-width: 2500px; display: block;" alt="Plano de Arquitectura de Red">
+            <img src="./images/diseno/[tu-diagrama-arquitectura.svg](https://github.com/sloty00/sloty00.github.io/blob/master/images/diseno/Veeam%20VBR%20Salmones%20Austral_EX_3.svg)" style="min-width: 2500px; display: block;" alt="Plano de Arquitectura de Red">
         </div>
 
         <div style="margin-top: 15px; display: flex; gap: 10px; flex-wrap: wrap;">
