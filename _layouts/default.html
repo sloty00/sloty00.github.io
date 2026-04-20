@@ -1,311 +1,151 @@
-<style>
-
-    .certificaciones-container { padding: 20px; max-width: 1000px; margin: 0 auto; }
-
-    .carousel-track { 
-
-        display: grid; 
-
-        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); 
-
-        gap: 20px; 
-
-    }
-
-    .card-diploma { 
-
-        background: #fff; 
-
-        border-top: 4px solid #06b6d4; /* Color Cyan de tu root */
-
-        padding: 15px; 
-
-        border-radius: 8px; 
-
-        box-shadow: 0 4px 12px rgba(0,0,0,0.05); 
-
-        transition: transform 0.2s;
-
-        display: flex;
-
-        flex-direction: column;
-
-        align-items: center;
-
-    }
-
-    .card-diploma:hover { transform: translateY(-5px); }
-
-    
-
-    .diploma-img {
-
-        width: 100%;
-
-        height: 140px;
-
-        object-fit: contain;
-
-        background: #f8fafc;
-
-        border-radius: 4px;
-
-        margin-bottom: 15px;
-
-        padding: 5px;
-
-    }
-
-
-
-    .badge-tipo { 
-
-        background: #e0f2fe; color: #0369a1; 
-
-        font-size: 9px; padding: 2px 10px; 
-
-        border-radius: 12px; font-weight: bold; 
-
-        text-transform: uppercase; margin-bottom: 8px;
-
-    }
-
-</style>
-
-
-
-<h1 align="center"><b>Jose Vargas Oyarzun</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-
-
-<p align="center">
-
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=334155&size=25&center=true&vCenter=true&width=600&height=70&lines=Platform+Engineer;FullStack+Developer;DevSecOps+Specialist;Infrastructure+Architect">
-
-  </a>
-
-</p>
-
-
-
-<div class="perfil-profesional">
-
-    <p>
-
-        <strong>Ingeniero Senior y Platform Engineer</strong> con más de 18 años de trayectoria en TI y una sólida base en informática desde 1998. Especialista en <strong>Desarrollo Fullstack (8+ años)</strong> y prácticas <strong>DevOps/DevSecOps</strong>, con enfoque en ciberseguridad, resiliencia de infraestructura y continuidad operativa. Experto en arquitectura de plataformas críticas basadas en Linux, alta disponibilidad y soluciones de respaldo empresarial mediante <strong>Veeam Data Platform</strong>.
-
-    </p>
-
-</div>
-
-
-
-<div class="pdf-container">
-
-    <h3 align="center"><i class="fas fa-file-pdf"></i> Curriculum Vitae Actualizado</h3>
-
-    <iframe 
-
-        src="/images/Curriculum_Vitae_Jose_Vargas_Oyarzun.pdf#toolbar=0&navpanes=0&scrollbar=0" 
-
-        width="100%" 
-
-        height="600px" 
-
-        style="border: none; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-
-    </iframe>
-
-    <p align="center" style="margin-top: 15px;">
-
-        <a href="/images/Curriculum_Vitae_Jose_Vargas_Oyarzun.pdf" target="_blank" class="btn-download">
-
-            <img src="https://img.shields.io/badge/Descargar%20PDF-PDF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=EC1C24">
-
-        </a>
-
-    </p>
-
-</div>
-
-
-
-<div class="certificaciones-container">
-
-    <h3 align="center" style="color: #1e293b; margin-bottom: 25px;">
-
-        <i class="fas fa-certificate"></i> Certificados Rango Seniority
-
-    </h3>
-
-    <div id="grid-diplomas" class="carousel-track">
-
-        <p style="text-align: center; color: #64748b; grid-column: 1/-1;">Sincronizando bovéda de certificaciones...</p>
-
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+
+    {% include meta.html %}
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+
+    <style>
+        /* --- ESTRUCTURA BASE --- */
+        .masthead {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 30px 0;
+            border-bottom: 1px solid #f1f5f9;
+            margin-bottom: 40px;
+            gap: 20px;
+        }
+
+        .site-avatar {
+            flex-shrink: 0;
+        }
+
+        .site-avatar img {
+            border-radius: 12px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+
+        .site-info {
+            flex: 1;
+            margin-left: 10px;
+        }
+
+        .site-name {
+            font-size: 1.6rem;
+            font-weight: 700;
+            margin: 0;
+            color: #1e293b;
+        }
+
+        .site-name a { color: inherit; text-decoration: none; }
+
+        .site-description {
+            color: #64748b;
+            margin: 2px 0 0 0;
+            font-size: 0.9rem;
+        }
+
+        /* --- NAVEGACIÓN CORREGIDA --- */
+        nav {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+            justify-content: flex-end;
+        }
+
+        .nav-cta {
+            text-decoration: none !important;
+            color: #4285F4 !important;
+            padding: 8px 16px;
+            border-radius: 6px;
+            font-size: 13px;
+            font-weight: 600;
+            border: 1px solid #e2e8f0;
+            background: #ffffff;
+            transition: all 0.2s ease;
+            /* Evita que los botones crezcan verticalmente */
+            display: inline-block;
+            height: fit-content;
+        }
+
+        .nav-cta:hover {
+            background-color: #4285F4;
+            color: #ffffff !important;
+            border-color: #4285F4;
+            transform: translateY(-1px);
+        }
+
+        /* --- RESPONSIVIDAD RE-INGENIERIZADA --- */
+        @media (max-width: 850px) {
+            .masthead {
+                flex-direction: column;
+                text-align: center;
+                padding: 20px 0;
+            }
+
+            .site-info {
+                margin-left: 0;
+                margin-bottom: 10px;
+            }
+
+            nav {
+                justify-content: center;
+                width: 100%;
+                gap: 6px;
+            }
+
+            .nav-cta {
+                /* En móvil ocupan su propio ancho, no el 100% */
+                flex: 0 1 auto; 
+                padding: 6px 12px;
+                font-size: 12px;
+            }
+        }
+
+        /* Estilos del footer y otros se mantienen igual... */
+        .tech-stack-footer { margin-top: 60px; padding: 50px 0; text-align: center; border-top: 1px solid #f1f5f9; background-color: #f8fafc; }
+        .tech-logos { display: flex; justify-content: center; flex-wrap: wrap; gap: 30px; align-items: center; }
+        .tech-item { display: flex; flex-direction: column; align-items: center; gap: 10px; filter: grayscale(100%); opacity: 0.5; transition: 0.3s; }
+        .tech-item:hover { filter: grayscale(0%); opacity: 1; }
+        .tech-item img { height: 28px; }
+        .tech-item span { font-size: 10px; font-weight: 700; color: #64748b; }
+        .copyright { font-size: 12px; color: #94a3b8; margin-top: 20px; }
+    </style>
+</head>
+
+<body>
+    <div class="wrapper-masthead">
+        <div class="container">
+            <header class="masthead">
+                <a href="{{ site.baseurl }}/" class="site-avatar">
+                    <img src="{{ site.avatar }}" alt="{{ site.name }}" width="65" height="65" />
+                </a>
+
+                <div class="site-info">
+                    <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+                    <p class="site-description">{{ site.description }}</p>
+                </div>
+
+                <nav>
+                    <a href="{{ site.baseurl }}/about" class="nav-cta">Perfil</a>
+                    <a href="{{ site.baseurl }}/estudios" class="nav-cta">Estudios</a>
+                    <a href="{{ site.baseurl }}/portafolio" class="nav-cta">Experiencia</a>
+                    <a href="{{ site.baseurl }}/desarrollo" class="nav-cta">Desarrollos</a>
+                    <a href="{{ site.baseurl }}/mensaje" class="nav-cta">Mensaje</a>
+                </nav>
+            </header>
+        </div>
     </div>
 
-</div>
-
-
-
-
-
-<style>
-
-/* Estética General */
-
-:root {
-
-    --slate-900: #0f172a;
-
-    --slate-700: #334155;
-
-    --cyan-500: #06b6d4;
-
-}
-
-
-
-.perfil-profesional {
-
-    max-width: 850px;
-
-    margin: 2rem auto;
-
-    padding: 0 20px;
-
-}
-
-
-
-.perfil-profesional p {
-
-    text-align: justify;
-
-    line-height: 1.8;
-
-    font-size: 1.15rem;
-
-    color: var(--slate-700);
-
-    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-
-}
-
-
-
-.perfil-profesional strong {
-
-    color: var(--slate-900);
-
-    border-bottom: 2px solid var(--cyan-500);
-
-    font-weight: 600;
-
-}
-
-
-
-/* Visor de PDF */
-
-.pdf-container {
-
-    max-width: 900px;
-
-    margin: 3rem auto;
-
-    background: #f8fafc;
-
-    padding: 20px;
-
-    border-radius: 12px;
-
-    border: 1px solid #e2e8f0;
-
-}
-
-
-
-.pdf-container h3 {
-
-    color: var(--slate-900);
-
-    margin-bottom: 20px;
-
-    font-family: sans-serif;
-
-}
-
-
-
-.btn-download:hover {
-
-    opacity: 0.8;
-
-    transition: 0.3s;
-
-}
-
-</style>
-
-
-
-<script>
-
-async function sincronizarDiplomas() {
-
-    const grid = document.getElementById('grid-diplomas');
-
-    const url = `/certificaciones.json?v=${Date.now()}`;
-
-    
-
-    try {
-
-        const res = await fetch(url);
-
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-
-        const data = await res.json();
-
-
-
-        grid.innerHTML = data.map(d => `
-
-            <div class="card-diploma">
-
-                <span class="badge-tipo">${d.tipo}</span>
-
-                <img src="${d.imagen}" class="diploma-img" alt="${d.titulo}" onerror="this.src='/images/placeholder.png'">
-
-                <h4 style="margin: 0; font-size: 0.95rem; color: #1e293b; text-align: center;">
-
-                    <i class="${d.icon}" style="color: #06b6d4;"></i> ${d.titulo}
-
-                </h4>
-
-                <p style="color: #64748b; font-size: 11px; margin-top: 5px;">${d.institucion}</p>
-
-            </div>
-
-        `).join('');
-
-
-
-    } catch (err) {
-
-        console.error("Fallo carga diplomas:", err);
-
-        grid.innerHTML = `<p style="color: #ef4444; text-align: center; grid-column: 1/-1;">Error de enlace con el servidor de credenciales.</p>`;
-
-    }
-
-}
-
-
-
-sincronizarDiplomas();
-
-</script>
+    <div id="main" role="main" class="container">
+        {{ content }}
+    </div>
+
+    </body>
+</html>
