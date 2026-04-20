@@ -33,6 +33,123 @@ permalink: /about/
     </p>
 </div>
 
+<div class="certificaciones-section">
+    <h3 align="center"><i class="fas fa-award"></i> Certificaciones & Diplomas Senior</h3>
+    
+    <div class="carousel-container">
+        <div class="carousel-track" id="carouselTrack">
+            <div class="diploma-card">
+                <img src="/images/certificados/Microsoft_AZ400.png" alt="AZ-400">
+                <div class="diploma-info">
+                    <h4>AZ-400 DevOps</h4>
+                    <span>Microsoft Expert</span>
+                </div>
+            </div>
+            <div class="diploma-card">
+                <img src="/images/certificados/Cisco_C++_(Advanced).png" alt="C++ Advanced">
+                <div class="diploma-info">
+                    <h4>C++ Advanced</h4>
+                    <span>Cisco/C++ Inst.</span>
+                </div>
+            </div>
+            <div class="diploma-card">
+                <img src="/images/certificados/Cisco_Hacker_Etico.png" alt="Hacker Etico">
+                <div class="diploma-info">
+                    <h4>Hacker Ético</h4>
+                    <span>UTP / Cisco</span>
+                </div>
+            </div>
+            <div class="diploma-card">
+                <img src="/images/certificados/Sophos_AT80.png" alt="Sophos AT80">
+                <div class="diploma-info">
+                    <h4>Sophos Architect</h4>
+                    <span>AT80 vX</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+/* Estilos del Carrusel */
+.certificaciones-section {
+    max-width: 1000px;
+    margin: 3rem auto;
+    padding: 0 20px;
+}
+
+.carousel-container {
+    overflow: hidden;
+    width: 100%;
+    padding: 20px 0;
+}
+
+.carousel-track {
+    display: flex;
+    gap: 20px;
+    justify-content: center; /* Centra los 4 diplomas */
+    flex-wrap: wrap; /* En móvil se ajustan solos */
+}
+
+.diploma-card {
+    background: white;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    width: calc(25% - 20px); /* 4 por fila */
+    min-width: 200px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.diploma-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+    border-color: var(--cyan-500);
+}
+
+.diploma-card img {
+    width: 100%;
+    height: 150px; /* Tamaño estandarizado */
+    object-fit: contain; /* No corta la imagen, la ajusta */
+    padding: 10px;
+    background: #fdfdfd;
+    border-bottom: 1px solid #f1f5f9;
+}
+
+.diploma-info {
+    padding: 12px;
+    text-align: center;
+}
+
+.diploma-info h4 {
+    margin: 0;
+    font-size: 0.9rem;
+    color: var(--slate-900);
+    font-family: sans-serif;
+}
+
+.diploma-info span {
+    font-size: 0.75rem;
+    color: var(--cyan-500);
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .diploma-card {
+        width: calc(50% - 20px); /* 2 por fila en tablets */
+    }
+}
+@media (max-width: 480px) {
+    .diploma-card {
+        width: 100%; /* 1 por fila en móvil */
+    }
+}
+</style>
+
 <style>
 /* Estética General */
 :root {
