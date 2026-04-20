@@ -30,5 +30,21 @@
     "imagen": "/images/diplomas/Cisco_Network_Technician_Career_Path.png",
     "tipo": "Networking",
     "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "Linux I",
+    "institucion": "Cisco",
+    "imagen": "/images/diplomas/Cisco_Linux_I.png",
+    "tipo": "System",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "Linux II",
+    "institucion": "Cisco",
+    "imagen": "/images/diplomas/Cisco_Linux_II.png",
+    "tipo": "System",
+    "icon": "fas fa-user-shield"
   }
 ]
