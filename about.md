@@ -73,7 +73,7 @@ permalink: /about/
 <!--
 <div class="certificaciones-container">
     <h3 align="center" style="color: #1e293b; margin-bottom: 25px;">
-        <i class="fas fa-certificate"></i> Credenciales de Ingeniería
+        <i class="fas fa-certificate"></i> Certificados Rango Seniority
     </h3>
     <div id="grid-diplomas" class="carousel-track">
         <p style="text-align: center; color: #64748b; grid-column: 1/-1;">Sincronizando bovéda de certificaciones...</p>
