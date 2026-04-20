@@ -32,7 +32,7 @@
         <i class="fas fa-certificate"></i> Certificados Rango Seniority
     </h3>
     <div id="grid-diplomas" class="carousel-track">
-        <p style="text-align: center; color: #64748b; grid-column: 1/-1;">Sincronizando bovéda de certificaciones...</p>
+        <p style="text-align: center; color: #64748b; grid-column: 1/-1;">Sincronizando manifiesto de Certificaciones...</p>
     </div>
 </div>
 
