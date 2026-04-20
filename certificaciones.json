@@ -155,7 +155,7 @@
     "id": "cert-utp-sec",
     "titulo": "HackerRank Software Engineer Intern",
     "institucion": "Hackerrank Developer",
-    "imagen": "/images/diplomas/HR_Software_Engineer_intern.png",
+    "imagen": "/images/diplomas/HR_Software_Engineer_Intern.png",
     "tipo": "Developer",
     "icon": "fas fa-user-shield"
   },
@@ -171,7 +171,7 @@
     "id": "cert-utp-sec",
     "titulo": "HackerRank Certificate SQL (Advanced)",
     "institucion": "Hackerrank Developer",
-    "imagen": "/images/diplomas/HR Certificate_SQL_(Advanced).png",
+    "imagen": "/images/diplomas/HR_Certificate_SQL_(Advanced).jpg",
     "tipo": "Database",
     "icon": "fas fa-user-shield"
   },
