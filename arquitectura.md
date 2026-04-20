@@ -1,3 +1,6 @@
+---
+---
+
 <section id="arquitectura-ingenieria" style="font-family: sans-serif; color: #333; line-height: 1.6; max-width: 1000px; margin: auto; padding: 20px;">
     
     <h1 style="border-bottom: 2px solid #0056b3; padding-bottom: 10px; color: #0056b3;">Arquitectura y Diseño de Infraestructura Crítica</h1>
