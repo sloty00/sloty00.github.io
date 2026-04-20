@@ -1,6 +1,4 @@
 ---
-layout: page
-permalink: /about/
 ---
 
 <style>
