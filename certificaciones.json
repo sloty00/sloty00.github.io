@@ -24,11 +24,11 @@
     "icon": "fas fa-user-shield"
   },
   {
-    "id": "cert-sophos-at80",
-    "titulo": "Sophos Architect AT80",
-    "institucion": "Sophos Network Security",
-    "imagen": "/images/diplomas/Sophos_AT80.png",
-    "tipo": "Architect",
-    "icon": "fas fa-shield-alt"
+    "id": "cert-utp-sec",
+    "titulo": "Cisco Network Technician Career Path",
+    "institucion": "Cisco",
+    "imagen": "/images/diplomas/Cisco_Network_Technician_Career_Path.png",
+    "tipo": "Security",
+    "icon": "fas fa-user-shield"
   }
 ]
