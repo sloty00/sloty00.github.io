@@ -1,38 +1,34 @@
 [
   {
-    "id": "cert-cisco01",
-    "titulo": "Cisco C++ Advanced",
-    "institucion": "Cisco Systems",
-    "imagen": "/images/diplomas/Cisco_C++_(Advanced).png"
-  },
-  {
-    "id": "cert-cisco02",
-    "titulo": "Cisco Hacker Etico",
-    "institucion": "UTP / Cisco",
-    "imagen": "/images/diplomas/Cisco_Hacker_Etico.png"
-  },
-  {
-    "id": "cert-cisco03",
-    "titulo": "Cisco Linux I",
-    "institucion": "Cisco / NDG",
-    "imagen": "/images/diplomas/Cisco_Linux_I.png"
-  },
-  {
-    "id": "cert-cisco03",
-    "titulo": "Cisco Linux II",
-    "institucion": "Cisco / NDG",
-    "imagen": "/images/diplomas/Cisco_Linux_II.png"
-  },
-  {
     "id": "cert-ms-az400",
-    "titulo": "AZ-400 DevOps",
+    "titulo": "AZ-400 DevOps Solutions",
     "institucion": "Microsoft Expert",
-    "imagen": "/images/diplomas/Microsoft_AZ400.png"
+    "imagen": "/images/diplomas/Microsoft_AZ400.png",
+    "tipo": "Expert",
+    "icon": "fas fa-infinity"
   },
   {
-    "id": "cert-sophos",
-    "titulo": "Sophos Architect",
-    "institucion": "Sophos vX",
-    "imagen": "/images/diplomas/Sophos_AT80.png"
+    "id": "cert-cisco01",
+    "titulo": "C++ Advanced Professional",
+    "institucion": "Cisco / C++ Institute",
+    "imagen": "/images/diplomas/Cisco_C++_(Advanced).png",
+    "tipo": "Advanced",
+    "icon": "fas fa-code"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "Hacker Ético Profesional",
+    "institucion": "UTP / Cisco",
+    "imagen": "/images/diplomas/Cisco_Hacker_Etico.png",
+    "tipo": "Security",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-sophos-at80",
+    "titulo": "Sophos Architect AT80",
+    "institucion": "Sophos Network Security",
+    "imagen": "/images/diplomas/Sophos_AT80.png",
+    "tipo": "Architect",
+    "icon": "fas fa-shield-alt"
   }
 ]
