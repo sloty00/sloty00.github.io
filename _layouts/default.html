@@ -147,5 +147,16 @@
         {{ content }}
     </div>
 
+    <div class="wrapper-footer">
+        <div class="container">
+            <footer class="footer">
+                {% include svg-icons.html %}
+                <p style="text-align: center; color: #94a3b8; font-size: 13px; margin-top: 20px;">
+                    &copy; {{ site.time | date: '%Y' }} {{ site.name }} | Portafolio Técnico GitOps
+                </p>
+            </footer>
+        </div>
+    </div>
+
     </body>
 </html>
