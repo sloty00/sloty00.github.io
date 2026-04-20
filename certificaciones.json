@@ -1,51 +1,26 @@
-const diplomas = [
+[
   {
-    id: "cert-cisco01",
-    titulo: "Cisco C++ Advanced",
-    institucion: "Cisco Systems/C++ Institute",
-    imagen: "/images/diplomas/Cisco_C++_(Advanced).png",
-    categoria: "Desarrollo"
+    "id": "cert-cisco01",
+    "titulo": "Cisco C++ Advanced",
+    "institucion": "Cisco Systems",
+    "imagen": "/images/diplomas/Cisco_C++_(Advanced).png"
   },
   {
-    id: "cert-cisco02",
-    titulo: "Cisco Hacker Etico",
-    institucion: "Cisco Systems",
-    imagen: "/images/diplomas/Cisco_Hacker_Etico.png",
-    categoria: "Security"
+    "id": "cert-cisco02",
+    "titulo": "Cisco Hacker Etico",
+    "institucion": "UTP / Cisco",
+    "imagen": "/images/diplomas/Cisco_Hacker_Etico.png"
   },
   {
-    id: "cert-cisco03",
-    titulo: "Cisco Network Technician",
-    institucion: "Cisco Systems/Universidad Tecnologica de Pereira",
-    imagen: "/images/diplomas/Cisco_Network_Technician_Career_Path.png",
-    categoria: "Networking"
+    "id": "cert-ms-az400",
+    "titulo": "AZ-400 DevOps",
+    "institucion": "Microsoft Expert",
+    "imagen": "/images/diplomas/Microsoft_AZ400.png"
   },
   {
-    id: "cert-cisco04",
-    titulo: "Cisco Linux I",
-    institucion: "Cisco Systems",
-    imagen: "/images/diplomas/Cisco_Linux_I.png",
-    categoria: "System"
-  },
-  {
-    id: "cert-cisco05",
-    titulo: "Cisco Linux II",
-    institucion: "Cisco Systems",
-    imagen: "/images/diplomas/Cisco_Linux_I.png",
-    categoria: "System"
-  },
-  {
-    id: "cert-pbi",
-    titulo: "Power BI Data Preparation",
-    institucion: "Microsoft Learn",
-    imagen: "/images/diplomas/diploma-pbi.jpg",
-    categoria: "Data Analytics"
-  },
-  {
-    id: "cert-linux",
-    titulo: "Linux Professional Institute",
-    institucion: "LPI",
-    imagen: "/images/diplomas/diploma-linux.jpg",
-    categoria: "Sistemas"
+    "id": "cert-sophos",
+    "titulo": "Sophos Architect",
+    "institucion": "Sophos vX",
+    "imagen": "/images/diplomas/Sophos_AT80.png"
   }
-];
+]
