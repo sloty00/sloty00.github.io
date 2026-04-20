@@ -113,7 +113,7 @@
   },
   {
     "id": "cert-utp-sec",
-    "titulo": "Sophos FFirewall v22 Certified Architect(AT80)",
+    "titulo": "Sophos Firewall v22 Certified Architect(AT80)",
     "institucion": "SOPHOS Partner",
     "imagen": "/images/diplomas/Sophos_FW_v22_Certified_Architect(AT80).png",
     "tipo": "Firewall",
@@ -137,9 +137,9 @@
   },
   {
     "id": "cert-utp-sec",
-    "titulo": "Sophos Endpoint Certified Architect v6.0(AT15)",
+    "titulo": "Sophos Endpoint Certified Engineer v22(ET15)",
     "institucion": "SOPHOS Partner",
-    "imagen": "/images/diplomas/Sophos_Endpoint_Certified_Architect_v60(AT15).png",
+    "imagen": "/images/diplomas/Sophos_Endpoint_Certified_Engineer_v60(ET15).png",
     "tipo": "Firewall",
     "icon": "fas fa-user-shield"
   },
