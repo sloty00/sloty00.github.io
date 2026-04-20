@@ -1,4 +1,4 @@
-export const diplomas = [
+const diplomas = [
   {
     id: "cert-cisco01",
     titulo: "Cisco C++ Advanced",
