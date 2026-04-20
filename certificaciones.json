@@ -201,14 +201,6 @@
   },
   {
     "id": "cert-utp-sec",
-    "titulo": "Udemy Curso de Productividad VSC/ST/Vim",
-    "institucion": "Udemy",
-    "imagen": "/images/diplomas/Udemy_Curso_de_Productividad_VSC_ST_Vim.png",
-    "tipo": "Developer",
-    "icon": "fas fa-user-shield"
-  },
-  {
-    "id": "cert-utp-sec",
     "titulo": "Udemy Kubernetes for developers",
     "institucion": "Udemy",
     "imagen": "/images/diplomas/Udemy_Kubernetes_for_developers.png",
