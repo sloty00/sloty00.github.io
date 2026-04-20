@@ -4,6 +4,44 @@ title: Perfil
 permalink: /about/
 ---
 
+<style>
+    .certificaciones-container { padding: 20px; max-width: 1000px; margin: 0 auto; }
+    .carousel-track { 
+        display: grid; 
+        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); 
+        gap: 20px; 
+    }
+    .card-diploma { 
+        background: #fff; 
+        border-top: 4px solid #06b6d4; /* Color Cyan de tu root */
+        padding: 15px; 
+        border-radius: 8px; 
+        box-shadow: 0 4px 12px rgba(0,0,0,0.05); 
+        transition: transform 0.2s;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .card-diploma:hover { transform: translateY(-5px); }
+    
+    .diploma-img {
+        width: 100%;
+        height: 140px;
+        object-fit: contain;
+        background: #f8fafc;
+        border-radius: 4px;
+        margin-bottom: 15px;
+        padding: 5px;
+    }
+
+    .badge-tipo { 
+        background: #e0f2fe; color: #0369a1; 
+        font-size: 9px; padding: 2px 10px; 
+        border-radius: 12px; font-weight: bold; 
+        text-transform: uppercase; margin-bottom: 8px;
+    }
+</style>
+
 <h1 align="center"><b>Jose Vargas Oyarzun</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
@@ -33,92 +71,14 @@ permalink: /about/
     </p>
 </div>
 
-<div class="certificaciones-section">
-    <h3 align="center"><i class="fas fa-award"></i> Certificaciones & Diplomas Senior</h3>
-    <div class="carousel-container">
-        <div class="carousel-track" id="carouselTrack"></div>
+<div class="certificaciones-container">
+    <h3 align="center" style="color: #1e293b; margin-bottom: 25px;">
+        <i class="fas fa-certificate"></i> Credenciales de Ingeniería
+    </h3>
+    <div id="grid-diplomas" class="carousel-track">
+        <p style="text-align: center; color: #64748b; grid-column: 1/-1;">Sincronizando bovéda de certificaciones...</p>
     </div>
 </div>
-
-<style>
-/* Estilos del Carrusel */
-.certificaciones-section {
-    max-width: 1000px;
-    margin: 3rem auto;
-    padding: 0 20px;
-}
-
-.carousel-container {
-    overflow: hidden;
-    width: 100%;
-    padding: 20px 0;
-}
-
-.carousel-track {
-    display: flex;
-    gap: 20px;
-    justify-content: center; /* Centra los 4 diplomas */
-    flex-wrap: wrap; /* En móvil se ajustan solos */
-}
-
-.diploma-card {
-    background: white;
-    border: 1px solid #e2e8f0;
-    border-radius: 8px;
-    width: calc(25% - 20px); /* 4 por fila */
-    min-width: 200px;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    display: flex;
-    flex-direction: column;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
-}
-
-.diploma-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
-    border-color: var(--cyan-500);
-}
-
-.diploma-card img {
-    width: 100%;
-    height: 150px; /* Tamaño estandarizado */
-    object-fit: contain; /* No corta la imagen, la ajusta */
-    padding: 10px;
-    background: #fdfdfd;
-    border-bottom: 1px solid #f1f5f9;
-}
-
-.diploma-info {
-    padding: 12px;
-    text-align: center;
-}
-
-.diploma-info h4 {
-    margin: 0;
-    font-size: 0.9rem;
-    color: var(--slate-900);
-    font-family: sans-serif;
-}
-
-.diploma-info span {
-    font-size: 0.75rem;
-    color: var(--cyan-500);
-    font-weight: bold;
-    text-transform: uppercase;
-}
-
-/* Responsive */
-@media (max-width: 768px) {
-    .diploma-card {
-        width: calc(50% - 20px); /* 2 por fila en tablets */
-    }
-}
-@media (max-width: 480px) {
-    .diploma-card {
-        width: 100%; /* 1 por fila en móvil */
-    }
-}
-</style>
 
 <style>
 /* Estética General */
@@ -195,4 +155,34 @@ permalink: /about/
     } else {
         console.error("No se encontró el contenedor o los datos.");
     }
+</script>
+
+<script>
+async function sincronizarDiplomas() {
+    const grid = document.getElementById('grid-diplomas');
+    const url = `/certificaciones.json?v=${Date.now()}`;
+    
+    try {
+        const res = await fetch(url);
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const data = await res.json();
+
+        grid.innerHTML = data.map(d => `
+            <div class="card-diploma">
+                <span class="badge-tipo">${d.tipo}</span>
+                <img src="${d.imagen}" class="diploma-img" alt="${d.titulo}" onerror="this.src='/images/placeholder.png'">
+                <h4 style="margin: 0; font-size: 0.95rem; color: #1e293b; text-align: center;">
+                    <i class="${d.icon}" style="color: #06b6d4;"></i> ${d.titulo}
+                </h4>
+                <p style="color: #64748b; font-size: 11px; margin-top: 5px;">${d.institucion}</p>
+            </div>
+        `).join('');
+
+    } catch (err) {
+        console.error("Fallo carga diplomas:", err);
+        grid.innerHTML = `<p style="color: #ef4444; text-align: center; grid-column: 1/-1;">Error de enlace con el servidor de credenciales.</p>`;
+    }
+}
+
+sincronizarDiplomas();
 </script>
