@@ -130,33 +130,6 @@ permalink: /about/
 }
 </style>
 
-<script type="module">
-    // IMPORTANTE: Asegúrate de poner el ./ y el .js al final
-    import { diplomas } from '/certificaciones.js';
-
-    const track = document.getElementById('carouselTrack');
-
-    // Verificamos en consola si los datos están llegando
-    console.log("Diplomas cargados:", diplomas);
-
-    if (track && diplomas) {
-        diplomas.forEach(cert => {
-            const card = document.createElement('div');
-            card.className = 'diploma-card';
-            card.innerHTML = `
-                <img src="${cert.imagen}" alt="${cert.titulo}">
-                <div class="diploma-info">
-                    <h4>${cert.titulo}</h4>
-                    <span>${cert.institucion}</span>
-                </div>
-            `;
-            track.appendChild(card);
-        });
-    } else {
-        console.error("No se encontró el contenedor o los datos.");
-    }
-</script>
-
 <script>
 async function sincronizarDiplomas() {
     const grid = document.getElementById('grid-diplomas');
