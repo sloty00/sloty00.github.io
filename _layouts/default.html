@@ -148,15 +148,78 @@
     </div>
 
     <div class="wrapper-footer">
+
         <div class="container">
-            <footer class="footer">
-                {% include svg-icons.html %}
-                <p style="text-align: center; color: #94a3b8; font-size: 13px; margin-top: 20px;">
+
+            <footer class="footer tech-stack-footer">
+
+                <p class="stack-title">Infraestructura construida con:</p>
+
+                <div class="tech-logos">
+
+                    <div class="tech-item">
+
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown">
+
+                        <span>Markdown</span>
+
+                    </div>
+
+                    <div class="tech-item">
+
+                        <img src="https://www.gstatic.com/images/branding/product/1x/googleg_48dp.png" alt="Google">
+
+                        <span>Google</span>
+
+                    </div>
+
+                    <div class="tech-item">
+
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase">
+
+                        <span>Firebase</span>
+
+                    </div>
+
+                    <div class="tech-item">
+
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Pages">
+
+                        <span>GitHub Pages</span>
+
+                    </div>
+
+                    <div class="tech-item">
+
+                        <img src="https://avatars.githubusercontent.com/u/14319378?s=200&v=4" alt="Formspree">
+
+                        <span>Formspree</span>
+
+                    </div>
+
+                </div>
+
+
+
+                <hr class="footer-divider">
+
+
+
+                <div class="contact">
+
+                    {% include svg-icons.html %}
+
+                </div>
+
+
+
+                <p class="copyright">
+
                     &copy; {{ site.time | date: '%Y' }} {{ site.name }} | Portafolio Técnico GitOps
+
                 </p>
+
             </footer>
-        </div>
-    </div>
 
     </body>
 </html>
