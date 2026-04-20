@@ -172,7 +172,7 @@ permalink: /about/
 
 <script type="module">
     // IMPORTANTE: Asegúrate de poner el ./ y el .js al final
-    import { diplomas } from './certificaciones.js';
+    import { diplomas } from '/certificaciones.js';
 
     const track = document.getElementById('carouselTrack');
 
