@@ -35,38 +35,8 @@ permalink: /about/
 
 <div class="certificaciones-section">
     <h3 align="center"><i class="fas fa-award"></i> Certificaciones & Diplomas Senior</h3>
-    
     <div class="carousel-container">
-        <div class="carousel-track" id="carouselTrack">
-            <div class="diploma-card">
-                <img src="/images/certificados/Microsoft_AZ400.png" alt="AZ-400">
-                <div class="diploma-info">
-                    <h4>AZ-400 DevOps</h4>
-                    <span>Microsoft Expert</span>
-                </div>
-            </div>
-            <div class="diploma-card">
-                <img src="/images/certificados/Cisco_C++_(Advanced).png" alt="C++ Advanced">
-                <div class="diploma-info">
-                    <h4>C++ Advanced</h4>
-                    <span>Cisco/C++ Inst.</span>
-                </div>
-            </div>
-            <div class="diploma-card">
-                <img src="/images/certificados/Cisco_Hacker_Etico.png" alt="Hacker Etico">
-                <div class="diploma-info">
-                    <h4>Hacker Ético</h4>
-                    <span>UTP / Cisco</span>
-                </div>
-            </div>
-            <div class="diploma-card">
-                <img src="/images/certificados/Sophos_AT80.png" alt="Sophos AT80">
-                <div class="diploma-info">
-                    <h4>Sophos Architect</h4>
-                    <span>AT80 vX</span>
-                </div>
-            </div>
-        </div>
+        <div class="carousel-track" id="carouselTrack"></div>
     </div>
 </div>
 
@@ -199,3 +169,24 @@ permalink: /about/
     transition: 0.3s;
 }
 </style>
+
+<script type="module">
+    // Importamos tus datos reales
+    import { diplomas } from './certificaciones.js';
+
+    const track = document.getElementById('carouselTrack');
+
+    // Aquí es donde sucede la magia: recorremos tu JS y creamos las tarjetas
+    diplomas.forEach(cert => {
+        const card = document.createElement('div');
+        card.className = 'diploma-card';
+        card.innerHTML = `
+            <img src="${cert.imagen}" alt="${cert.titulo}">
+            <div class="diploma-info">
+                <h4>${cert.titulo}</h4>
+                <span>${cert.institucion}</span>
+            </div>
+        `;
+        track.appendChild(card);
+    });
+</script>
