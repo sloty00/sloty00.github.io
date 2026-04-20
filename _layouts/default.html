@@ -1,3 +1,6 @@
+Aquí tienes el código completo del archivo de layout. He integrado los cambios en el bloque de estilos para que el avatar respire, la información del sitio esté equilibrada y el menú tenga esa separación elegante y centrada que buscas.
+
+HTML
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -12,30 +15,39 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
     <style>
-        /* --- NAVEGACIÓN Y HEADER --- */
+        /* --- NAVEGACIÓN Y HEADER OPTIMIZADO --- */
         .masthead {
             display: flex;
             align-items: center;
-            justify-content: space-between;
+            /* Cambiamos a center para que el conjunto respire y no se pegue a los bordes */
+            justify-content: center; 
             flex-wrap: wrap;
-            padding: 25px 0;
+            padding: 30px 0;
             border-bottom: 1px solid #f1f5f9;
             margin-bottom: 40px;
+            /* Espaciado entre el avatar/info y el menú */
+            gap: 40px; 
         }
 
         .site-avatar {
-            margin-right: 20px;
             display: block;
+            flex-shrink: 0;
+            transition: transform 0.3s ease;
         }
 
         .site-avatar img {
             border-radius: 12px;
-            transition: transform 0.3s ease;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+        }
+
+        .site-avatar:hover img {
+            transform: scale(1.05);
         }
 
         .site-info {
-            flex: 1;
-            min-width: 250px;
+            /* flex: 0 1 auto permite que el texto no empuje el menú al extremo */
+            flex: 0 1 auto;
+            min-width: 200px;
         }
 
         .site-name {
@@ -55,9 +67,11 @@
 
         nav {
             display: flex;
-            gap: 10px;
+            gap: 12px;
             flex-wrap: wrap;
-            justify-content: flex-end;
+            justify-content: center;
+            /* Flex: 1 ayuda a que el menú se posicione mejor en pantallas medianas */
+            flex: 1 1 300px; 
         }
 
         .nav-cta {
@@ -70,6 +84,7 @@
             border: 1.5px solid #e2e8f0;
             background: #ffffff;
             transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+            white-space: nowrap;
         }
 
         .nav-cta:hover {
@@ -136,9 +151,17 @@
 
         /* --- RESPONSIVIDAD --- */
         @media (max-width: 850px) {
-            .masthead { flex-direction: column; text-align: center; }
-            nav { justify-content: center; margin-top: 25px; width: 100%; }
-            .site-avatar { margin-right: 0; margin-bottom: 15px; }
+            .masthead { 
+                flex-direction: column; 
+                text-align: center; 
+                gap: 20px; 
+            }
+            .site-info { text-align: center; }
+            nav { 
+                justify-content: center; 
+                margin-top: 10px; 
+                width: 100%; 
+            }
         }
 
         @media (max-width: 480px) {
@@ -153,7 +176,7 @@
         <div class="container">
             <header class="masthead">
                 <a href="{{ site.baseurl }}/" class="site-avatar">
-                    <img src="{{ site.avatar }}" alt="{{ site.name }}" width="70" height="70" />
+                    <img src="{{ site.avatar }}" alt="{{ site.name }}" width="75" height="75" />
                 </a>
 
                 <div class="site-info">
