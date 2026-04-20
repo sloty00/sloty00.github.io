@@ -70,7 +70,7 @@ permalink: /about/
         </a>
     </p>
 </div>
-
+<!--
 <div class="certificaciones-container">
     <h3 align="center" style="color: #1e293b; margin-bottom: 25px;">
         <i class="fas fa-certificate"></i> Credenciales de Ingeniería
@@ -79,6 +79,7 @@ permalink: /about/
         <p style="text-align: center; color: #64748b; grid-column: 1/-1;">Sincronizando bovéda de certificaciones...</p>
     </div>
 </div>
+-->
 
 <style>
 /* Estética General */
