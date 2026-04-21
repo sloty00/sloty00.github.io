@@ -14,13 +14,15 @@
     <h2 style="color: #444;">📐 Plano Maestro: Topología de Nube Híbrida (A0)</h2>
     <p>Diseño estructural que integra conectividad local robusta con servicios de almacenamiento inmutable en la nube.</p>
 
-    <div style="background: #f9f9f9; border: 1px solid #ccc; border-radius: 8px; padding: 15px; position: relative;">
+    <div style="background: #f9f9f9; border: 1px solid #ccc; border-radius: 8px; padding: 15px;">
         <div style="margin-bottom: 10px; font-size: 0.9em; color: #555;">
-            <strong>Tip de visualización:</strong> Use las barras de desplazamiento para explorar el plano en tamaño real (A0).
+            <strong>Tip de visualización:</strong> Use las barras de desplazamiento para explorar el plano al 80% de su escala original.
         </div>
         
-        <div style="min-width: 2800px; display: block; padding: 20px; zoom: 0.8; -moz-transform: scale(0.8); -moz-transform-origin: 0 0;">
-            <img src="./images/diseno/Veeam%20VBR%20Salmones%20Austral_EX_3.svg" style="min-width: 2500px; display: block;" alt="Plano de Arquitectura de Red">
+        <div style="width: 100%; height: 600px; overflow: auto; background: white; border: 1px solid #ddd;">
+            <img src="./images/diseno/Veeam%20VBR%20Salmones%20Austral_EX_3.svg" 
+                 style="min-width: 3000px; zoom: 0.8; display: block; padding: 20px;" 
+                 alt="Plano de Arquitectura de Red">
         </div>
     </div>
 
@@ -43,6 +45,7 @@
             </ul>
         </div>
     </div>
+</section>
 
     <footer style="margin-top: 40px; text-align: center; font-size: 0.85em; color: #888; border-top: 1px solid #eee; padding-top: 20px;">
         <em>"La verdadera arquitectura no es solo el dibujo, es la garantía de que el negocio nunca se detenga."</em>
