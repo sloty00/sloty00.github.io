@@ -20,7 +20,7 @@
         </div>
         
         <div style="width: 100%; height: 600px; overflow: auto; background: white; border: 1px solid #ddd;">
-            <img src="{{ '/images/diseno/Veeam%20VBR%20Salmones%20Austral_EX_3.svg' | relative_url }}" style="min-width: 3000px; zoom: 0.8; display: block; padding: 20px;" 
+            <img src="{{ '/images/diseno/Veeam%20VBR%20Salmones%20Austral_EX_3.svg' | relative_url }}" style="min-width: 3000px; zoom: 0.5; display: block; padding: 20px;" 
                  alt="Plano de Arquitectura de Red">
         </div>
     </div>
