@@ -15,7 +15,7 @@
         </div>
 
         <div style="width: 100%; height: 650px; overflow: auto; background: #fff; border: 1px solid #999; box-shadow: inset 0 0 15px rgba(0,0,0,0.1);">
-            <img src="{{ '/images/diseno/Veeam%20VBR%20Salmones%20Austral_EX_3.svg' | relative_url }}" 
+            <img src="{{ '/images/diseno/' | relative_url }}" 
                  style="min-width: 3200px; zoom: 0.6; -moz-transform: scale(0.8); -moz-transform-origin: 0 0; display: block; padding: 40px;" 
                  alt="Plano de Ingeniería Veeam">
         </div>
