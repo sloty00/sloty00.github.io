@@ -36,13 +36,14 @@
         </div>
         
         <div style="background: #fff3e0; padding: 15px; border-left: 5px solid #ff9800; border-radius: 4px;">
-            <h3 style="margin-top: 0; font-size: 1.1em;">🛡️ Continuidad (DRaaS)</h3>
-            <ul style="margin-bottom: 0; font-size: 0.95em;">
-                <li>Implementación de la regla <strong>3-2-1-1-0</strong>.</li>
-                <li>Almacenamiento de objetos con <strong>Inmutabilidad</strong> (S3).</li>
-                <li>Búnker de datos para protección contra Ransomware.</li>
-            </ul>
-        </div>
+    <h3 style="margin-top: 0; font-size: 1.1em;">🛡️ Continuidad y Resiliencia Local</h3>
+    <ul style="margin-bottom: 0; font-size: 0.95em;">
+        <li>Estrategia de respaldo basada en <strong>infraestructura NAS distribuida</strong>.</li>
+        <li>Implementación de la regla <strong>3-2-1-1-0</strong> con copias <em>Offline/Air-gapped</em>.</li>
+        <li>Protección contra Ransomware mediante <strong>Snapshots inmutables</strong> en almacenamiento local.</li>
+        <li>Alta disponibilidad de datos sin dependencia de conectividad WAN/Nube.</li>
+    </ul>
+</div>
     </div>
 
     <footer style="margin-top: 40px; text-align: center; font-size: 0.85em; color: #888; border-top: 1px solid #eee; padding-top: 20px;">
