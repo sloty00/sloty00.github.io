@@ -11,12 +11,12 @@
     <div style="background: #f0f0f0; border: 1px solid #ccc; border-radius: 4px; padding: 20px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
             <span style="font-size: 0.85em; font-weight: bold; color: #444;">🗺️ PLANO MAESTRO: TOPOLOGÍA HÍBRIDA (A0)</span>
-            <span style="font-size: 0.8em; color: #0056b3;">[ ESCALA VISUAL: 80% | FORMATO: SVG VECTORIAL ]</span>
+            <span style="font-size: 0.8em; color: #0056b3;">[ ESCALA VISUAL: 60% | FORMATO: SVG VECTORIAL ]</span>
         </div>
 
         <div style="width: 100%; height: 650px; overflow: auto; background: #fff; border: 1px solid #999; box-shadow: inset 0 0 15px rgba(0,0,0,0.1);">
             <img src="{{ '/images/diseno/Veeam%20VBR%20Salmones%20Austral_EX_3.svg' | relative_url }}" 
-                 style="min-width: 3200px; zoom: 0.8; -moz-transform: scale(0.8); -moz-transform-origin: 0 0; display: block; padding: 40px;" 
+                 style="min-width: 3200px; zoom: 0.6; -moz-transform: scale(0.8); -moz-transform-origin: 0 0; display: block; padding: 40px;" 
                  alt="Plano de Ingeniería Veeam">
         </div>
 
