@@ -63,6 +63,6 @@
     </div>
 
     <footer style="margin-top: 40px; text-align: center; font-size: 0.8em; color: #999; border-top: 1px solid #eee; padding-top: 20px;">
-        Propiedad Intelectual y Diseño de Ingeniería - Validado bajo estándares de Arquitectura de Sistemas 2026.
+        Propiedad Intelectual y Diseño de Ingeniería - Validado bajo estándares de Arquitectura de Sistemas 2026, Datos no son reales y se borraron acceso y ciertos datos de clientes para protección.
     </footer>
 </section>
