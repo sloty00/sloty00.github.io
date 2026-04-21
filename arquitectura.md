@@ -22,12 +22,6 @@
         <div style="min-width: 2800px; display: block; padding: 20px; zoom: 0.8; -moz-transform: scale(0.8); -moz-transform-origin: 0 0;">
             <img src="./images/diseno/Veeam%20VBR%20Salmones%20Austral_EX_3.svg" style="min-width: 2500px; display: block;" alt="Plano de Arquitectura de Red">
         </div>
-
-        <div style="margin-top: 15px; display: flex; gap: 10px; flex-wrap: wrap;">
-            <a href="URL_DEL_VISOR_INTERACTIVO" target="_blank" style="background-color: #0056b3; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 0.9em;">
-                🔍 Abrir Visor Fullscreen
-            </a>
-        </div>
     </div>
 
     <div style="margin-top: 30px; display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
