@@ -19,16 +19,13 @@
             <strong>Tip de visualización:</strong> Use las barras de desplazamiento para explorar el plano en tamaño real (A0).
         </div>
         
-        <div style="width: 100%; height: 600px; overflow: auto; background: white; border: 1px solid #ddd; box-shadow: inset 0 0 10px rgba(0,0,0,0.05);">
+        <div style="min-width: 2800px; display: block; padding: 20px; zoom: 0.8; -moz-transform: scale(0.8); -moz-transform-origin: 0 0;">
             <img src="./images/diseno/Veeam%20VBR%20Salmones%20Austral_EX_3.svg" style="min-width: 2500px; display: block;" alt="Plano de Arquitectura de Red">
         </div>
 
         <div style="margin-top: 15px; display: flex; gap: 10px; flex-wrap: wrap;">
             <a href="URL_DEL_VISOR_INTERACTIVO" target="_blank" style="background-color: #0056b3; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 0.9em;">
                 🔍 Abrir Visor Fullscreen
-            </a>
-            <a href="./assets/pdf/Plano_A0_Detalle.pdf" download style="background-color: #6c757d; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 0.9em;">
-                📄 Descargar PDF Vectorial
             </a>
         </div>
     </div>
