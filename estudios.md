@@ -143,6 +143,7 @@ permalink: /estudios/
     <button class="filter-btn" onclick="multiFilter('hackerrank', 'brand')">HackerRank</button>
     <button class="filter-btn" onclick="multiFilter('udemy', 'brand')">Udemy</button>
     <button class="filter-btn" onclick="multiFilter('aws', 'brand')">Amazon AWS</button>
+    <button class="filter-btn" onclick="multiFilter('google', 'brand')">Google Cloud</button>
   </div>
 
   <span class="filter-group-label">Skills</span>
@@ -171,6 +172,23 @@ permalink: /estudios/
       <li><strong>Performance Tuning:</strong> Gestión de Caché y Upload Buffer.</li>
       <li><strong>Data Integrity:</strong> Sincronización y RefreshCache API.</li>
       <li><strong>Cloud Security:</strong> Cifrado AES-256 y políticas IAM.</li>
+    </ul>
+</div>
+
+<div class="cert-card" data-category="infraestructura" data-brand="google" data-skill="hard arquitecto storage">
+    <div class="cert-header">
+      <h3 class="cert-title">Cloud Storage & Data Protection Solutions</h3>
+      <div class="cert-meta">
+        <span class="cert-company">Google Cloud Skill</span>
+      </div>
+    </div>
+    <span class="cert-badge">Hard Skill / Cloud Engineer</span>
+    <p>Certificación práctica enfocada en la implementación de arquitecturas de almacenamiento resilientes y políticas de protección de datos:</p>
+    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '🛡️ ';">
+      <li><strong>Object Storage:</strong> Gestión avanzada de Buckets en GCP.</li>
+      <li><strong>Cloud SDK / gsutil:</strong> Administración vía CLI y automatización.</li>
+      <li><strong>Bucket Lock:</strong> Implementación de políticas de retención (WORM).</li>
+      <li><strong>Data Integrity:</strong> Protección de objetos y control de versiones.</li>
     </ul>
 </div>
 
