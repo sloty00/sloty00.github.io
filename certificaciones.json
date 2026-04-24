@@ -8,6 +8,14 @@
     "icon": "fas fa-infinity"
   },
   {
+    "id": "cert-aws-s3",
+    "titulo": "AWS Storage Gateway Deep Dive: Amazon S3 File Gateway",
+    "institucion": "Amazon",
+    "imagen": "/images/diplomas/AWS_Storage_Gateway_Deep_Dive.png",
+    "tipo": "Expert",
+    "icon": "fas fa-infinity"
+  },
+  {
     "id": "cert-cisco01",
     "titulo": "C++ Advanced Professional",
     "institucion": "Cisco / C++ Institute",
