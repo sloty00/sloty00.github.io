@@ -177,7 +177,7 @@ permalink: /estudios/
 
 <div class="cert-card" data-category="infraestructura" data-brand="google" data-skill="hard arquitecto storage">
     <div class="cert-header">
-      <h3 class="cert-title">Cloud Storage & Data Protection Solutions</h3>
+      <h3 class="cert-title">Data Management</h3>
       <div class="cert-meta">
         <span class="cert-company">Google Cloud Skill</span>
       </div>
