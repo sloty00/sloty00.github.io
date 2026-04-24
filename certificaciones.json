@@ -16,6 +16,14 @@
     "icon": "fas fa-infinity"
   },
   {
+    "id": "cert-google-s3",
+    "titulo": "Cloud Storage & Data Protection Solutions",
+    "institucion": "Google Cloud",
+    "imagen": "/images/diplomas/Cloud_Storage_Data_Protection_Solutions.png",
+    "tipo": "Expert",
+    "icon": "fas fa-infinity"
+  },
+  {
     "id": "cert-cisco01",
     "titulo": "C++ Advanced Professional",
     "institucion": "Cisco / C++ Institute",
