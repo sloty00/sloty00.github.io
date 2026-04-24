@@ -142,6 +142,7 @@ permalink: /estudios/
     <button class="filter-btn" onclick="multiFilter('microsoft', 'brand')">Microsoft</button>
     <button class="filter-btn" onclick="multiFilter('hackerrank', 'brand')">HackerRank</button>
     <button class="filter-btn" onclick="multiFilter('udemy', 'brand')">Udemy</button>
+    <button class="filter-btn" onclick="multiFilter('aws', 'brand')">Amazon AWS</button>
   </div>
 
   <span class="filter-group-label">Skills</span>
