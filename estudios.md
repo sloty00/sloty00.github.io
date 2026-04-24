@@ -157,6 +157,23 @@ permalink: /estudios/
 
 <div id="cert-list">
 
+<div class="cert-card" data-category="infraestructura" data-brand="aws" data-skill="hard arquitecto storage">
+    <div class="cert-header">
+      <h3 class="cert-title">AWS Storage Gateway Deep Dive: S3 File Gateway (Advanced)</h3>
+      <div class="cert-meta">
+        <span class="cert-company">AWS Training & Certification</span>
+      </div>
+    </div>
+    <span class="cert-badge">Hard Skill / Hybrid Cloud Architect</span>
+    <p>Certificación técnica avanzada en el despliegue de infraestructuras híbridas y optimización de almacenamiento en la nube:</p>
+    <ul style="font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '☁️ ';">
+      <li><strong>Hybrid Storage:</strong> Integración NFS/SMB con Amazon S3.</li>
+      <li><strong>Performance Tuning:</strong> Gestión de Caché y Upload Buffer.</li>
+      <li><strong>Data Integrity:</strong> Sincronización y RefreshCache API.</li>
+      <li><strong>Cloud Security:</strong> Cifrado AES-256 y políticas IAM.</li>
+    </ul>
+</div>
+
 <div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard tecnico preventa">
     <div class="cert-header">
       <h3 class="cert-title">Sophos Firewall V20.0 Certified Architect (AT80)</h3>
