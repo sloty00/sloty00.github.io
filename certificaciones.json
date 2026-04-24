@@ -12,7 +12,7 @@
     "titulo": "AWS Storage Gateway Deep Dive: Amazon S3 File Gateway",
     "institucion": "Amazon",
     "imagen": "/images/diplomas/AWS_Storage_Gateway_Deep_Dive.png",
-    "tipo": "Expert",
+    "tipo": "Storage",
     "icon": "fas fa-infinity"
   },
   {
@@ -20,7 +20,7 @@
     "titulo": "Cloud Storage & Data Protection Solutions",
     "institucion": "Google Cloud",
     "imagen": "/images/diplomas/Cloud_Storage_Data_Protection_Solutions.png",
-    "tipo": "Expert",
+    "tipo": "Storage",
     "icon": "fas fa-infinity"
   },
   {
