@@ -42,11 +42,11 @@ permalink: /portafolio/
 
 <div class="filter-container">
   <button class="filter-btn active" onclick="filterSelection('all')">Todos</button>
-  <button class="filter-btn" onclick="filterSelection('tecnico')">Técnico</button>
-  <button class="filter-btn" onclick="filterSelection('desarrollo')">Desarrollo</button>
-  <button class="filter-btn" onclick="filterSelection('arquitectura')">Arquitectura</button>
-  <button class="filter-btn" onclick="filterSelection('cyber')">Cyberseguridad y Cloud</button>
-  <button class="filter-btn" onclick="filterSelection('civil')">Ingeniería Civil</button>
+  <button class="filter-btn" onclick="filterSelection('infrastructure')">IT & Cloud Infrastructure</button>
+  <button class="filter-btn" onclick="filterSelection('software')">Software Engineering</button>
+  <button class="filter-btn" onclick="filterSelection('architecture')">Solutions Architecture</button>
+  <button class="filter-btn" onclick="filterSelection('cyber')">Cybersecurity & SOC</button>
+  <button class="filter-btn" onclick="filterSelection('design')">Engineering & Design</button>
 </div>
 
 <div class="portfolio-list">
