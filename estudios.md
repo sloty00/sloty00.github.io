@@ -177,7 +177,7 @@ permalink: /estudios/
 
 <div id="cert-list">
 
-<div class="cert-card" data-category="infraestructura" data-brand="aws" data-skill="storage cloud hybrid" rol="architect">
+<div class="cert-card" data-category="infraestructura" data-brand="aws" data-skill="storage cloud hybrid" rol="architect pre_sales">
     <div class="cert-header">
       <h3 class="cert-title">AWS Storage Gateway Deep Dive: S3 File Gateway (Advanced)</h3>
       <div class="cert-meta">
