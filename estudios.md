@@ -126,7 +126,7 @@ permalink: /estudios/
   <div class="filter-container">
     <button class="filter-btn active" onclick="multiFilter('all', 'cat')">Todas</button>
     <button class="filter-btn" onclick="multiFilter('ciberseguridad', 'cat')">Ciberseguridad</button>
-    <button class="filter-btn" onclick="multiFilter('programacion', 'cat')">Programación</button>
+    <button class="filter-btn" onclick="multiFilter('programacion', 'cat')">Desarrollo</button>
     <button class="filter-btn" onclick="multiFilter('civil', 'cat')">Ingeniería Civil</button>
     <button class="filter-btn" onclick="multiFilter('infraestructura', 'cat')">Infraestructura / Cloud</button>
   </div>
@@ -149,10 +149,14 @@ permalink: /estudios/
   <span class="filter-group-label">Skills</span>
   <div class="filter-container">
     <button class="filter-btn active" onclick="multiFilter('all', 'skill')">Todas</button>
-    <button class="filter-btn" onclick="multiFilter('hard', 'skill')">Hard Skills</button>
-    <button class="filter-btn" onclick="multiFilter('soft', 'skill')">Soft Skills</button>
-    <button class="filter-btn" onclick="multiFilter('preventa', 'skill')">Preventa</button>
-    <button class="filter-btn" onclick="multiFilter('venta', 'skill')">Venta</button>
+    <button class="filter-btn" onclick="multiFilter('storage', 'skill')">Hard Skills</button>
+    <button class="filter-btn" onclick="multiFilter('cloud', 'skill')">Soft Skills</button>
+    <button class="filter-btn" onclick="multiFilter('security', 'skill')">Preventa</button>
+    <button class="filter-btn" onclick="multiFilter('networking', 'skill')">Venta</button>
+    <button class="filter-btn" onclick="multiFilter('kubernetes', 'skill')">Venta</button>
+    <button class="filter-btn" onclick="multiFilter('devops', 'skill')">Venta</button>
+    <button class="filter-btn" onclick="multiFilter('sql', 'skill')">Venta</button>
+    <button class="filter-btn" onclick="multiFilter('devops', 'automation')">Venta</button>
   </div>
 </div>
 
