@@ -70,10 +70,13 @@ permalink: /estudios/
   }
 
   /* Colores Dinámicos por Skill/Nivel (Prioridad de cascada) */
-  .cert-card[data-skill*="tecnico"] { border-left-color: #2ecc71; }   /* Verde */
-  .cert-card[data-skill*="preventa"] { border-left-color: #9b59b6; }  /* Púrpura */
-  .cert-card[data-skill*="venta"] { border-left-color: #e74c3c; }     /* Rojo */
-  .cert-card[data-category="civil"] { border-left-color: #e67e22; }   /* Naranja */
+  .cert-card[data-role*="pre_sales"] { border-left-color: #9b59b6; } /* Púrpura */
+  .cert-card[data-role*="sales"] { border-left-color: #e74c3c; } /* Rojo */
+  .cert-card[data-role*="engineer"] { border-left-color: #2ecc71; } /* Verde */
+  .cert-card[data-role*="architect"] { border-left-color: #3498db; } /* Azul */
+  .cert-card[data-role*="devops"] { border-left-color: #1abc9c; } /* Turquesa */
+  .cert-card[data-role*="consultant"] { border-left-color: #f1c40f; } /* Amarillo */
+  .cert-card[data-role*="analyst"] { border-left-color: #34495e; } /* Gris azulado */
 
   .cert-header {
     display: flex;
@@ -808,6 +811,7 @@ function multiFilter(value, type) {
       'cat': 'data-category',
       'brand': 'data-brand',
       'skill': 'data-skill'
+      'rol': 'data-rol'
     };
 
     const targetAttr = attrMap[type];
