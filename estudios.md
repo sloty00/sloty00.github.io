@@ -151,7 +151,6 @@ permalink: /estudios/
     <button class="filter-btn active" onclick="multiFilter('all', 'skill')">Todas</button>
     <button class="filter-btn" onclick="multiFilter('storage', 'skill')">Storage</button>
     <button class="filter-btn" onclick="multiFilter('security', 'skill')">Security</button>
-    <button class="filter-btn" onclick="multiFilter('devops', 'skill')">Devops</button>
     <button class="filter-btn" onclick="multiFilter('kubernetes', 'skill')">Kubernetes</button>
     <button class="filter-btn" onclick="multiFilter('automation', 'skill')">Automation</button>
     <button class="filter-btn" onclick="multiFilter('sql', 'skill')">SQL</button>
