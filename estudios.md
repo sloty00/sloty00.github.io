@@ -149,14 +149,14 @@ permalink: /estudios/
   <span class="filter-group-label">Skills</span>
   <div class="filter-container">
     <button class="filter-btn active" onclick="multiFilter('all', 'skill')">Todas</button>
-    <button class="filter-btn" onclick="multiFilter('storage', 'skill')">Hard Skills</button>
-    <button class="filter-btn" onclick="multiFilter('cloud', 'skill')">Soft Skills</button>
-    <button class="filter-btn" onclick="multiFilter('security', 'skill')">Preventa</button>
-    <button class="filter-btn" onclick="multiFilter('networking', 'skill')">Venta</button>
-    <button class="filter-btn" onclick="multiFilter('kubernetes', 'skill')">Venta</button>
-    <button class="filter-btn" onclick="multiFilter('devops', 'skill')">Venta</button>
-    <button class="filter-btn" onclick="multiFilter('sql', 'skill')">Venta</button>
-    <button class="filter-btn" onclick="multiFilter('devops', 'automation')">Venta</button>
+    <button class="filter-btn" onclick="multiFilter('storage', 'skill')">Storage</button>
+    <button class="filter-btn" onclick="multiFilter('security', 'skill')">Security</button>
+    <button class="filter-btn" onclick="multiFilter('devops', 'skill')">Devops</button>
+    <button class="filter-btn" onclick="multiFilter('kubernetes', 'skill')">Kubernetes</button>
+    <button class="filter-btn" onclick="multiFilter('automation', 'skill')">Automation</button>
+    <button class="filter-btn" onclick="multiFilter('sql', 'skill')">SQL</button>
+    <button class="filter-btn" onclick="multiFilter('networking', 'skill')">Networking</button>
+    <button class="filter-btn" onclick="multiFilter('cloud')">Cloud</button>
   </div>
 </div>
 
