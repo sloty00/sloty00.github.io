@@ -159,6 +159,7 @@ permalink: /estudios/
     <button class="filter-btn" onclick="multiFilter('sql', 'skill')">SQL</button>
     <button class="filter-btn" onclick="multiFilter('networking', 'skill')">Networking</button>
     <button class="filter-btn" onclick="multiFilter('cloud')">Cloud</button>
+    <button class="filter-btn" onclick="multiFilter('hybrid')">Hybrid Cloud</button>
   </div>
 
     <span class="filter-group-label">Roles</span>
@@ -176,7 +177,7 @@ permalink: /estudios/
 
 <div id="cert-list">
 
-<div class="cert-card" data-category="infraestructura" data-brand="aws" data-skill="cloud storage security">
+<div class="cert-card" data-category="infraestructura" data-brand="aws" data-skill="storage cloud hybrid" rol="architect">
     <div class="cert-header">
       <h3 class="cert-title">AWS Storage Gateway Deep Dive: S3 File Gateway (Advanced)</h3>
       <div class="cert-meta">
