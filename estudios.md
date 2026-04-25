@@ -162,7 +162,7 @@ permalink: /estudios/
 
 <div id="cert-list">
 
-<div class="cert-card" data-category="infraestructura" data-brand="aws" data-skill="hard arquitecto storage">
+<div class="cert-card" data-category="infraestructura" data-brand="aws" data-skill="cloud storage security">
     <div class="cert-header">
       <h3 class="cert-title">AWS Storage Gateway Deep Dive: S3 File Gateway (Advanced)</h3>
       <div class="cert-meta">
@@ -179,7 +179,7 @@ permalink: /estudios/
     </ul>
 </div>
 
-<div class="cert-card" data-category="infraestructura" data-brand="google" data-skill="hard arquitecto storage">
+<div class="cert-card" data-category="infraestructura" data-brand="google" data-skill="cloud storage security">
     <div class="cert-header">
       <h3 class="cert-title">Data Management</h3>
       <div class="cert-meta">
@@ -196,7 +196,7 @@ permalink: /estudios/
     </ul>
 </div>
 
-<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard tecnico preventa">
+<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="security cloud networking automation">
     <div class="cert-header">
       <h3 class="cert-title">Sophos Firewall V20.0 Certified Architect (AT80)</h3>
       <div class="cert-meta">
@@ -213,7 +213,7 @@ permalink: /estudios/
     </ul>
 </div>
 
-<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard tecnico preventa">
+<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="security cloud networking automation">
     <div class="cert-header">
       <h3 class="cert-title">Sophos Endpoint Certified Architect V 6.0 (AT15)</h3>
       <div class="cert-meta">
@@ -230,7 +230,7 @@ permalink: /estudios/
     </ul>
 </div>
 
-<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard tecnico">
+<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="security cloud networking automation">
     <div class="cert-header">
       <h3 class="cert-title">Sophos Firewall: Certified Engineer (v19.5 - v22.0) ET80</h3>
       <div class="cert-meta">
@@ -247,7 +247,7 @@ permalink: /estudios/
     </ul>
 </div>
 
-<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard tecnico">
+<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="security cloud networking automation">
     <div class="cert-header">
       <h3 class="cert-title">Detection and Response Certified Engineer v5.5 ET15 / XDR v4.0</h3>
       <div class="cert-meta">
@@ -264,7 +264,7 @@ permalink: /estudios/
     </ul>
 </div>
 
-<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="hard tecnico">
+<div class="cert-card" data-category="ciberseguridad" data-brand="sophos" data-skill="security cloud networking automation">
     <div class="cert-header">
       <h3 class="cert-title">Sophos Endpoint & Central Protection: Certified Engineer (v5.0 - v6.0)</h3>
       <div class="cert-meta">
