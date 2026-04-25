@@ -157,6 +157,18 @@ permalink: /estudios/
     <button class="filter-btn" onclick="multiFilter('networking', 'skill')">Networking</button>
     <button class="filter-btn" onclick="multiFilter('cloud')">Cloud</button>
   </div>
+
+    <span class="filter-group-label">Roles</span>
+  <div class="filter-container">
+    <button class="filter-btn active" onclick="multiFilter('all', 'rol')">Todas</button>
+    <button class="filter-btn" onclick="multiFilter('pre_sales', 'rol')">Pre Sales</button>
+    <button class="filter-btn" onclick="multiFilter('sales', 'rol')">Sales</button>
+    <button class="filter-btn" onclick="multiFilter('engineer', 'rol')">Engineer</button>
+    <button class="filter-btn" onclick="multiFilter('architect', 'rol')">Architect</button>
+    <button class="filter-btn" onclick="multiFilter('Consultant', 'rol')">Consultant</button>
+    <button class="filter-btn" onclick="multiFilter('devops', 'rol')">DevOps</button>
+    <button class="filter-btn" onclick="multiFilter('analyst', 'rol')">Analyst</button>
+  </div>
 </div>
 
 <div id="cert-list">
