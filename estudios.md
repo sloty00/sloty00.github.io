@@ -95,23 +95,14 @@ permalink: /estudios/
 ## Formación Académica Superior
 
 <div class="cert-card" style="border-left-color: #2c3e50;">
-
   <div class="cert-header">
-
     <h3 class="cert-title">Técnico en Informática</h3>
-
     <div class="cert-meta">
-
       <strong>Universidad de los Lagos</strong><br>
-
       2001 - 2003 | Puerto Montt
-
     </div>
-
   </div>
-
   <p>Especialidad en Ciberseguridad: Macintosh/YellowDog Linux, Proxy Squid, DNSSEC y Hardening avanzado.</p>
-
 </div>
 
 ## Certificaciones
@@ -390,18 +381,37 @@ permalink: /estudios/
   let activeFilters = { cat: 'all', brand: 'all', skill: 'all', rol: 'all' };
 
   function multiFilter(value, type) {
+    // 1. Actualizar el estado del filtro
     activeFilters[type] = value;
-    const container = event.target.parentElement;
-    container.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
-    event.target.classList.add('active');
+    
+    // 2. Manejo seguro del evento y los botones activos
+    const evt = window.event;
+    if (evt) {
+      const targetBtn = evt.currentTarget || evt.target;
+      const container = targetBtn.closest('.filter-container');
+      if (container) {
+        container.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
+        targetBtn.classList.add('active');
+      }
+    }
 
-    const cards = document.querySelectorAll('.cert-card');
+    // 3. Buscar SOLO las tarjetas dentro de #cert-list
+    const cards = document.querySelectorAll('#cert-list .cert-card');
+    
     cards.forEach(card => {
-      const matchCat = activeFilters.cat === 'all' || card.getAttribute('data-category').includes(activeFilters.cat);
-      const matchBrand = activeFilters.brand === 'all' || card.getAttribute('data-brand').includes(activeFilters.brand);
-      const matchSkill = activeFilters.skill === 'all' || card.getAttribute('data-skill').includes(activeFilters.skill);
-      const matchRol = activeFilters.rol === 'all' || card.getAttribute('data-role').includes(activeFilters.rol);
+      // 4. Lectura segura de atributos (evita el error de Null)
+      const catAttr = card.getAttribute('data-category') || '';
+      const brandAttr = card.getAttribute('data-brand') || '';
+      const skillAttr = card.getAttribute('data-skill') || '';
+      const rolAttr = card.getAttribute('data-role') || '';
 
+      // 5. Comprobar coincidencias
+      const matchCat = activeFilters.cat === 'all' || catAttr.includes(activeFilters.cat);
+      const matchBrand = activeFilters.brand === 'all' || brandAttr.includes(activeFilters.brand);
+      const matchSkill = activeFilters.skill === 'all' || skillAttr.includes(activeFilters.skill);
+      const matchRol = activeFilters.rol === 'all' || rolAttr.includes(activeFilters.rol);
+
+      // 6. Mostrar u ocultar
       card.style.display = (matchCat && matchBrand && matchSkill && matchRol) ? 'block' : 'none';
     });
   }
