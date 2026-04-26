@@ -5,38 +5,76 @@ permalink: /portafolio/
 ---
 
 <style>
-  .filter-container { margin: 20px 0 40px 0; display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; }
-  .filter-btn {
-    padding: 8px 18px; border: 1px solid #e2e8f0; border-radius: 20px;
-    background: white; cursor: pointer; transition: all 0.3s ease; font-weight: 600; color: #64748b;
+  /* Contenedor de botones de filtro */
+  .filter-container { 
+    margin: 20px 0 40px 0; 
+    display: flex; 
+    flex-wrap: wrap; 
+    gap: 10px; 
+    justify-content: center; 
   }
-  .filter-btn:hover { border-color: #3b82f6; color: #3b82f6; }
-  .filter-btn.active { background: #3b82f6; color: white; border-color: #3b82f6; box-shadow: 0 4px 10px rgba(59, 130, 246, 0.3); }
+
+  .filter-btn {
+    padding: 8px 18px; 
+    border: 1px solid #e2e8f0; 
+    border-radius: 20px;
+    background: white; 
+    cursor: pointer; 
+    transition: all 0.3s ease; 
+    font-weight: 600; 
+    color: #64748b;
+    outline: none;
+  }
+
+  .filter-btn:hover { 
+    border-color: #3b82f6; 
+    color: #3b82f6; 
+    background: #f8fafc;
+  }
+
+  .filter-btn.active { 
+    background: #3b82f6; 
+    color: white; 
+    border-color: #3b82f6; 
+    box-shadow: 0 4px 10px rgba(59, 130, 246, 0.3); 
+  }
   
-  /* Ajuste para que las tarjetas tengan aire entre ellas */
-  .portfolio-item { transition: all 0.4s ease; margin-bottom: 40px; }
-  .hidden { display: none !important; }
+  /* Estructura de los ítems de experiencia */
+  .portfolio-item { 
+    transition: opacity 0.4s ease, transform 0.4s ease; 
+    margin-bottom: 40px; 
+    display: block;
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  /* Clase para ocultar con suavidad */
+  .hidden { 
+    display: none !important; 
+    opacity: 0;
+    transform: translateY(10px);
+  }
   
-  .entry ul { margin-top: 10px; padding-left: 20px; }
-  .entry li { margin-bottom: 5px; }
-  /* Forzar la aparición de viñetas */
+  /* Estilo de las listas dentro de la experiencia */
   .entry ul { 
-    margin-top: 10px !important; 
+    margin-top: 15px !important; 
     padding-left: 25px !important; 
-    list-style-type: disc !important; /* Fuerza el círculo negro */
+    list-style-type: disc !important; 
     display: block !important;
   }
 
   .entry li { 
     margin-bottom: 8px !important; 
-    display: list-item !important; /* Asegura que el navegador lo trate como punto de lista */
-    line-height: 1.5;
-    color: #475569; /* Un gris profesional similar al de tu diseño */
+    display: list-item !important; 
+    line-height: 1.6;
+    color: #475569; 
+    font-size: 0.95rem;
   }
   
-  /* Ajuste opcional para que los puntos no se peguen al borde en móviles */
+  /* Mejoras para legibilidad en móviles */
   @media (max-width: 768px) {
     .entry ul { padding-left: 20px !important; }
+    .filter-btn { font-size: 0.85rem; padding: 6px 14px; }
   }
 </style>
 
@@ -229,21 +267,32 @@ en un entorno educativo.</li>
   </div>
 
 </div>
-
 <script>
 function filterSelection(c) {
-  var x = document.getElementsByClassName("portfolio-item");
-  if (c == "all") c = "";
-  for (var i = 0; i < x.length; i++) {
-    x[i].classList.add("hidden");
-    if (x[i].className.indexOf(c) > -1) {
-      x[i].classList.remove("hidden");
+  // 1. Seleccionamos todos los ítems de experiencia
+  const items = document.querySelectorAll(".portfolio-item");
+  
+  // 2. Aplicamos el filtro
+  items.forEach(item => {
+    // Usamos split(' ') y includes() para buscar la clase exacta 
+    // Esto evita que "architecture" se confunda con "infrastructure"
+    const classes = item.className.split(' ');
+    
+    if (c === "all" || classes.includes(c)) {
+      item.classList.remove("hidden");
+      // Opcional: podrías agregar una pequeña animación de entrada aquí
+    } else {
+      item.classList.add("hidden");
     }
+  });
+
+  // 3. Manejo de estados de los botones (UI)
+  const btns = document.querySelectorAll(".filter-btn");
+  btns.forEach(btn => btn.classList.remove("active"));
+  
+  // Usamos event.currentTarget para asegurar que marcamos el botón correcto
+  if (event && event.currentTarget) {
+    event.currentTarget.classList.add("active");
   }
-  var btns = document.getElementsByClassName("filter-btn");
-  for (var i = 0; i < btns.length; i++) {
-    btns[i].classList.remove("active");
-  }
-  event.currentTarget.classList.add("active");
 }
 </script>
