@@ -199,7 +199,7 @@ permalink: /portafolio/
       </header>
       <div class="entry">
         <ul>
-          <li>Liderelevantamiento de proyectos y cree planos de demanda Inmobiliaria. Desarrolle proyectos de Telecomunicaciones y elaboraba documentos "As-Built".</li>
+          <li>Lidere levantamiento de proyectos y cree planos de demanda Inmobiliaria. Desarrolle proyectos de Telecomunicaciones y elaboraba documentos "As-Built".</li>
           <li>Gestione los permisos hacia Saesa y municipalidad y cubique/Avalue proyectos.</li>
         </ul>
       </div>
