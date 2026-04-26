@@ -269,28 +269,21 @@ en un entorno educativo.</li>
 </div>
 <script>
 function filterSelection(c) {
-  // 1. Seleccionamos todos los ítems de experiencia
   const items = document.querySelectorAll(".portfolio-item");
   
-  // 2. Aplicamos el filtro
   items.forEach(item => {
-    // Usamos split(' ') y includes() para buscar la clase exacta 
-    // Esto evita que "architecture" se confunda con "infrastructure"
     const classes = item.className.split(' ');
     
     if (c === "all" || classes.includes(c)) {
       item.classList.remove("hidden");
-      // Opcional: podrías agregar una pequeña animación de entrada aquí
     } else {
       item.classList.add("hidden");
     }
   });
 
-  // 3. Manejo de estados de los botones (UI)
   const btns = document.querySelectorAll(".filter-btn");
   btns.forEach(btn => btn.classList.remove("active"));
   
-  // Usamos event.currentTarget para asegurar que marcamos el botón correcto
   if (event && event.currentTarget) {
     event.currentTarget.classList.add("active");
   }
