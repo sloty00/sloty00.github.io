@@ -89,7 +89,7 @@ permalink: /portafolio/
 
 <div class="portfolio-list">
 
-  <div class="portfolio-item cyber arquitectura desarrollo posts">
+  <div class="portfolio-item infrastructure software architecture cyber posts">
     <div class="post">
       <header class="post-header">
           <h1 class="post-title">Ingeniero TI</h1>
@@ -103,24 +103,20 @@ permalink: /portafolio/
           <li>Lideré el anteproyecto de arquitectura e implementación del sistema de respaldo empresarial basado en Veeam Backup y Replication, utilizando diseño de infraestructura y Block GIS del fabricante para Salmones Austral.</li>
           <li>Liderazgo en la arquitectura e implementación de sistemas operativos SUSE Linux Enterprise sobre entornos VMware vSphere, aplicando técnicas de Thin Provisioning (aprovisionamiento fino) para la optimización del almacenamiento físico. Gestión avanzada de almacenamiento lógico mediante LVM (Logical Volume Management), permitiendo el escalado y aumento de discos virtuales y sistemas de archivos en caliente (on-the-fly) para garantizar la disponibilidad continua del servicio. Configuración de redes virtuales para asegurar conectividad de alta velocidad y baja latencia entre nodos críticos de la infraestructura.</li>
           <li>Administración y despliegue de microservicios mediante contenedores Docker y orquestación en clústeres de Kubernetes, facilitando la portabilidad y escalabilidad de aplicaciones empresariales. Implementación de flujos de trabajo basados en contenedores para la modernización de servicios, asegurando entornos de ejecución aislados, eficientes y alineados con arquitecturas de infraestructura moderna.</li>
-          <li>Desplegué y administré plataformas internas de colaboración y
-operaciones: Rocket.Chat, GLPI, OwnCloud, BIND DNS, Documize y RustDesk.</li>
+          <li>Desplegué y administré plataformas internas de colaboración y operaciones: Rocket.Chat, GLPI, OwnCloud, BIND DNS, Documize y RustDesk.</li>
           <li>Creación y despliegue de un Relay de correo para cass.cl.</li>
           <li>Implementé una plataforma completa de monitoreo y observabilidad basada en Nagios, Prometheus y Grafana, integrando monitoreo vía SNMP y NRPE en servidores y dispositivos de red.</li>
           <li>Implementé servicios críticos de infraestructura incluyendo servidor DNS, relay de correo y repositorios internos en entornos empresariales Linux.</li>
           <li>Diseñé un repositorio inmutable en SUSE para integrarse con Veeam Backup y Replication, optimizando la seguridad y resiliencia del sistema de respaldos.</li>
           <li>Administré y mantuve soluciones de ciberseguridad perimetral y endpoint utilizando Sophos UTM y Sophos XDR, actuando como ingeniero de soporte de última línea para resolución de incidentes complejos.</li>
           <li>Repliqué y configuré infraestructuras de firewall basadas en pfSense, asegurando continuidad operativa y consistencia de políticas de seguridad.</li>
-<li>Desarrolle una aplicación empresarial para gestión de operaciones (personal,vehículos,
-permisos, vacaciones y checklist) utilizando Node.js, Prisma ORM, MySQL y frontend en
-React con Material UI, incluyendo autenticación con JWT, Active Directory ademas de
-paginación en backend.</li>
+          <li>Desarrolle una aplicación empresarial para gestión de operaciones (personal,vehículos, permisos, vacaciones y checklist) utilizando Node.js, Prisma ORM, MySQL y frontend en React con Material UI, incluyendo autenticación con JWT, Active Directory ademas de paginación en backend.</li>
         </ul>
       </div>
     </div>
   </div>
 
-  <div class="portfolio-item desarrollo posts">
+  <div class="portfolio-item software posts">
     <div class="post">
       <header class="post-header">
           <h1 class="post-title">Analista de Software Senior</h1>
@@ -138,7 +134,7 @@ paginación en backend.</li>
     </div>
   </div>
 
-  <div class="portfolio-item civil arquitectura posts">
+  <div class="portfolio-item design architecture posts">
     <div class="post">
       <header class="post-header">
           <h1 class="post-title">Inspector de Proyectos</h1>
@@ -156,7 +152,7 @@ paginación en backend.</li>
     </div>
   </div>
 
-  <div class="portfolio-item desarrollo posts">
+  <div class="portfolio-item software posts">
     <div class="post">
       <header class="post-header">
           <h1 class="post-title">Desarrollador de Software</h1>
@@ -174,7 +170,7 @@ paginación en backend.</li>
     </div>
   </div>
 
-  <div class="portfolio-item desarrollo posts">
+  <div class="portfolio-item software posts">
     <div class="post">
       <header class="post-header">
           <h1 class="post-title">Desarrollador de Software</h1>
@@ -192,7 +188,7 @@ paginación en backend.</li>
     </div>
   </div>
 
-  <div class="portfolio-item civil arquitectura posts">
+  <div class="portfolio-item design architecture posts">
     <div class="post">
       <header class="post-header">
           <h1 class="post-title">Inspector de Proyectos</h1>
@@ -210,7 +206,7 @@ paginación en backend.</li>
     </div>
   </div>
 
-  <div class="portfolio-item arquitectura posts">
+  <div class="portfolio-item infrastructure posts">
     <div class="post">
       <header class="post-header">
           <h1 class="post-title">Ingeniero TI</h1>
@@ -228,7 +224,7 @@ paginación en backend.</li>
     </div>
   </div>
 
-  <div class="portfolio-item arquitectura posts">
+  <div class="portfolio-item infrastructure architecture posts">
     <div class="post">
       <header class="post-header">
           <h1 class="post-title">Ingeniero TI</h1>
@@ -239,16 +235,14 @@ paginación en backend.</li>
       </header>
       <div class="entry">
         <ul>
-          <li>Implementé un programa de reciclaje de computadoras, aprovechando componentes
-obsoletos para armar equipos funcionales. Monté un entorno de computación en red utilizando terminales tontos (LTSP) que se iniciaban através de la red, optimizando los recursos disponibles y reduciendo costos. Instalé y configuré una versión oficial de Windows XP Thin en computadoras con discos duros pequeños,asegurando un rendimiento óptimo
-en un entorno educativo.</li>
+          <li>Implementé un programa de reciclaje de computadoras, aprovechando componentes obsoletos para armar equipos funcionales. Monté un entorno de computación en red utilizando terminales tontos (LTSP) que se iniciaban através de la red, optimizando los recursos disponibles y reduciendo costos. Instalé y configuré una versión oficial de Windows XP Thin en computadoras con discos duros pequeños,asegurando un rendimiento óptimo en un entorno educativo.</li>
           <li>Realice el diseño y configuración de sistemas de redes. Implemente y organice servidores Linux y Provisión de soporte técnico en IT</li>
         </ul>
       </div>
     </div>
   </div>
 
-  <div class="portfolio-item tecnico posts">
+  <div class="portfolio-item infrastructure software posts">
     <div class="post">
       <header class="post-header">
           <h1 class="post-title">Tecnico Informatico</h1>
@@ -267,6 +261,7 @@ en un entorno educativo.</li>
   </div>
 
 </div>
+
 <script>
 function filterSelection(c) {
   const items = document.querySelectorAll(".portfolio-item");
