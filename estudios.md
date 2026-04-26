@@ -114,6 +114,8 @@ permalink: /estudios/
 
 </div>
 
+## Certificaciones
+
 <div class="filter-section">
   <span class="filter-group-label">Categorías</span>
   <div class="filter-container">
