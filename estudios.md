@@ -141,7 +141,7 @@
 </div>
 
 <div id="cert-list">
-    <p style="text-align: center; color: #7f8c8d;">Sincronizando certificaciones...</p>
+    <p style="text-align: center; color: #7f8c8d;">Sincronizando manifiesto de certificaciones......</p>
 </div>
 
 <script src="/estudios.js"></script>
