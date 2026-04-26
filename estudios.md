@@ -92,6 +92,28 @@ permalink: /estudios/
   .cert-card ul { font-size: 0.85rem; color: #57606f; margin-top: 10px; column-count: 2; list-style-type: '✔️ '; }
 </style>
 
+## Formación Académica Superior
+
+<div class="cert-card" style="border-left-color: #2c3e50;">
+
+  <div class="cert-header">
+
+    <h3 class="cert-title">Técnico en Informática</h3>
+
+    <div class="cert-meta">
+
+      <strong>Universidad de los Lagos</strong><br>
+
+      2001 - 2003 | Puerto Montt
+
+    </div>
+
+  </div>
+
+  <p>Especialidad en Ciberseguridad: Macintosh/YellowDog Linux, Proxy Squid, DNSSEC y Hardening avanzado.</p>
+
+</div>
+
 <div class="filter-section">
   <span class="filter-group-label">Categorías</span>
   <div class="filter-container">
