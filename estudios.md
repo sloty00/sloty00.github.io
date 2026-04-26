@@ -259,19 +259,19 @@ permalink: /estudios/
   </div>
 
   <div class="cert-card" data-category="infraestructura" data-brand="microsoft" data-skill="automation cloud devops" data-role="devops architect">
-    <div class="cert-header"><h3 class="cert-title">AZ-400: DevOps Solutions</h3><div class="cert-meta">Microsoft Expert</div></div>
+    <div class="cert-header"><h3 class="cert-title">AZ-400: DevOps Solutions</h3><div class="cert-meta">Microsoft Learn</div></div>
     <span class="cert-badge">DevOps & SRE Expert</span>
     <ul><li>CI/CD Pipelines</li><li>IaC (Terraform)</li><li>DevSecOps</li><li>SRE & Monitoring</li></ul>
   </div>
 
   <div class="cert-card" data-category="ciberseguridad" data-brand="microsoft" data-skill="security automation" data-role="engineer devops">
-    <div class="cert-header"><h3 class="cert-title">GitHub Advanced Security (GHAS)</h3><div class="cert-meta">GitHub</div></div>
+    <div class="cert-header"><h3 class="cert-title">GitHub Advanced Security (GHAS)</h3><div class="cert-meta">Microsoft/GitHub</div></div>
     <span class="cert-badge">AppSec & DevSecOps</span>
     <ul><li>CodeQL (SAST)</li><li>Secret Scanning</li><li>Supply Chain Security</li><li>Dependabot</li></ul>
   </div>
 
   <div class="cert-card" data-category="programacion" data-brand="microsoft" data-skill="automation" data-role="engineer devops">
-    <div class="cert-header"><h3 class="cert-title">GitHub Actions I - II</h3><div class="cert-meta">GitHub</div></div>
+    <div class="cert-header"><h3 class="cert-title">GitHub Actions I - II</h3><div class="cert-meta">Microsoft/GitHub</div></div>
     <span class="cert-badge">Automation Engineer</span>
     <ul><li>Workflows</li><li>Custom Actions</li><li>Marketplace</li><li>Secrets Mgmt</li></ul>
   </div>
