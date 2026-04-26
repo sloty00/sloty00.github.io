@@ -4,12 +4,6 @@ title: Estudios
 permalink: /estudios/
 ---
 
----
-layout: page
-title: Estudios
-permalink: /estudios/
----
-
 <style>
     .filter-section {
         margin: 20px 0;
