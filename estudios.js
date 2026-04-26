@@ -3,7 +3,7 @@ let activeFilters = { cat: 'all', brand: 'all', skill: 'all', rol: 'all' };
 // 1. Cargar y renderizar desde el JSON
 async function sincronizarCertificados() {
     const container = document.getElementById('cert-list');
-    const url = `./estudios.json?v=${Date.now()}`;
+    const url = `estudios.json?v=${Date.now()}`;
 
     try {
         const res = await fetch(url);
