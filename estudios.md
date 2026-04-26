@@ -1,7 +1,4 @@
 ---
-layout: page
-title: Estudios
-permalink: /estudios/
 ---
 
 <style>
