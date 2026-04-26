@@ -147,4 +147,4 @@ permalink: /estudios/
     <p style="text-align: center; color: #7f8c8d;">Sincronizando certificaciones...</p>
 </div>
 
-<script src="{{ '/estudios.js' | relative_url }}"></script>
+<script src="/estudios.js"></script>
