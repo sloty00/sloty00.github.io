@@ -7,6 +7,7 @@ FEEDS = {
     "sophos_threat": "https://news.sophos.com/en-us/category/threat-research/feed/",
     "sophos_ops": "https://news.sophos.com/en-us/category/security-operations/feed/",
     "aws_news": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+    "google_cloud": "https://blog.google/products/google-cloud/rss/",
     "suse_news": "https://www.suse.com/c/feed/",
     "veeam_news": "https://www.veeam.com/blog/feed"
 }
