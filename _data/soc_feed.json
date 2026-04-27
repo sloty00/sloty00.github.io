@@ -1,0 +1,56 @@
+[
+  {
+    "source": "sophos_threat",
+    "title": "Supply chain attacks hit Checkmarx and Bitwarden developer tools",
+    "link": "https://www.sophos.com/en-us/blog/supply-chain-attacks-hit-checkmarx-and-bitwarden-developer-tools",
+    "date": "Fri, 24 Apr 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
+    "title": "Microsoft addresses 163 CVEs, 88 advisories for April Patch Tuesday",
+    "link": "https://www.sophos.com/en-us/blog/april-2026-microsoft-patch-tuesday",
+    "date": "Fri, 17 Apr 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
+    "title": "QEMU abused to evade detection and enable ransomware delivery",
+    "link": "https://www.sophos.com/en-us/blog/qemu-abused-to-evade-detection-and-enable-ransomware-delivery",
+    "date": "Thu, 16 Apr 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_ops",
+    "title": "Strengthening authentication with passkeys: A CISO playbook",
+    "link": "https://www.sophos.com/en-us/blog/strengthening-authentication-with-passkeys-a-ciso-playbook",
+    "date": "Wed, 22 Apr 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_ops",
+    "title": "Cyber Advisory: Increased Cyber Risk Amid U.S.–Israel–Iran Escalation",
+    "link": "https://www.sophos.com/en-us/blog/cyber-advisory-increased-cyber-risk-amid-u-s-israel-iran-escalation",
+    "date": "Sun, 01 Mar 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_ops",
+    "title": "The Active Adversary Report: Safety in numbers",
+    "link": "https://www.sophos.com/en-us/blog/the-active-adversary-report-safety-in-numbers",
+    "date": "Tue, 24 Feb 2026 00:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
+    "title": "Amazon SageMaker HyperPod now supports G7e and r5d.16xlarge instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-hyperpod-g7e-r5d/",
+    "date": "Mon, 27 Apr 2026 15:30:00 GMT"
+  },
+  {
+    "source": "aws_news",
+    "title": "Amazon WorkSpaces Personal Supports Rocky 9, Red Hat Enterprise Linux 9, and Ubuntu 24.04",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-workspaces-rocky9-rhel9-ubuntu24/",
+    "date": "Fri, 24 Apr 2026 22:03:00 GMT"
+  },
+  {
+    "source": "aws_news",
+    "title": "AWS Lambda Provisioned Mode for Kafka event source mappings (ESMs) now available in AWS Asia Pacific (Taipei) and AWS GovCloud (US) Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-Lambda-provisioned-esm-region-expansion/",
+    "date": "Fri, 24 Apr 2026 21:13:00 GMT"
+  }
+]
