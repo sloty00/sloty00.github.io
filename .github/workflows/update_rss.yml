@@ -1,0 +1,30 @@
+name: Update Partner Intelligence Feed
+on:
+  schedule:
+    - cron: '0 */12 * * *' # Se ejecuta cada 12 horas
+  workflow_dispatch: # Permite ejecutarlo manualmente para pruebas
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Run Fetch Script
+        run: python fetch_rss.py
+
+      - name: Commit and Push if changed
+        run: |
+          git config --global user.name "Bunker-Bot"
+          git config --global user.email "bot@jovargas.cl"
+          git add _data/soc_feed.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "SOC: Actualización de señales de Partners [Automático]" && git push)
