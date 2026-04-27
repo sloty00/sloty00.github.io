@@ -1,20 +1,13 @@
 ---
 layout: page
-title: Acceso al Sistema
+title: Acceso Administrativo
 permalink: /auth/
 ---
 
-<div id="admin-panel" style="display:none;">
-  <h2>Bienvenido, Administrador</h2>
-  <div class="stats-cards">
-    <p>Desde aquí podrás editar tus proyectos y actualizar tu CV.</p>
-  </div>
-  
-  <button onclick="logout()" class="nav-cta" style="background:#ef4444;">Cerrar Sesión</button>
-</div>
-
-<div id="login-required">
-  <p>Cargando privilegios de administrador...</p>
+<div id="auth-wrapper" style="max-width: 400px; margin: 40px auto; padding: 20px; border-radius: 15px; background: #f8fafc; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
+    <h2 style="text-align: center; color: #1e293b;">Identidad Digital</h2>
+    <div id="firebaseui-auth-container"></div>
+    <div id="loader" style="text-align: center; color: #64748b; font-size: 0.9rem;">Verificando módulos...</div>
 </div>
 
 <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-app-compat.js"></script>
@@ -23,7 +16,6 @@ permalink: /auth/
 <link type="text/css" rel="stylesheet" href="https://www.gstatic.com/firebasejs/ui/6.0.1/firebase-ui-auth.css" />
 
 <script>
-  // 2. Configuración de tu Proyecto (Copia esto desde tu consola de Firebase)
   const firebaseConfig = {
     apiKey: "TU_API_KEY",
     authDomain: "TU_PROYECTO.firebaseapp.com",
@@ -33,50 +25,39 @@ permalink: /auth/
     appId: "TU_APP_ID"
   };
 
-  // Inicializar Firebase
-  firebase.initializeApp(firebaseConfig);
+  if (!firebase.apps.length) {
+    firebase.initializeApp(firebaseConfig);
+  }
 
-  // 3. Configuración del Formulario de Login (Campos de Admin)
   const ui = new firebaseui.auth.AuthUI(firebase.auth());
 
   const uiConfig = {
     callbacks: {
-      signInSuccessWithAuthResult: function(authResult, redirectUrl) {
-        // --- FILTRO DE IDENTIDAD ADMIN ---
-        const userEmail = authResult.user.email;
-        const adminEmail = "jvoyarzun81@gmail.com"; // TU CORREO DE ADMIN
-
-        if (userEmail === adminEmail) {
-          // Si eres tú, te enviamos al Panel Admin secreto
+      signInSuccessWithAuthResult: function(authResult) {
+        const adminEmail = "jvoyarzun81@gmail.com"; 
+        if (authResult.user.email === adminEmail) {
           window.location.assign("/admin/"); 
           return false;
         } else {
-          // Si entra un extraño, lo expulsamos del sistema
-          alert("Acceso denegado: Área Administrativa Privada.");
+          alert("Acceso denegado: Usuario no autorizado.");
           firebase.auth().signOut();
           window.location.reload();
           return false;
         }
       },
       uiShown: function() {
-        // Ocultar el mensaje de carga cuando el formulario aparece
-        if(document.getElementById('loader')) {
-            document.getElementById('loader').style.display = 'none';
-        }
+        document.getElementById('loader').style.display = 'none';
       }
     },
-    // Configuración visual del formulario
     signInFlow: 'popup',
     signInOptions: [
-      // Solo Email y Password para que aparezcan los campos de texto
-      firebase.auth.EmailAuthProvider.PROVIDER_ID
+      {
+        provider: firebase.auth.EmailAuthProvider.PROVIDER_ID,
+        requireDisplayName: false
+      }
     ],
-    // Deshabilitar que extraños puedan registrarse
-    credentialHelper: firebaseui.auth.CredentialHelper.NONE,
-    tosUrl: '/',
-    privacyPolicyUrl: '/'
+    credentialHelper: firebaseui.auth.CredentialHelper.NONE
   };
 
-  // 4. Iniciar el proceso en el contenedor HTML
   ui.start('#firebaseui-auth-container', uiConfig);
 </script>
