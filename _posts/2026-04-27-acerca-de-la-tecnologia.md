@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "La Tecnología detrás del Portafolio: Arquitectura GitOps"
-date: date: 2025-04-25 10:00:00 +0000
+empresa: "José Vargas"
 period: "Abril 2026"
-empresa: "jdjsdjjd"
+works: "jdjdjdjdjd."
+date: 2026-04-26 10:00:00 +0000
 categories: blog
 tags: [jekyll, firebase, gitops, jamstack, formpree]
-author: "J. Vargas"
 ---
 
 <div class="tech-post-content" style="font-family: 'Inter', sans-serif; color: #334155; line-height: 1.6;">
