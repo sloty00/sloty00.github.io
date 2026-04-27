@@ -4,17 +4,24 @@ import os
 
 # Fuentes de Inteligencia (Partners)
 FEEDS = {
+    # --- CIBERSEGURIDAD (Defensa) ---
     "sophos_threat": "https://news.sophos.com/en-us/category/threat-research/feed/",
     "sophos_ops": "https://news.sophos.com/en-us/category/security-operations/feed/",
+    "ms_security": "https://www.microsoft.com/en-us/msrc/blog/feed",
+
+    # --- NUBE & INFRAESTRUCTURA (Soberanía) ---
+    "aws_news": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
     "ms_cloud": "https://azure.microsoft.com/en-us/updates/feed/",
     "gcp_cloud": "https://blog.google/products/google-cloud/rss/",
-    "aws_news": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
-    "ms_security": "https://www.microsoft.com/en-us/msrc/blog/feed",
-    "veeam_intel": "https://www.veeam.com/blog/feed",
+
+    # --- SISTEMAS & VIRTUALIZACIÓN (Resiliencia) ---
     "suse_news": "https://www.suse.com/c/feed/",
+    "broadcom_vmware": "https://blogs.vmware.com/feed/",
+    "veeam_intel": "https://www.veeam.com/blog/feed",
     "bradcom_tech": "https://www.broadcom.com/blog/rss",
-    "broadcom_vmware": "https://blogs.vmware.com/feed",
-    "Hackerrank": "https://www.hackerrank.com/blog/feed/"
+
+    # --- DESARROLLO & LOGICA (Construcción) ---
+    "hackerrank": "https://www.hackerrank.com/blog/feed/"
 }
 
 def fetch_signals():
