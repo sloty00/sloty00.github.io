@@ -1,6 +1,6 @@
 ---
 layout: page
-boton_acceso: "Iniciar Sesión"
+boton_login: "Ingresar"
 permalink: /desarrollo/
 ---
 
