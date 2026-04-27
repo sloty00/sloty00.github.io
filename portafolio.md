@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Experiencia
+boton_login: "Ingresar"
 permalink: /portafolio/
 ---
 
