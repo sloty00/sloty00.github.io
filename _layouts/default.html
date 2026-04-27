@@ -57,11 +57,12 @@
             gap: 8px;
             flex-wrap: wrap;
             justify-content: flex-end;
+            align-items: center; /* Alinea el botón con los links */
         }
 
         .nav-cta {
             text-decoration: none !important;
-            color: #4285F4 !important;
+            color: #475569 !important; /* Color base más neutro */
             padding: 8px 16px;
             border-radius: 6px;
             font-size: 13px;
@@ -69,16 +70,28 @@
             border: 1px solid #e2e8f0;
             background: #ffffff;
             transition: all 0.2s ease;
-            /* Evita que los botones crezcan verticalmente */
             display: inline-block;
             height: fit-content;
         }
 
         .nav-cta:hover {
-            background-color: #4285F4;
-            color: #ffffff !important;
-            border-color: #4285F4;
+            background-color: #f8fafc;
+            color: #1e293b !important;
+            border-color: #cbd5e1;
             transform: translateY(-1px);
+        }
+
+        /* --- BOTÓN DE ACCESO (FRONT MATTER DRIVEN) --- */
+        .btn-auth {
+            color: #4285F4 !important; /* Azul Google para destacar acción */
+            border-color: #4285F4 !important;
+            background: #ffffff;
+        }
+
+        .btn-auth:hover {
+            background-color: #4285F4 !important;
+            color: #ffffff !important;
+            box-shadow: 0 4px 10px rgba(66, 133, 244, 0.3);
         }
 
         /* --- RESPONSIVIDAD RE-INGENIERIZADA --- */
@@ -101,14 +114,13 @@
             }
 
             .nav-cta {
-                /* En móvil ocupan su propio ancho, no el 100% */
                 flex: 0 1 auto; 
                 padding: 6px 12px;
                 font-size: 12px;
             }
         }
 
-        /* Estilos del footer y otros se mantienen igual... */
+        /* Estilos del footer */
         .tech-stack-footer { margin-top: 60px; padding: 50px 0; text-align: center; border-top: 1px solid #f1f5f9; background-color: #f8fafc; }
         .tech-logos { display: flex; justify-content: center; flex-wrap: wrap; gap: 30px; align-items: center; }
         .tech-item { display: flex; flex-direction: column; align-items: center; gap: 10px; filter: grayscale(100%); opacity: 0.5; transition: 0.3s; }
@@ -116,6 +128,7 @@
         .tech-item img { height: 28px; }
         .tech-item span { font-size: 10px; font-weight: 700; color: #64748b; }
         .copyright { font-size: 12px; color: #94a3b8; margin-top: 20px; }
+        .footer-divider { border: 0; border-top: 1px solid #e2e8f0; margin: 30px auto; width: 50%; }
     </style>
 </head>
 
@@ -138,6 +151,12 @@
                     <a href="{{ site.baseurl }}/portafolio" class="nav-cta">Experiencia</a>
                     <a href="{{ site.baseurl }}/desarrollo" class="nav-cta">Desarrollos</a>
                     <a href="{{ site.baseurl }}/mensaje" class="nav-cta">Mensaje</a>
+                    
+                    {% if page.boton_login %}
+                    <a href="{{ site.baseurl }}/auth" class="nav-cta btn-auth">
+                        {{ page.boton_login }}
+                    </a>
+                    {% endif %}
                 </nav>
             </header>
         </div>
@@ -148,74 +167,47 @@
     </div>
 
     <div class="wrapper-footer">
-
         <div class="container">
-
             <footer class="footer tech-stack-footer">
-
                 <p class="stack-title">Infraestructura construida con:</p>
-
                 <div class="tech-logos">
-
                     <div class="tech-item">
-
                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown">
                         <span>Markdown</span>
-
                     </div>
-
                     <div class="tech-item">
-                        
                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="JSON">
                         <span>JSON Data</span>
-                        
                     </div>
-
                     <div class="tech-item">
-
                         <img src="https://www.gstatic.com/images/branding/product/1x/googleg_48dp.png" alt="Google">
                         <span>Google</span>
-
                     </div>
-
                     <div class="tech-item">
-
                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase">
                         <span>Firebase</span>
-
                     </div>
-
                     <div class="tech-item">
-
                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Pages">
                         <span>GitHub Pages</span>
-
                     </div>
-
                     <div class="tech-item">
-
                         <img src="https://avatars.githubusercontent.com/u/14319378?s=200&v=4" alt="Formspree">
                         <span>Formspree</span>
-
                     </div>
-
                 </div>
 
                 <hr class="footer-divider">
 
                 <div class="contact">
-
                     {% include svg-icons.html %}
-
                 </div>
 
                 <p class="copyright">
-
                     &copy; {{ site.time | date: '%Y' }} {{ site.name }} | Portafolio Técnico GitOps
-
                 </p>
-
             </footer>
-
-    </body>
+        </div>
+    </div>
+</body>
 </html>
