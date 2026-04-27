@@ -3,7 +3,7 @@ layout: post
 title: "La Tecnología detrás del Portafolio: Arquitectura GitOps"
 empresa: "José Vargas"
 period: "Abril 2026"
-works: "jdjdjdjdjd."
+works: "Análisis técnico de la infraestructura GitOps detrás de este portafolio: integración de Jekyll, Firebase Auth y automatización mediante GitHub API."
 date: 2026-04-26 10:00:00 +0000
 categories: blog
 tags: [jekyll, firebase, gitops, jamstack, formpree]
