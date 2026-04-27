@@ -17,12 +17,6 @@ permalink: /auth/
   <p>Cargando privilegios de administrador...</p>
 </div>
 
-Para que esto funcione como un Panel de Administración real y profesional, necesitamos que el script haga tres cosas: inicializar Firebase, manejar el formulario de login (FirebaseUI) y gestionar la redirección hacia el área restringida.
-
-Aquí tienes el archivo completo que debes poner en tu ingresar.md. He incluido el filtro de seguridad para que solo tú (como admin) puedas pasar del login al panel.
-
-Script Completo para ingresar.md
-HTML
 <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-app-compat.js"></script>
 <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-auth-compat.js"></script>
 <script src="https://www.gstatic.com/firebasejs/ui/6.0.1/firebase-ui-auth__es.js"></script>
