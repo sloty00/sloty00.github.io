@@ -1,5 +1,6 @@
 ---
 layout: page
+boton_login: "Ingresar"
 permalink: /mensaje/
 ---
 
