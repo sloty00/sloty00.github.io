@@ -1,4 +1,6 @@
 ---
+layout: default
+boton_login: "Ingresar"
 ---
 
 <style>
