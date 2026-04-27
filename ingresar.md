@@ -16,7 +16,6 @@ permalink: /auth/
 <link type="text/css" rel="stylesheet" href="https://www.gstatic.com/firebasejs/ui/6.0.1/firebase-ui-auth.css" />
 
 <script>
-  // Tu Configuración Real de Firebase
   const firebaseConfig = {
     apiKey: "AIzaSyCUCsOlbmbjR7jBtiiXQLM272rgK-_OEnE",
     authDomain: "portafolio-gitops.firebaseapp.com",
@@ -36,34 +35,23 @@ permalink: /auth/
   const uiConfig = {
     callbacks: {
       signInSuccessWithAuthResult: function(authResult) {
-        // ACTUALIZADO: Tu nuevo correo de administrador
+        // Tu identidad de administrador actualizada
         const adminEmail = "jvargas@gitadmin.cl"; 
         
         if (authResult.user.email === adminEmail) {
           localStorage.setItem('isAdmin', 'true');
-          // Redirección con buster de caché para que no se te pegue la versión vieja
           window.location.assign("/admin/?v=" + Date.now()); 
           return false;
         } else {
-          alert("Acceso denegado: No eres el administrador de este sitio.");
+          alert("Acceso denegado.");
           firebase.auth().signOut();
-          localStorage.clear();
-          window.location.reload();
           return false;
-        }
-      },
-      uiShown: function() {
-        if(document.getElementById('loader')) {
-            document.getElementById('loader').style.display = 'none';
         }
       }
     },
     signInFlow: 'popup',
     signInOptions: [
-      {
-        provider: firebase.auth.EmailAuthProvider.PROVIDER_ID,
-        requireDisplayName: false 
-      }
+      firebase.auth.EmailAuthProvider.PROVIDER_ID // Esto habilita el campo de password
     ],
     credentialHelper: firebaseui.auth.CredentialHelper.NONE
   };
