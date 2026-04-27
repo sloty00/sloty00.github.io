@@ -13,7 +13,8 @@ FEEDS = {
     "veeam_intel": "https://www.veeam.com/blog/feed",
     "suse_news": "https://www.suse.com/c/feed/",
     "bradcom_tech": "https://www.broadcom.com/blog/rss",
-    "broadcom_vmware": "https://blogs.vmware.com/feed"
+    "broadcom_vmware": "https://blogs.vmware.com/feed",
+    "Hackerrank": "https://www.hackerrank.com/blog/feed/"
 }
 
 def fetch_signals():
