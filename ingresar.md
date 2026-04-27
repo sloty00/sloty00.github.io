@@ -16,6 +16,7 @@ permalink: /auth/
 <link type="text/css" rel="stylesheet" href="https://www.gstatic.com/firebasejs/ui/6.0.1/firebase-ui-auth.css" />
 
 <script>
+  // 1. Tu Configuración Real
   const firebaseConfig = {
     apiKey: "AIzaSyCUCsOlbmbjR7jBtiiXQLM272rgK-_OEnE",
     authDomain: "portafolio-gitops.firebaseapp.com",
@@ -26,35 +27,58 @@ permalink: /auth/
     measurementId: "G-MM833GGWMZ"
   };
 
+  // Inicializar Firebase
   if (!firebase.apps.length) {
     firebase.initializeApp(firebaseConfig);
   }
 
+  // 2. Configuración de la Interfaz de Usuario (AuthUI)
   const ui = new firebaseui.auth.AuthUI(firebase.auth());
 
   const uiConfig = {
     callbacks: {
       signInSuccessWithAuthResult: function(authResult) {
-        // Tu identidad de administrador actualizada
+        // Validación de identidad del Administrador
         const adminEmail = "jvargas@gitadmin.cl"; 
         
         if (authResult.user.email === adminEmail) {
+          // Guardamos estado para el panel
           localStorage.setItem('isAdmin', 'true');
-          window.location.assign("/admin/?v=" + Date.now()); 
+          localStorage.setItem('adminSession', Date.now());
+          
+          // Redirección con "Cache Buster" para evitar la versión antigua
+          window.location.assign("/admin/?ref=login_" + Math.random().toString(36).substring(7)); 
           return false;
         } else {
-          alert("Acceso denegado.");
+          alert("Acceso denegado: Esta cuenta no tiene privilegios de administración.");
           firebase.auth().signOut();
+          localStorage.clear();
+          window.location.reload();
           return false;
         }
+      },
+      uiShown: function() {
+        // Ocultar cargador cuando el formulario esté listo
+        document.getElementById('loader').style.display = 'none';
       }
     },
+    // Configuración para forzar LOGIN y no REGISTRO
     signInFlow: 'popup',
     signInOptions: [
-      firebase.auth.EmailAuthProvider.PROVIDER_ID // Esto habilita el campo de password
+      {
+        provider: firebase.auth.EmailAuthProvider.PROVIDER_ID,
+        // Forzamos el método de contraseña para evitar el flujo de "crear cuenta"
+        signInMethod: firebase.auth.EmailAuthProvider.EMAIL_PASSWORD_SIGN_IN_METHOD,
+        requireDisplayName: false
+      }
     ],
-    credentialHelper: firebaseui.auth.CredentialHelper.NONE
+    // Desactiva la ayuda de autocompletado que a veces interfiere con el flujo manual
+    credentialHelper: firebaseui.auth.CredentialHelper.NONE,
+    // URL de términos (opcional)
+    tosUrl: '/',
+    privacyPolicyUrl: '/'
   };
 
+  // 3. Iniciar el formulario en el contenedor
   ui.start('#firebaseui-auth-container', uiConfig);
 </script>
