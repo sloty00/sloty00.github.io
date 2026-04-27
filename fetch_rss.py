@@ -10,8 +10,10 @@ FEEDS = {
     "gcp_cloud": "https://blog.google/products/google-cloud/rss/",
     "aws_news": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
     "ms_security": "https://www.microsoft.com/en-us/msrc/blog/feed",
-    "veeam_intel": "https://www.veeam.com/blog/feed", # <-- Feed actualizado de Veeam
-    "suse_news": "https://www.suse.com/c/feed/"       # <-- Feed técnico de SUSE
+    "veeam_intel": "https://www.veeam.com/blog/feed",
+    "suse_news": "https://www.suse.com/c/feed/",
+    "bradcom_tech": "https://www.broadcom.com/blog/rss",
+    "broadcom_vmware": "https://blogs.vmware.com/feed"
 }
 
 def fetch_signals():
