@@ -36,6 +36,24 @@
     "date": "Tue, 24 Feb 2026 00:00:00 GMT"
   },
   {
+    "source": "gcp_cloud",
+    "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+    "date": "Mon, 27 Apr 2026 13:00:00 +0000"
+  },
+  {
+    "source": "gcp_cloud",
+    "title": "7 highlights from Google Cloud Next ‘26",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/google-cloud-next-26-recap/",
+    "date": "Fri, 24 Apr 2026 18:00:00 +0000"
+  },
+  {
+    "source": "gcp_cloud",
+    "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
+    "date": "Thu, 23 Apr 2026 12:00:00 +0000"
+  },
+  {
     "source": "aws_news",
     "title": "Amazon SageMaker HyperPod now supports G7e and r5d.16xlarge instances",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-hyperpod-g7e-r5d/",
