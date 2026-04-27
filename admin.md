@@ -4,11 +4,17 @@ permalink: /admin/
 ---
 
 <nav class="admin-breadcrumb" style="background: #1e293b; padding: 10px 20px; border-radius: 8px; margin-bottom: 25px; display: flex; align-items: center; justify-content: flex-end; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);">
-  <div style="color: #e2e8f0; font-family: 'Inter', sans-serif; font-size: 0.9rem; letter-spacing: 0.5px;">
-    <span style="color: #94a3b8;">Admin Portal</span> 
-    <span style="margin: 0 10px; color: #475569;">/</span> 
-    <span style="color: #3b82f6; font-weight: 600;">Bienvenido:</span> 
-    <span id="user-display" style="color: #60a5fa; font-weight: 700;">($usuario)</span>
+  <div style="color: #e2e8f0; font-family: 'Inter', sans-serif; font-size: 0.9rem; letter-spacing: 0.5px; display: flex; align-items: center; gap: 15px;">
+    <div>
+      <span style="color: #94a3b8;">Admin Portal</span> 
+      <span style="margin: 0 10px; color: #475569;">/</span> 
+      <span style="color: #3b82f6; font-weight: 600;">Bienvenido:</span> 
+      <span id="user-display" style="color: #60a5fa; font-weight: 700;">Cargando...</span>
+    </div>
+    
+    <button onclick="logout()" style="background: rgba(239, 68, 68, 0.1); border: 1px solid #ef4444; color: #f87171; padding: 4px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: 600; cursor: pointer; transition: all 0.2s ease; display: flex; align-items: center; gap: 4px;" onmouseover="this.style.background='#ef4444'; this.style.color='white';" onmouseout="this.style.background='rgba(239, 68, 68, 0.1)'; this.style.color='#f87171';">
+      <span>✕</span> Salir
+    </button>
   </div>
 </nav>
 
@@ -58,34 +64,35 @@ permalink: /admin/
   }
 
   // Protector de Ruta robusto
-  firebase.auth().onAuthStateChanged((user) => {
+firebase.auth().onAuthStateChanged((user) => {
     const adminEmail = "jvargas@gitadmin.cl";
+    const userDisplay = document.getElementById('user-display');
 
     if (user) {
-      console.log("Usuario detectado:", user.email);
-      
       if (user.email === adminEmail) {
-        // TODO OK: Mostramos el panel
-        document.getElementById('user-email').innerText = user.email;
-        document.getElementById('admin-content').style.display = 'block';
-        document.getElementById('access-denied').style.display = 'none';
+        // INYECCIÓN DINÁMICA: Ponemos el email del admin en el breadcrumb
+        userDisplay.innerText = user.email;
+        
+        // Mostramos el contenido (asegúrate de que estos IDs existan en tu HTML)
+        if(document.getElementById('admin-content')) document.getElementById('admin-content').style.display = 'block';
+        if(document.getElementById('access-denied')) document.getElementById('access-denied').style.display = 'none';
       } else {
-        // Usuario logueado pero NO es el admin
         console.warn("Acceso no autorizado para:", user.email);
-        document.getElementById('status-msg').innerText = "No autorizado. Redirigiendo...";
+        userDisplay.innerText = "No autorizado";
         setTimeout(() => { window.location.assign("/auth/"); }, 2000);
       }
     } else {
-      // No hay sesión activa
-      console.log("No hay sesión. Redirigiendo al login...");
       window.location.assign("/auth/");
     }
   });
 
+  // Función de salida funcional
   function logout() {
     firebase.auth().signOut().then(() => {
       localStorage.clear();
       window.location.assign("/");
+    }).catch((error) => {
+      console.error("Error al cerrar sesión:", error);
     });
   }
 </script>
