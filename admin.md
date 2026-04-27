@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Panel de Control GitOps
 permalink: /admin/
 ---
 
