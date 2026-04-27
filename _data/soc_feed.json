@@ -106,5 +106,23 @@
     "title": "SUSECON 2026: A Look at Day Three",
     "link": "https://www.suse.com/c/susecon-2026-a-look-at-day-three/",
     "date": "Thu, 23 Apr 2026 00:30:54 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "May 21, 2026: What’s New in VMware Tanzu Data Intelligence 10.4",
+    "link": "https://blogs.vmware.com/tanzu/may-21-2026-whats-new-in-vmware-tanzu-data-intelligence-10-4/",
+    "date": "Mon, 27 Apr 2026 16:46:25 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "From Infrastructure to Agents: A Hands-On Guide to Secure Private AI with Broadcom – Part 1",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/04/27/guide-to-secure-private-ai-with-broadcom-part-1/",
+    "date": "Mon, 27 Apr 2026 12:32:53 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "Stop Guessing: Advanced Monitoring and Troubleshooting for Data Services",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/04/24/stop-guessing-advanced-monitoring-and-troubleshooting-for-data-services/",
+    "date": "Fri, 24 Apr 2026 20:03:33 +0000"
   }
 ]
