@@ -10,7 +10,7 @@ author: "J. Vargas"
 <div class="tech-post-content" style="font-family: 'Inter', sans-serif; color: #334155; line-height: 1.6;">
 
   <p style="font-size: 1.1rem; color: #475569; margin-bottom: 30px;">
-    Este sitio no es solo una vitrina de proyectos; es una implementación real de <strong>Arquitectura Jamstack</strong> diseñada para la eficiencia, seguridad y escalabilidad.
+    Este sitio no es solo una vitrina de proyectos; es una implementación real de <strong>Arquitectura Jamstack</strong> diseñada para la eficiencia, seguridad y escalabilidad, integrando servicios modernos para una gestión de datos fluida.
   </p>
 
   <h3 style="color: #1e293b; border-bottom: 2px solid #3b82f6; padding-bottom: 5px; display: inline-block;">El Stack Tecnológico</h3>
@@ -28,6 +28,11 @@ author: "J. Vargas"
     </div>
 
     <div style="background: #ffffff; padding: 20px; border-radius: 8px; border: 1px solid #e2e8f0; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+      <strong style="color: #3b82f6; display: block; margin-bottom: 8px;">📩 Formspree + Google</strong>
+      Gestión dinámica de mensajes que utiliza el login de Google para autenticar remitentes, capturando automáticamente identidad y metadatos de contacto.
+    </div>
+
+    <div style="background: #ffffff; padding: 20px; border-radius: 8px; border: 1px solid #e2e8f0; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
       <strong style="color: #3b82f6; display: block; margin-bottom: 8px;">🛠️ GitHub API</strong>
       Integración bidireccional que permite al Panel Admin realizar <em>commits</em> automáticos, manteniendo el repositorio como la única fuente de verdad.
     </div>
@@ -36,16 +41,16 @@ author: "J. Vargas"
 
   <h3 style="color: #1e293b;">Filosofía GitOps</h3>
   <p>
-    La metodología aplicada aquí sigue los principios de <strong>GitOps</strong>: cualquier cambio en el contenido (experiencias, proyectos o blog) requiere una transacción en el repositorio de Git. Esto asegura un historial completo de cambios y permite <em>rollbacks</em> inmediatos ante cualquier incidencia.
+    La metodología aplicada aquí sigue los principios de <strong>GitOps</strong>: cualquier cambio en el contenido requiere una transacción en el repositorio. Además, el flujo de contacto está optimizado para la experiencia del usuario, vinculando el envío de formularios con proveedores de identidad (IdP).
   </p>
 
   <div style="background: #1e293b; color: #e2e8f0; padding: 25px; border-radius: 12px; margin: 30px 0;">
-    <h4 style="color: #ffffff; margin-top: 0;">Pipeline de Despliegue</h4>
+    <h4 style="color: #ffffff; margin-top: 0;">Flujos de Interacción</h4>
     <ul style="list-style: none; padding-left: 0;">
-      <li style="margin-bottom: 10px;">✅ <strong>Auth:</strong> Validación de usuario administrador.</li>
-      <li style="margin-bottom: 10px;">📝 <strong>Edit:</strong> Modificación de datos estructurados (JSON).</li>
-      <li style="margin-bottom: 10px;">💾 <strong>Push:</strong> Envío de cambios vía API de GitHub.</li>
-      <li style="margin-bottom: 0;">🏗️ <strong>Deploy:</strong> Reconstrucción automática en GitHub Pages.</li>
+      <li style="margin-bottom: 10px;">✅ <strong>Contacto:</strong> Autenticación Google via Formspree para validación de remitente.</li>
+      <li style="margin-bottom: 10px;">📝 <strong>Admin:</strong> Edición de datos estructurados (JSON) bajo sesión de administrador.</li>
+      <li style="margin-bottom: 10px;">💾 <strong>Persistencia:</strong> Push automático al repositorio vía API.</li>
+      <li style="margin-bottom: 0;">🏗️ <strong>Despliegue:</strong> CI/CD automático mediante GitHub Actions.</li>
     </ul>
   </div>
 
