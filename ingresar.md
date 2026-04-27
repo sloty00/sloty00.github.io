@@ -52,3 +52,52 @@ permalink: /auth/
     font-weight: 600;
   }
 </style>
+
+<script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-auth-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/ui/6.0.1/firebase-ui-auth__es.js"></script>
+<link type="text/css" rel="stylesheet" href="https://www.gstatic.com/firebasejs/ui/6.0.1/firebase-ui-auth.css" />
+
+<script>
+  // Tu configuración de Firebase (La que obtuviste en la consola de Firebase)
+  const firebaseConfig = {
+    apiKey: "TU_API_KEY",
+    authDomain: "TU_PROYECTO.firebaseapp.com",
+    projectId: "TU_PROYECTO_ID",
+    storageBucket: "TU_PROYECTO.appspot.com",
+    messagingSenderId: "TU_SENDER_ID",
+    appId: "TU_APP_ID"
+  };
+
+  // Inicializar Firebase
+  firebase.initializeApp(firebaseConfig);
+
+  // Configurar FirebaseUI
+  const ui = new firebaseui.auth.AuthUI(firebase.auth());
+
+  const uiConfig = {
+    callbacks: {
+      signInSuccessWithAuthResult: function(authResult, redirectUrl) {
+        // Redirigir al index tras loguearse con éxito
+        window.location.assign("/");
+        return false;
+      },
+      uiShown: function() {
+        // Ocultar el cargador cuando el formulario esté listo
+        document.getElementById('loader').style.display = 'none';
+      }
+    },
+    signInFlow: 'popup',
+    signInOptions: [
+      // Aquí defines qué métodos quieres (Email o Google)
+      firebase.auth.EmailAuthProvider.PROVIDER_ID,
+      firebase.auth.GoogleAuthProvider.PROVIDER_ID
+    ],
+    // Términos de servicio y política de privacidad (opcional)
+    tosUrl: '/mensaje',
+    privacyPolicyUrl: '/mensaje'
+  };
+
+  // El método que finalmente "pinta" el formulario en el div que creamos
+  ui.start('#firebaseui-auth-container', uiConfig);
+</script>
