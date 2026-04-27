@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "La Tecnología detrás del Portafolio: Arquitectura GitOps"
-date: 2026-04-27 10:00:00 -0400
+date: 2026-04-26 10:00:00 -0400
 categories: [tecnologia, devlog]
 tags: [jekyll, firebase, gitops, jamstack]
 author: "J. Vargas"
