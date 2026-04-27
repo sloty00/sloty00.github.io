@@ -16,14 +16,15 @@ permalink: /auth/
 <link type="text/css" rel="stylesheet" href="https://www.gstatic.com/firebasejs/ui/6.0.1/firebase-ui-auth.css" />
 
 <script>
-  // Tu Configuración (Asegúrate de poner tus datos reales aquí)
+  // Tu Configuración Real de Firebase
   const firebaseConfig = {
-    apiKey: "TU_API_KEY",
-    authDomain: "TU_PROYECTO.firebaseapp.com",
-    projectId: "TU_PROYECTO_ID",
-    storageBucket: "TU_PROYECTO.appspot.com",
-    messagingSenderId: "TU_SENDER_ID",
-    appId: "TU_APP_ID"
+    apiKey: "AIzaSyCUCsOlbmbjR7jBtiiXQLM272rgK-_OEnE",
+    authDomain: "portafolio-gitops.firebaseapp.com",
+    projectId: "portafolio-gitops",
+    storageBucket: "portafolio-gitops.firebasestorage.app",
+    messagingSenderId: "507083005521",
+    appId: "1:507083005521:web:a47213f0f9642f7216e270",
+    measurementId: "G-MM833GGWMZ"
   };
 
   if (!firebase.apps.length) {
@@ -35,24 +36,18 @@ permalink: /auth/
   const uiConfig = {
     callbacks: {
       signInSuccessWithAuthResult: function(authResult) {
-        const adminEmail = "jvoyarzun81@gmail.com"; 
+        // ACTUALIZADO: Tu nuevo correo de administrador
+        const adminEmail = "jvargas@gitadmin.cl"; 
         
         if (authResult.user.email === adminEmail) {
-          // --- LÓGICA DE PREPARACIÓN DE TOKENS ---
-          
-          // 1. Marcamos la sesión como activa para el Panel Admin
           localStorage.setItem('isAdmin', 'true');
-          
-          // 2. Guardamos el timestamp para manejar el refresco de sesión
-          localStorage.setItem('loginTimestamp', Date.now());
-
-          // 3. Redirección forzada al panel (usamos un comodín para saltar el caché del admin)
-          window.location.assign("/admin/?session=" + Math.random().toString(36).substring(7)); 
+          // Redirección con buster de caché para que no se te pegue la versión vieja
+          window.location.assign("/admin/?v=" + Date.now()); 
           return false;
         } else {
-          alert("Acceso denegado: No tienes permisos de edición.");
+          alert("Acceso denegado: No eres el administrador de este sitio.");
           firebase.auth().signOut();
-          localStorage.clear(); // Limpiamos rastro si alguien intenta hackear
+          localStorage.clear();
           window.location.reload();
           return false;
         }
@@ -67,16 +62,10 @@ permalink: /auth/
     signInOptions: [
       {
         provider: firebase.auth.EmailAuthProvider.PROVIDER_ID,
-        requireDisplayName: false // Solo pedimos Email y Password para ir directo al grano
+        requireDisplayName: false 
       }
     ],
-    credentialHelper: firebaseui.auth.CredentialHelper.NONE,
-    // Forzamos a que si ya hay una sesión "rara", Firebase nos pida login de nuevo
-    callbacks: {
-      uiShown: function() {
-        document.getElementById('loader').style.display = 'none';
-      }
-    }
+    credentialHelper: firebaseui.auth.CredentialHelper.NONE
   };
 
   ui.start('#firebaseui-auth-container', uiConfig);
