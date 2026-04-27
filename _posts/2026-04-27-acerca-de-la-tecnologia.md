@@ -2,7 +2,7 @@
 layout: post
 title: "La Tecnología detrás del Portafolio: Arquitectura GitOps"
 date: date: 2025-04-25 10:00:00 +0000
-Descripción: hola hola
+Description: hola hola
 categories: blog
 tags: [jekyll, firebase, gitops, jamstack, formspree]
 author: "J. Vargas"
