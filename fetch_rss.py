@@ -6,10 +6,10 @@ import os
 FEEDS = {
     "sophos_threat": "https://news.sophos.com/en-us/category/threat-research/feed/",
     "sophos_ops": "https://news.sophos.com/en-us/category/security-operations/feed/",
-    "ms_cloud": "https://azure.microsoft.com/en-us/updates/feed/",        # <--- Microsoft Cloud
-    "gcp_cloud": "https://blog.google/products/google-cloud/rss/",      # <--- Google Cloud
-    "aws_news": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",# <--- AWS
-    "ms_security": "https://www.microsoft.com/en-us/msrc/blog/feed"      # <--- MS Security
+    "ms_cloud": "https://azure.microsoft.com/en-us/updates/feed/",
+    "gcp_cloud": "https://blog.google/products/google-cloud/rss/",
+    "aws_news": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+    "ms_security": "https://www.microsoft.com/en-us/msrc/blog/feed"
 }
 
 def fetch_signals():
