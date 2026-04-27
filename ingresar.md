@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Acceso Administrativo
 permalink: /auth/
 ---
 
