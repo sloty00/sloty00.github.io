@@ -66,18 +66,12 @@ permalink: /admin/
 <div id="item-modal" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.7); z-index: 1000; align-items: center; justify-content: center; backdrop-filter: blur(4px);">
   <div style="background: white; padding: 30px; border-radius: 12px; width: 90%; max-width: 550px; max-height: 85vh; overflow-y: auto; box-shadow: 0 25px 50px -12px rgba(0,0,0,0.25);">
     <h3 id="modal-title" style="margin-top: 0; margin-bottom: 20px; border-left: 4px solid #3b82f6; padding-left: 15px; color: #1e293b;">Nuevo Registro</h3>
-    <div id="modal-fields" style="display: flex; flex-direction: column; gap: 15px;">
-      </div>
+    <div id="modal-fields" style="display: flex; flex-direction: column; gap: 15px;"></div>
     <div style="margin-top: 30px; display: flex; justify-content: flex-end; gap: 12px; border-top: 1px solid #e2e8f0; padding-top: 20px;">
       <button onclick="closeModal()" style="padding: 10px 20px; border-radius: 6px; border: 1px solid #cbd5e1; background: #f8fafc; color: #64748b; font-weight: 600; cursor: pointer;">Cancelar</button>
       <button onclick="saveNewRecord()" style="padding: 10px 25px; border-radius: 6px; border: none; background: #2563eb; color: white; font-weight: 700; cursor: pointer; box-shadow: 0 4px 6px -1px rgba(37, 99, 235, 0.2);">GUARDAR EN BÚNKER</button>
     </div>
   </div>
-</div>
-
-<div id="access-denied" style="display: none; text-align: center; padding: 100px 20px; font-family: 'Inter', sans-serif;">
-  <h2 style="color: #ef4444;">Acceso Denegado</h2>
-  <p id="status-msg">No tiene permisos para acceder a esta consola.</p>
 </div>
 
 <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-app-compat.js"></script>
@@ -97,34 +91,32 @@ permalink: /admin/
     firebase.initializeApp(firebaseConfig);
   }
 
-  // --- CONFIGURACIÓN DE MÓDULOS ---
   let currentData = [];
   let currentPage = 1;
   const rowsPerPage = 10;
 
   const modules = {
     desarrollo: { 
-        url: '/desarrollo.json', 
+        url: 'desarrollo.json', 
         cols: ['nombre', 'tipo', 'status'],
         labels: ['Proyecto', 'Tecnología', 'Estado'],
         fields: ['nombre', 'tipo', 'stack', 'descripcion', 'url_repo', 'status', 'icon']
     },
     estudios: { 
-        url: '/estudios.json', 
+        url: 'estudios.json', 
         isNested: 'certificaciones', 
         cols: ['titulo', 'emisor', 'badge'],
         labels: ['Certificación', 'Emisor', 'Insignia'],
         fields: ['titulo', 'emisor', 'badge', 'categoria', 'marca', 'skills', 'roles', 'puntos_clave']
     },
     experiencia: { 
-        url: '/experiencia.json', 
+        url: 'experiencia.json', 
         cols: ['title', 'company', 'period'],
         labels: ['Cargo', 'Empresa', 'Periodo'],
         fields: ['title', 'period', 'company', 'categories', 'details']
     }
   };
 
-  // --- LOGICA DE TABLA ---
   async function switchModule(moduleKey) {
     const tableBody = document.getElementById('table-body');
     const tableHead = document.getElementById('table-head');
@@ -132,6 +124,7 @@ permalink: /admin/
 
     try {
       const module = modules[moduleKey];
+      // Fetch desde la raíz
       const response = await fetch(module.url + '?t=' + Date.now());
       const data = await response.json();
       
@@ -159,12 +152,10 @@ permalink: /admin/
     const paginatedItems = currentData.slice(start, start + rowsPerPage);
 
     paginatedItems.forEach((item, index) => {
-      const actualIndex = start + index;
       const row = document.createElement('tr');
       row.style.borderBottom = "1px solid #f1f5f9";
-      
       let cells = cols.map(col => `<td style="padding: 15px 20px; color: #1e293b; font-size: 0.9rem;">${item[col] || 'N/A'}</td>`).join('');
-      row.innerHTML = `${cells}<td style="padding: 15px 20px; text-align: center;"><button onclick="editItem(${actualIndex})" style="background: #f59e0b; color: white; border: none; padding: 6px 12px; border-radius: 4px; cursor: pointer; margin-right: 5px;">Edit</button><button onclick="deleteItem(${actualIndex})" style="background: #ef4444; color: white; border: none; padding: 6px 12px; border-radius: 4px; cursor: pointer;">Del</button></td>`;
+      row.innerHTML = `${cells}<td style="padding: 15px 20px; text-align: center;"><button style="background: #f59e0b; color: white; border: none; padding: 6px 12px; border-radius: 4px; cursor: pointer;">Edit</button></td>`;
       tableBody.appendChild(row);
     });
     renderPagination();
@@ -178,28 +169,23 @@ permalink: /admin/
     for (let i = 1; i <= totalPages; i++) {
       const btn = document.createElement('button');
       btn.innerText = i;
-      btn.onclick = () => { currentPage = i; renderTable(modules[document.getElementById('json-selector').value].cols); };
+      btn.onclick = () => { 
+        currentPage = i; 
+        renderTable(modules[document.getElementById('json-selector').value].cols); 
+      };
       btn.style.cssText = `padding: 6px 12px; border-radius: 4px; border: 1px solid #cbd5e1; margin: 0 4px; cursor: pointer; background: ${i===currentPage?'#3b82f6':'white'}; color: ${i===currentPage?'white':'#1e293b'}`;
       nav.appendChild(btn);
     }
   }
 
-  // --- LOGICA DEL MODAL ---
   function openNewModal() {
     const moduleKey = document.getElementById('json-selector').value;
     if (!moduleKey) return alert("Por favor, selecciona un módulo primero.");
-
     const container = document.getElementById('modal-fields');
     container.innerHTML = '';
     document.getElementById('modal-title').innerText = `Nuevo Registro: ${moduleKey.toUpperCase()}`;
-
     modules[moduleKey].fields.forEach(field => {
-      container.innerHTML += `
-        <div>
-          <label style="display:block; font-size:0.75rem; font-weight:700; color:#64748b; text-transform:uppercase; margin-bottom:4px;">${field.replace('_', ' ')}</label>
-          <input type="text" id="field-${field}" placeholder="Ingrese ${field}..." style="width:100%; padding:10px; border:1px solid #cbd5e1; border-radius:6px; outline:none; font-family:'Inter', sans-serif;">
-        </div>
-      `;
+      container.innerHTML += `<div><label style="display:block; font-size:0.75rem; font-weight:700; color:#64748b; text-transform:uppercase; margin-bottom:4px;">${field.replace('_', ' ')}</label><input type="text" id="field-${field}" style="width:100%; padding:10px; border:1px solid #cbd5e1; border-radius:6px; outline:none;"></div>`;
     });
     document.getElementById('item-modal').style.display = 'flex';
   }
@@ -210,26 +196,30 @@ permalink: /admin/
     const moduleKey = document.getElementById('json-selector').value;
     const fields = modules[moduleKey].fields;
     const newData = {};
-
     fields.forEach(f => {
       const val = document.getElementById(`field-${f}`).value;
-      // Convertir a array si el campo lo requiere
       if (['stack', 'skills', 'roles', 'puntos_clave', 'categories', 'details'].includes(f)) {
         newData[f] = val ? val.split(',').map(s => s.trim()) : [];
       } else {
         newData[f] = val;
       }
     });
-
     await syncToGitHub('add', newData);
     closeModal();
   }
 
-  // --- GITOPS: SYNC CON GITHUB ---
+  // --- GITOPS: SYNC CON GITHUB (VERSION SEGURA) ---
   async function syncToGitHub(action, payloadData) {
-    const GITHUB_USER = "TU_USUARIO"; // CAMBIAR ESTO
-    const REPO = "TU_REPO";         // CAMBIAR ESTO
-    const TOKEN = "TU_TOKEN_PAT";   // CAMBIAR ESTO
+    const GITHUB_USER = "sloty00"; 
+    const REPO = "sloty00.github.io"; 
+    
+    // Recuperar o solicitar Token
+    let TOKEN = localStorage.getItem('GH_BUNKER_TOKEN');
+    if (!TOKEN) {
+        TOKEN = prompt("🔑 Ingresa tu GitHub Personal Access Token (se guardará localmente):");
+        if (TOKEN) localStorage.setItem('GH_BUNKER_TOKEN', TOKEN);
+        else return alert("Token requerido.");
+    }
 
     const moduleKey = document.getElementById('json-selector').value;
     const moduleConfig = modules[moduleKey];
@@ -249,19 +239,25 @@ permalink: /admin/
         method: 'POST',
         headers: {
           'Authorization': `Bearer ${TOKEN}`,
-          'Accept': 'application/vnd.github.v3+json'
+          'Accept': 'application/vnd.github.v3+json',
+          'Content-Type': 'application/json'
         },
         body: JSON.stringify(body)
       });
 
-      if (res.ok) alert("🚀 Sincronización iniciada. El búnker se actualizará en 1-2 minutos.");
-      else alert("❌ Error de conexión con GitHub.");
+      if (res.ok) {
+          alert("🚀 Sincronización iniciada. Revisa la pestaña Actions.");
+      } else if (res.status === 401) {
+          alert("❌ Token inválido. Eliminado de la memoria.");
+          localStorage.removeItem('GH_BUNKER_TOKEN');
+      } else {
+          alert("❌ Error: " + res.status);
+      }
     } catch (e) {
-      alert("❌ Fallo crítico en el despacho.");
+      alert("❌ Error de red.");
     }
   }
 
-  // --- SEGURIDAD ---
   firebase.auth().onAuthStateChanged((user) => {
     const adminEmail = "jvargas@gitadmin.cl";
     if (user && user.email === adminEmail) {
@@ -273,6 +269,4 @@ permalink: /admin/
   });
 
   function logout() { firebase.auth().signOut().then(() => window.location.assign("/")); }
-  function editItem(index) { alert("Edición próximamente disponible para index: " + index); }
-  function deleteItem(index) { if(confirm("¿Eliminar registro?")) alert("Eliminando..."); }
 </script>
