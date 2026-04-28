@@ -104,3 +104,5 @@ permalink: /profile/
 
 @keyframes zoomIn { from { transform: scale(0.8); opacity: 0; } to { transform: scale(1); opacity: 1; } }
 </style>
+
+<script src="/assets/js/profile-engine.js"></script>
