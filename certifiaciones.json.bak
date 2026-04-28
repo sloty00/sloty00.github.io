@@ -1,0 +1,234 @@
+[
+  {
+    "id": "cert-ms-az400",
+    "titulo": "AZ-400 DevOps Solutions",
+    "institucion": "Microsoft Learn",
+    "imagen": "/images/diplomas/Microsoft_Learn_AZ400_Desarrollo_Para_Enterprise_Devops.png",
+    "tipo": "Expert",
+    "icon": "fas fa-infinity"
+  },
+  {
+    "id": "cert-aws-s3",
+    "titulo": "AWS Storage Gateway Deep Dive: Amazon S3 File Gateway",
+    "institucion": "Amazon",
+    "imagen": "/images/diplomas/AWS_Storage_Gateway_Deep_Dive.png",
+    "tipo": "Storage",
+    "icon": "fas fa-infinity"
+  },
+  {
+    "id": "cert-google-s3",
+    "titulo": "Data Management",
+    "institucion": "Google Cloud",
+    "imagen": "/images/diplomas/Cloud_Storage_Data_Protection_Solutions.png",
+    "tipo": "Storage",
+    "icon": "fas fa-infinity"
+  },
+  {
+    "id": "cert-cisco01",
+    "titulo": "C++ Advanced Professional",
+    "institucion": "Cisco / C++ Institute",
+    "imagen": "/images/diplomas/Cisco_C++_(Advanced).png",
+    "tipo": "Developer",
+    "icon": "fas fa-code"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "Hacker Ético Profesional",
+    "institucion": "UTP / Cisco",
+    "imagen": "/images/diplomas/Cisco_Hacker_Etico.png",
+    "tipo": "Security",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "Cisco Network Technician Career Path",
+    "institucion": "Cisco",
+    "imagen": "/images/diplomas/Cisco_Network_Technician_Career_Path.png",
+    "tipo": "Networking",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "Linux I",
+    "institucion": "Cisco",
+    "imagen": "/images/diplomas/Cisco_Linux_I.png",
+    "tipo": "System",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "Linux II",
+    "institucion": "Cisco",
+    "imagen": "/images/diplomas/Cisco_Linux_II.png",
+    "tipo": "System",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "Veeam VMCE 11",
+    "institucion": "Veeam Partner",
+    "imagen": "/images/diplomas/Veeam_VMCE_11.png",
+    "tipo": "Backup System",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "Veeam VMCE 12",
+    "institucion": "Veeam Partner",
+    "imagen": "/images/diplomas/Veeam_VMCE_12_Service_Provider.png",
+    "tipo": "Backup System",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "VMWare Data Center Core",
+    "institucion": "Broadcom",
+    "imagen": "/images/diplomas/VMWare_Datacenter_Virtualization.png",
+    "tipo": "Cloud System",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "VMWare Virtual Cloud Network",
+    "institucion": "VMWare",
+    "imagen": "/images/diplomas/VMWare_Virtual_Cloud_Network.png",
+    "tipo": "Cloud System",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "VMWare Kubernetes Fundamentals (Tanzu) ",
+    "institucion": "VMWare",
+    "imagen": "/images/diplomas/VMWare_Kubernetes_Fundamentals_(Tanzu).png",
+    "tipo": "Cloud System",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "Suse Partner Support Accreditation SLES",
+    "institucion": "SUSE Partner",
+    "imagen": "/images/diplomas/Suse_Partner_Support_Accreditation_SLES.png",
+    "tipo": "System",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "Suse Partner Support Accreditation Rancher",
+    "institucion": "SUSE Partner",
+    "imagen": "/images/diplomas/Suse_Partner_Support_Accreditation_Rancher.png",
+    "tipo": "System",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "SUSE Foundations",
+    "institucion": "SUSE Partner",
+    "imagen": "/images/diplomas/SUSE_Foundations.png",
+    "tipo": "System",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "Sophos Firewall v22 Certified Architect(AT80)",
+    "institucion": "SOPHOS Partner",
+    "imagen": "/images/diplomas/Sophos_FW_v22_Certified_Architect(AT80).png",
+    "tipo": "Firewall",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "Sophos Endpoint Certified Architect v6.0(AT15)",
+    "institucion": "SOPHOS Partner",
+    "imagen": "/images/diplomas/Sophos_Endpoint_Certified_Architect_v60(AT15).png",
+    "tipo": "Firewall",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "Sophos Firewall Certified Engineer v22(ET80)",
+    "institucion": "SOPHOS Partner",
+    "imagen": "/images/diplomas/Sophos_FW_Certified_Engineer_v22(ET80).png",
+    "tipo": "Firewall",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "Sophos Endpoint Certified Engineer v22(ET15)",
+    "institucion": "SOPHOS Partner",
+    "imagen": "/images/diplomas/Sophos_Endpoint_Certified_Engineer_v60(ET15).png",
+    "tipo": "Firewall",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "HackerRank Software Engineer",
+    "institucion": "Hackerrank Developer",
+    "imagen": "/images/diplomas/HR_Software_Engineer.png",
+    "tipo": "Developer",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "HackerRank Software Engineer Intern",
+    "institucion": "Hackerrank Developer",
+    "imagen": "/images/diplomas/HR_Software_Engineer_Intern.png",
+    "tipo": "Developer",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "HackerRank Frontend Developer (React)",
+    "institucion": "Hackerrank Developer",
+    "imagen": "/images/diplomas/HR_Frontend_Developer_(React).png",
+    "tipo": "Developer",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "HackerRank Certificate SQL (Advanced)",
+    "institucion": "Hackerrank Developer",
+    "imagen": "/images/diplomas/HR_Certificate_SQL_(Advanced).jpg",
+    "tipo": "Database",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "Udemy Autocad 2023 MasterClass",
+    "institucion": "Udemy",
+    "imagen": "/images/diplomas/Udemy_Autocad_2023_MasterClass.png",
+    "tipo": "Arquitect Plataform",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "Udemy Node de 0 a experto",
+    "institucion": "Udemy",
+    "imagen": "/images/diplomas/Udemy_Node_0_a_experto.png",
+    "tipo": "Developer",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "Udemy Curso de Productividad VSC/ST/Vim",
+    "institucion": "Udemy",
+    "imagen": "/images/diplomas/Udemy_Curso_de_Productividad_VSC_ST_Vim.png",
+    "tipo": "Developer",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "Udemy Kubernetes for developers",
+    "institucion": "Udemy",
+    "imagen": "/images/diplomas/Udemy_Kubernetes_for_developers.png",
+    "tipo": "Cloud",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "Udemy Monitorizacion Nagios Core Certificacion",
+    "institucion": "Udemy",
+    "imagen": "/images/diplomas/Udemy_Monitorizacion_nagios_core_certificacion.png",
+    "tipo": "Cloud",
+    "icon": "fas fa-user-shield"
+  }
+]
