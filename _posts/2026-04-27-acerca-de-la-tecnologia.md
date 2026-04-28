@@ -28,6 +28,13 @@ tags: [jekyll, markdown, firebase, gitops, jamstack, Json data, formpree]
 
     <div style="background: #f8fafc; padding: 25px; border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);">
       <strong style="color: #2563eb; display: flex; align-items: center; gap: 8px; margin-bottom: 12px;">
+        <span>🛡️</span> Zero-Exposure Token Policy
+      </strong>
+      Implementación de seguridad <strong>Client-Side</strong> mediante <code>localStorage</code>. Los tokens de acceso (PAT) nunca residen en el código fuente ni en el repositorio, eliminando el riesgo de revocación automática por escaneo de secretos.
+    </div>
+
+    <div style="background: #f8fafc; padding: 25px; border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);">
+      <strong style="color: #2563eb; display: flex; align-items: center; gap: 8px; margin-bottom: 12px;">
         <span>📩</span> Ingesta de Leads (Firebase/Formspree)
       </strong>
       Sistema de mensajería asíncrono. Los datos de contacto se canalizan mediante servicios <em>Headless</em>, integrando Formspree con validaciones de Firebase para una recepción de información técnica segura y escalable.
@@ -37,7 +44,7 @@ tags: [jekyll, markdown, firebase, gitops, jamstack, Json data, formpree]
       <strong style="color: #2563eb; display: flex; align-items: center; gap: 8px; margin-bottom: 12px;">
         <span>🏗️</span> Persistencia GitOps (GitHub API)
       </strong>
-      El panel de administración desacoplado se comunica mediante la API de GitHub. Cada edición inyecta datos directamente en el repositorio, manteniendo el historial de versiones atómico y transparente.
+      El panel de administración desacoplado se comunica mediante la API de GitHub (<code>repository_dispatch</code>). Cada edición inyecta datos directamente en el repositorio, manteniendo el historial de versiones atómico y transparente.
     </div>
 
   </div>
@@ -48,26 +55,26 @@ tags: [jekyll, markdown, firebase, gitops, jamstack, Json data, formpree]
   </p>
 
   <div style="background: #0f172a; color: #f8fafc; padding: 30px; border-radius: 16px; margin: 35px 0;">
-    <h4 style="color: #3b82f6; margin-top: 0; font-size: 1.2rem;">Pipeline de Datos RSS & Python</h4>
+    <h4 style="color: #3b82f6; margin-top: 0; font-size: 1.2rem;">Pipeline de Datos & Orquestación Python</h4>
     <ul style="list-style: none; padding-left: 0;">
       <li style="margin-bottom: 15px; display: flex; align-items: flex-start; gap: 10px;">
         <span style="color: #3b82f6;">●</span> 
-        <span><strong>Vigilancia:</strong> Un script automatizado en Python patrulla diariamente los feeds RSS de partners clave (AWS, Azure, Google, Sophos).</span>
+        <span><strong>Validación:</strong> Lógica en Python que sanitiza y valida la integridad de los JSON antes de cada commit, garantizando que los nuevos registros no corrompan la estructura existente.</span>
       </li>
       <li style="margin-bottom: 15px; display: flex; align-items: flex-start; gap: 10px;">
         <span style="color: #3b82f6;">●</span> 
-        <span><strong>Procesamiento:</strong> Los datos se normalizan en archivos <code>.json</code> dentro de la carpeta <code>_data</code>, permitiendo que Jekyll renderice la inteligencia de forma inmediata.</span>
+        <span><strong>Procesamiento:</strong> Los datos se normalizan de forma asíncrona, permitiendo que el motor estático (Jekyll/React) renderice la inteligencia de forma inmediata en el borde (Edge).</span>
       </li>
       <li style="margin-bottom: 15px; display: flex; align-items: flex-start; gap: 10px;">
         <span style="color: #3b82f6;">●</span> 
-        <span><strong>Automatización:</strong> GitHub Actions orquesta el flujo completo (Cron Job -> Python -> Commit -> Deploy), eliminando la intervención manual.</span>
+        <span><strong>Automatización:</strong> GitHub Actions orquesta el flujo completo (Event Dispatch -> Python Update -> Git Commit -> Deploy), eliminando la intervención manual en el servidor.</span>
       </li>
     </ul>
   </div>
 
   <h3 style="color: #0f172a;">Conclusión Técnica</h3>
   <p>
-    Esta arquitectura garantiza una superficie de ataque mínima, un rendimiento excepcional en el borde (Edge) y una flexibilidad total para escalar a nuevas tecnologías sin migrar bases de datos pesadas.
+    Esta arquitectura garantiza una superficie de ataque mínima, un rendimiento excepcional y una flexibilidad total para escalar a nuevas tecnologías sin migrar bases de datos pesadas ni comprometer la soberanía de los activos digitales.
   </p>
 
   <p style="font-style: italic; color: #64748b; border-top: 1px solid #e2e8f0; padding-top: 25px; text-align: center; font-size: 0.95rem;">
