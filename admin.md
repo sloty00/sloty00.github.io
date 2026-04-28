@@ -3,6 +3,16 @@ layout: page
 permalink: /admin/
 ---
 
+Aquí tienes el código de admin.md corregido y optimizado. He aplicado las mejoras para que el dropdown funcione correctamente, los encabezados de la tabla cambien según el JSON seleccionado y se maneje correctamente el anidamiento de estudios.json.
+
+También añadí un sistema de caché-busting (?t=...) para que siempre veas los datos más recientes de tu búnker.
+
+HTML
+---
+layout: page
+title: Admin Panel
+---
+
 <nav class="admin-breadcrumb" style="background: #1e293b; padding: 10px 20px; border-radius: 8px; margin-bottom: 25px; display: flex; align-items: center; justify-content: flex-end; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);">
   <div style="color: #e2e8f0; font-family: 'Inter', sans-serif; font-size: 0.9rem; letter-spacing: 0.5px; display: flex; align-items: center; gap: 15px;">
     <div>
@@ -41,9 +51,9 @@ permalink: /admin/
   <div class="table-responsive" style="background: #ffffff; border-radius: 12px; border: 1px solid #e2e8f0; overflow: hidden; box-shadow: 0 10px 15px -3px rgba(0,0,0,0.05);">
     <div id="table-container">
       <table style="width: 100%; border-collapse: collapse; text-align: left;">
-        <thead style="background: #f8fafc; border-bottom: 2px solid #e2e8f0;">
+        <thead id="table-head" style="background: #f8fafc; border-bottom: 2px solid #e2e8f0;">
           <tr>
-            <th style="padding: 15px 20px; color: #64748b; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 1px;">Módulo / Dato</th>
+            <th style="padding: 15px 20px; color: #64748b; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 1px;">Dato Principal</th>
             <th style="padding: 15px 20px; color: #64748b; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 1px;">Detalle</th>
             <th style="padding: 15px 20px; color: #64748b; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 1px;">Estado/Periodo</th>
             <th style="padding: 15px 20px; color: #64748b; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 1px; text-align: center;">Acción</th>
@@ -91,22 +101,50 @@ permalink: /admin/
   const rowsPerPage = 10;
 
   const modules = {
-    desarrollo: { url: '/data/desarrollo.json', cols: ['nombre', 'tipo', 'status'] },
-    estudios: { url: '/data/estudios.json', isNested: 'certificaciones', cols: ['titulo', 'emisor', 'badge'] },
-    experiencia: { url: '/data/experiencia.json', cols: ['title', 'company', 'period'] }
+    desarrollo: { 
+        url: '/data/desarrollo.json', 
+        cols: ['nombre', 'tipo', 'status'],
+        labels: ['Proyecto', 'Tecnología', 'Estado']
+    },
+    estudios: { 
+        url: '/data/estudios.json', 
+        isNested: 'certificaciones', 
+        cols: ['titulo', 'emisor', 'badge'],
+        labels: ['Certificación', 'Emisor', 'Insignia']
+    },
+    experiencia: { 
+        url: '/data/experiencia.json', 
+        cols: ['title', 'company', 'period'],
+        labels: ['Cargo', 'Empresa', 'Periodo']
+    }
   };
 
   async function switchModule(moduleKey) {
+    const tableBody = document.getElementById('table-body');
+    const tableHead = document.getElementById('table-head');
+    tableBody.innerHTML = '<tr><td colspan="4" style="text-align:center; padding:20px;">Cargando búnker...</td></tr>';
+
     try {
       const module = modules[moduleKey];
-      const response = await fetch(module.url);
+      // Añadimos timestamp para evitar cache del navegador
+      const response = await fetch(module.url + '?t=' + Date.now());
       const data = await response.json();
       
       currentData = module.isNested ? data[module.isNested] : data;
       currentPage = 1;
+
+      // Actualizar encabezados dinámicamente
+      let headHtml = '<tr>';
+      module.labels.forEach(label => {
+        headHtml += `<th style="padding: 15px 20px; color: #64748b; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 1px;">${label}</th>`;
+      });
+      headHtml += '<th style="padding: 15px 20px; color: #64748b; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 1px; text-align: center;">Acción</th></tr>';
+      tableHead.innerHTML = headHtml;
+
       renderTable(module.cols);
     } catch (e) {
       console.error("Error cargando JSON:", e);
+      tableBody.innerHTML = '<tr><td colspan="4" style="text-align:center; color:red; padding:20px;">Error al cargar datos. Verifica la ruta del JSON.</td></tr>';
     }
   }
 
@@ -122,14 +160,17 @@ permalink: /admin/
       const actualIndex = start + index;
       const row = document.createElement('tr');
       row.style.borderBottom = "1px solid #f1f5f9";
+      row.style.transition = "background 0.2s";
+      row.onmouseover = () => row.style.background = "#f8fafc";
+      row.onmouseout = () => row.style.background = "transparent";
       
-      let cells = cols.map(col => `<td style="padding: 15px 20px; color: #1e293b; font-size: 0.9rem;">${item[col] || ''}</td>`).join('');
+      let cells = cols.map(col => `<td style="padding: 15px 20px; color: #1e293b; font-size: 0.9rem;">${item[col] || '<span style="color:#cbd5e1">N/A</span>'}</td>`).join('');
       
       row.innerHTML = `
         ${cells}
         <td style="padding: 15px 20px; text-align: center; display: flex; gap: 8px; justify-content: center;">
-          <button onclick="editItem(${actualIndex})" style="background: #f59e0b; color: white; border: none; padding: 6px 10px; border-radius: 4px; cursor: pointer; font-size: 0.8rem;">Editar</button>
-          <button onclick="deleteItem(${actualIndex})" style="background: #ef4444; color: white; border: none; padding: 6px 10px; border-radius: 4px; cursor: pointer; font-size: 0.8rem;">Borrar</button>
+          <button onclick="editItem(${actualIndex})" style="background: #f59e0b; color: white; border: none; padding: 6px 12px; border-radius: 4px; cursor: pointer; font-size: 0.75rem; font-weight: 600;">Editar</button>
+          <button onclick="deleteItem(${actualIndex})" style="background: #ef4444; color: white; border: none; padding: 6px 12px; border-radius: 4px; cursor: pointer; font-size: 0.75rem; font-weight: 600;">Borrar</button>
         </td>
       `;
       tableBody.appendChild(row);
@@ -148,7 +189,11 @@ permalink: /admin/
     for (let i = 1; i <= totalPages; i++) {
       const btn = document.createElement('button');
       btn.innerText = i;
-      btn.onclick = () => { currentPage = i; renderTable(modules[document.getElementById('json-selector').value].cols); };
+      btn.onclick = () => { 
+        currentPage = i; 
+        const currentModule = document.getElementById('json-selector').value;
+        renderTable(modules[currentModule].cols); 
+      };
       btn.style.cssText = `padding: 6px 12px; border-radius: 4px; border: 1px solid #cbd5e1; cursor: pointer; transition: 0.2s; font-weight: 600;`;
       btn.style.background = (i === currentPage) ? '#3b82f6' : 'white';
       btn.style.color = (i === currentPage) ? 'white' : '#1e293b';
@@ -167,7 +212,6 @@ permalink: /admin/
         document.getElementById('admin-content').style.display = 'block';
         document.getElementById('access-denied').style.display = 'none';
       } else {
-        console.warn("Acceso no autorizado:", user.email);
         document.getElementById('access-denied').style.display = 'block';
         document.getElementById('status-msg').innerText = "Usuario no autorizado. Redirigiendo...";
         setTimeout(() => { window.location.assign("/auth/"); }, 2000);
@@ -184,6 +228,6 @@ permalink: /admin/
     });
   }
 
-  function editItem(index) { alert("Iniciando edición del registro index: " + index); }
+  function editItem(index) { alert("Editando registro: " + index); }
   function deleteItem(index) { if(confirm("¿Seguro que desea eliminar este registro?")) alert("Eliminando index: " + index); }
 </script>
