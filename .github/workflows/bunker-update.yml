@@ -2,17 +2,19 @@ name: Actualizar Datos del Bunker
 on:
   repository_dispatch:
     types: [update_json]
-  workflow_dispatch: # <--- CRÍTICO: Esto habilita el botón manual en GitHub
+  workflow_dispatch: 
 
 jobs:
   update-json:
     runs-on: ubuntu-latest
-    permissions: # <--- IMPORTANTE: Da permiso al bot para escribir en tu repo
+    permissions:
       contents: write
     
     steps:
       - name: Checkout del repositorio
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 # Trae todo el historial para evitar conflictos de push
 
       - name: Configurar Python
         uses: actions/setup-python@v4
@@ -21,7 +23,6 @@ jobs:
 
       - name: Ejecutar script de actualización
         env:
-          # Si lo corres manual, el payload estará vacío, el script debe manejarlo
           PAYLOAD: ${{ toJson(github.event.client_payload) }}
         run: python .github/scripts/update_manager.py
 
@@ -29,6 +30,13 @@ jobs:
         run: |
           git config --global user.name "Bunker Admin Bot"
           git config --global user.email "jvargas@gitadmin.cl"
-          # Evita errores si no hay cambios reales en los archivos
+          
           git add .
-          git diff --quiet && git diff --staged --quiet || (git commit -m "GitOps: Actualización automática desde Panel de Control" && git push)
+          
+          # Mejora: Solo intentar commitear si hay cambios detectados
+          if ! git diff --cached --quiet; then
+            git commit -m "GitOps: [${{ github.event.client_payload.action || 'manual' }}] en ${{ github.event.client_payload.module || 'datos' }}"
+            git push origin main
+          else
+            echo "No hay cambios detectados en el JSON. Saltando commit."
+          fi
