@@ -2,10 +2,14 @@ name: Actualizar Datos del Bunker
 on:
   repository_dispatch:
     types: [update_json]
+  workflow_dispatch: # <--- CRÍTICO: Esto habilita el botón manual en GitHub
 
 jobs:
   update-json:
     runs-on: ubuntu-latest
+    permissions: # <--- IMPORTANTE: Da permiso al bot para escribir en tu repo
+      contents: write
+    
     steps:
       - name: Checkout del repositorio
         uses: actions/checkout@v3
@@ -17,6 +21,7 @@ jobs:
 
       - name: Ejecutar script de actualización
         env:
+          # Si lo corres manual, el payload estará vacío, el script debe manejarlo
           PAYLOAD: ${{ toJson(github.event.client_payload) }}
         run: python .github/scripts/update_manager.py
 
@@ -24,6 +29,6 @@ jobs:
         run: |
           git config --global user.name "Bunker Admin Bot"
           git config --global user.email "jvargas@gitadmin.cl"
+          # Evita errores si no hay cambios reales en los archivos
           git add .
-          git commit -m "GitOps: Actualización automática desde Panel de Control"
-          git push
+          git diff --quiet && git diff --staged --quiet || (git commit -m "GitOps: Actualización automática desde Panel de Control" && git push)
