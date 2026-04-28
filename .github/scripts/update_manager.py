@@ -2,28 +2,32 @@ import json
 import os
 
 def update_bunker():
-    # 1. Obtener datos del entorno (GitHub Actions)
+    # 1. Obtener datos del entorno
     payload_raw = os.getenv('PAYLOAD', '').strip()
     
     print(f"DEBUG: Payload recibido: {payload_raw}")
 
-    # 2. Validación de seguridad
-    if not payload_raw or payload_raw in ['null', '{}', 'None']:
-        print("⚠️ Aviso: Ejecución manual o sin datos. Saliendo sin cambios.")
+    # 2. Validación de seguridad mejorada
+    if not payload_raw or payload_raw in ['null', '{}', 'None', '']:
+        print("⚠️ Aviso: Ejecución sin datos (posible inicio manual). Saliendo sin cambios.")
         return
 
     try:
         payload = json.loads(payload_raw)
+        # Si por alguna razón el JSON es válido pero resulta en un objeto nulo
+        if payload is None:
+            print("⚠️ Aviso: El Payload es nulo después de parsear.")
+            return
     except json.JSONDecodeError as e:
         print(f"❌ Error: El JSON recibido está mal formado: {e}")
         return
 
-    # 3. Extraer variables (Incluyendo el nuevo 'index')
-    module = payload.get('module')      # Ej: "estudios"
-    action = payload.get('action')      # Ej: "add" o "edit"
-    new_data = payload.get('data')      # El registro (nuevo o editado)
-    nested_key = payload.get('nested')  # Ej: "certificaciones"
-    index = payload.get('index')        # Posición en la lista (para editar)
+    # 3. Extraer variables con valores por defecto
+    module = payload.get('module')
+    action = payload.get('action')
+    new_data = payload.get('data')
+    nested_key = payload.get('nested')
+    index = payload.get('index')
 
     if not module:
         print("❌ Error: No se especificó el módulo.")
@@ -43,12 +47,10 @@ def update_bunker():
         print(f"❌ Error crítico leyendo el archivo actual: {e}")
         return
 
-    # 5. LÓGICA DE ACTUALIZACIÓN (Protección de datos)
-    
-    # Determinar la lista objetivo (si es anidada como estudios.json o plana como desarrollo.json)
+    # 5. DETERMINAR LISTA OBJETIVO
     if nested_key:
         if not isinstance(content, dict) or nested_key not in content:
-            print(f"❌ Error: Estructura de {file_path} inválida para llave '{nested_key}'")
+            print(f"❌ Error: La estructura de {file_path} no contiene la llave '{nested_key}'")
             return
         target_list = content[nested_key]
     else:
@@ -57,41 +59,38 @@ def update_bunker():
             return
         target_list = content
 
-    # --- ACCIÓN: AÑADIR ---
+    # 6. LÓGICA DE ACTUALIZACIÓN
     if action == 'add':
         target_list.append(new_data)
         print(f"✅ Registro añadido a {file_path}.")
 
-    # --- ACCIÓN: EDITAR ---
     elif action == 'edit':
         if index is None:
-            print("❌ Error: Acción 'edit' requiere un índice.")
+            print("❌ Error: La acción 'edit' requiere un índice.")
             return
         
         try:
-            index = int(index)
-            if 0 <= index < len(target_list):
-                target_list[index] = new_data
-                print(f"✅ Registro en índice {index} actualizado correctamente.")
+            idx = int(index)
+            if 0 <= idx < len(target_list):
+                target_list[idx] = new_data
+                print(f"✅ Registro en índice {idx} actualizado.")
             else:
-                print(f"❌ Error: Índice {index} fuera de rango (Largo: {len(target_list)}).")
+                print(f"❌ Error: Índice {idx} fuera de rango.")
                 return
-        except ValueError:
-            print(f"❌ Error: El índice '{index}' no es un número válido.")
+        except (ValueError, TypeError):
+            print(f"❌ Error: El índice '{index}' no es válido.")
             return
-
     else:
         print(f"⚠️ Aviso: Acción '{action}' no reconocida.")
         return
 
-    # 6. ESCRITURA FINAL
+    # 7. ESCRITURA FINAL
     try:
         with open(file_path, 'w', encoding='utf-8') as f:
-            # indent=4 para legibilidad, ensure_ascii=False para tildes/ñ
             json.dump(content, f, indent=4, ensure_ascii=False)
-        print(f"🚀 Éxito: {file_path} sincronizado con los nuevos cambios.")
+        print(f"🚀 Éxito: {file_path} actualizado correctamente.")
     except Exception as e:
-        print(f"❌ Error al guardar los cambios: {e}")
+        print(f"❌ Error al guardar: {e}")
 
 if __name__ == "__main__":
     update_bunker()
