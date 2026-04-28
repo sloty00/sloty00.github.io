@@ -3,16 +3,6 @@ layout: page
 permalink: /admin/
 ---
 
-Aquí tienes el código de admin.md corregido y optimizado. He aplicado las mejoras para que el dropdown funcione correctamente, los encabezados de la tabla cambien según el JSON seleccionado y se maneje correctamente el anidamiento de estudios.json.
-
-También añadí un sistema de caché-busting (?t=...) para que siempre veas los datos más recientes de tu búnker.
-
-HTML
----
-layout: page
-title: Admin Panel
----
-
 <nav class="admin-breadcrumb" style="background: #1e293b; padding: 10px 20px; border-radius: 8px; margin-bottom: 25px; display: flex; align-items: center; justify-content: flex-end; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);">
   <div style="color: #e2e8f0; font-family: 'Inter', sans-serif; font-size: 0.9rem; letter-spacing: 0.5px; display: flex; align-items: center; gap: 15px;">
     <div>
