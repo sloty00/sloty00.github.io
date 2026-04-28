@@ -27,7 +27,7 @@ permalink: /profile/
         style="border: none; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
     </iframe>
     <p align="center" style="margin-top: 15px;">
-        <a href="/images/Curriculum_Vitae_Jose_Vargas_Oyarzun.pdf" target="_blank" class="btn-download">
+        <a href="/images/Curriculum_Vitae_Jose_Vargas_Oyarzun.pdf" target="_blank">
             <img src="https://img.shields.io/badge/Descargar%20PDF-PDF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=EC1C24">
         </a>
     </p>
@@ -42,7 +42,7 @@ permalink: /profile/
     </div>
 </div>
 
-<div id="modalDiploma" class="modal-diploma" onclick="this.style.display='none'">
+<div id="modalDiploma" class="modal-diploma">
     <div class="modal-content-container">
         <img id="img-modal" src="" alt="Vista previa">
         <div id="caption-modal" class="modal-caption"></div>
@@ -104,44 +104,3 @@ permalink: /profile/
 
 @keyframes zoomIn { from { transform: scale(0.8); opacity: 0; } to { transform: scale(1); opacity: 1; } }
 </style>
-
-<script>
-// Función global para abrir el modal
-function abrirZoom(src, titulo) {
-    const modal = document.getElementById('modalDiploma');
-    const img = document.getElementById('img-modal');
-    const caption = document.getElementById('caption-modal');
-    
-    img.src = src;
-    caption.innerText = titulo;
-    modal.style.display = 'flex';
-}
-
-async function sincronizarDiplomas() {
-    const grid = document.getElementById('grid-diplomas');
-    const url = `/certificaciones.json?v=${Date.now()}`;
-    
-    try {
-        const res = await fetch(url);
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        const data = await res.json();
-
-        grid.innerHTML = data.map(d => `
-            <div class="card-diploma" onclick="abrirZoom('${d.imagen}', '${d.titulo}')">
-                <span class="badge-tipo">${d.tipo}</span>
-                <img src="${d.imagen}" class="diploma-img" alt="${d.titulo}" onerror="this.src='/images/placeholder.png'">
-                <h4 style="margin: 0; font-size: 0.95rem; color: #1e293b; text-align: center;">
-                    <i class="${d.icon}" style="color: #06b6d4;"></i> ${d.titulo}
-                </h4>
-                <p style="color: #64748b; font-size: 11px; margin-top: 5px;">${d.institucion}</p>
-            </div>
-        `).join('');
-
-    } catch (err) {
-        console.error("Fallo carga diplomas:", err);
-        grid.innerHTML = `<p style="color: #ef4444; text-align: center; grid-column: 1/-1;">Error de enlace con el servidor de credenciales.</p>`;
-    }
-}
-
-sincronizarDiplomas();
-</script>
