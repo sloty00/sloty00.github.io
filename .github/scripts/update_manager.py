@@ -7,7 +7,7 @@ def update_bunker():
     
     print(f"DEBUG: Payload recibido: {payload_raw}")
 
-    # 2. Validación de seguridad para no romper el script si no hay datos
+    # 2. Validación de seguridad
     if not payload_raw or payload_raw in ['null', '{}', 'None']:
         print("⚠️ Aviso: Ejecución manual o sin datos. Saliendo sin cambios.")
         return
@@ -18,11 +18,12 @@ def update_bunker():
         print(f"❌ Error: El JSON recibido está mal formado: {e}")
         return
 
-    # 3. Extraer variables del JSON enviado desde tu web
+    # 3. Extraer variables (Incluyendo el nuevo 'index')
     module = payload.get('module')      # Ej: "estudios"
-    action = payload.get('action')      # Ej: "add"
-    new_data = payload.get('data')      # El nuevo registro
+    action = payload.get('action')      # Ej: "add" o "edit"
+    new_data = payload.get('data')      # El registro (nuevo o editado)
     nested_key = payload.get('nested')  # Ej: "certificaciones"
+    index = payload.get('index')        # Posición en la lista (para editar)
 
     if not module:
         print("❌ Error: No se especificó el módulo.")
@@ -30,12 +31,11 @@ def update_bunker():
 
     file_path = f"{module}.json"
     
-    # 4. Verificar si el archivo existe antes de intentar leerlo
     if not os.path.exists(file_path):
         print(f"❌ Error: El archivo {file_path} no existe en la raíz.")
         return
 
-    # 5. LECTURA: Abrimos el archivo para traer los datos actuales a la memoria
+    # 4. LECTURA
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
             content = json.load(f)
@@ -43,39 +43,53 @@ def update_bunker():
         print(f"❌ Error crítico leyendo el archivo actual: {e}")
         return
 
-    # 6. LÓGICA DE ACTUALIZACIÓN: Aquí es donde protegemos tus datos
-    if action == 'add':
-        if nested_key:
-            # CASO A: El JSON es un objeto { "clave": [] } (como estudios.json)
-            if isinstance(content, dict):
-                # Si la clave no existe (ej: "certificaciones"), la creamos como lista
-                if nested_key not in content:
-                    content[nested_key] = []
-                
-                # IMPORTANTE: Verificamos que sea una lista antes de agregar
-                if isinstance(content[nested_key], list):
-                    content[nested_key].append(new_data)
-                else:
-                    print(f"❌ Error: {nested_key} existe pero no es una lista.")
-                    return
-            else:
-                print(f"❌ Error: El archivo {file_path} debería ser un objeto {{}}.")
-                return
-        else:
-            # CASO B: El JSON es una lista pura [] (como desarrollo.json)
-            if isinstance(content, list):
-                content.append(new_data)
-            else:
-                print(f"❌ Error: El archivo {file_path} debería ser una lista [].")
-                return
+    # 5. LÓGICA DE ACTUALIZACIÓN (Protección de datos)
+    
+    # Determinar la lista objetivo (si es anidada como estudios.json o plana como desarrollo.json)
+    if nested_key:
+        if not isinstance(content, dict) or nested_key not in content:
+            print(f"❌ Error: Estructura de {file_path} inválida para llave '{nested_key}'")
+            return
+        target_list = content[nested_key]
+    else:
+        if not isinstance(content, list):
+            print(f"❌ Error: El archivo {file_path} debería ser una lista [].")
+            return
+        target_list = content
 
-    # 7. ESCRITURA FINAL: Guardamos todo (lo viejo + lo nuevo)
-    # Usamos 'w' para sobrescribir el archivo completo con la versión actualizada en memoria
+    # --- ACCIÓN: AÑADIR ---
+    if action == 'add':
+        target_list.append(new_data)
+        print(f"✅ Registro añadido a {file_path}.")
+
+    # --- ACCIÓN: EDITAR ---
+    elif action == 'edit':
+        if index is None:
+            print("❌ Error: Acción 'edit' requiere un índice.")
+            return
+        
+        try:
+            index = int(index)
+            if 0 <= index < len(target_list):
+                target_list[index] = new_data
+                print(f"✅ Registro en índice {index} actualizado correctamente.")
+            else:
+                print(f"❌ Error: Índice {index} fuera de rango (Largo: {len(target_list)}).")
+                return
+        except ValueError:
+            print(f"❌ Error: El índice '{index}' no es un número válido.")
+            return
+
+    else:
+        print(f"⚠️ Aviso: Acción '{action}' no reconocida.")
+        return
+
+    # 6. ESCRITURA FINAL
     try:
         with open(file_path, 'w', encoding='utf-8') as f:
-            # indent=4 lo hace legible, ensure_ascii=False respeta tildes y ñ
+            # indent=4 para legibilidad, ensure_ascii=False para tildes/ñ
             json.dump(content, f, indent=4, ensure_ascii=False)
-        print(f"✅ Éxito: {file_path} actualizado. Registro añadido correctamente.")
+        print(f"🚀 Éxito: {file_path} sincronizado con los nuevos cambios.")
     except Exception as e:
         print(f"❌ Error al guardar los cambios: {e}")
 
