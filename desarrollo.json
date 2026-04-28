@@ -228,14 +228,14 @@
         "icon": "fas fa-user-shield"
     },
     {
-        "descripcion": "Prueba",
-        "icon": "Prueba",
-        "nombre": "Prueba",
+        "descripcion": "Prueba Descripcion",
+        "icon": "Prueba Icono",
+        "nombre": "Prueba Nombre",
         "stack": [
-            "Prueba"
+            "Prueba Stack"
         ],
-        "status": "Prueba",
-        "tipo": "Prueba",
-        "url_repo": "Prueba"
+        "status": "Prueba Status",
+        "tipo": "Prueba Tipo",
+        "url_repo": "Prueba URL_REPO"
     }
 ]
