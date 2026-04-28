@@ -14,7 +14,7 @@ jobs:
       - name: Checkout del repositorio
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0 # Trae todo el historial para evitar conflictos de push
+          fetch-depth: 0 
 
       - name: Configurar Python
         uses: actions/setup-python@v4
@@ -33,10 +33,11 @@ jobs:
           
           git add .
           
-          # Mejora: Solo intentar commitear si hay cambios detectados
+          # Solo commiteamos si hay cambios reales
           if ! git diff --cached --quiet; then
             git commit -m "GitOps: [${{ github.event.client_payload.action || 'manual' }}] en ${{ github.event.client_payload.module || 'datos' }}"
-            git push origin main
+            # Usamos 'master' porque es la rama activa en tu repo
+            git push origin master
           else
             echo "No hay cambios detectados en el JSON. Saltando commit."
           fi
