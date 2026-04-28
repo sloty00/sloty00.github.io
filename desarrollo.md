@@ -1,7 +1,7 @@
 ---
 layout: page
 boton_login: "Ingresar"
-permalink: /desarrollo/
+permalink: /project/
 ---
 
 <style>
