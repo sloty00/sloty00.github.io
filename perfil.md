@@ -52,3 +52,5 @@ permalink: /profile/
 </div>
 
 <script src="/assets/js/profile-engine.js"></script>
+
+<script src="/assets/js/profile-engine.js"></script>
