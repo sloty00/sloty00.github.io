@@ -22,80 +22,9 @@ permalink: /project/
     <p style="text-align: center; color: #64748b;">Sincronizando manifiesto de ingeniería...</p>
 </div>
 
-<script>
-async function forzarCarga() {
-    const grid = document.getElementById('grid-proyectos');
-    const url = `/desarrollo.json?v=${Date.now()}`;
-    
-    const colors = {
-        "Nodejs": "339933", "Node.js": "339933", "React": "61DAFB", "Firebase": "FFCA28",
-        "Express": "000000", "Express.js": "000000", "JavaScript": "F7DF1E", 
-        "Active Directory": "0078D4", "Networking": "00599C", "Motion": "00CCFF", 
-        "Veeam": "00B336", "Prisma ORM": "2D3748", "MySQL": "4479A1", 
-        "JWT": "FB005F", "Swagger": "85EA2D", "bcrypt": "37474F", 
-        "Cryptography": "000000", "Base64 Encoding": "475569",  "node-gyp": "282C34",
-        "Networking": "00599C", "node-gyp": "282C34", 
-        "Performance Optimization": "FF9900", "C++": "00599C", 
-        "Native Addons": "61DAFB", "Polimorfismo": "6D28D9", "Herencia": "4338CA",                 "Clases Abstractas": "37474F", "Software Patterns": "10B981",
-        "Time Management": "F59E0B", "Data Persistence": "37474F", 
-        "Software Architecture": "4285F4", "STL Containers": "00599C", 
-        "File Handling": "37474F",   "Authentication": "16a34a", "File I/O": "37474F",             "Data Management": "0078D4", "C++": "00599C", "Visual Studio Pro": "5C2D91",
-        "Cybersecurity": "E34F26", "Data Encryption": "000000", 
-        "Algoritmo Módulo 11": "475569", "Desktop Development": "0078D4"
-    };
+<div id="grid-proyectos" class="desarrollos-grid">
+    <p style="text-align: center; color: #64748b;">Sincronizando manifiesto de ingeniería...</p>
+</div>
 
-    const logoNames = {
-        "Nodejs": "nodedotjs", "Node.js": "nodedotjs", "Active Directory": "microsoft",
-        "Networking": "cisco", "Motion": "framer", "JavaScript": "javascript",
-        "Express.js": "express", "Prisma ORM": "prisma", "MySQL": "mysql",
-        "JWT": "jsonwebtokens", "Swagger": "swagger", "bcrypt": "auth0", 
-        "Cryptography": "1password", "Base64 Encoding": "code", "node-gyp": "node-dot-js",
-        "Networking": "cisco", "Performance Optimization": "speedtest", 
-        "node-gyp": "node-dot-js", "Native Addons": "cplusplus", 
-        "Polimorfismo": "cplusplus", "Herencia": "git-compare", 
-        "Clases Abstractas": "code", "OOP": "cplusplus", "Time Management": "clock",
-        "Data Persistence": "sqlite", "STL Containers": "cplusplus", 
-        "File Handling": "files", "Authentication": "authy", "File I/O": "files",
-        "Data Management": "database", "C++": "cplusplus", 
-        "Visual Studio Pro": "visualstudio", "Cybersecurity": "securityscorecard",
-        "Data Encryption": "gnupg", "Desktop Development": "windows"
-    };
-
-    try {
-        const res = await fetch(url);
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-
-        const data = await res.json();
-        if (!data || data.length === 0) return;
-
-        grid.innerHTML = data.map(p => `
-            <div class="card-proyecto">
-                <div class="header-tags">
-                    <span class="status">${p.status}</span>
-                    <span class="tipo-tag"><i class="fas fa-layer-group"></i> ${p.tipo}</span>
-                </div>
-                <h3 style="margin: 0 0 10px 0; font-size: 1.4rem; color: #1e293b;"><i class="${p.icon}"></i> ${p.nombre}</h3>
-                <p style="color: #475569; font-size: 14px; line-height: 1.6; margin-bottom: 20px;">${p.descripcion}</p>
-                <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px;">
-                    ${p.stack.map(s => {
-                        const color = colors[s] || "475569";
-                        const logo = logoNames[s] || s.toLowerCase().replace(/ /g, "");
-                        return `<img src="https://img.shields.io/badge/${s.replace(/ /g, "%20")}-${color}?style=flat-square&logo=${logo}&logoColor=white" alt="${s}">`;
-                    }).join('')}
-                </div>
-                <a href="${p.url_repo}" target="_blank" class="btn-git">
-                    <i class="fab fa-github"></i> Ver Código Fuente
-                </a>
-            </div>
-        `).join('');
-
-    } catch (err) {
-        console.error("Fallo de carga:", err);
-        grid.innerHTML = `<div style="background: #fee2e2; border: 1px solid #ef4444; padding: 20px; border-radius: 8px; text-align: center;">
-            <p style="color: #b91c1c; font-weight: bold; margin: 0;">Error de despliegue: ${err.message}</p>
-        </div>`;
-    }
-}
-
-forzarCarga();
-</script>
+<script src="/assets/js/tech-config.js"></script>
+<script src="/assets/js/projects-renderer.js"></script>
