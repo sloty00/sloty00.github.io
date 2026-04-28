@@ -1,0 +1,64 @@
+/* assets/css/contact.css */
+#mensajes {
+    max-width: 650px;
+    margin: 20px auto;
+    padding: 20px;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+#mensajes h2 {
+    color: #2c3e50;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+#mi-formulario-gitops {
+    background: #fdfdfd;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+    border: 1px solid #eee;
+}
+
+#mi-formulario-gitops input, 
+#mi-formulario-gitops textarea {
+    width: 100%;
+    padding: 12px 15px;
+    margin-bottom: 15px;
+    border: 1.5px solid #dce1e6;
+    border-radius: 8px;
+    box-sizing: border-box;
+}
+
+#mi-formulario-gitops textarea {
+    min-height: 120px;
+    resize: vertical;
+}
+
+#mi-formulario-gitops button {
+    width: 100%;
+    background-color: #4285F4;
+    color: white;
+    padding: 14px;
+    border: none;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+#mi-formulario-gitops button:hover {
+    background-color: #357ae8;
+}
+
+#mi-formulario-gitops button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
+
+#estado-envio {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+}
