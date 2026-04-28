@@ -1,6 +1,7 @@
 ---
 layout: page
 boton_login: "Ingresar"
+permalink: /education/
 ---
 
 <style>
