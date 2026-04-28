@@ -1,0 +1,29 @@
+name: Actualizar Datos del Bunker
+on:
+  repository_dispatch:
+    types: [update_json]
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del repositorio
+        uses: actions/checkout@v3
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Ejecutar script de actualización
+        env:
+          PAYLOAD: ${{ toJson(github.event.client_payload) }}
+        run: python .github/scripts/update_manager.py
+
+      - name: Commitear y subir cambios
+        run: |
+          git config --global user.name "Bunker Admin Bot"
+          git config --global user.email "jvargas@gitadmin.cl"
+          git add .
+          git commit -m "GitOps: Actualización automática desde Panel de Control"
+          git push
