@@ -102,18 +102,18 @@ title: Admin Panel
 
   const modules = {
     desarrollo: { 
-        url: '/data/desarrollo.json', 
+        url: '/desarrollo.json', 
         cols: ['nombre', 'tipo', 'status'],
         labels: ['Proyecto', 'Tecnología', 'Estado']
     },
     estudios: { 
-        url: '/data/estudios.json', 
+        url: '/estudios.json', 
         isNested: 'certificaciones', 
         cols: ['titulo', 'emisor', 'badge'],
         labels: ['Certificación', 'Emisor', 'Insignia']
     },
     experiencia: { 
-        url: '/data/experiencia.json', 
+        url: '/experiencia.json', 
         cols: ['title', 'company', 'period'],
         labels: ['Cargo', 'Empresa', 'Periodo']
     }
