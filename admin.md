@@ -97,20 +97,20 @@ permalink: /admin/
 
   const modules = {
     desarrollo: { 
-        url: 'desarrollo.json', 
+        url: '/desarrollo.json', 
         cols: ['nombre', 'tipo', 'status'],
         labels: ['Proyecto', 'Tecnología', 'Estado'],
         fields: ['nombre', 'tipo', 'stack', 'descripcion', 'url_repo', 'status', 'icon']
     },
     estudios: { 
-        url: 'estudios.json', 
+        url: '/estudios.json', 
         isNested: 'certificaciones', 
         cols: ['titulo', 'emisor', 'badge'],
         labels: ['Certificación', 'Emisor', 'Insignia'],
         fields: ['titulo', 'emisor', 'badge', 'categoria', 'marca', 'skills', 'roles', 'puntos_clave']
     },
     experiencia: { 
-        url: 'experiencia.json', 
+        url: '/experiencia.json', 
         cols: ['title', 'company', 'period'],
         labels: ['Cargo', 'Empresa', 'Periodo'],
         fields: ['title', 'period', 'company', 'categories', 'details']
