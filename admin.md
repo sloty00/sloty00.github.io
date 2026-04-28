@@ -69,7 +69,7 @@ permalink: /admin/
     <div id="modal-fields" style="display: flex; flex-direction: column; gap: 15px;"></div>
     <div style="margin-top: 30px; display: flex; justify-content: flex-end; gap: 12px; border-top: 1px solid #e2e8f0; padding-top: 20px;">
       <button onclick="closeModal()" style="padding: 10px 20px; border-radius: 6px; border: 1px solid #cbd5e1; background: #f8fafc; color: #64748b; font-weight: 600; cursor: pointer;">Cancelar</button>
-      <button onclick="saveNewRecord()" style="padding: 10px 25px; border-radius: 6px; border: none; background: #2563eb; color: white; font-weight: 700; cursor: pointer; box-shadow: 0 4px 6px -1px rgba(37, 99, 235, 0.2);">GUARDAR EN BÚNKER</button>
+      <button onclick="saveRecord()" style="padding: 10px 25px; border-radius: 6px; border: none; background: #2563eb; color: white; font-weight: 700; cursor: pointer; box-shadow: 0 4px 6px -1px rgba(37, 99, 235, 0.2);">GUARDAR EN BÚNKER</button>
     </div>
   </div>
 </div>
@@ -93,6 +93,7 @@ permalink: /admin/
 
   let currentData = [];
   let currentPage = 1;
+  let editIndex = null; // CONTROL DE EDICIÓN
   const rowsPerPage = 10;
 
   const modules = {
@@ -124,7 +125,6 @@ permalink: /admin/
 
     try {
       const module = modules[moduleKey];
-      // Fetch desde la raíz
       const response = await fetch(module.url + '?t=' + Date.now());
       const data = await response.json();
       
@@ -152,10 +152,13 @@ permalink: /admin/
     const paginatedItems = currentData.slice(start, start + rowsPerPage);
 
     paginatedItems.forEach((item, index) => {
+      const realIndex = start + index; // Índice absoluto en el array
       const row = document.createElement('tr');
       row.style.borderBottom = "1px solid #f1f5f9";
       let cells = cols.map(col => `<td style="padding: 15px 20px; color: #1e293b; font-size: 0.9rem;">${item[col] || 'N/A'}</td>`).join('');
-      row.innerHTML = `${cells}<td style="padding: 15px 20px; text-align: center;"><button style="background: #f59e0b; color: white; border: none; padding: 6px 12px; border-radius: 4px; cursor: pointer;">Edit</button></td>`;
+      row.innerHTML = `${cells}<td style="padding: 15px 20px; text-align: center;">
+        <button onclick="openEditModal(${realIndex})" style="background: #f59e0b; color: white; border: none; padding: 6px 12px; border-radius: 4px; cursor: pointer;">Edit</button>
+      </td>`;
       tableBody.appendChild(row);
     });
     renderPagination();
@@ -179,6 +182,7 @@ permalink: /admin/
   }
 
   function openNewModal() {
+    editIndex = null;
     const moduleKey = document.getElementById('json-selector').value;
     if (!moduleKey) return alert("Por favor, selecciona un módulo primero.");
     const container = document.getElementById('modal-fields');
@@ -190,33 +194,55 @@ permalink: /admin/
     document.getElementById('item-modal').style.display = 'flex';
   }
 
+  function openEditModal(index) {
+    editIndex = index;
+    const moduleKey = document.getElementById('json-selector').value;
+    const item = currentData[index];
+    const container = document.getElementById('modal-fields');
+    container.innerHTML = '';
+    document.getElementById('modal-title').innerText = `Editar Registro: ${moduleKey.toUpperCase()}`;
+    
+    modules[moduleKey].fields.forEach(field => {
+      let value = item[field] || '';
+      if (Array.isArray(value)) value = value.join(', '); // Convertir arreglos a string para el input
+      
+      container.innerHTML += `<div>
+        <label style="display:block; font-size:0.75rem; font-weight:700; color:#64748b; text-transform:uppercase; margin-bottom:4px;">${field.replace('_', ' ')}</label>
+        <input type="text" id="field-${field}" value="${value}" style="width:100%; padding:10px; border:1px solid #cbd5e1; border-radius:6px; outline:none;">
+      </div>`;
+    });
+    document.getElementById('item-modal').style.display = 'flex';
+  }
+
   function closeModal() { document.getElementById('item-modal').style.display = 'none'; }
 
-  async function saveNewRecord() {
+  async function saveRecord() {
     const moduleKey = document.getElementById('json-selector').value;
     const fields = modules[moduleKey].fields;
-    const newData = {};
+    const payloadData = {};
+    
     fields.forEach(f => {
       const val = document.getElementById(`field-${f}`).value;
+      // Convertir de nuevo a array si el campo lo requiere
       if (['stack', 'skills', 'roles', 'puntos_clave', 'categories', 'details'].includes(f)) {
-        newData[f] = val ? val.split(',').map(s => s.trim()) : [];
+        payloadData[f] = val ? val.split(',').map(s => s.trim()) : [];
       } else {
-        newData[f] = val;
+        payloadData[f] = val;
       }
     });
-    await syncToGitHub('add', newData);
+
+    const action = (editIndex !== null) ? 'edit' : 'add';
+    await syncToGitHub(action, payloadData, editIndex);
     closeModal();
   }
 
-  // --- GITOPS: SYNC CON GITHUB (VERSION SEGURA) ---
-  async function syncToGitHub(action, payloadData) {
+  async function syncToGitHub(action, payloadData, index = null) {
     const GITHUB_USER = "sloty00"; 
     const REPO = "sloty00.github.io"; 
     
-    // Recuperar o solicitar Token
     let TOKEN = localStorage.getItem('GH_BUNKER_TOKEN');
     if (!TOKEN) {
-        TOKEN = prompt("🔑 Ingresa tu GitHub Personal Access Token (se guardará localmente):");
+        TOKEN = prompt("🔑 Ingresa tu GitHub Personal Access Token:");
         if (TOKEN) localStorage.setItem('GH_BUNKER_TOKEN', TOKEN);
         else return alert("Token requerido.");
     }
@@ -230,6 +256,7 @@ permalink: /admin/
         module: moduleKey,
         action: action,
         nested: moduleConfig.isNested || null,
+        index: index, // Enviamos el índice (será null si es 'add')
         data: payloadData
       }
     };
@@ -246,9 +273,9 @@ permalink: /admin/
       });
 
       if (res.ok) {
-          alert("🚀 Sincronización iniciada. Revisa la pestaña Actions.");
+          alert(`🚀 Acción "${action.toUpperCase()}" iniciada. Revisa GitHub Actions.`);
       } else if (res.status === 401) {
-          alert("❌ Token inválido. Eliminado de la memoria.");
+          alert("❌ Token inválido.");
           localStorage.removeItem('GH_BUNKER_TOKEN');
       } else {
           alert("❌ Error: " + res.status);
