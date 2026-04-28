@@ -1,0 +1,114 @@
+/* assets/css/education.css */
+
+.filter-section {
+    margin: 20px 0;
+    text-align: center;
+    background: #f8f9fa;
+    padding: 20px;
+    border-radius: 12px;
+    border: 1px solid #e1e4e8;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.filter-group-label {
+    display: block;
+    font-weight: 800;
+    margin-bottom: 12px;
+    color: #2c3e50;
+    text-transform: uppercase;
+    font-size: 0.75rem;
+    letter-spacing: 1.5px;
+    margin-top: 15px;
+}
+
+.filter-container { 
+    display: flex; 
+    flex-wrap: wrap; 
+    gap: 8px; 
+    justify-content: center; 
+    margin-bottom: 5px; 
+}
+
+.filter-btn {
+    background: #fff;
+    border: 1px solid #dcdde1;
+    color: #2f3640;
+    padding: 6px 14px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.85rem;
+    font-weight: 600;
+    transition: all 0.2s ease;
+}
+
+.filter-btn:hover { 
+    background: #f1f2f6; 
+    border-color: #3498db; 
+}
+
+.filter-btn.active {
+    background: #2c3e50 !important;
+    color: white !important;
+    border-color: #2c3e50 !important;
+    box-shadow: 0 2px 8px rgba(44, 62, 80, 0.3);
+}
+
+.cert-card {
+    background: #ffffff;
+    border: 1px solid #e1e4e8;
+    border-left: 6px solid #bdc3c7;
+    border-radius: 8px;
+    padding: 18px;
+    margin-bottom: 15px;
+    transition: all 0.3s ease;
+}
+
+/* Colores Dinámicos por Rol */
+.cert-card[data-role*="pre_sales"] { border-left-color: #9b59b6; }
+.cert-card[data-role*="sales"]     { border-left-color: #e74c3c; }
+.cert-card[data-role*="engineer"]  { border-left-color: #2ecc71; }
+.cert-card[data-role*="architect"] { border-left-color: #3498db; }
+.cert-card[data-role*="devops"]    { border-left-color: #1abc9c; }
+.cert-card[data-role*="consultant"]{ border-left-color: #f1c40f; }
+.cert-card[data-role*="analyst"]   { border-left-color: #34495e; }
+
+.cert-header { 
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+}
+
+.cert-title { 
+    font-size: 1.1rem; 
+    font-weight: 700; 
+    color: #2c3e50; 
+    margin: 0 !important; 
+}
+
+.cert-meta { 
+    font-size: 0.8rem; 
+    color: #7f8c8d; 
+    font-weight: 600; 
+    text-align: right; 
+}
+
+.cert-badge {
+    display: inline-block;
+    padding: 3px 10px;
+    border-radius: 4px;
+    font-size: 0.65rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    background: #f1f2f6;
+    color: #34495e;
+    margin: 8px 0;
+}
+
+.cert-card ul { 
+    font-size: 0.85rem; 
+    color: #57606f; 
+    margin-top: 10px; 
+    column-count: 2; 
+    list-style-type: '✔️ '; 
+    padding-left: 20px; 
+}
