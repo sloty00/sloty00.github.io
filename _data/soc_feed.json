@@ -73,39 +73,39 @@
   },
   {
     "source": "suse_news",
+    "title": "The Green Heart of Open Source: Why Sustainability Drives Innovation",
+    "link": "https://www.suse.com/c/why-sustainability-drives-innovation/",
+    "date": "Tue, 28 Apr 2026 11:05:44 +0000"
+  },
+  {
+    "source": "suse_news",
+    "title": "Beyond the Transition: Powering Private AI and Modern Virtualization for SAP",
+    "link": "https://www.suse.com/c/beyond-the-transition-powering-private-ai-and-modern-virtualization-for-sap/",
+    "date": "Tue, 28 Apr 2026 10:04:46 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "SLES 15 SP4 CC EAL4+ – the real value of Common Criteria",
     "link": "https://www.suse.com/c/sles-15-sp4-cc-eal4-the-real-value-of-common-criteria/",
     "date": "Mon, 27 Apr 2026 20:20:42 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "From Vision to Deployment: ITQ and SUSE Partner to Deliver Enterprise AI Together",
-    "link": "https://www.suse.com/c/from-vision-to-deployment-itq-and-suse-partner-to-deliver-enterprise-ai-together/",
-    "date": "Mon, 27 Apr 2026 07:21:42 +0000"
+    "source": "broadcom_vmware",
+    "title": "Post-Quantum Readiness on VMware Cloud Foundation",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/04/28/post-quantum-readiness-on-vcf/",
+    "date": "Tue, 28 Apr 2026 12:00:00 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "SUSECON 2026 Wrap-Up: Choice Happened in Prague",
-    "link": "https://www.suse.com/c/susecon-2026-wrap-up-choice-happened-in-prague/",
-    "date": "Thu, 23 Apr 2026 19:29:32 +0000"
+    "source": "broadcom_vmware",
+    "title": "Registration Is Live for Las Vegas | $ave with Early-Bird",
+    "link": "https://blogs.vmware.com/explore/registration-live-las-vegas/",
+    "date": "Tue, 28 Apr 2026 08:00:00 +0000"
   },
   {
     "source": "broadcom_vmware",
     "title": "May 21, 2026: What’s New in VMware Tanzu Data Intelligence 10.4",
     "link": "https://blogs.vmware.com/tanzu/may-21-2026-whats-new-in-vmware-tanzu-data-intelligence-10-4/",
     "date": "Mon, 27 Apr 2026 16:46:25 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "From Infrastructure to Agents: A Hands-On Guide to Secure Private AI with Broadcom – Part 1",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/04/27/guide-to-secure-private-ai-with-broadcom-part-1/",
-    "date": "Mon, 27 Apr 2026 12:32:53 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Stop Guessing: Advanced Monitoring and Troubleshooting for Data Services",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/04/24/stop-guessing-advanced-monitoring-and-troubleshooting-for-data-services/",
-    "date": "Fri, 24 Apr 2026 20:03:33 +0000"
   },
   {
     "source": "veeam_intel",
