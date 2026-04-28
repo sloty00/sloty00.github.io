@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon SageMaker HyperPod now supports G7e and r5d.16xlarge instances",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-hyperpod-g7e-r5d/",
-    "date": "Mon, 27 Apr 2026 15:30:00 GMT"
+    "title": "Amazon Redshift Serverless AI-driven scaling is now the default for new workgroups",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-redshift-serverless-ai-driven-scaling-default/",
+    "date": "Mon, 27 Apr 2026 22:03:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon WorkSpaces Personal Supports Rocky 9, Red Hat Enterprise Linux 9, and Ubuntu 24.04",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-workspaces-rocky9-rhel9-ubuntu24/",
-    "date": "Fri, 24 Apr 2026 22:03:00 GMT"
+    "title": "AWS KMS now tracks last usage of all KMS keys",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-kms-tracks-last-usage-kms-keys/",
+    "date": "Mon, 27 Apr 2026 19:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Lambda Provisioned Mode for Kafka event source mappings (ESMs) now available in AWS Asia Pacific (Taipei) and AWS GovCloud (US) Regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-Lambda-provisioned-esm-region-expansion/",
-    "date": "Fri, 24 Apr 2026 21:13:00 GMT"
+    "title": "Amazon Redshift Serverless is now available in the AWS Asia Pacific (Melbourne) and Canada West (Calgary) regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-redshift-serverless-melbourne-calgary-regions/",
+    "date": "Mon, 27 Apr 2026 19:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "SLES 15 SP4 CC EAL4+ – the real value of Common Criteria",
+    "link": "https://www.suse.com/c/sles-15-sp4-cc-eal4-the-real-value-of-common-criteria/",
+    "date": "Mon, 27 Apr 2026 20:20:42 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "From Vision to Deployment: ITQ and SUSE Partner to Deliver Enterprise AI Together",
     "link": "https://www.suse.com/c/from-vision-to-deployment-itq-and-suse-partner-to-deliver-enterprise-ai-together/",
     "date": "Mon, 27 Apr 2026 07:21:42 +0000"
@@ -82,12 +88,6 @@
     "title": "SUSECON 2026 Wrap-Up: Choice Happened in Prague",
     "link": "https://www.suse.com/c/susecon-2026-wrap-up-choice-happened-in-prague/",
     "date": "Thu, 23 Apr 2026 19:29:32 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "SUSECON 2026: A Look at Day Three",
-    "link": "https://www.suse.com/c/susecon-2026-a-look-at-day-three/",
-    "date": "Thu, 23 Apr 2026 00:30:54 +0000"
   },
   {
     "source": "broadcom_vmware",
