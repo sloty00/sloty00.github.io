@@ -45,6 +45,5 @@
         <animate attributeName="text" values="Platform Engineer; FullStack Developer; DevSecOps Specialist; Infrastructure Architect; Platform Engineer" dur="15s" repeatCount="indefinite" />
       </text>
     </svg>
-  </svg>
-</g>
+</svg>
 
