@@ -7,6 +7,7 @@ works: "Análisis técnico de la infraestructura desacoplada: integración de Je
 date: 2026-04-28 10:00:00 +0000
 categories: blog
 tags: [jekyll, gitops, jamstack, firebase, architecture, automation]
+boton_login: "Ingresar"
 ---
 
 <div class="tech-post-content" style="font-family: 'Inter', -apple-system, sans-serif; color: #334155; line-height: 1.8;">
