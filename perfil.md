@@ -8,15 +8,9 @@ permalink: /profile/
 
 <h1 align="center"><b>Jose Vargas Oyarzun</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/DenverCoder1/readme-typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=334155&size=25&center=true&vCenter=true&width=600&height=70&lines=Platform+Engineer;FullStack+Developer;DevSecOps+Specialist;Infrastructure+Architect">
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/img/typing.svg" alt="Ingeniería y Roles" width="600">
+</p>
 
 <div class="perfil-profesional">
     <p>
