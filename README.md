@@ -7,11 +7,12 @@ Este repositorio ha evolucionado de un simple boilerplate de Jekyll a una **plat
 
 ## 🛠 Arquitectura del Proyecto (Rango SSS)
 
-A diferencia de los sitios estáticos tradicionales, este portafolio implementa un modelo **Data-Driven**:
+A diferencia de los sitios estáticos tradicionales, este portafolio implementa un modelo **Data-Driven & Event-Oriented**:
 
-* **Capa de Datos (`/data/`):** Almacenamiento centralizado en archivos `.json`. Actúa como una API estática interna, permitiendo actualizaciones de contenido sin modificar la estructura del sitio.
-* **Motores de Renderizado (`/assets/js/`):** Lógica asíncrona personalizada que consume datos mediante el Fetch API, implementando técnicas de *Cache Busting* dinámico (`v=${Date.now()}`).
-* **Diseño Modular:** CSS independiente por secciones y componentes inyectados dinámicamente, optimizando la performance y el mantenimiento.
+* **Capa de Datos (`/_data/` y `/data/`):** Almacenamiento centralizado en archivos `.json`. Actúa como una API estática interna, permitiendo actualizaciones de contenido sin modificar la estructura del sitio.
+* **Motores de Renderizado (`/assets/js/`):** Lógica asíncrona personalizada que consume datos mediante el Fetch API, implementando técnicas de *Cache Busting* dinámico.
+* **Automatización SOC:** Pipeline de Python que inyecta señales de inteligencia técnica (Sophos, AWS, Google Cloud) cada 12 horas mediante GitHub Actions.
+* **Telemetría en Tiempo Real:** Integración con Firebase Realtime Database para monitoreo de tráfico y métricas de sección mediante WebSockets.
 * **Estrategia GitOps:** Despliegue automatizado donde cada commit refresca instantáneamente los manifiestos de ingeniería en el borde (Edge).
 
 ---
@@ -19,10 +20,11 @@ A diferencia de los sitios estáticos tradicionales, este portafolio implementa 
 ## 🚀 Tecnologías Implementadas
 
 * **Core:** Jekyll + Liquid (Estructura Estática de Alto Rendimiento)
-* **Frontend:** JavaScript Moderno (ES6+), React (Certificación HackerRank)
+* **Intelligence:** Python (RSS Fetcher) + GitHub Actions (CI/CD)
+* **Backend-as-a-Service:** Firebase Realtime Database (Telemetría)
+* **Frontend:** JavaScript Moderno (ES6+), Motores asíncronos modulares
 * **Data Management:** JSON as a Service (Local API)
-* **Estilos:** Sass & CSS Modular Customizado
-* **DevOps:** GitHub Pages / Vercel + GitOps Workflow
+* **DevOps:** GitHub Pages + GitOps Workflow
 
 ---
 
@@ -30,11 +32,12 @@ A diferencia de los sitios estáticos tradicionales, este portafolio implementa 
 
 ```text
 / (raíz)
-├── _data/               # Metadatos de configuración (Build-time)
-├── data/                # API PÚBLICA: Certificaciones, Proyectos y Experiencia (.json)
+├── _data/                # Metadatos y el feed automático (soc_feed.json)
+├── data/                 # API PÚBLICA: Certificaciones, Proyectos (.json)
 ├── assets/
-│   ├── js/              # Motores: projects-renderer.js, education-engine.js, etc.
-│   └── css/             # Capa de estilos desacoplada
-├── _posts/              # Blog técnico y artículos
-├── _config.yml          # Configuración del ecosistema Jekyll
-└── [vistas].md          # Esqueletos estructurales (Perfil, Desarrollo, Experiencia)
+│   ├── js/               # Motores: visit-counter.js, projects-renderer.js, etc.
+│   └── css/              # Capa de estilos desacoplada
+├── _posts/               # Blog técnico y artículos de arquitectura
+├── _config.yml           # Configuración del ecosistema Jekyll
+├── fetch_rss.py          # Script de automatización de inteligencia
+└── [vistas].md           # Esqueletos estructurales (Perfil, Desarrollo, Experiencia)
