@@ -75,4 +75,4 @@ permalink: /education/
     <p style="text-align: center; color: #7f8c8d;">Sincronizando manifiesto de certificaciones......</p>
 </div>
 
-<script src="/estudios.js"></script>
+<script src="/assets/js/education-engine.js"></script>
