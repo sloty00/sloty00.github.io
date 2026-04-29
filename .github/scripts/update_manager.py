@@ -14,7 +14,6 @@ def update_bunker():
 
     try:
         payload = json.loads(payload_raw)
-        # Si por alguna razón el JSON es válido pero resulta en un objeto nulo
         if payload is None:
             print("⚠️ Aviso: El Payload es nulo después de parsear.")
             return
@@ -22,21 +21,28 @@ def update_bunker():
         print(f"❌ Error: El JSON recibido está mal formado: {e}")
         return
 
-    # 3. Extraer variables con valores por defecto
+    # 3. Extraer variables y Mapeo de Rutas (Ajustado a tu estructura)
     module = payload.get('module')
     action = payload.get('action')
     new_data = payload.get('data')
     nested_key = payload.get('nested')
     index = payload.get('index')
 
-    if not module:
-        print("❌ Error: No se especificó el módulo.")
+    # Mapeo del 'value' del selector HTML hacia la ruta física en el repo
+    files_map = {
+        "desarrollo": "data/projects.json",
+        "estudios": "data/education.json",
+        "experiencia": "data/experience.json"
+    }
+
+    file_path = files_map.get(module)
+    
+    if not file_path:
+        print(f"❌ Error: El módulo '{module}' no tiene un archivo mapeado en el sistema.")
         return
 
-    file_path = f"{module}.json"
-    
     if not os.path.exists(file_path):
-        print(f"❌ Error: El archivo {file_path} no existe en la raíz.")
+        print(f"❌ Error: El archivo {file_path} no existe en el repositorio.")
         return
 
     # 4. LECTURA
@@ -87,7 +93,8 @@ def update_bunker():
     # 7. ESCRITURA FINAL
     try:
         with open(file_path, 'w', encoding='utf-8') as f:
-            json.dump(content, f, indent=4, ensure_ascii=False)
+            # indent=2 suele ser estándar en Git para leer diffs fácilmente
+            json.dump(content, f, indent=2, ensure_ascii=False)
         print(f"🚀 Éxito: {file_path} actualizado correctamente.")
     except Exception as e:
         print(f"❌ Error al guardar: {e}")
