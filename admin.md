@@ -104,14 +104,14 @@ permalink: /admin/
         fields: ['nombre', 'tipo', 'stack', 'descripcion', 'url_repo', 'status', 'icon']
     },
     estudios: { 
-        url: '/education.json', 
+        url: '/data/education.json', 
         isNested: 'certificaciones', 
         cols: ['titulo', 'emisor', 'badge'],
         labels: ['Certificación', 'Emisor', 'Insignia'],
         fields: ['titulo', 'emisor', 'badge', 'categoria', 'marca', 'skills', 'roles', 'puntos_clave']
     },
     experiencia: { 
-        url: '/experience.json', 
+        url: '/data/experience.json', 
         cols: ['title', 'company', 'period'],
         labels: ['Cargo', 'Empresa', 'Periodo'],
         fields: ['title', 'period', 'company', 'categories', 'details']
