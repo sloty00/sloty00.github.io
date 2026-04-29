@@ -12,6 +12,3 @@ permalink: /project/
 
 <script src="/assets/js/tech-config.js"></script>
 <script src="/assets/js/projects-renderer.js"></script>
-
-<script src="/assets/js/tech-config.js"></script>
-<script src="/assets/js/projects-renderer.js"></script>
