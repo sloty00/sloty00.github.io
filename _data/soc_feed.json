@@ -91,6 +91,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Enhance Lateral Security and Ingress Load Balancing for Kubernetes Workloads",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/04/29/avi-and-vdefend-for-vsphere-kubernetes-service/",
+    "date": "Wed, 29 Apr 2026 13:00:00 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Avi Load Balancer Analytics: Root Cause Application Performance Issues in Minutes",
     "link": "https://blogs.vmware.com/load-balancing/2026/04/28/root-cause-app-performance-issues-in-minutes-with-avi/",
     "date": "Tue, 28 Apr 2026 17:30:00 +0000"
@@ -100,12 +106,6 @@
     "title": "Analyst Insight Series #3: Policy-Driven Governance and Multi-Tenant Control",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/04/28/analyst-insight-series-3-policy-driven-governance-and-multi-tenant-control/",
     "date": "Tue, 28 Apr 2026 15:47:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Post-Quantum Readiness on VMware Cloud Foundation",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/04/28/post-quantum-readiness-on-vcf/",
-    "date": "Tue, 28 Apr 2026 12:00:00 +0000"
   },
   {
     "source": "veeam_intel",
