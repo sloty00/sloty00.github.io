@@ -7,7 +7,7 @@ function abrirZoom(src, titulo) {
     const caption = document.getElementById('caption-modal');
     
     if (!modal || !img || !caption) return;
-    
+
     img.src = src;
     caption.innerText = titulo;
     modal.style.display = 'flex';
