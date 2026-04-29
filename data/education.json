@@ -754,20 +754,20 @@
       ]
     },
     {
-      "badge": "xxxx",
-      "categoria": "xxxx",
-      "emisor": "xxxx",
-      "marca": "xxx",
+      "badge": "yyy",
+      "categoria": "yyy",
+      "emisor": "yyy",
+      "marca": "yyyy",
       "puntos_clave": [
-        "xxx"
+        "yyyy"
       ],
       "roles": [
-        "xxx"
+        "yyyy"
       ],
       "skills": [
-        "xxx"
+        "yyyy"
       ],
-      "titulo": "xxxx"
+      "titulo": "yyy"
     }
   ]
 }
