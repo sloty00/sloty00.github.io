@@ -28,7 +28,7 @@ async function sincronizarDiplomas() {
     const grid = document.getElementById('grid-diplomas');
     if (!grid) return;
 
-    const url = `/certificaciones.json?v=${Date.now()}`;
+    const url = `/data/profile.json?v=${Date.now()}`;
     
     try {
         const res = await fetch(url);
