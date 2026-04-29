@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon Redshift Serverless AI-driven scaling is now the default for new workgroups",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-redshift-serverless-ai-driven-scaling-default/",
-    "date": "Mon, 27 Apr 2026 22:03:00 GMT"
+    "title": "AWS Glue 5.1 is now available in all AWS Commercial and AWS GovCloud (US) Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-glue-5-1-all-govcloud-commercial-regions/",
+    "date": "Tue, 28 Apr 2026 18:44:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS KMS now tracks last usage of all KMS keys",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-kms-tracks-last-usage-kms-keys/",
-    "date": "Mon, 27 Apr 2026 19:00:00 GMT"
+    "title": "AWS Cost Optimization Hub now supports CSV download",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-cost-optimization-hub-csv-download/",
+    "date": "Tue, 28 Apr 2026 17:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Redshift Serverless is now available in the AWS Asia Pacific (Melbourne) and Canada West (Calgary) regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-redshift-serverless-melbourne-calgary-regions/",
-    "date": "Mon, 27 Apr 2026 19:00:00 GMT"
+    "title": "Amazon WorkSpaces Personal enhances PCoIP to DCV protocol migration",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-workspaces-personal-pcoip/",
+    "date": "Tue, 28 Apr 2026 16:51:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,21 +73,33 @@
   },
   {
     "source": "suse_news",
+    "title": "Empowering Our Ecosystem: Enhancing Security and Sovereignty with SUSEID",
+    "link": "https://www.suse.com/c/empowering-our-ecosystem-enhancing-security-and-sovereignty-with-suseid/",
+    "date": "Tue, 28 Apr 2026 21:48:30 +0000"
+  },
+  {
+    "source": "suse_news",
+    "title": "Pushing the Limits of SAP Innovation: Join SUSE at SAP Sapphire Orlando 2026",
+    "link": "https://www.suse.com/c/pushing-the-limits-of-sap-innovation-join-suse-at-sap-sapphire-orlando-2026/",
+    "date": "Tue, 28 Apr 2026 15:07:53 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "The Green Heart of Open Source: Why Sustainability Drives Innovation",
     "link": "https://www.suse.com/c/why-sustainability-drives-innovation/",
     "date": "Tue, 28 Apr 2026 11:05:44 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "Beyond the Transition: Powering Private AI and Modern Virtualization for SAP",
-    "link": "https://www.suse.com/c/beyond-the-transition-powering-private-ai-and-modern-virtualization-for-sap/",
-    "date": "Tue, 28 Apr 2026 10:04:46 +0000"
+    "source": "broadcom_vmware",
+    "title": "Avi Load Balancer Analytics: Root Cause Application Performance Issues in Minutes",
+    "link": "https://blogs.vmware.com/load-balancing/2026/04/28/root-cause-app-performance-issues-in-minutes-with-avi/",
+    "date": "Tue, 28 Apr 2026 17:30:00 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "SLES 15 SP4 CC EAL4+ – the real value of Common Criteria",
-    "link": "https://www.suse.com/c/sles-15-sp4-cc-eal4-the-real-value-of-common-criteria/",
-    "date": "Mon, 27 Apr 2026 20:20:42 +0000"
+    "source": "broadcom_vmware",
+    "title": "Analyst Insight Series #3: Policy-Driven Governance and Multi-Tenant Control",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/04/28/analyst-insight-series-3-policy-driven-governance-and-multi-tenant-control/",
+    "date": "Tue, 28 Apr 2026 15:47:00 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -96,34 +108,22 @@
     "date": "Tue, 28 Apr 2026 12:00:00 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "Registration Is Live for Las Vegas | $ave with Early-Bird",
-    "link": "https://blogs.vmware.com/explore/registration-live-las-vegas/",
-    "date": "Tue, 28 Apr 2026 08:00:00 +0000"
+    "source": "veeam_intel",
+    "title": "Command the Expand: Why Edition Upsell and Veeam Vault Are Your Paths to Deeper Customer Engagement",
+    "link": "https://www.veeam.com/blog/command-the-expand-edition-upsell-veeam-vault-2026.html",
+    "date": "Tue, 28 Apr 2026 20:12:59 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "May 21, 2026: What’s New in VMware Tanzu Data Intelligence 10.4",
-    "link": "https://blogs.vmware.com/tanzu/may-21-2026-whats-new-in-vmware-tanzu-data-intelligence-10-4/",
-    "date": "Mon, 27 Apr 2026 16:46:25 +0000"
+    "source": "veeam_intel",
+    "title": "Trusted by Customers, Proven by Reviews: What Third-Party Recognition Says About Veeam",
+    "link": "https://www.veeam.com/blog/veeam-third-party-reviews-recognition.html",
+    "date": "Tue, 28 Apr 2026 14:40:35 +0000"
   },
   {
     "source": "veeam_intel",
     "title": "Winning under pressure: What the World Cup can teach every team about resilience",
     "link": "https://www.veeam.com/blog/resilience-lessons-it-teams-under-pressure.html",
     "date": "Fri, 24 Apr 2026 21:56:43 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Looking Ahead: How Veeam is Preparing for the Quantum Future",
-    "link": "https://www.veeam.com/blog/quantum-readiness-pqc.html",
-    "date": "Fri, 24 Apr 2026 15:11:58 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Scattered Spider and the Rise of Identity-Led Extortion",
-    "link": "https://www.veeam.com/blog/identity-led-extortion-scattered-spider-cyber-threats.html",
-    "date": "Wed, 22 Apr 2026 13:29:06 +0000"
   },
   {
     "source": "hackerrank",
