@@ -6,7 +6,7 @@ async function loadExperience() {
 
     try {
         // Usamos el truco del timestamp para evitar cache en actualizaciones
-        const response = await fetch(`/experiencia.json?v=${Date.now()}`);
+        const response = await fetch(`/data/experience.json?v=${Date.now()}`);
         const data = await response.json();
 
         container.innerHTML = data.map(item => `
