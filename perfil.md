@@ -9,7 +9,7 @@ permalink: /profile/
 <h1 align="center"><b>Jose Vargas Oyarzun</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="/assets/img/typing.svg?v=2" alt="Ingeniería y Roles" width="600">
+  <img src="assets/img/typing.svg?refresh=99" alt="Ingeniería" width="600">
 </p>
 
 <div class="perfil-profesional">
