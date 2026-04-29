@@ -3,7 +3,7 @@ async function forzarCarga() {
     const grid = document.getElementById('grid-proyectos');
     if (!grid) return;
 
-    const url = `/desarrollo.json?v=${Date.now()}`;
+    const url = `/data/projects.json?v=${Date.now()}`;
 
     try {
         const res = await fetch(url);
