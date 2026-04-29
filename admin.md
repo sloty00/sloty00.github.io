@@ -93,7 +93,7 @@ permalink: /admin/
 
   let currentData = [];
   let currentPage = 1;
-  let editIndex = null; // CONTROL DE EDICIÓN
+  let editIndex = null;
   const rowsPerPage = 10;
 
   const modules = {
@@ -152,12 +152,14 @@ permalink: /admin/
     const paginatedItems = currentData.slice(start, start + rowsPerPage);
 
     paginatedItems.forEach((item, index) => {
-      const realIndex = start + index; // Índice absoluto en el array
+      const realIndex = start + index;
       const row = document.createElement('tr');
       row.style.borderBottom = "1px solid #f1f5f9";
       let cells = cols.map(col => `<td style="padding: 15px 20px; color: #1e293b; font-size: 0.9rem;">${item[col] || 'N/A'}</td>`).join('');
-      row.innerHTML = `${cells}<td style="padding: 15px 20px; text-align: center;">
-        <button onclick="openEditModal(${realIndex})" style="background: #f59e0b; color: white; border: none; padding: 6px 12px; border-radius: 4px; cursor: pointer;">Edit</button>
+      
+      row.innerHTML = `${cells}<td style="padding: 15px 20px; text-align: center; display: flex; gap: 8px; justify-content: center;">
+        <button onclick="openEditModal(${realIndex})" style="background: #f59e0b; color: white; border: none; padding: 6px 12px; border-radius: 4px; cursor: pointer; font-weight: 600;">Edit</button>
+        <button onclick="deleteRecord(${realIndex})" style="background: #ef4444; color: white; border: none; padding: 6px 12px; border-radius: 4px; cursor: pointer; font-weight: 600;">Borrar</button>
       </td>`;
       tableBody.appendChild(row);
     });
@@ -204,7 +206,7 @@ permalink: /admin/
     
     modules[moduleKey].fields.forEach(field => {
       let value = item[field] || '';
-      if (Array.isArray(value)) value = value.join(', '); // Convertir arreglos a string para el input
+      if (Array.isArray(value)) value = value.join(', ');
       
       container.innerHTML += `<div>
         <label style="display:block; font-size:0.75rem; font-weight:700; color:#64748b; text-transform:uppercase; margin-bottom:4px;">${field.replace('_', ' ')}</label>
@@ -223,7 +225,6 @@ permalink: /admin/
     
     fields.forEach(f => {
       const val = document.getElementById(`field-${f}`).value;
-      // Convertir de nuevo a array si el campo lo requiere
       if (['stack', 'skills', 'roles', 'puntos_clave', 'categories', 'details'].includes(f)) {
         payloadData[f] = val ? val.split(',').map(s => s.trim()) : [];
       } else {
@@ -234,6 +235,16 @@ permalink: /admin/
     const action = (editIndex !== null) ? 'edit' : 'add';
     await syncToGitHub(action, payloadData, editIndex);
     closeModal();
+  }
+
+  async function deleteRecord(index) {
+    const moduleKey = document.getElementById('json-selector').value;
+    const item = currentData[index];
+    const identifier = item.nombre || item.titulo || item.title || "este registro";
+    
+    if (confirm(`⚠️ ¿ESTÁS SEGURO?\nVas a borrar permanentemente: "${identifier}"\nEsta acción activará un despliegue en GitHub.`)) {
+        await syncToGitHub('delete', {}, index);
+    }
   }
 
   async function syncToGitHub(action, payloadData, index = null) {
@@ -256,7 +267,7 @@ permalink: /admin/
         module: moduleKey,
         action: action,
         nested: moduleConfig.isNested || null,
-        index: index, // Enviamos el índice (será null si es 'add')
+        index: index,
         data: payloadData
       }
     };
