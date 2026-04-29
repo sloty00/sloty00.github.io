@@ -1,51 +1,45 @@
-<g transform="translate(300, 35)">
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="70" viewBox="0 0 600 70">
-  <defs>
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500');
-      
-      .text-base {
-        font-family: 'JetBrains Mono', monospace;
-        font-size: 25px;
-        fill: #334155;
-        text-anchor: middle;
-        dominant-baseline: middle;
-      }
-      
-      .cursor {
-        fill: #3b82f6;
-      }
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500');
+    
+    .text-base {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 25px;
+      fill: #334155;
+      text-anchor: middle;
+      dominant-baseline: middle;
+      opacity: 0;
+      animation: fadeInOut 12s infinite;
+    }
 
-      /* Esta técnica es inmune a la desinfección de GitHub */
-      @keyframes typing {
-        from { width: 0; }
-        to { width: 100%; }
-      }
-      
-      @keyframes blink {
-        50% { opacity: 0; }
-      }
-    </style>
-  </defs>
+    /* Animamos la opacidad de los textos en cadena */
+    @keyframes fadeInOut {
+      0%, 22% { opacity: 0; }
+      25%, 47% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+
+    .t2 { animation-delay: 3s; }
+    .t3 { animation-delay: 6s; }
+    .t4 { animation-delay: 9s; }
+
+    .cursor {
+      fill: #3b82f6;
+      animation: blink 0.8s infinite;
+    }
+
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+  </style>
 
   <g transform="translate(300, 35)">
+    <text x="0" y="0" class="text-base t1">Platform Engineer</text>
+    <text x="0" y="0" class="text-base t2">FullStack Developer</text>
+    <text x="0" y="0" class="text-base t3">DevSecOps Specialist</text>
+    <text x="0" y="0" class="text-base t4">Infrastructure Architect</text>
     
-    <svg x="-300" y="-35" width="600" height="70">
-      <defs>
-        <clipPath id="clip">
-          <rect x="0" y="0" width="100%" height="100%">
-            <animate attributeName="width" values="0; 600; 600; 0; 0" dur="15s" repeatCount="indefinite" begin="0s" />
-          </rect>
-        </clipPath>
-      </defs>
-      
-      <text x="300" y="35" class="text-base" clip-path="url(#clip)">
-        <tspan>Platform Engineer</tspan>
-        <tspan class="cursor"> |</tspan>
-      
-        <animate attributeName="text" values="Platform Engineer; FullStack Developer; DevSecOps Specialist; Infrastructure Architect; Platform Engineer" dur="15s" repeatCount="indefinite" />
-      </text>
-    </svg>
-  </svg>
-</g>
-
+    <rect x="160" y="-15" width="3" height="30" class="cursor" />
+  </g>
+</svg>
