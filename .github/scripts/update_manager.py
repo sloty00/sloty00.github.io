@@ -21,14 +21,13 @@ def update_bunker():
         print(f"❌ Error: El JSON recibido está mal formado: {e}")
         return
 
-    # 3. Extraer variables y Mapeo de Rutas (Ajustado a tu estructura)
+    # 3. Extraer variables y Mapeo de Rutas
     module = payload.get('module')
     action = payload.get('action')
     new_data = payload.get('data')
     nested_key = payload.get('nested')
     index = payload.get('index')
 
-    # Mapeo del 'value' del selector HTML hacia la ruta física en el repo
     files_map = {
         "desarrollo": "data/projects.json",
         "estudios": "data/education.json",
@@ -38,11 +37,11 @@ def update_bunker():
     file_path = files_map.get(module)
     
     if not file_path:
-        print(f"❌ Error: El módulo '{module}' no tiene un archivo mapeado en el sistema.")
+        print(f"❌ Error: El módulo '{module}' no tiene un archivo mapeado.")
         return
 
     if not os.path.exists(file_path):
-        print(f"❌ Error: El archivo {file_path} no existe en el repositorio.")
+        print(f"❌ Error: El archivo {file_path} no existe.")
         return
 
     # 4. LECTURA
@@ -50,36 +49,34 @@ def update_bunker():
         with open(file_path, 'r', encoding='utf-8') as f:
             content = json.load(f)
     except Exception as e:
-        print(f"❌ Error crítico leyendo el archivo actual: {e}")
+        print(f"❌ Error crítico leyendo el archivo: {e}")
         return
 
     # 5. DETERMINAR LISTA OBJETIVO
     if nested_key:
-        if not isinstance(content, dict) or nested_key not in content:
-            print(f"❌ Error: La estructura de {file_path} no contiene la llave '{nested_key}'")
-            return
-        target_list = content[nested_key]
+        target_list = content.get(nested_key, [])
     else:
-        if not isinstance(content, list):
-            print(f"❌ Error: El archivo {file_path} debería ser una lista [].")
-            return
         target_list = content
 
-    # 6. LÓGICA DE ACTUALIZACIÓN
+    # 6. LÓGICA DE ACTUALIZACIÓN (Ahora con DELETE)
     if action == 'add':
         target_list.append(new_data)
         print(f"✅ Registro añadido a {file_path}.")
 
-    elif action == 'edit':
+    elif action == 'edit' or action == 'delete':
         if index is None:
-            print("❌ Error: La acción 'edit' requiere un índice.")
+            print(f"❌ Error: La acción '{action}' requiere un índice.")
             return
         
         try:
             idx = int(index)
             if 0 <= idx < len(target_list):
-                target_list[idx] = new_data
-                print(f"✅ Registro en índice {idx} actualizado.")
+                if action == 'edit':
+                    target_list[idx] = new_data
+                    print(f"✅ Registro en índice {idx} actualizado.")
+                else: # action == 'delete'
+                    eliminado = target_list.pop(idx)
+                    print(f"✅ Registro eliminado en índice {idx}.")
             else:
                 print(f"❌ Error: Índice {idx} fuera de rango.")
                 return
@@ -93,9 +90,8 @@ def update_bunker():
     # 7. ESCRITURA FINAL
     try:
         with open(file_path, 'w', encoding='utf-8') as f:
-            # indent=2 suele ser estándar en Git para leer diffs fácilmente
             json.dump(content, f, indent=2, ensure_ascii=False)
-        print(f"🚀 Éxito: {file_path} actualizado correctamente.")
+        print(f"🚀 Éxito: {file_path} actualizado correctamente vía GitOps.")
     except Exception as e:
         print(f"❌ Error al guardar: {e}")
 
