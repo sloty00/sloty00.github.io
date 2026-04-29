@@ -1,0 +1,773 @@
+{
+  "certificaciones": [
+    {
+      "titulo": "AWS Storage Gateway Deep Dive",
+      "emisor": "AWS Training",
+      "badge": "Hybrid Cloud Architect",
+      "categoria": "infraestructura",
+      "marca": "aws",
+      "skills": [
+        "storage",
+        "cloud",
+        "hybrid"
+      ],
+      "roles": [
+        "architect",
+        "pre_sales"
+      ],
+      "puntos_clave": [
+        "Hybrid Storage",
+        "Performance Tuning",
+        "Data Integrity",
+        "Cloud Security"
+      ]
+    },
+    {
+      "titulo": "Data Management",
+      "emisor": "Google Cloud",
+      "badge": "Cloud Engineer",
+      "categoria": "infraestructura",
+      "marca": "google",
+      "skills": [
+        "cloud",
+        "storage",
+        "security"
+      ],
+      "roles": [
+        "engineer"
+      ],
+      "puntos_clave": [
+        "Object Storage",
+        "Cloud SDK / gsutil",
+        "Bucket Lock (WORM)",
+        "Data Integrity"
+      ]
+    },
+    {
+      "titulo": "Sophos Firewall V20.0 Architect (AT80)",
+      "emisor": "Sophos Partner",
+      "badge": "Network Architect",
+      "categoria": "ciberseguridad",
+      "marca": "sophos",
+      "skills": [
+        "security",
+        "networking",
+        "automation"
+      ],
+      "roles": [
+        "architect"
+      ],
+      "puntos_clave": [
+        "XGS Architecture",
+        "SD-WAN & Routing",
+        "Deep Packet Inspection",
+        "High Availability"
+      ]
+    },
+    {
+      "titulo": "Sophos Endpoint Architect V6.0 (AT15)",
+      "emisor": "Sophos Partner",
+      "badge": "Endpoint Architect",
+      "categoria": "ciberseguridad",
+      "marca": "sophos",
+      "skills": [
+        "security",
+        "cloud"
+      ],
+      "roles": [
+        "architect"
+      ],
+      "puntos_clave": [
+        "Advanced Design",
+        "XDR Strategy",
+        "Server Protection",
+        "Migration"
+      ]
+    },
+    {
+      "titulo": "Sophos Firewall: Engineer (ET80)",
+      "emisor": "Sophos Partner",
+      "badge": "Technical Engineer",
+      "categoria": "ciberseguridad",
+      "marca": "sophos",
+      "skills": [
+        "security",
+        "networking"
+      ],
+      "roles": [
+        "engineer"
+      ],
+      "puntos_clave": [
+        "Deployment",
+        "Policy Mgmt",
+        "VPN Services",
+        "Traffic Analysis"
+      ]
+    },
+    {
+      "titulo": "Detection & Response Engineer (XDR)",
+      "emisor": "Sophos Partner",
+      "badge": "SOC & Incident Response",
+      "categoria": "ciberseguridad",
+      "marca": "sophos",
+      "skills": [
+        "security",
+        "automation",
+        "analyst"
+      ],
+      "roles": [
+        "engineer",
+        "analyst"
+      ],
+      "puntos_clave": [
+        "Threat Hunting",
+        "XDR Queries",
+        "Incident Response",
+        "Root Cause Analysis"
+      ]
+    },
+    {
+      "titulo": "Sophos Endpoint & Central Engineer",
+      "emisor": "Sophos Partner",
+      "badge": "Central Management",
+      "categoria": "ciberseguridad",
+      "marca": "sophos",
+      "skills": [
+        "security",
+        "cloud"
+      ],
+      "roles": [
+        "engineer"
+      ],
+      "puntos_clave": [
+        "Central Admin",
+        "Policy Setup",
+        "Deployment",
+        "Alert Mgmt"
+      ]
+    },
+    {
+      "titulo": "Sales Fundamentals & Selling Sophos",
+      "emisor": "Sophos Sales Consultant",
+      "badge": "Sales Strategy",
+      "categoria": "ciberseguridad",
+      "marca": "sophos",
+      "skills": [
+        "security",
+        "sales"
+      ],
+      "roles": [
+        "sales",
+        "consultant"
+      ],
+      "puntos_clave": [
+        "Consultoría Técnica",
+        "Value Proposition",
+        "Market Analysis",
+        "Quick Start"
+      ]
+    },
+    {
+      "titulo": "Winning with Network & Endpoint",
+      "emisor": "Sophos Partner",
+      "badge": "Competitive Intelligence",
+      "categoria": "ciberseguridad",
+      "marca": "sophos",
+      "skills": [
+        "security",
+        "networking",
+        "sales"
+      ],
+      "roles": [
+        "pre_sales",
+        "consultant"
+      ],
+      "puntos_clave": [
+        "XGS & SD-WAN",
+        "Intercept X",
+        "Competitive Edge",
+        "Solution Design"
+      ]
+    },
+    {
+      "titulo": "Veeam Certified Engineer (VMCE12)",
+      "emisor": "Veeam Partner",
+      "badge": "Cloud & MSP Architect",
+      "categoria": "infraestructura",
+      "marca": "veeam",
+      "skills": [
+        "storage",
+        "cloud",
+        "hybrid"
+      ],
+      "roles": [
+        "architect",
+        "pre_sales"
+      ],
+      "puntos_clave": [
+        "Cloud Connect",
+        "Multi-Tenancy",
+        "VSPC Admin",
+        "Scalable Architecture"
+      ]
+    },
+    {
+      "titulo": "Veeam Certified Engineer (VMCE11)",
+      "emisor": "Veeam Partner",
+      "badge": "Backup Specialist",
+      "categoria": "infraestructura",
+      "marca": "veeam",
+      "skills": [
+        "storage",
+        "security"
+      ],
+      "roles": [
+        "engineer"
+      ],
+      "puntos_clave": [
+        "Core Architecture",
+        "Instant Recovery",
+        "WAN Acceleration",
+        "RPO/RTO Governance"
+      ]
+    },
+    {
+      "titulo": "VTS: Service Provider Full Stack",
+      "emisor": "Veeam Partner",
+      "badge": "Full Stack Specialist",
+      "categoria": "infraestructura",
+      "marca": "veeam",
+      "skills": [
+        "cloud",
+        "hybrid",
+        "networking"
+      ],
+      "roles": [
+        "architect",
+        "engineer"
+      ],
+      "puntos_clave": [
+        "Multi-Cloud Native",
+        "SaaS Protection",
+        "DRaaS & BaaS",
+        "Offsite Backup"
+      ]
+    },
+    {
+      "titulo": "VTS: Cybersecurity & DR",
+      "emisor": "Veeam Partner",
+      "badge": "Cyber-Resilience Expert",
+      "categoria": "infraestructura",
+      "marca": "veeam",
+      "skills": [
+        "security",
+        "kubernetes",
+        "storage"
+      ],
+      "roles": [
+        "architect",
+        "engineer"
+      ],
+      "puntos_clave": [
+        "Immutability",
+        "Kasten K10 (K8s)",
+        "DR Orchestration",
+        "Hybrid Cloud Defense"
+      ]
+    },
+    {
+      "titulo": "Veeam Technical Sales Professional",
+      "emisor": "Veeam Partner",
+      "badge": "Pre-Sales Specialist",
+      "categoria": "infraestructura",
+      "marca": "veeam",
+      "skills": [
+        "storage",
+        "sales"
+      ],
+      "roles": [
+        "pre_sales",
+        "engineer"
+      ],
+      "puntos_clave": [
+        "Sizing Solutions",
+        "PoC Execution",
+        "Competitive Analysis",
+        "Solution Mapping"
+      ]
+    },
+    {
+      "titulo": "Veeam Sales Professional (VMSP)",
+      "emisor": "Veeam Partner",
+      "badge": "Sales & Strategy",
+      "categoria": "infraestructura",
+      "marca": "veeam",
+      "skills": [
+        "sales"
+      ],
+      "roles": [
+        "sales",
+        "consultant"
+      ],
+      "puntos_clave": [
+        "ROI & TCO",
+        "Licensing (VUL)",
+        "Market Strategy",
+        "Business Continuity"
+      ]
+    },
+    {
+      "titulo": "AZ-400: DevOps Solutions",
+      "emisor": "Microsoft Learn",
+      "badge": "DevOps & SRE Expert",
+      "categoria": "infraestructura",
+      "marca": "microsoft",
+      "skills": [
+        "automation",
+        "cloud",
+        "devops"
+      ],
+      "roles": [
+        "devops",
+        "architect"
+      ],
+      "puntos_clave": [
+        "CI/CD Pipelines",
+        "IaC (Terraform)",
+        "DevSecOps",
+        "SRE & Monitoring"
+      ]
+    },
+    {
+      "titulo": "GitHub Advanced Security (GHAS)",
+      "emisor": "Microsoft/GitHub",
+      "badge": "AppSec & DevSecOps",
+      "categoria": "ciberseguridad",
+      "marca": "microsoft",
+      "skills": [
+        "security",
+        "automation"
+      ],
+      "roles": [
+        "engineer",
+        "devops"
+      ],
+      "puntos_clave": [
+        "CodeQL (SAST)",
+        "Secret Scanning",
+        "Supply Chain Security",
+        "Dependabot"
+      ]
+    },
+    {
+      "titulo": "GitHub Actions I - II",
+      "emisor": "Microsoft/GitHub",
+      "badge": "Automation Engineer",
+      "categoria": "programacion",
+      "marca": "microsoft",
+      "skills": [
+        "automation"
+      ],
+      "roles": [
+        "engineer",
+        "devops"
+      ],
+      "puntos_clave": [
+        "Workflows",
+        "Custom Actions",
+        "Marketplace",
+        "Secrets Mgmt"
+      ]
+    },
+    {
+      "titulo": "Data Prep with Power BI",
+      "emisor": "Microsoft Learn",
+      "badge": "Data Analytics",
+      "categoria": "programacion",
+      "marca": "microsoft",
+      "skills": [
+        "sql",
+        "analyst"
+      ],
+      "roles": [
+        "analyst"
+      ],
+      "puntos_clave": [
+        "Power Query ETL",
+        "Data Modeling",
+        "Data Quality",
+        "DAX Basics"
+      ]
+    },
+    {
+      "titulo": "Frontend Developer React",
+      "emisor": "HackerRank",
+      "badge": "Frontend Expert",
+      "categoria": "programacion",
+      "marca": "hackerrank",
+      "skills": [
+        "automation"
+      ],
+      "roles": [
+        "engineer"
+      ],
+      "puntos_clave": [
+        "Advanced Hooks",
+        "Lifecycle",
+        "State Mgmt",
+        "Best Practices"
+      ]
+    },
+    {
+      "titulo": "Software Engineer Certified",
+      "emisor": "HackerRank",
+      "badge": "Engineering",
+      "categoria": "programacion",
+      "marca": "hackerrank",
+      "skills": [
+        "sql",
+        "automation"
+      ],
+      "roles": [
+        "engineer"
+      ],
+      "puntos_clave": [
+        "Problem Solving",
+        "Data Structures",
+        "Code Efficiency",
+        "Logic"
+      ]
+    },
+    {
+      "titulo": "SQL Advanced Certified",
+      "emisor": "HackerRank",
+      "badge": "Data Engineering",
+      "categoria": "programacion",
+      "marca": "hackerrank",
+      "skills": [
+        "sql"
+      ],
+      "roles": [
+        "analyst",
+        "engineer"
+      ],
+      "puntos_clave": [
+        "Optimization",
+        "Window Functions",
+        "Advanced Joins",
+        "Indexing"
+      ]
+    },
+    {
+      "titulo": "Tanzu: K8s Fundamentals",
+      "emisor": "VMware",
+      "badge": "Cloud Native",
+      "categoria": "infraestructura",
+      "marca": "broadcom",
+      "skills": [
+        "kubernetes",
+        "cloud",
+        "automation"
+      ],
+      "roles": [
+        "architect",
+        "engineer"
+      ],
+      "puntos_clave": [
+        "K8s Operations",
+        "Tanzu Edition",
+        "Containerization",
+        "DevOps Flow"
+      ]
+    },
+    {
+      "titulo": "Data Center Virtualization",
+      "emisor": "VMware",
+      "badge": "Virtualization Expert",
+      "categoria": "infraestructura",
+      "marca": "broadcom",
+      "skills": [
+        "cloud",
+        "storage",
+        "networking"
+      ],
+      "roles": [
+        "engineer",
+        "architect"
+      ],
+      "puntos_clave": [
+        "vSphere HA & DRS",
+        "Fault Tolerance",
+        "Optimization",
+        "vMotion"
+      ]
+    },
+    {
+      "titulo": "Virtual Cloud Network",
+      "emisor": "VMware",
+      "badge": "Network Virtualization",
+      "categoria": "infraestructura",
+      "marca": "broadcom",
+      "skills": [
+        "networking",
+        "security",
+        "cloud"
+      ],
+      "roles": [
+        "architect",
+        "engineer"
+      ],
+      "puntos_clave": [
+        "VMware NSX",
+        "Hybrid Cloud",
+        "Micro-segmentación",
+        "Agility"
+      ]
+    },
+    {
+      "titulo": "C++ Advanced",
+      "emisor": "Cisco Academy",
+      "badge": "Systems Programming",
+      "categoria": "programacion",
+      "marca": "cisco",
+      "skills": [
+        "automation"
+      ],
+      "roles": [
+        "engineer"
+      ],
+      "puntos_clave": [
+        "STL Mastery",
+        "Templates",
+        "Memory Mgmt",
+        "Concurrency"
+      ]
+    },
+    {
+      "titulo": "Linux Professional Series",
+      "emisor": "Cisco / NDG",
+      "badge": "Linux SysAdmin",
+      "categoria": "infraestructura",
+      "marca": "cisco",
+      "skills": [
+        "automation",
+        "security",
+        "networking"
+      ],
+      "roles": [
+        "engineer",
+        "analyst"
+      ],
+      "puntos_clave": [
+        "CLI Mastery",
+        "Hardening",
+        "Network Services",
+        "Architecture"
+      ]
+    },
+    {
+      "titulo": "Ethical Hacker",
+      "emisor": "Cisco / UTP",
+      "badge": "Offensive Security",
+      "categoria": "ciberseguridad",
+      "marca": "cisco",
+      "skills": [
+        "security",
+        "analyst"
+      ],
+      "roles": [
+        "analyst",
+        "engineer"
+      ],
+      "puntos_clave": [
+        "Post-Explotación",
+        "Cyber Games",
+        "Physical Security",
+        "Vulnerability"
+      ]
+    },
+    {
+      "titulo": "Network Technician",
+      "emisor": "Cisco Academy",
+      "badge": "Network Defense",
+      "categoria": "ciberseguridad",
+      "marca": "cisco",
+      "skills": [
+        "networking",
+        "security"
+      ],
+      "roles": [
+        "engineer"
+      ],
+      "puntos_clave": [
+        "Connectivity",
+        "Endpoint Security",
+        "Threat Landscape",
+        "Policies"
+      ]
+    },
+    {
+      "titulo": "FortiOS 7.6 Administrator",
+      "emisor": "Fortinet",
+      "badge": "Network Security",
+      "categoria": "ciberseguridad",
+      "marca": "fortinet",
+      "skills": [
+        "security",
+        "networking"
+      ],
+      "roles": [
+        "engineer",
+        "architect"
+      ],
+      "puntos_clave": [
+        "FortiOS 7.6",
+        "NGFW Control",
+        "SD-WAN",
+        "Security Fabric"
+      ]
+    },
+    {
+      "titulo": "Cybersecurity Associate",
+      "emisor": "Fortinet",
+      "badge": "Security Associate",
+      "categoria": "ciberseguridad",
+      "marca": "fortinet",
+      "skills": [
+        "security",
+        "sales"
+      ],
+      "roles": [
+        "analyst",
+        "consultant"
+      ],
+      "puntos_clave": [
+        "Network Defense",
+        "Fortinet Solutions",
+        "Threat Intel",
+        "Ops Management"
+      ]
+    },
+    {
+      "titulo": "Partner Support: Rancher/SLES",
+      "emisor": "SUSE Partner",
+      "badge": "Tier 2 Support",
+      "categoria": "infraestructura",
+      "marca": "suse",
+      "skills": [
+        "cloud",
+        "kubernetes"
+      ],
+      "roles": [
+        "engineer",
+        "consultant"
+      ],
+      "puntos_clave": [
+        "SUSE Rancher",
+        "SLES Admin",
+        "Troubleshooting",
+        "Consultancy"
+      ]
+    },
+    {
+      "titulo": "Web Fullstack (MERN)",
+      "emisor": "Udemy",
+      "badge": "Fullstack Dev",
+      "categoria": "programacion",
+      "marca": "udemy",
+      "skills": [
+        "automation",
+        "sql"
+      ],
+      "roles": [
+        "engineer",
+        "devops"
+      ],
+      "puntos_clave": [
+        "MERN Stack",
+        "JS Mastery",
+        "Tailwind CSS",
+        "API Design"
+      ]
+    },
+    {
+      "titulo": "K8s & Veeam V12",
+      "emisor": "Udemy",
+      "badge": "Backup & Recovery",
+      "categoria": "infraestructura",
+      "marca": "udemy",
+      "skills": [
+        "kubernetes",
+        "storage",
+        "cloud"
+      ],
+      "roles": [
+        "engineer",
+        "devops"
+      ],
+      "puntos_clave": [
+        "K8s Orchestration",
+        "Veeam V12",
+        "Disaster Recovery",
+        "VMCE Alignment"
+      ]
+    },
+    {
+      "titulo": "AutoCAD 2023 MasterClass",
+      "emisor": "Udemy",
+      "badge": "CAD Design",
+      "categoria": "civil",
+      "marca": "udemy",
+      "skills": [
+        "automation"
+      ],
+      "roles": [
+        "analyst"
+      ],
+      "puntos_clave": [
+        "Precision Drafting",
+        "3D Modeling",
+        "Project Mgmt",
+        "Standardization"
+      ]
+    },
+    {
+      "titulo": "Monitorización con Nagios",
+      "emisor": "Udemy",
+      "badge": "Infrastructure Monitoring",
+      "categoria": "infraestructura",
+      "marca": "udemy",
+      "skills": [
+        "automation",
+        "networking",
+        "analyst"
+      ],
+      "roles": [
+        "analyst",
+        "engineer"
+      ],
+      "puntos_clave": [
+        "Host/Service Monitoring",
+        "Custom Plugins",
+        "SNMP Integration",
+        "Alert Escalation"
+      ]
+    },
+    {
+      "badge": "yyy",
+      "categoria": "yyy",
+      "emisor": "yyy",
+      "marca": "yyyy",
+      "puntos_clave": [
+        "yyyy"
+      ],
+      "roles": [
+        "yyyy"
+      ],
+      "skills": [
+        "yyyy"
+      ],
+      "titulo": "yyy"
+    }
+  ]
+}
