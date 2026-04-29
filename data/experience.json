@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Ingeniero TI",
+    "period": "Septiembre 2022 - Julio 2024 / Puerto Montt",
+    "company": "CASS S.A",
+    "categories": "infrastructure software architecture cyber posts",
+    "details": [
+      "Lideré el anteproyecto de arquitectura e implementación del sistema de respaldo empresarial basado en Veeam Backup y Replication, utilizando diseño de infraestructura y Block GIS del fabricante para Salmones Austral.",
+      "Liderazgo en la arquitectura e implementación de sistemas operativos SUSE Linux Enterprise sobre entornos VMware vSphere, aplicando técnicas de Thin Provisioning (aprovisionamiento fino) para la optimización del almacenamiento físico. Gestión avanzada de almacenamiento lógico mediante LVM (Logical Volume Management), permitiendo el escalado y aumento de discos virtuales y sistemas de archivos en caliente (on-the-fly) para garantizar la disponibilidad continua del servicio. Configuración de redes virtuales para asegurar conectividad de alta velocidad y baja latencia entre nodos críticos de la infraestructura.",
+      "Administración y despliegue de microservicios mediante contenedores Docker y orquestación en clústeres de Kubernetes, facilitando la portabilidad y escalabilidad de aplicaciones empresariales. Implementación de flujos de trabajo basados en contenedores para la modernización de servicios, asegurando entornos de ejecución aislados, eficientes y alineados con arquitecturas de infraestructura moderna.",
+      "Desplegué y administré plataformas internas de colaboración y operaciones: Rocket.Chat, GLPI, OwnCloud, BIND DNS, Documize y RustDesk.",
+      "Creación y despliegue de un Relay de correo para cass.cl.",
+      "Implementé una plataforma completa de monitoreo y observabilidad basada en Nagios, Prometheus y Grafana, integrando monitoreo vía SNMP y NRPE en servidores y dispositivos de red.",
+      "Implementé servicios críticos de infraestructura incluyendo servidor DNS, relay de correo y repositorios internos en entornos empresariales Linux.",
+      "Diseñé un repositorio inmutable en SUSE para integrarse con Veeam Backup y Replication, optimizando la seguridad y resiliencia del sistema de respaldos.",
+      "Administré y mantuve soluciones de ciberseguridad perimetral y endpoint utilizando Sophos UTM y Sophos XDR, actuando como ingeniero de soporte de última línea para resolución de incidentes complejos.",
+      "Repliqué y configuré infraestructuras de firewall basadas en pfSense, asegurando continuidad operativa y consistencia de políticas de seguridad.",
+      "Desarrolle una aplicación empresarial para gestión de operaciones (personal,vehículos, permisos, vacaciones y checklist) utilizando Node.js, Prisma ORM, MySQL y frontend en React con Material UI, incluyendo autenticación con JWT, Active Directory ademas de paginación en backend."
+    ]
+  },
+  {
+    "title": "Analista de Software Senior",
+    "period": "Marzo 2022 - Junio 2022 / Puerto Montt",
+    "company": "Bicom",
+    "categories": "software posts",
+    "details": [
+      "Diseñé y desarrollé una API de comercio electrónico para Bicom y sus clientes utilizando Node.js, enfocada en escalabilidad, integración con servicios externos y gestión eficiente de datos.",
+      "Desarrollé componentes y servicios backend en Node.js, integrando APIs y optimizando el rendimiento de la plataforma educativa. Participé en la planificación técnica y evolución de la plataforma, aplicando buenas prácticas de desarrollo y metodologías ágiles."
+    ]
+  },
+  {
+    "title": "Inspector de Proyectos",
+    "period": "Abril 2019 - Marzo 2020 / Puerto Montt",
+    "company": "SAESA",
+    "categories": "design architecture posts",
+    "details": [
+      "Gestioné proyectos eléctricos, prepare las carpetas para permisos de la SEC y cree las órdenes de trabajo. Cubique servidumbre y avalue proyectos utilizando el software Valorizador en Citrix. Implemente un sistema de geolocalización y dibujo en congruencia con GPS, utilizando Google Maps para proyectos de infraestructura eléctrica.",
+      "Gestione la integración de tecnologías de mapeo para garantizar la precisión en los cálculos de ubicación y trazado de cables eléctricos."
+    ]
+  },
+  {
+    "title": "Desarrollador de Software",
+    "period": "Enero 2017 - Presente / Puerto Montt",
+    "company": "Varto INC",
+    "categories": "software posts",
+    "details": [
+      "Desarrollo de software de monitoreo remoto.",
+      "Implementación de seguimiento en línea para clientes."
+    ]
+  },
+  {
+    "title": "Desarrollador de Software",
+    "period": "Marzo 2016 - Enero 2017 / Frutillar",
+    "company": "Mirador de Frutillar",
+    "categories": "software posts",
+    "details": [
+      "Desarrolle un software de gestión utilizando Java SE.",
+      "Cree una página web autoadministrable con PHP, HTML5, JavaScript y CSS."
+    ]
+  },
+  {
+    "title": "Inspector de Proyectos",
+    "period": "Marzo 2012 - Marzo 2016 / Puerto Montt",
+    "company": "Telefonica del Sur/GTD",
+    "categories": "design architecture posts",
+    "details": [
+      "Lidere levantamiento de proyectos y cree planos de demanda Inmobiliaria. Desarrolle proyectos de Telecomunicaciones y elaboraba documentos \"As-Built\".",
+      "Gestione los permisos hacia Saesa y municipalidad y cubique/Avalue proyectos."
+    ]
+  },
+  {
+    "title": "Ingeniero TI",
+    "period": "Enero 2010 - Marzo 2012 / Puerto Montt",
+    "company": "Consultora KB",
+    "categories": "infrastructure posts",
+    "details": [
+      "Levante y mantuve servidores y provisión soporte técnico en IT.",
+      "Implemente y lidere diferentes proyectos IT."
+    ]
+  },
+  {
+    "title": "Ingeniero TI",
+    "period": "Marzo 2008 - Junio 2009 / Alerce",
+    "company": "Escuela Rural Alerce Histórico",
+    "categories": "infrastructure architecture posts",
+    "details": [
+      "Implementé un programa de reciclaje de computadoras, aprovechando componentes obsoletos para armar equipos funcionales. Monté un entorno de computación en red utilizando terminales tontos (LTSP) que se iniciaban através de la red, optimizando los recursos disponibles y reduciendo costos. Instalé y configuré una versión oficial de Windows XP Thin en computadoras con discos duros pequeños,asegurando un rendimiento óptimo en un entorno educativo.",
+      "Realice el diseño y configuración de sistemas de redes. Implemente y organice servidores Linux y Provisión de soporte técnico en IT"
+    ]
+  },
+  {
+    "title": "Tecnico Informatico",
+    "period": "Marzo 1998 - Marzo 2008 / Dalcahue",
+    "company": "NodeBug",
+    "categories": "infrastructure software posts",
+    "details": [
+      "Provisión de soporte Informático y desarrollo de programas en VB6.",
+      "Realicearreglos electrónicos ademas de Provisión de soporte técnico."
+    ]
+  }
+]
