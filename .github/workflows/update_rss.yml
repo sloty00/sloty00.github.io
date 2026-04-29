@@ -1,8 +1,15 @@
 name: Update Partner Intelligence Feed
+
 on:
   schedule:
     - cron: '0 */12 * * *' # Se ejecuta cada 12 horas
-  workflow_dispatch: # Permite ejecutarlo manualmente para pruebas
+  workflow_dispatch: # Permite ejecución manual desde la pestaña Actions
+
+# Permisos necesarios para que el bot haga push y dispare el despliegue
+permissions:
+  contents: write
+  pages: write
+  id-token: write
 
 jobs:
   build:
@@ -10,6 +17,8 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Asegura que tengamos el historial para evitar conflictos
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -23,8 +32,24 @@ jobs:
         run: python fetch_rss.py
 
       - name: Commit and Push if changed
+        id: commit_step
         run: |
           git config --global user.name "Bunker-Bot"
           git config --global user.email "bot@jovargas.cl"
           git add _data/soc_feed.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "SOC: Actualización de señales de Partners [Automático]" && git push)
+          # Si no hay cambios, no hace nada; si los hay, hace commit y push
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            git commit -m "SOC: Actualización de señales de Partners [Automático]"
+            git push
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      # Forzar la reconstrucción de GitHub Pages para actualizar el RSS y el sitio
+      - name: Trigger GitHub Pages Deploy
+        if: steps.commit_step.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
