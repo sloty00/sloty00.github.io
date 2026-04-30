@@ -1,6 +1,12 @@
 [
   {
     "source": "sophos_threat",
+    "title": "'Mini Shai-Hulud' supply chain attack targets SAP npm packages",
+    "link": "https://www.sophos.com/en-us/blog/-mini-shai-hulud-supply-chain-attack-targets-sap-npm-packages",
+    "date": "Wed, 29 Apr 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "Supply chain attacks hit Checkmarx and Bitwarden developer tools",
     "link": "https://www.sophos.com/en-us/blog/supply-chain-attacks-hit-checkmarx-and-bitwarden-developer-tools",
     "date": "Fri, 24 Apr 2026 00:00:00 GMT"
@@ -10,12 +16,6 @@
     "title": "Microsoft addresses 163 CVEs, 88 advisories for April Patch Tuesday",
     "link": "https://www.sophos.com/en-us/blog/april-2026-microsoft-patch-tuesday",
     "date": "Fri, 17 Apr 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "QEMU abused to evade detection and enable ransomware delivery",
-    "link": "https://www.sophos.com/en-us/blog/qemu-abused-to-evade-detection-and-enable-ransomware-delivery",
-    "date": "Thu, 16 Apr 2026 00:00:00 GMT"
   },
   {
     "source": "sophos_ops",
@@ -73,21 +73,27 @@
   },
   {
     "source": "suse_news",
-    "title": "Empowering Our Ecosystem: Enhancing Security and Sovereignty with SUSEID",
-    "link": "https://www.suse.com/c/empowering-our-ecosystem-enhancing-security-and-sovereignty-with-suseid/",
-    "date": "Tue, 28 Apr 2026 21:48:30 +0000"
+    "title": "Addressing copy.fail in SUSE Virtualization",
+    "link": "https://www.suse.com/c/addressing-copy-fail-in-suse-virtualization/",
+    "date": "Thu, 30 Apr 2026 09:32:56 +0000"
   },
   {
     "source": "suse_news",
-    "title": "Pushing the Limits of SAP Innovation: Join SUSE at SAP Sapphire Orlando 2026",
-    "link": "https://www.suse.com/c/pushing-the-limits-of-sap-innovation-join-suse-at-sap-sapphire-orlando-2026/",
-    "date": "Tue, 28 Apr 2026 15:07:53 +0000"
+    "title": "The Path to Data Sovereignty: CYBERTEC and SUSE Unite for Open Source",
+    "link": "https://www.suse.com/c/the-path-to-data-sovereignty-cybertec-and-suse-unite-for-open-source/",
+    "date": "Thu, 30 Apr 2026 09:03:51 +0000"
   },
   {
     "source": "suse_news",
-    "title": "The Green Heart of Open Source: Why Sustainability Drives Innovation",
-    "link": "https://www.suse.com/c/why-sustainability-drives-innovation/",
-    "date": "Tue, 28 Apr 2026 11:05:44 +0000"
+    "title": "SUSE responds to the copy.fail vulnerability",
+    "link": "https://www.suse.com/c/suse-responds-to-the-copy-fail-vulnerability/",
+    "date": "Thu, 30 Apr 2026 07:13:35 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "The New Frontier: Leading the Cloud-Native Evolution",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/04/30/the-new-frontier-leading-the-cloud-native-evolution/",
+    "date": "Thu, 30 Apr 2026 13:00:00 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -100,12 +106,6 @@
     "title": "Webinar Recap: Design and Architecture Considerations for VMware vSphere Kubernetes Service on VMware Cloud Foundation",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/04/29/webinar-recap-design-and-architecture-considerations-for-vmware-vsphere-kubernetes-service-on-vmware-cloud-foundation/",
     "date": "Wed, 29 Apr 2026 15:23:44 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Kubernetes 1.36: What Actually Changed for Enterprise Platforms",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/04/29/kubernetes-1-36-what-actually-changed-for-enterprise-platforms/",
-    "date": "Wed, 29 Apr 2026 15:05:00 +0000"
   },
   {
     "source": "veeam_intel",
