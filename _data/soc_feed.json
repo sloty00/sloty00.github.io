@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS Glue 5.1 is now available in all AWS Commercial and AWS GovCloud (US) Regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-glue-5-1-all-govcloud-commercial-regions/",
-    "date": "Tue, 28 Apr 2026 18:44:00 GMT"
+    "title": "Amazon RDS for MySQL announces Innovation Release 9.6 in Amazon RDS Database Preview Environment",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-rds-mysql-innovation/",
+    "date": "Wed, 29 Apr 2026 20:37:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Cost Optimization Hub now supports CSV download",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-cost-optimization-hub-csv-download/",
-    "date": "Tue, 28 Apr 2026 17:00:00 GMT"
+    "title": "Amazon DocumentDB (with MongoDB compatibility) is Now Available in the Canada West (Calgary) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-documentdb-available-in-canada-west-region/",
+    "date": "Wed, 29 Apr 2026 18:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon WorkSpaces Personal enhances PCoIP to DCV protocol migration",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-workspaces-personal-pcoip/",
-    "date": "Tue, 28 Apr 2026 16:51:00 GMT"
+    "title": "Amazon CloudFront now supports invalidation by cache tag",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/cloudfront-invalidation-cache-tag/",
+    "date": "Wed, 29 Apr 2026 17:06:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -91,21 +91,21 @@
   },
   {
     "source": "broadcom_vmware",
-    "title": "Enhance Lateral Security and Ingress Load Balancing for Kubernetes Workloads",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/04/29/avi-and-vdefend-for-vsphere-kubernetes-service/",
-    "date": "Wed, 29 Apr 2026 13:00:00 +0000"
+    "title": "Replicating VMware vSphere Configuration Profile Desired State",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/04/29/replicating-vsphere-configuration-profile-desired-state/",
+    "date": "Wed, 29 Apr 2026 18:03:11 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Avi Load Balancer Analytics: Root Cause Application Performance Issues in Minutes",
-    "link": "https://blogs.vmware.com/load-balancing/2026/04/28/root-cause-app-performance-issues-in-minutes-with-avi/",
-    "date": "Tue, 28 Apr 2026 17:30:00 +0000"
+    "title": "Webinar Recap: Design and Architecture Considerations for VMware vSphere Kubernetes Service on VMware Cloud Foundation",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/04/29/webinar-recap-design-and-architecture-considerations-for-vmware-vsphere-kubernetes-service-on-vmware-cloud-foundation/",
+    "date": "Wed, 29 Apr 2026 15:23:44 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Analyst Insight Series #3: Policy-Driven Governance and Multi-Tenant Control",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/04/28/analyst-insight-series-3-policy-driven-governance-and-multi-tenant-control/",
-    "date": "Tue, 28 Apr 2026 15:47:00 +0000"
+    "title": "Kubernetes 1.36: What Actually Changed for Enterprise Platforms",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/04/29/kubernetes-1-36-what-actually-changed-for-enterprise-platforms/",
+    "date": "Wed, 29 Apr 2026 15:05:00 +0000"
   },
   {
     "source": "veeam_intel",
@@ -115,15 +115,15 @@
   },
   {
     "source": "veeam_intel",
-    "title": "Trusted by Customers, Proven by Reviews: What Third-Party Recognition Says About Veeam",
-    "link": "https://www.veeam.com/blog/veeam-third-party-reviews-recognition.html",
-    "date": "Tue, 28 Apr 2026 14:40:35 +0000"
+    "title": "Veeam Extends Our #1 Market Share in Data Protection Software, Growing Faster Than the Top 5 in the Category",
+    "link": "https://www.veeam.com/blog/idc-data-protection-market-share-tracker.html",
+    "date": "Tue, 28 Apr 2026 15:26:00 +0000"
   },
   {
     "source": "veeam_intel",
-    "title": "Winning under pressure: What the World Cup can teach every team about resilience",
-    "link": "https://www.veeam.com/blog/resilience-lessons-it-teams-under-pressure.html",
-    "date": "Fri, 24 Apr 2026 21:56:43 +0000"
+    "title": "Trusted by Customers, Proven by Reviews: What Third-Party Recognition Says About Veeam",
+    "link": "https://www.veeam.com/blog/veeam-third-party-reviews-recognition.html",
+    "date": "Tue, 28 Apr 2026 14:40:35 +0000"
   },
   {
     "source": "hackerrank",
