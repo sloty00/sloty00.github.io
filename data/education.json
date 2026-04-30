@@ -752,22 +752,6 @@
         "SNMP Integration",
         "Alert Escalation"
       ]
-    },
-    {
-      "badge": "yyy",
-      "categoria": "yyy",
-      "emisor": "yyy",
-      "marca": "yyyy",
-      "puntos_clave": [
-        "yyyy"
-      ],
-      "roles": [
-        "yyyy"
-      ],
-      "skills": [
-        "yyyy"
-      ],
-      "titulo": "yyy"
     }
   ]
 }
