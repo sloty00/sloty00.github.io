@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon RDS for MySQL announces Innovation Release 9.6 in Amazon RDS Database Preview Environment",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-rds-mysql-innovation/",
-    "date": "Wed, 29 Apr 2026 20:37:00 GMT"
+    "title": "AWS Outposts racks now support LagStatus CloudWatch metric",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-outposts-lagstatus-cloudwatch/",
+    "date": "Thu, 30 Apr 2026 20:17:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon DocumentDB (with MongoDB compatibility) is Now Available in the Canada West (Calgary) Region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-documentdb-available-in-canada-west-region/",
-    "date": "Wed, 29 Apr 2026 18:00:00 GMT"
+    "title": "Amazon ECS Managed Instances now supports NVIDIA GPU metrics",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ecs-mi-gpu-metrics/",
+    "date": "Thu, 30 Apr 2026 19:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon CloudFront now supports invalidation by cache tag",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/cloudfront-invalidation-cache-tag/",
-    "date": "Wed, 29 Apr 2026 17:06:00 GMT"
+    "title": "Amazon MQ for RabbitMQ now supports Prometheus metrics",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-mq-rabbitmq-prometheus-metrics/",
+    "date": "Thu, 30 Apr 2026 18:10:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -91,21 +91,27 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "How Many Users Can Your LLM Server Really Handle?",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/04/30/how-many-users-can-your-llm-server-really-handle/",
+    "date": "Fri, 01 May 2026 01:17:25 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "From Infrastructure to Agents: A Hands-On Guide to Secure Private AI with Broadcom – Part 2",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/04/30/guide-to-secure-private-ai-with-broadcom-part-2/",
+    "date": "Thu, 30 Apr 2026 13:25:05 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "The New Frontier: Leading the Cloud-Native Evolution",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/04/30/the-new-frontier-leading-the-cloud-native-evolution/",
     "date": "Thu, 30 Apr 2026 13:00:00 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "Replicating VMware vSphere Configuration Profile Desired State",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/04/29/replicating-vsphere-configuration-profile-desired-state/",
-    "date": "Wed, 29 Apr 2026 18:03:11 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Webinar Recap: Design and Architecture Considerations for VMware vSphere Kubernetes Service on VMware Cloud Foundation",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/04/29/webinar-recap-design-and-architecture-considerations-for-vmware-vsphere-kubernetes-service-on-vmware-cloud-foundation/",
-    "date": "Wed, 29 Apr 2026 15:23:44 +0000"
+    "source": "veeam_intel",
+    "title": "The Asymmetry of Speed: Patch Management in the Age of Mythos",
+    "link": "https://www.veeam.com/blog/patch-management-agentic-ai.html",
+    "date": "Thu, 30 Apr 2026 17:14:16 +0000"
   },
   {
     "source": "veeam_intel",
@@ -118,12 +124,6 @@
     "title": "Veeam Extends Our #1 Market Share in Data Protection Software, Growing Faster Than the Top 5 in the Category",
     "link": "https://www.veeam.com/blog/idc-data-protection-market-share-tracker.html",
     "date": "Tue, 28 Apr 2026 15:26:00 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Trusted by Customers, Proven by Reviews: What Third-Party Recognition Says About Veeam",
-    "link": "https://www.veeam.com/blog/veeam-third-party-reviews-recognition.html",
-    "date": "Tue, 28 Apr 2026 14:40:35 +0000"
   },
   {
     "source": "hackerrank",
