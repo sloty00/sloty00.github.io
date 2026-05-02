@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS Outposts racks now support LagStatus CloudWatch metric",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-outposts-lagstatus-cloudwatch/",
-    "date": "Thu, 30 Apr 2026 20:17:00 GMT"
+    "title": "Amazon Bedrock AgentCore is now available in the South America (São Paulo) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/agentcore-sao-paulo-region/",
+    "date": "Fri, 01 May 2026 22:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon ECS Managed Instances now supports NVIDIA GPU metrics",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ecs-mi-gpu-metrics/",
-    "date": "Thu, 30 Apr 2026 19:00:00 GMT"
+    "title": "FreeRTOS 202604 LTS now available with enhanced security and MQTT v5.0",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/freertos-lts/",
+    "date": "Fri, 01 May 2026 21:42:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon MQ for RabbitMQ now supports Prometheus metrics",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-mq-rabbitmq-prometheus-metrics/",
-    "date": "Thu, 30 Apr 2026 18:10:00 GMT"
+    "title": "OpenSearch UI supports cross-region data access to OpenSearch domains",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/opensearch-ui-cross-region-data-access-domains/",
+    "date": "Fri, 01 May 2026 20:54:00 GMT"
   },
   {
     "source": "gcp_cloud",
