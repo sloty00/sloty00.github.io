@@ -1,6 +1,12 @@
 [
   {
     "source": "sophos_threat",
+    "title": "Proof-of-concept exploit available for Linux 'Copy Fail' vulnerability (CVE-2026-31431)",
+    "link": "https://www.sophos.com/en-us/blog/proof-of-concept-exploit-available-for-linux-copy-fail-cve-2026-31431",
+    "date": "Fri, 01 May 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "'Mini Shai-Hulud' supply chain attack targets SAP npm packages",
     "link": "https://www.sophos.com/en-us/blog/-mini-shai-hulud-supply-chain-attack-targets-sap-npm-packages",
     "date": "Wed, 29 Apr 2026 00:00:00 GMT"
@@ -10,12 +16,6 @@
     "title": "Supply chain attacks hit Checkmarx and Bitwarden developer tools",
     "link": "https://www.sophos.com/en-us/blog/supply-chain-attacks-hit-checkmarx-and-bitwarden-developer-tools",
     "date": "Fri, 24 Apr 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "Microsoft addresses 163 CVEs, 88 advisories for April Patch Tuesday",
-    "link": "https://www.sophos.com/en-us/blog/april-2026-microsoft-patch-tuesday",
-    "date": "Fri, 17 Apr 2026 00:00:00 GMT"
   },
   {
     "source": "sophos_ops",
