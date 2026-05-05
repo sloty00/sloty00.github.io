@@ -37,21 +37,27 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon Bedrock AgentCore is now available in the South America (São Paulo) Region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/agentcore-sao-paulo-region/",
-    "date": "Fri, 01 May 2026 22:00:00 GMT"
+    "title": "Amazon CloudWatch Logs Insights supports querying by log group tags",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudwatch-logs-query-by-tags/",
+    "date": "Mon, 04 May 2026 23:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "FreeRTOS 202604 LTS now available with enhanced security and MQTT v5.0",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/freertos-lts/",
-    "date": "Fri, 01 May 2026 21:42:00 GMT"
+    "title": "AWS Entity Resolution launches support for incremental Machine Learning based matching workflows",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-entity-resolution-ml/",
+    "date": "Mon, 04 May 2026 17:43:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "OpenSearch UI supports cross-region data access to OpenSearch domains",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/opensearch-ui-cross-region-data-access-domains/",
-    "date": "Fri, 01 May 2026 20:54:00 GMT"
+    "title": "Amazon FSx is now available in the AWS Asia Pacific (New Zealand) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-fsx-aws-asia-pacific/",
+    "date": "Mon, 04 May 2026 17:37:00 GMT"
+  },
+  {
+    "source": "gcp_cloud",
+    "title": "The latest AI news we announced in April 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
+    "date": "Mon, 04 May 2026 17:00:00 +0000"
   },
   {
     "source": "gcp_cloud",
@@ -66,10 +72,10 @@
     "date": "Fri, 24 Apr 2026 18:00:00 +0000"
   },
   {
-    "source": "gcp_cloud",
-    "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
-    "date": "Thu, 23 Apr 2026 12:00:00 +0000"
+    "source": "suse_news",
+    "title": "Beyond the Patch: How to Prepare Your Linux Fleet Against AI Exploits",
+    "link": "https://www.suse.com/c/prepare-your-linux-fleet-against-ai-exploits/",
+    "date": "Mon, 04 May 2026 16:32:46 +0000"
   },
   {
     "source": "suse_news",
@@ -82,12 +88,6 @@
     "title": "The Path to Data Sovereignty: CYBERTEC and SUSE Unite for Open Source",
     "link": "https://www.suse.com/c/the-path-to-data-sovereignty-cybertec-and-suse-unite-for-open-source/",
     "date": "Thu, 30 Apr 2026 09:03:51 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "SUSE responds to the copy.fail vulnerability",
-    "link": "https://www.suse.com/c/suse-responds-to-the-copy-fail-vulnerability/",
-    "date": "Thu, 30 Apr 2026 07:13:35 +0000"
   },
   {
     "source": "broadcom_vmware",
