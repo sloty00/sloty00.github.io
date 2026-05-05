@@ -43,15 +43,21 @@
   },
   {
     "source": "aws_news",
+    "title": "Amazon WorkSpaces Applications now supports host-to-client URL redirection",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-workspaces-applications-url/",
+    "date": "Mon, 04 May 2026 20:56:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "AWS Entity Resolution launches support for incremental Machine Learning based matching workflows",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-entity-resolution-ml/",
     "date": "Mon, 04 May 2026 17:43:00 GMT"
   },
   {
-    "source": "aws_news",
-    "title": "Amazon FSx is now available in the AWS Asia Pacific (New Zealand) Region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-fsx-aws-asia-pacific/",
-    "date": "Mon, 04 May 2026 17:37:00 GMT"
+    "source": "gcp_cloud",
+    "title": "Here’s how we’re helping Belgium's farmers save water with AI.",
+    "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/heres-how-were-helping-belgiums-farmers-save-water-with-ai/",
+    "date": "Tue, 05 May 2026 09:00:00 +0000"
   },
   {
     "source": "gcp_cloud",
@@ -64,12 +70,6 @@
     "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
     "link": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
     "date": "Mon, 27 Apr 2026 13:00:00 +0000"
-  },
-  {
-    "source": "gcp_cloud",
-    "title": "7 highlights from Google Cloud Next ‘26",
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/google-cloud-next-26-recap/",
-    "date": "Fri, 24 Apr 2026 18:00:00 +0000"
   },
   {
     "source": "suse_news",
@@ -91,21 +91,21 @@
   },
   {
     "source": "broadcom_vmware",
-    "title": "How Many Users Can Your LLM Server Really Handle?",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/04/30/how-many-users-can-your-llm-server-really-handle/",
-    "date": "Fri, 01 May 2026 01:17:25 +0000"
+    "title": "Avi Innovations for VCF 9.1: Powering Kubernetes, Agentic AI and VPC Workloads",
+    "link": "https://blogs.vmware.com/load-balancing/2026/05/05/powering-kubernetes-agentic-ai-and-vpc-workloads-with-avi/",
+    "date": "Tue, 05 May 2026 13:00:00 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "From Infrastructure to Agents: A Hands-On Guide to Secure Private AI with Broadcom – Part 2",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/04/30/guide-to-secure-private-ai-with-broadcom-part-2/",
-    "date": "Thu, 30 Apr 2026 13:25:05 +0000"
+    "title": "VCF 9.1: The Secure, Cost-Effective Private Cloud Platform for Production AI",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/05/vcf-9-1-secure-cost-effective-private-cloud-platform-for-production-ai/",
+    "date": "Tue, 05 May 2026 12:24:17 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "The New Frontier: Leading the Cloud-Native Evolution",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/04/30/the-new-frontier-leading-the-cloud-native-evolution/",
-    "date": "Thu, 30 Apr 2026 13:00:00 +0000"
+    "title": "Announcing VCF 9.1: Modern Private Cloud Built for Efficiency and Resilience",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/05/announcing-vcf-9-1-modern-private-cloud-built-for-efficiency-and-resilience/",
+    "date": "Tue, 05 May 2026 12:24:00 +0000"
   },
   {
     "source": "veeam_intel",
