@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "How vGPU passthrough works in SUSE Virtualization",
+    "link": "https://www.suse.com/c/how-vgpu-passthrough-works-in-suse-virtualization/",
+    "date": "Wed, 06 May 2026 05:24:31 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Virtualization changed. Download the Gartner® Market Guide.",
     "link": "https://www.suse.com/c/virtualization-changed-download-the-gartner-market-guide/",
     "date": "Tue, 05 May 2026 21:20:11 +0000"
@@ -84,10 +90,10 @@
     "date": "Tue, 05 May 2026 18:53:14 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "Beyond the Patch: How to Prepare Your Linux Fleet Against AI Exploits",
-    "link": "https://www.suse.com/c/prepare-your-linux-fleet-against-ai-exploits/",
-    "date": "Mon, 04 May 2026 16:32:46 +0000"
+    "source": "broadcom_vmware",
+    "title": "博通發布 VMware Cloud Foundation 9.1",
+    "link": "https://blogs.vmware.com/vmware-taiwan/2026/05/06/%E5%8D%9A%E9%80%9A%E7%99%BC%E5%B8%83-vmware-cloud-foundation-9-1/",
+    "date": "Wed, 06 May 2026 05:17:29 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -100,12 +106,6 @@
     "title": "Avi Innovations for VCF 9.1: Powering Kubernetes, Agentic AI and VPC Workloads",
     "link": "https://blogs.vmware.com/load-balancing/2026/05/05/powering-kubernetes-agentic-ai-and-vpc-workloads-with-avi/",
     "date": "Tue, 05 May 2026 13:00:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "VCF 9.1: The Secure, Cost-Effective Private Cloud Platform for Production AI",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/05/vcf-9-1-secure-cost-effective-private-cloud-platform-for-production-ai/",
-    "date": "Tue, 05 May 2026 12:24:17 +0000"
   },
   {
     "source": "veeam_intel",
