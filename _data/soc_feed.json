@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon CloudWatch Logs Insights supports querying by log group tags",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudwatch-logs-query-by-tags/",
-    "date": "Mon, 04 May 2026 23:00:00 GMT"
+    "title": "AWS Elemental MediaTailor now provides automatic secure server-to-server integration with Google's ad platforms",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/mediatailor-automatic-google-ad-platform-integration",
+    "date": "Tue, 05 May 2026 21:44:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon WorkSpaces Applications now supports host-to-client URL redirection",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-workspaces-applications-url/",
-    "date": "Mon, 04 May 2026 20:56:00 GMT"
+    "title": "AWS SAM CLI adds BuildKit support for AWS Lambda functions packaged as container images",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-sam-cli-buildkit-aws-lambda/",
+    "date": "Tue, 05 May 2026 18:50:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Entity Resolution launches support for incremental Machine Learning based matching workflows",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-entity-resolution-ml/",
-    "date": "Mon, 04 May 2026 17:43:00 GMT"
+    "title": "AWS SAM now supports WebSocket APIs for Amazon API Gateway",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-sam-websocket-apis-api-gateway/",
+    "date": "Tue, 05 May 2026 18:31:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,21 +73,27 @@
   },
   {
     "source": "suse_news",
+    "title": "Virtualization changed. Download the Gartner® Market Guide.",
+    "link": "https://www.suse.com/c/virtualization-changed-download-the-gartner-market-guide/",
+    "date": "Tue, 05 May 2026 21:20:11 +0000"
+  },
+  {
+    "source": "suse_news",
+    "title": "Data Sovereignty Meets Kubernetes: DBaaS Platform with SUSE Rancher Prime and KubeDB",
+    "link": "https://www.suse.com/c/dbaas-platform-with-suse-rancher-prime-and-kubedb/",
+    "date": "Tue, 05 May 2026 18:53:14 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Beyond the Patch: How to Prepare Your Linux Fleet Against AI Exploits",
     "link": "https://www.suse.com/c/prepare-your-linux-fleet-against-ai-exploits/",
     "date": "Mon, 04 May 2026 16:32:46 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "Addressing copy.fail in SUSE Virtualization",
-    "link": "https://www.suse.com/c/addressing-copy-fail-in-suse-virtualization/",
-    "date": "Thu, 30 Apr 2026 09:32:56 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "The Path to Data Sovereignty: CYBERTEC and SUSE Unite for Open Source",
-    "link": "https://www.suse.com/c/the-path-to-data-sovereignty-cybertec-and-suse-unite-for-open-source/",
-    "date": "Thu, 30 Apr 2026 09:03:51 +0000"
+    "source": "broadcom_vmware",
+    "title": "How Broadcom Is Helping Enterprises Win the AI Security Sprint",
+    "link": "https://blogs.vmware.com/tanzu/how-broadcom-is-helping-enterprises-with-the-ai-security-sprint/",
+    "date": "Tue, 05 May 2026 18:51:04 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -102,10 +108,10 @@
     "date": "Tue, 05 May 2026 12:24:17 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "Announcing VCF 9.1: Modern Private Cloud Built for Efficiency and Resilience",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/05/announcing-vcf-9-1-modern-private-cloud-built-for-efficiency-and-resilience/",
-    "date": "Tue, 05 May 2026 12:24:00 +0000"
+    "source": "veeam_intel",
+    "title": "AI Is Moving Fast, but Control Needs to Move Faster",
+    "link": "https://www.veeam.com/blog/q2-2026-innovation-pulse-ai-control-microsoft-365-recover.html",
+    "date": "Tue, 05 May 2026 15:05:16 +0000"
   },
   {
     "source": "veeam_intel",
@@ -118,12 +124,6 @@
     "title": "Command the Expand: Why Edition Upsell and Veeam Vault Are Your Paths to Deeper Customer Engagement",
     "link": "https://www.veeam.com/blog/command-the-expand-edition-upsell-veeam-vault-2026.html",
     "date": "Tue, 28 Apr 2026 20:12:59 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Veeam Extends Our #1 Market Share in Data Protection Software, Growing Faster Than the Top 5 in the Category",
-    "link": "https://www.veeam.com/blog/idc-data-protection-market-share-tracker.html",
-    "date": "Tue, 28 Apr 2026 15:26:00 +0000"
   },
   {
     "source": "hackerrank",
