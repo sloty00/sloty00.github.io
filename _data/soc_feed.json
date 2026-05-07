@@ -1,6 +1,12 @@
 [
   {
     "source": "sophos_threat",
+    "title": "Donuts and Beagles: Fake Claude site spreads backdoor",
+    "link": "https://www.sophos.com/en-us/blog/donuts-and-beagles-fake-claude-site-spreads-backdoor",
+    "date": "Thu, 07 May 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "Proof-of-concept exploit available for Linux 'Copy Fail' vulnerability (CVE-2026-31431)",
     "link": "https://www.sophos.com/en-us/blog/proof-of-concept-exploit-available-for-linux-copy-fail-cve-2026-31431",
     "date": "Fri, 01 May 2026 00:00:00 GMT"
@@ -10,12 +16,6 @@
     "title": "'Mini Shai-Hulud' supply chain attack targets SAP npm packages",
     "link": "https://www.sophos.com/en-us/blog/-mini-shai-hulud-supply-chain-attack-targets-sap-npm-packages",
     "date": "Wed, 29 Apr 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "Supply chain attacks hit Checkmarx and Bitwarden developer tools",
-    "link": "https://www.sophos.com/en-us/blog/supply-chain-attacks-hit-checkmarx-and-bitwarden-developer-tools",
-    "date": "Fri, 24 Apr 2026 00:00:00 GMT"
   },
   {
     "source": "sophos_ops",
@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
+    "title": "Agents that transact: Amazon Bedrock AgentCore now includes Payments (preview)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-bedrock-agentcore-payments-preview",
+    "date": "Thu, 07 May 2026 12:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
+    "title": "Amazon OpenSearch Service now supports VPC egress for private connectivity to resources in your VPC",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-opensearch-service-vpc",
+    "date": "Thu, 07 May 2026 00:30:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "AWS Site-to-Site VPN now supports modifying tunnel bandwidth on existing VPN connections",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-site-to-site-vpn-modify-bandwidth/",
     "date": "Wed, 06 May 2026 21:09:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Amazon EC2 P6-B300 instances are now available in the US East (N. Virginia) Region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-p6-b300-us-east",
-    "date": "Wed, 06 May 2026 19:24:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "AWS Marketplace now supports programmatic procurement with Agreements API",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-marketplace-agreements-api/",
-    "date": "Wed, 06 May 2026 18:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,21 +73,27 @@
   },
   {
     "source": "suse_news",
-    "title": "Beyond the Virtualization Tax: Future-Proofing Your SAP Infrastructure",
-    "link": "https://www.suse.com/c/beyond-the-virtualization-tax-future-proofing-your-sap-infrastructure/",
-    "date": "Wed, 06 May 2026 17:40:03 +0000"
+    "title": "The Death of the Maintenance Window: Why AI Exploits Are Breaking Legacy IT Patch Operations",
+    "link": "https://www.suse.com/c/death-maintenance-window-suse-live-patching/",
+    "date": "Thu, 07 May 2026 07:50:30 +0000"
   },
   {
     "source": "suse_news",
-    "title": "How vGPU passthrough works in SUSE Virtualization",
-    "link": "https://www.suse.com/c/how-vgpu-passthrough-works-in-suse-virtualization/",
-    "date": "Wed, 06 May 2026 05:24:31 +0000"
+    "title": "The Black Box Crisis: Why We Are Reclaiming Our Energy Sovereignty",
+    "link": "https://www.suse.com/c/the-black-box-crisis-why-we-are-reclaiming-our-energy-sovereignty/",
+    "date": "Thu, 07 May 2026 07:38:19 +0000"
   },
   {
     "source": "suse_news",
-    "title": "Virtualization changed. Download the Gartner® Market Guide.",
-    "link": "https://www.suse.com/c/virtualization-changed-download-the-gartner-market-guide/",
-    "date": "Tue, 05 May 2026 21:20:11 +0000"
+    "title": "The “Hypervisor Tax” is Rising: Is Your SAP Landscape Draining Your Budget?",
+    "link": "https://www.suse.com/c/the-hypervisor-tax-is-rising-is-your-sap-landscape-draining-your-budget/",
+    "date": "Thu, 07 May 2026 06:28:08 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "Advanced Memory Tiering Enhancements in VMware Cloud Foundation 9.1",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/07/advanced-memory-tiering-enhancements-in-vmware-cloud-foundation-9-1/",
+    "date": "Thu, 07 May 2026 13:00:00 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -100,12 +106,6 @@
     "title": "博通發布 VMware Cloud Foundation 9.1",
     "link": "https://blogs.vmware.com/vmware-taiwan/2026/05/06/%E5%8D%9A%E9%80%9A%E7%99%BC%E5%B8%83-vmware-cloud-foundation-9-1/",
     "date": "Wed, 06 May 2026 05:17:29 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "How Broadcom Is Helping Enterprises Win the AI Security Sprint",
-    "link": "https://blogs.vmware.com/tanzu/how-broadcom-is-helping-enterprises-with-the-ai-security-sprint/",
-    "date": "Tue, 05 May 2026 18:51:04 +0000"
   },
   {
     "source": "veeam_intel",
