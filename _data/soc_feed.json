@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS Elemental MediaTailor now provides automatic secure server-to-server integration with Google's ad platforms",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/mediatailor-automatic-google-ad-platform-integration",
-    "date": "Tue, 05 May 2026 21:44:00 GMT"
+    "title": "AWS Site-to-Site VPN now supports modifying tunnel bandwidth on existing VPN connections",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-site-to-site-vpn-modify-bandwidth/",
+    "date": "Wed, 06 May 2026 21:09:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS SAM CLI adds BuildKit support for AWS Lambda functions packaged as container images",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-sam-cli-buildkit-aws-lambda/",
-    "date": "Tue, 05 May 2026 18:50:00 GMT"
+    "title": "Amazon EC2 P6-B300 instances are now available in the US East (N. Virginia) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-p6-b300-us-east",
+    "date": "Wed, 06 May 2026 19:24:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS SAM now supports WebSocket APIs for Amazon API Gateway",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-sam-websocket-apis-api-gateway/",
-    "date": "Tue, 05 May 2026 18:31:00 GMT"
+    "title": "AWS Marketplace now supports programmatic procurement with Agreements API",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-marketplace-agreements-api/",
+    "date": "Wed, 06 May 2026 18:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "Beyond the Virtualization Tax: Future-Proofing Your SAP Infrastructure",
+    "link": "https://www.suse.com/c/beyond-the-virtualization-tax-future-proofing-your-sap-infrastructure/",
+    "date": "Wed, 06 May 2026 17:40:03 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "How vGPU passthrough works in SUSE Virtualization",
     "link": "https://www.suse.com/c/how-vgpu-passthrough-works-in-suse-virtualization/",
     "date": "Wed, 06 May 2026 05:24:31 +0000"
@@ -84,10 +90,10 @@
     "date": "Tue, 05 May 2026 21:20:11 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "Data Sovereignty Meets Kubernetes: DBaaS Platform with SUSE Rancher Prime and KubeDB",
-    "link": "https://www.suse.com/c/dbaas-platform-with-suse-rancher-prime-and-kubedb/",
-    "date": "Tue, 05 May 2026 18:53:14 +0000"
+    "source": "broadcom_vmware",
+    "title": "VCF 9.1 Is Here. See It in Action.",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/06/vcf-9-1-is-here-see-it-in-action/",
+    "date": "Wed, 06 May 2026 17:20:39 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -102,10 +108,10 @@
     "date": "Tue, 05 May 2026 18:51:04 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "Avi Innovations for VCF 9.1: Powering Kubernetes, Agentic AI and VPC Workloads",
-    "link": "https://blogs.vmware.com/load-balancing/2026/05/05/powering-kubernetes-agentic-ai-and-vpc-workloads-with-avi/",
-    "date": "Tue, 05 May 2026 13:00:00 +0000"
+    "source": "veeam_intel",
+    "title": "Affordable Cloud Backup for Small Businesses: What You’re Actually Paying For",
+    "link": "https://www.veeam.com/blog/affordable-cloud-backup-small-business.html",
+    "date": "Wed, 06 May 2026 21:22:39 +0000"
   },
   {
     "source": "veeam_intel",
@@ -118,12 +124,6 @@
     "title": "The Asymmetry of Speed: Patch Management in the Age of Mythos",
     "link": "https://www.veeam.com/blog/patch-management-agentic-ai.html",
     "date": "Thu, 30 Apr 2026 17:14:16 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Command the Expand: Why Edition Upsell and Veeam Vault Are Your Paths to Deeper Customer Engagement",
-    "link": "https://www.veeam.com/blog/command-the-expand-edition-upsell-veeam-vault-2026.html",
-    "date": "Tue, 28 Apr 2026 20:12:59 +0000"
   },
   {
     "source": "hackerrank",
