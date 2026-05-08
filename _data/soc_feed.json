@@ -73,21 +73,27 @@
   },
   {
     "source": "suse_news",
+    "title": "Addressing Copy.Fail2 aka DirtyFrag in SUSE Virtualization",
+    "link": "https://www.suse.com/c/addressing-copy-fail2-aka-dirtyfrag-in-suse-virtualization/",
+    "date": "Fri, 08 May 2026 10:06:09 +0000"
+  },
+  {
+    "source": "suse_news",
+    "title": "Create an Ingress with Basic Authentication for SUSE Storage Using Traefik",
+    "link": "https://www.suse.com/c/create-an-ingress-with-basic-authentication-for-suse-storage-using-traefik/",
+    "date": "Fri, 08 May 2026 07:51:18 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "The SUSE 2025 Security Lowdown",
     "link": "https://www.suse.com/c/the-suse-2025-security-lowdown/",
     "date": "Thu, 07 May 2026 21:55:04 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "The Death of the Maintenance Window: Why AI Exploits Are Breaking Legacy IT Patch Operations",
-    "link": "https://www.suse.com/c/death-maintenance-window-suse-live-patching/",
-    "date": "Thu, 07 May 2026 07:50:30 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "The Black Box Crisis: Why We Are Reclaiming Our Energy Sovereignty",
-    "link": "https://www.suse.com/c/the-black-box-crisis-why-we-are-reclaiming-our-energy-sovereignty/",
-    "date": "Thu, 07 May 2026 07:38:19 +0000"
+    "source": "broadcom_vmware",
+    "title": "Auto-RAID in VMware vSAN for VCF 9.1 – Comprehensive System-Managed Data Resilience",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/08/auto-raid-in-vsan-for-vcf-9-1/",
+    "date": "Fri, 08 May 2026 12:00:00 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -100,12 +106,6 @@
     "title": "Advanced Memory Tiering Enhancements in VMware Cloud Foundation 9.1",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/05/07/advanced-memory-tiering-enhancements-in-vmware-cloud-foundation-9-1/",
     "date": "Thu, 07 May 2026 13:00:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "VCF 9.1 Is Here. See It in Action.",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/06/vcf-9-1-is-here-see-it-in-action/",
-    "date": "Wed, 06 May 2026 17:20:39 +0000"
   },
   {
     "source": "veeam_intel",
