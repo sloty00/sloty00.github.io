@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon EC2 G6 instances now available in AWS European Sovereign Cloud (Germany)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-g6-aws-european-sovereign-cloud/",
-    "date": "Thu, 07 May 2026 21:07:00 GMT"
+    "title": "AWS Client VPN now supports Ubuntu OS version 26.04 LTS",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-client-vpn-ubuntu-26/",
+    "date": "Fri, 08 May 2026 22:39:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EC2 X8i instances are now available in additional regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-BOM-DUB-region/",
-    "date": "Thu, 07 May 2026 20:45:00 GMT"
+    "title": "Amazon Connect adds default Step-by-Step Guides for After Contact Work",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-adds-default-step-by-step-guides-for-after-contact-work",
+    "date": "Fri, 08 May 2026 20:12:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon SageMaker Unified Studio adds identity and user management features",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/smus-identity-user-management/",
-    "date": "Thu, 07 May 2026 19:00:00 GMT"
+    "title": "Amazon Route 53 Global Resolver now lets you add and remove AWS Regions for anycast DNS resolution",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-route-global-resolver-aws/",
+    "date": "Fri, 08 May 2026 17:43:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,21 +73,21 @@
   },
   {
     "source": "suse_news",
+    "title": "Breaking Free: A Step-by-Step Guide to Migrating from Red Hat OpenShift to SUSE Rancher Prime",
+    "link": "https://www.suse.com/c/breaking-free-a-step-by-step-guide-to-migrating-from-red-hat-openshift-to-suse-rancher-prime/",
+    "date": "Fri, 08 May 2026 22:33:09 +0000"
+  },
+  {
+    "source": "suse_news",
+    "title": "The Silicon Ceiling: Why the Hardware Crisis is the Ultimate Wake-Up Call",
+    "link": "https://www.suse.com/c/the-silicon-ceiling-why-the-hardware-crisis-is-the-ultimate-wake-up-call/",
+    "date": "Fri, 08 May 2026 15:30:13 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Addressing Copy.Fail2 aka DirtyFrag in SUSE Virtualization",
     "link": "https://www.suse.com/c/addressing-copy-fail2-aka-dirtyfrag-in-suse-virtualization/",
     "date": "Fri, 08 May 2026 10:06:09 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "Create an Ingress with Basic Authentication for SUSE Storage Using Traefik",
-    "link": "https://www.suse.com/c/create-an-ingress-with-basic-authentication-for-suse-storage-using-traefik/",
-    "date": "Fri, 08 May 2026 07:51:18 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "The SUSE 2025 Security Lowdown",
-    "link": "https://www.suse.com/c/the-suse-2025-security-lowdown/",
-    "date": "Thu, 07 May 2026 21:55:04 +0000"
   },
   {
     "source": "broadcom_vmware",
