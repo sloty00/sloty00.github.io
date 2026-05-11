@@ -91,21 +91,27 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "AI Has Changed the Threat Landscape. Is Your Infrastructure Ready?",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/11/ai-has-changed-the-threat-landscape-is-your-infrastructure-ready/",
+    "date": "Mon, 11 May 2026 13:00:00 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "Simplifying Storage with the New Effective Capacity View in VMware vSAN for VCF 9.1",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/11/effective-capacity-view-in-vsan-for-vcf-9-1/",
+    "date": "Mon, 11 May 2026 12:00:00 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Auto-RAID in VMware vSAN for VCF 9.1 – Comprehensive System-Managed Data Resilience",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/05/08/auto-raid-in-vsan-for-vcf-9-1/",
     "date": "Fri, 08 May 2026 12:00:00 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "Introducing VMmark 4.1: Enhanced Power Efficiency Benchmarking for Private Cloud Infrastructure",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/07/introducing-vmmark-4-1-enhanced-power-efficiency-benchmarking-for-private-cloud-infrastructure/",
-    "date": "Thu, 07 May 2026 21:32:49 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Advanced Memory Tiering Enhancements in VMware Cloud Foundation 9.1",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/07/advanced-memory-tiering-enhancements-in-vmware-cloud-foundation-9-1/",
-    "date": "Thu, 07 May 2026 13:00:00 +0000"
+    "source": "veeam_intel",
+    "title": "Announcing Veeam Kasten for Kubernetes v9.0: Enterprise Resilience for Modern Workloads",
+    "link": "https://www.veeam.com/blog/veeam-kasten-v9-enterprise-kubernetes-resilience.html",
+    "date": "Mon, 11 May 2026 10:45:00 +0000"
   },
   {
     "source": "veeam_intel",
@@ -118,12 +124,6 @@
     "title": "Affordable Cloud Backup for Small Businesses: What You’re Actually Paying For",
     "link": "https://www.veeam.com/blog/affordable-cloud-backup-small-business.html",
     "date": "Wed, 06 May 2026 21:22:39 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "AI Is Moving Fast, but Control Needs to Move Faster",
-    "link": "https://www.veeam.com/blog/q2-2026-innovation-pulse-ai-control-microsoft-365-recover.html",
-    "date": "Tue, 05 May 2026 15:05:16 +0000"
   },
   {
     "source": "hackerrank",
