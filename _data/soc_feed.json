@@ -91,21 +91,21 @@
   },
   {
     "source": "broadcom_vmware",
-    "title": "AI Has Changed the Threat Landscape. Is Your Infrastructure Ready?",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/11/ai-has-changed-the-threat-landscape-is-your-infrastructure-ready/",
-    "date": "Mon, 11 May 2026 13:00:00 +0000"
+    "title": "What’s New with vSphere in VMware Cloud Foundation 9.1?",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/12/whats-new-with-vsphere-9-1/",
+    "date": "Tue, 12 May 2026 12:43:17 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Simplifying Storage with the New Effective Capacity View in VMware vSAN for VCF 9.1",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/11/effective-capacity-view-in-vsan-for-vcf-9-1/",
-    "date": "Mon, 11 May 2026 12:00:00 +0000"
+    "title": "Resizing VMware vCenter in VMware Cloud Foundation 9",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/12/resizing-vmware-vcenter/",
+    "date": "Tue, 12 May 2026 12:41:46 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Auto-RAID in VMware vSAN for VCF 9.1 – Comprehensive System-Managed Data Resilience",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/08/auto-raid-in-vsan-for-vcf-9-1/",
-    "date": "Fri, 08 May 2026 12:00:00 +0000"
+    "title": "Non-Disruptive VMware vCenter Patching in VMware Cloud Foundation 9.1",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/12/vcenter-quick-patch/",
+    "date": "Tue, 12 May 2026 12:18:45 +0000"
   },
   {
     "source": "veeam_intel",
