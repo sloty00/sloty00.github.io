@@ -1,6 +1,12 @@
 [
   {
     "source": "sophos_threat",
+    "title": "Inside the lethal trifecta: Blast radius reduction in AI agent deployments",
+    "link": "https://www.sophos.com/en-us/blog/inside-the-lethal-trifecta-blast-radius-reduction-in-ai-agent-deployments",
+    "date": "Tue, 12 May 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "Donuts and Beagles: Fake Claude site spreads backdoor",
     "link": "https://www.sophos.com/en-us/blog/donuts-and-beagles-fake-claude-site-spreads-backdoor",
     "date": "Thu, 07 May 2026 00:00:00 GMT"
@@ -10,12 +16,6 @@
     "title": "Proof-of-concept exploit available for Linux 'Copy Fail' vulnerability (CVE-2026-31431)",
     "link": "https://www.sophos.com/en-us/blog/proof-of-concept-exploit-available-for-linux-copy-fail-cve-2026-31431",
     "date": "Fri, 01 May 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "'Mini Shai-Hulud' supply chain attack targets SAP npm packages",
-    "link": "https://www.sophos.com/en-us/blog/-mini-shai-hulud-supply-chain-attack-targets-sap-npm-packages",
-    "date": "Wed, 29 Apr 2026 00:00:00 GMT"
   },
   {
     "source": "sophos_ops",
@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Announcing Region Expansion of P6-B200 instances on SageMaker Studio notebooks",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/p6-b200-region-expansion-sagemaker-studio-notebooks/",
-    "date": "Mon, 11 May 2026 23:34:00 GMT"
+    "title": "AWS Lambda supports scheduled scaling for functions on Lambda Managed Instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-lambda-managed-instances/",
+    "date": "Tue, 12 May 2026 19:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Announcing Region Expansion of G6e instances on SageMaker Studio notebooks",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/g6e-region-expansion-sagemaker-studio-notebooks/",
-    "date": "Mon, 11 May 2026 20:00:00 GMT"
+    "title": "Amazon EventBridge Scheduler adds 619 new SDK API actions, including Lambda Managed Instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-eventbridge-sdk-integrations/",
+    "date": "Tue, 12 May 2026 18:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Announcing Region Expansion of G6 instances on SageMaker Studio notebooks",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/g6-region-expansion-sagemaker-studio-notebooks/",
-    "date": "Mon, 11 May 2026 20:00:00 GMT"
+    "title": "Amazon SageMaker Feature Store now supports SageMaker Python SDK V3",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-feature-store-pyv3/",
+    "date": "Tue, 12 May 2026 17:12:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,21 +73,33 @@
   },
   {
     "source": "suse_news",
-    "title": "An Operational Definition for Digital Sovereignty",
-    "link": "https://www.suse.com/c/an-operational-definition-for-digital-sovereignty/",
-    "date": "Mon, 11 May 2026 15:39:07 +0000"
+    "title": "Your Amazon EKS Fleet Is Growing. Your Management Strategy Should Too.",
+    "link": "https://www.suse.com/c/amazon-eks-management-at-scale-rancher-for-aws/",
+    "date": "Tue, 12 May 2026 21:41:39 +0000"
   },
   {
     "source": "suse_news",
-    "title": "Breaking Free: A Step-by-Step Guide to Migrating from Red Hat OpenShift to SUSE Rancher Prime",
-    "link": "https://www.suse.com/c/breaking-free-a-step-by-step-guide-to-migrating-from-red-hat-openshift-to-suse-rancher-prime/",
-    "date": "Fri, 08 May 2026 22:33:09 +0000"
+    "title": "How Europe’s Digital Sovereignty Frameworks Are Converging",
+    "link": "https://www.suse.com/c/how-europes-digital-sovereignty-frameworks-are-converging/",
+    "date": "Tue, 12 May 2026 19:16:52 +0000"
   },
   {
     "source": "suse_news",
-    "title": "The Silicon Ceiling: Why the Hardware Crisis is the Ultimate Wake-Up Call",
-    "link": "https://www.suse.com/c/the-silicon-ceiling-why-the-hardware-crisis-is-the-ultimate-wake-up-call/",
-    "date": "Fri, 08 May 2026 15:30:13 +0000"
+    "title": "Why Most Sovereign Stacks Fail the Day-Zero Test",
+    "link": "https://www.suse.com/c/sovereign-cloud-day-zero-test/",
+    "date": "Tue, 12 May 2026 12:00:53 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "Modernizing Your Infrastructure: Introducing VMware Cloud Foundation 9.1 to VCSPs",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/12/introducing-vmware-cloud-foundation-9-1-to-vcsps/",
+    "date": "Tue, 12 May 2026 18:01:00 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "VCF 9.1 is Available: Explore the New Features in Hands-on Labs",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/12/vcf-9-1-is-available-explore-the-new-features-in-hands-on-labs/",
+    "date": "Tue, 12 May 2026 14:00:00 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -96,16 +108,10 @@
     "date": "Tue, 12 May 2026 12:43:17 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "Resizing VMware vCenter in VMware Cloud Foundation 9",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/12/resizing-vmware-vcenter/",
-    "date": "Tue, 12 May 2026 12:41:46 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Non-Disruptive VMware vCenter Patching in VMware Cloud Foundation 9.1",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/12/vcenter-quick-patch/",
-    "date": "Tue, 12 May 2026 12:18:45 +0000"
+    "source": "veeam_intel",
+    "title": "You Can’t Be Resilient About Data You Don’t Understand",
+    "link": "https://www.veeam.com/blog/veeam-intelligent-resops-microsoft-365-backup.html",
+    "date": "Tue, 12 May 2026 14:51:41 +0000"
   },
   {
     "source": "veeam_intel",
@@ -118,12 +124,6 @@
     "title": "Effortless Data Protection: How SMBs Can Automate Backup and Stop Babysitting Their Data",
     "link": "https://www.veeam.com/blog/effortless-data-protection-smb.html",
     "date": "Thu, 07 May 2026 20:37:47 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Affordable Cloud Backup for Small Businesses: What You’re Actually Paying For",
-    "link": "https://www.veeam.com/blog/affordable-cloud-backup-small-business.html",
-    "date": "Wed, 06 May 2026 21:22:39 +0000"
   },
   {
     "source": "hackerrank",
