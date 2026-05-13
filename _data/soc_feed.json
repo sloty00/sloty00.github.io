@@ -49,9 +49,9 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon SageMaker Feature Store now supports SageMaker Python SDK V3",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-feature-store-pyv3/",
-    "date": "Tue, 12 May 2026 17:12:00 GMT"
+    "title": "AWS Security Agent now supports full repository code reviews",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-agent-full-repository-code-review/",
+    "date": "Tue, 12 May 2026 17:37:00 GMT"
   },
   {
     "source": "gcp_cloud",
