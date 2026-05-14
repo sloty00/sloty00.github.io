@@ -1,6 +1,12 @@
 [
   {
     "source": "sophos_threat",
+    "title": "May’s Patch Tuesday hauls out 132 CVEs",
+    "link": "https://www.sophos.com/en-us/blog/may-patch-tuesday-hauls-out-132-cves",
+    "date": "Wed, 13 May 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "Inside the lethal trifecta: Blast radius reduction in AI agent deployments",
     "link": "https://www.sophos.com/en-us/blog/inside-the-lethal-trifecta-blast-radius-reduction-in-ai-agent-deployments",
     "date": "Tue, 12 May 2026 00:00:00 GMT"
@@ -10,12 +16,6 @@
     "title": "Donuts and Beagles: Fake Claude site spreads backdoor",
     "link": "https://www.sophos.com/en-us/blog/donuts-and-beagles-fake-claude-site-spreads-backdoor",
     "date": "Thu, 07 May 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "Proof-of-concept exploit available for Linux 'Copy Fail' vulnerability (CVE-2026-31431)",
-    "link": "https://www.sophos.com/en-us/blog/proof-of-concept-exploit-available-for-linux-copy-fail-cve-2026-31431",
-    "date": "Fri, 01 May 2026 00:00:00 GMT"
   },
   {
     "source": "sophos_ops",
@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS Lambda supports scheduled scaling for functions on Lambda Managed Instances",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-lambda-managed-instances/",
-    "date": "Tue, 12 May 2026 19:00:00 GMT"
+    "title": "Amazon SageMaker Data Agent now available for IAM Identity Center domains",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-data-agent-idc/",
+    "date": "Wed, 13 May 2026 21:53:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EventBridge Scheduler adds 619 new SDK API actions, including Lambda Managed Instances",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-eventbridge-sdk-integrations/",
-    "date": "Tue, 12 May 2026 18:00:00 GMT"
+    "title": "Amazon FSx for OpenZFS now supports creating Multi-AZ file systems in shared VPCs",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-fsx-openzfs-multi-az-vpcs/",
+    "date": "Wed, 13 May 2026 19:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Security Agent now supports full repository code reviews",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-agent-full-repository-code-review/",
-    "date": "Tue, 12 May 2026 17:37:00 GMT"
+    "title": "Amazon RDS for Oracle now supports M8i and R8i instances with Oracle SE2 License Included",
+    "link": "https://aws.amazon.com/about-aws/whats-new/amazon-oracle-m8i-r8i-license-included",
+    "date": "Wed, 13 May 2026 07:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -91,6 +91,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Maximizing Profitability: VCF 9.1 Cost-Focused Approach for VMware Cloud Service Providers",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/13/maximizing-profitability-vcf-9-1-for-vmware-cloud-service-providers/",
+    "date": "Wed, 13 May 2026 13:51:45 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Modernizing Your Infrastructure: Introducing VMware Cloud Foundation 9.1 to VCSPs",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/05/12/introducing-vmware-cloud-foundation-9-1-to-vcsps/",
     "date": "Tue, 12 May 2026 18:01:00 +0000"
@@ -102,28 +108,22 @@
     "date": "Tue, 12 May 2026 14:00:00 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "What’s New with vSphere in VMware Cloud Foundation 9.1?",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/12/whats-new-with-vsphere-9-1/",
-    "date": "Tue, 12 May 2026 12:43:17 +0000"
+    "source": "veeam_intel",
+    "title": "Red Hat and Veeam: Driving Industry Innovation Together for Kubernetes Storage and Backup Performance",
+    "link": "https://www.veeam.com/blog/openshift-virtualization-backup-kubevirt-cbt.html",
+    "date": "Wed, 13 May 2026 18:02:28 +0000"
+  },
+  {
+    "source": "veeam_intel",
+    "title": "What’s New with Veeam Data Platform v13.1: Your Data, Your Terms",
+    "link": "https://www.veeam.com/blog/veeam-data-platform-v13-1-whats-new.html",
+    "date": "Wed, 13 May 2026 15:00:00 +0000"
   },
   {
     "source": "veeam_intel",
     "title": "You Can’t Be Resilient About Data You Don’t Understand",
     "link": "https://www.veeam.com/blog/veeam-intelligent-resops-microsoft-365-backup.html",
     "date": "Tue, 12 May 2026 14:51:41 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Announcing Veeam Kasten for Kubernetes v9.0: Enterprise Resilience for Modern Workloads",
-    "link": "https://www.veeam.com/blog/veeam-kasten-v9-enterprise-kubernetes-resilience.html",
-    "date": "Mon, 11 May 2026 10:45:00 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Effortless Data Protection: How SMBs Can Automate Backup and Stop Babysitting Their Data",
-    "link": "https://www.veeam.com/blog/effortless-data-protection-smb.html",
-    "date": "Thu, 07 May 2026 20:37:47 +0000"
   },
   {
     "source": "hackerrank",
