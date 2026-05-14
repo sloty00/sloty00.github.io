@@ -1,6 +1,12 @@
 [
   {
     "source": "sophos_threat",
+    "title": "Why AMOS matters: The macOS malware stealing data at scale",
+    "link": "https://www.sophos.com/en-us/blog/why-amos-matters-the-macos-malware-stealing-data-at-scale",
+    "date": "Thu, 14 May 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "May’s Patch Tuesday hauls out 132 CVEs",
     "link": "https://www.sophos.com/en-us/blog/may-patch-tuesday-hauls-out-132-cves",
     "date": "Wed, 13 May 2026 00:00:00 GMT"
@@ -10,12 +16,6 @@
     "title": "Inside the lethal trifecta: Blast radius reduction in AI agent deployments",
     "link": "https://www.sophos.com/en-us/blog/inside-the-lethal-trifecta-blast-radius-reduction-in-ai-agent-deployments",
     "date": "Tue, 12 May 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "Donuts and Beagles: Fake Claude site spreads backdoor",
-    "link": "https://www.sophos.com/en-us/blog/donuts-and-beagles-fake-claude-site-spreads-backdoor",
-    "date": "Thu, 07 May 2026 00:00:00 GMT"
   },
   {
     "source": "sophos_ops",
@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "Europe Already Has the Cards and Open Source Is the Ace",
+    "link": "https://www.suse.com/c/europe-already-has-the-cards-and-open-source-is-the-ace/",
+    "date": "Thu, 14 May 2026 06:36:35 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Your Amazon EKS Fleet Is Growing. Your Management Strategy Should Too.",
     "link": "https://www.suse.com/c/amazon-eks-management-at-scale-rancher-for-aws/",
     "date": "Tue, 12 May 2026 21:41:39 +0000"
@@ -84,28 +90,22 @@
     "date": "Tue, 12 May 2026 19:16:52 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "Why Most Sovereign Stacks Fail the Day-Zero Test",
-    "link": "https://www.suse.com/c/sovereign-cloud-day-zero-test/",
-    "date": "Tue, 12 May 2026 12:00:53 +0000"
+    "source": "broadcom_vmware",
+    "title": "VMware vSAN Protection and Recovery Enhancements for VCF 9.1",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/14/vmware-vsan-protection-and-recovery-enhancements-for-vcf-9-1/",
+    "date": "Thu, 14 May 2026 12:00:00 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "Deliver Production SQL Server DBaaS with VMware Data Services Manager 9.1",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/14/deliver-production-sql-server-dbaas-with-vmware-data-services-manager-9-1/",
+    "date": "Thu, 14 May 2026 10:05:00 +0000"
   },
   {
     "source": "broadcom_vmware",
     "title": "Maximizing Profitability: VCF 9.1 Cost-Focused Approach for VMware Cloud Service Providers",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/05/13/maximizing-profitability-vcf-9-1-for-vmware-cloud-service-providers/",
     "date": "Wed, 13 May 2026 13:51:45 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Modernizing Your Infrastructure: Introducing VMware Cloud Foundation 9.1 to VCSPs",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/12/introducing-vmware-cloud-foundation-9-1-to-vcsps/",
-    "date": "Tue, 12 May 2026 18:01:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "VCF 9.1 is Available: Explore the New Features in Hands-on Labs",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/12/vcf-9-1-is-available-explore-the-new-features-in-hands-on-labs/",
-    "date": "Tue, 12 May 2026 14:00:00 +0000"
   },
   {
     "source": "veeam_intel",
