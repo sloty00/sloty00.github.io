@@ -73,21 +73,33 @@
   },
   {
     "source": "suse_news",
+    "title": "The Open Source Procurement Agenda: A Guide for IT Leaders, Procurement Teams and Policymakers",
+    "link": "https://www.suse.com/c/the-open-source-procurement-agenda-a-guide-for-it-leaders-procurement-teams-and-policymakers/",
+    "date": "Fri, 15 May 2026 06:28:00 +0000"
+  },
+  {
+    "source": "suse_news",
+    "title": "A Global Exchange: Applying the European Sovereignty Frameworks Everywhere",
+    "link": "https://www.suse.com/c/a-global-exchange-applying-the-european-sovereignty-frameworks-everywhere/",
+    "date": "Fri, 15 May 2026 06:27:15 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Scaling SAP HANA Performance: Insights from AWS, Intel, and SUSE",
     "link": "https://www.suse.com/c/scaling-sap-hana-performance-insights-from-aws-intel-and-suse/",
     "date": "Thu, 14 May 2026 20:14:01 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "Europe Already Has the Cards and Open Source Is the Ace",
-    "link": "https://www.suse.com/c/europe-already-has-the-cards-and-open-source-is-the-ace/",
-    "date": "Thu, 14 May 2026 06:36:35 +0000"
+    "source": "broadcom_vmware",
+    "title": "Expand Shared VMDKs with Clustered Applications in VMware vSAN for VCF 9.1",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/15/expand-shared-vmdks-in-vmware-vsan-for-vcf-9-1/",
+    "date": "Fri, 15 May 2026 12:00:00 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "Your Amazon EKS Fleet Is Growing. Your Management Strategy Should Too.",
-    "link": "https://www.suse.com/c/amazon-eks-management-at-scale-rancher-for-aws/",
-    "date": "Tue, 12 May 2026 21:41:39 +0000"
+    "source": "broadcom_vmware",
+    "title": "Monetizing Zero-Trust Security with VCF 9.1 and VMware vDefend",
+    "link": "https://blogs.vmware.com/cloudprovider/2026/05/monetizing-zero-trust-security-with-vcf-9-1-and-vmware-vdefend.html",
+    "date": "Fri, 15 May 2026 03:36:06 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -96,20 +108,8 @@
     "date": "Thu, 14 May 2026 12:00:00 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "Deliver Production SQL Server DBaaS with VMware Data Services Manager 9.1",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/14/deliver-production-sql-server-dbaas-with-vmware-data-services-manager-9-1/",
-    "date": "Thu, 14 May 2026 10:05:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Maximizing Profitability: VCF 9.1 Cost-Focused Approach for VMware Cloud Service Providers",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/13/maximizing-profitability-vcf-9-1-for-vmware-cloud-service-providers/",
-    "date": "Wed, 13 May 2026 13:51:45 +0000"
-  },
-  {
     "source": "veeam_intel",
-    "title": "What’s New in VDP v13.1: Practitioner Takeaways from VeeamON 2026",
+    "title": "What’s New in Veeam Data Platform v13.1: Practitioner Takeaways from VeeamON 2026",
     "link": "https://www.veeam.com/blog/veeam-data-platform-v13-1-announcements-veeamon-2026.html",
     "date": "Thu, 14 May 2026 15:05:22 +0000"
   },
