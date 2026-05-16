@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon CloudFront announces Passthrough Mode for mutual TLS (Viewer)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudfront-mtls-passthrough/",
-    "date": "Thu, 14 May 2026 22:30:00 GMT"
+    "title": "Amazon CloudWatch Logs announces increased query result limits",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/cloudwatch-logs-query-results/",
+    "date": "Fri, 15 May 2026 21:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon CloudFront announces support for OCSP Revocation for Mutual TLS (Viewer)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudfront-mtls-ocsp/",
-    "date": "Thu, 14 May 2026 22:30:00 GMT"
+    "title": "Amazon EMR Serverless is now available in additional AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-emr-serverless-aws-regions/",
+    "date": "Fri, 15 May 2026 19:50:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Bedrock Introduces Advanced Prompt Optimization and Migration Tool",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-bedrock-advanced-prompt-optimization-migration-tool/",
-    "date": "Thu, 14 May 2026 21:50:00 GMT"
+    "title": "Amazon Connect Cases now lets you edit related items and delete cases from the agent workspace",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-cases-related-item/",
+    "date": "Fri, 15 May 2026 17:25:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -91,21 +91,27 @@
   },
   {
     "source": "broadcom_vmware",
-    "title": "Expand Shared VMDKs with Clustered Applications in VMware vSAN for VCF 9.1",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/15/expand-shared-vmdks-in-vmware-vsan-for-vcf-9-1/",
-    "date": "Fri, 15 May 2026 12:00:00 +0000"
+    "title": "VCF Networking 9.1: Simpler VPC Connectivity Control",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/15/vcf-networking-9-1-simpler-vpc-connectivity-control/",
+    "date": "Fri, 15 May 2026 22:45:58 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Monetizing Zero-Trust Security with VCF 9.1 and VMware vDefend",
-    "link": "https://blogs.vmware.com/cloudprovider/2026/05/monetizing-zero-trust-security-with-vcf-9-1-and-vmware-vdefend.html",
-    "date": "Fri, 15 May 2026 03:36:06 +0000"
+    "title": "VCF Networking 9.1: Exploring Network Services for Virtual Private Clouds",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/15/vcf-networking-9-1-exploring-network-services-for-virtual-private-clouds/",
+    "date": "Fri, 15 May 2026 22:45:54 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "VMware vSAN Protection and Recovery Enhancements for VCF 9.1",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/14/vmware-vsan-protection-and-recovery-enhancements-for-vcf-9-1/",
-    "date": "Thu, 14 May 2026 12:00:00 +0000"
+    "title": "VCF Networking 9.1: Seamless DDI Integration with Infoblox",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/15/vcf-networking-9-1-seamless-ddi-integration-with-infoblox/",
+    "date": "Fri, 15 May 2026 22:45:47 +0000"
+  },
+  {
+    "source": "veeam_intel",
+    "title": "Cyber Extortion Trends: Identity, Recoverability, and Shifts in Payment Leverage",
+    "link": "https://www.veeam.com/blog/cyber-extortion-trends-2025.html",
+    "date": "Fri, 15 May 2026 19:01:31 +0000"
   },
   {
     "source": "veeam_intel",
@@ -118,12 +124,6 @@
     "title": "Red Hat and Veeam: Driving Industry Innovation Together for Kubernetes Storage and Backup Performance",
     "link": "https://www.veeam.com/blog/openshift-virtualization-backup-kubevirt-cbt.html",
     "date": "Wed, 13 May 2026 18:02:28 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "What’s New with Veeam Data Platform v13.1: Your Data, Your Terms",
-    "link": "https://www.veeam.com/blog/veeam-data-platform-v13-1-whats-new.html",
-    "date": "Wed, 13 May 2026 15:00:00 +0000"
   },
   {
     "source": "hackerrank",
