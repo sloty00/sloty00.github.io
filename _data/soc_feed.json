@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "An Open Letter from Europe’s Open Source Industry",
+    "link": "https://www.suse.com/c/an-open-letter-from-europes-open-source-industry/",
+    "date": "Mon, 18 May 2026 10:00:33 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "The Open Source Procurement Agenda: A Guide for IT Leaders, Procurement Teams and Policymakers",
     "link": "https://www.suse.com/c/the-open-source-procurement-agenda-a-guide-for-it-leaders-procurement-teams-and-policymakers/",
     "date": "Fri, 15 May 2026 06:28:00 +0000"
@@ -84,10 +90,10 @@
     "date": "Fri, 15 May 2026 06:27:15 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "Scaling SAP HANA Performance: Insights from AWS, Intel, and SUSE",
-    "link": "https://www.suse.com/c/scaling-sap-hana-performance-insights-from-aws-intel-and-suse/",
-    "date": "Thu, 14 May 2026 20:14:01 +0000"
+    "source": "broadcom_vmware",
+    "title": "VCF 9.1 Licensing: Programmatic, Centralized, and Built to Scale",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/18/vcf-9-1-licensing-programmatic-centralized-and-built-to-scale/",
+    "date": "Mon, 18 May 2026 14:24:40 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -100,12 +106,6 @@
     "title": "VCF Networking 9.1: Simpler VPC Connectivity Control",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/05/15/vcf-networking-9-1-simpler-vpc-connectivity-control/",
     "date": "Fri, 15 May 2026 22:45:58 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "VCF Networking 9.1: Exploring Network Services for Virtual Private Clouds",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/15/vcf-networking-9-1-exploring-network-services-for-virtual-private-clouds/",
-    "date": "Fri, 15 May 2026 22:45:54 +0000"
   },
   {
     "source": "veeam_intel",
