@@ -91,6 +91,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Why APJ Networking Professionals Need Private Cloud Expertise",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/17/why-apj-networking-professionals-need-private-cloud-expertise/",
+    "date": "Sun, 17 May 2026 22:00:00 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "VCF Networking 9.1: Simpler VPC Connectivity Control",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/05/15/vcf-networking-9-1-simpler-vpc-connectivity-control/",
     "date": "Fri, 15 May 2026 22:45:58 +0000"
@@ -100,12 +106,6 @@
     "title": "VCF Networking 9.1: Exploring Network Services for Virtual Private Clouds",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/05/15/vcf-networking-9-1-exploring-network-services-for-virtual-private-clouds/",
     "date": "Fri, 15 May 2026 22:45:54 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "VCF Networking 9.1: Seamless DDI Integration with Infoblox",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/15/vcf-networking-9-1-seamless-ddi-integration-with-infoblox/",
-    "date": "Fri, 15 May 2026 22:45:47 +0000"
   },
   {
     "source": "veeam_intel",
