@@ -1,6 +1,12 @@
 [
   {
     "source": "sophos_threat",
+    "title": "WantToCry ransomware remotely encrypts files",
+    "link": "https://www.sophos.com/en-us/blog/wanttocry-ransomware-remotely-encrypts-files",
+    "date": "Tue, 19 May 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "Why AMOS matters: The macOS malware stealing data at scale",
     "link": "https://www.sophos.com/en-us/blog/why-amos-matters-the-macos-malware-stealing-data-at-scale",
     "date": "Thu, 14 May 2026 00:00:00 GMT"
@@ -10,12 +16,6 @@
     "title": "May’s Patch Tuesday hauls out 132 CVEs",
     "link": "https://www.sophos.com/en-us/blog/may-patch-tuesday-hauls-out-132-cves",
     "date": "Wed, 13 May 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "Inside the lethal trifecta: Blast radius reduction in AI agent deployments",
-    "link": "https://www.sophos.com/en-us/blog/inside-the-lethal-trifecta-blast-radius-reduction-in-ai-agent-deployments",
-    "date": "Tue, 12 May 2026 00:00:00 GMT"
   },
   {
     "source": "sophos_ops",
@@ -91,6 +91,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "More Memory, Less Effort: Configuring Memory Tiering in VCF 9.1",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/19/more-memory-less-effort-configuring-memory-tiering-in-vcf-9-1/",
+    "date": "Tue, 19 May 2026 13:00:00 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "VCF 9.1 Licensing: Programmatic, Centralized, and Built to Scale",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/05/18/vcf-9-1-licensing-programmatic-centralized-and-built-to-scale/",
     "date": "Mon, 18 May 2026 14:24:40 +0000"
@@ -100,12 +106,6 @@
     "title": "Why APJ Networking Professionals Need Private Cloud Expertise",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/05/17/why-apj-networking-professionals-need-private-cloud-expertise/",
     "date": "Sun, 17 May 2026 22:00:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "VCF Networking 9.1: Simpler VPC Connectivity Control",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/15/vcf-networking-9-1-simpler-vpc-connectivity-control/",
-    "date": "Fri, 15 May 2026 22:45:58 +0000"
   },
   {
     "source": "veeam_intel",
