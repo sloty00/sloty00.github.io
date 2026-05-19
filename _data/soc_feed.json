@@ -37,21 +37,27 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon CloudWatch Logs announces increased query result limits",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/cloudwatch-logs-query-results/",
-    "date": "Fri, 15 May 2026 21:00:00 GMT"
+    "title": "AWS Management Console now displays AWS Local Zones in the Region Selector",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-local-zones-region-selector/",
+    "date": "Mon, 18 May 2026 21:50:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EMR Serverless is now available in additional AWS Regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-emr-serverless-aws-regions/",
-    "date": "Fri, 15 May 2026 19:50:00 GMT"
+    "title": "AWS Glue zero-ETL is now available in Asia Pacific (Mumbai) region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-glue-zero-etl-mumbai-region",
+    "date": "Mon, 18 May 2026 21:10:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Partner Central agents now accelerates opportunity creation",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-partner-central-agents-oppo",
-    "date": "Fri, 15 May 2026 18:41:00 GMT"
+    "title": "Amazon Lightsail CDN distributions now support IPv6-only instances as origins",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-lightsail-cdn-ipv6/",
+    "date": "Mon, 18 May 2026 18:49:00 GMT"
+  },
+  {
+    "source": "gcp_cloud",
+    "title": "Blackstone will create a new TPU cloud in a joint venture with Google.",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/blackstone-tpu-cloud/",
+    "date": "Tue, 19 May 2026 01:00:00 +0000"
   },
   {
     "source": "gcp_cloud",
@@ -64,12 +70,6 @@
     "title": "Find out how AlphaEvolve has gone from research to solving real-life problems.",
     "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-updates/",
     "date": "Thu, 07 May 2026 15:00:00 +0000"
-  },
-  {
-    "source": "gcp_cloud",
-    "title": "Here’s how we’re helping Belgium's farmers save water with AI.",
-    "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/heres-how-were-helping-belgiums-farmers-save-water-with-ai/",
-    "date": "Tue, 05 May 2026 09:00:00 +0000"
   },
   {
     "source": "suse_news",
