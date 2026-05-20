@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "EUC Modernization Has a New Stack: How SUSE Virtualization + Kasm Workspaces Deliver the Browser-First, AI-Ready Digital Workplace",
+    "link": "https://www.suse.com/c/suse-and-kasm-partnership/",
+    "date": "Wed, 20 May 2026 08:00:23 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Powering the Grid of the Future: SUSE Commits to LF Energy’s SEAPATH Project",
     "link": "https://www.suse.com/c/suse-commits-to-lf-energys-seapath-project/",
     "date": "Tue, 19 May 2026 18:16:43 +0000"
@@ -82,12 +88,6 @@
     "title": "An Open Letter from Europe’s Open Source Industry",
     "link": "https://www.suse.com/c/an-open-letter-from-europes-open-source-industry/",
     "date": "Mon, 18 May 2026 10:00:33 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "The Open Source Procurement Agenda: A Guide for IT Leaders, Procurement Teams and Policymakers",
-    "link": "https://www.suse.com/c/the-open-source-procurement-agenda-a-guide-for-it-leaders-procurement-teams-and-policymakers/",
-    "date": "Fri, 15 May 2026 06:28:00 +0000"
   },
   {
     "source": "broadcom_vmware",
