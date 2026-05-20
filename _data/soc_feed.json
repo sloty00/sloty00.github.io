@@ -37,39 +37,45 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS Management Console now displays AWS Local Zones in the Region Selector",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-local-zones-region-selector/",
-    "date": "Mon, 18 May 2026 21:50:00 GMT"
+    "title": "Amazon SageMaker HyperPod now supports data capture for inference workloads",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-hyperpod-data-capture",
+    "date": "Wed, 20 May 2026 01:08:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Glue zero-ETL is now available in Asia Pacific (Mumbai) region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-glue-zero-etl-mumbai-region",
-    "date": "Mon, 18 May 2026 21:10:00 GMT"
+    "title": "Amazon MWAA now supports Apache Airflow 3.2",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-mwaa-now-supports-apache-airflow-3-2/",
+    "date": "Tue, 19 May 2026 20:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Lightsail CDN distributions now support IPv6-only instances as origins",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-lightsail-cdn-ipv6/",
-    "date": "Mon, 18 May 2026 18:49:00 GMT"
+    "title": "Amazon Inspector is now available in the AWS Asia Pacific (Taipei) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-inspector-taipei/",
+    "date": "Tue, 19 May 2026 17:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
-    "title": "Blackstone will create a new TPU cloud in a joint venture with Google.",
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/blackstone-tpu-cloud/",
-    "date": "Tue, 19 May 2026 01:00:00 +0000"
+    "title": "Making it easier to understand how content was created and edited",
+    "link": "https://blog.google/innovation-and-ai/products/identifying-ai-generated-media-online/",
+    "date": "Tue, 19 May 2026 17:45:00 +0000"
   },
   {
     "source": "gcp_cloud",
-    "title": "Read our new report on AI-powered threats and our latest defenses.",
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/google-threat-intelligence-group-report/",
-    "date": "Mon, 11 May 2026 15:00:00 +0000"
+    "title": "New ways to create and get things done in Google Workspace",
+    "link": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
+    "date": "Tue, 19 May 2026 17:45:00 +0000"
   },
   {
     "source": "gcp_cloud",
-    "title": "Find out how AlphaEvolve has gone from research to solving real-life problems.",
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-updates/",
-    "date": "Thu, 07 May 2026 15:00:00 +0000"
+    "title": "I/O 2026: Welcome to the agentic Gemini era",
+    "link": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+    "date": "Tue, 19 May 2026 17:45:00 +0000"
+  },
+  {
+    "source": "suse_news",
+    "title": "Powering the Grid of the Future: SUSE Commits to LF Energy’s SEAPATH Project",
+    "link": "https://www.suse.com/c/suse-commits-to-lf-energys-seapath-project/",
+    "date": "Tue, 19 May 2026 18:16:43 +0000"
   },
   {
     "source": "suse_news",
@@ -84,10 +90,10 @@
     "date": "Fri, 15 May 2026 06:28:00 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "A Global Exchange: Applying the European Sovereignty Frameworks Everywhere",
-    "link": "https://www.suse.com/c/a-global-exchange-applying-the-european-sovereignty-frameworks-everywhere/",
-    "date": "Fri, 15 May 2026 06:27:15 +0000"
+    "source": "broadcom_vmware",
+    "title": "Avi Advantage: Automating Certificate Management of VCF Workloads",
+    "link": "https://blogs.vmware.com/load-balancing/2026/05/19/automate-certificate-management-on-vcf-with-avi/",
+    "date": "Tue, 19 May 2026 15:00:00 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -102,10 +108,10 @@
     "date": "Mon, 18 May 2026 14:24:40 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "Why APJ Networking Professionals Need Private Cloud Expertise",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/17/why-apj-networking-professionals-need-private-cloud-expertise/",
-    "date": "Sun, 17 May 2026 22:00:00 +0000"
+    "source": "veeam_intel",
+    "title": "From Backup to Cyber Resilience: Why Your Infrastructure Matters and How Veeam Delivers Added Resilience with Dell Data Domain",
+    "link": "https://www.veeam.com/blog/veeam-dell-data-domain-cyber-resilience.html",
+    "date": "Wed, 20 May 2026 01:47:56 +0000"
   },
   {
     "source": "veeam_intel",
@@ -118,12 +124,6 @@
     "title": "What’s New in Veeam Data Platform v13.1: Practitioner Takeaways from VeeamON 2026",
     "link": "https://www.veeam.com/blog/veeam-data-platform-v13-1-announcements-veeamon-2026.html",
     "date": "Thu, 14 May 2026 15:05:22 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Red Hat and Veeam: Driving Industry Innovation Together for Kubernetes Storage and Backup Performance",
-    "link": "https://www.veeam.com/blog/openshift-virtualization-backup-kubevirt-cbt.html",
-    "date": "Wed, 13 May 2026 18:02:28 +0000"
   },
   {
     "source": "hackerrank",
