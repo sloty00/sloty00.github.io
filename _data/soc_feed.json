@@ -37,21 +37,27 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon SageMaker HyperPod now supports data capture for inference workloads",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-hyperpod-data-capture",
-    "date": "Wed, 20 May 2026 01:08:00 GMT"
+    "title": "AWS Security Hub now uncovers identity risks from unused access",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-hub-unused-access/",
+    "date": "Wed, 20 May 2026 20:20:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon MWAA now supports Apache Airflow 3.2",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-mwaa-now-supports-apache-airflow-3-2/",
-    "date": "Tue, 19 May 2026 20:00:00 GMT"
+    "title": "Security Hub Extended expands to 21 curated partner solutions across 9 categories",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-hub-extended/",
+    "date": "Wed, 20 May 2026 18:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Inspector is now available in the AWS Asia Pacific (Taipei) Region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-inspector-taipei/",
-    "date": "Tue, 19 May 2026 17:00:00 GMT"
+    "title": "AWS announces ExtendDB, an open source DynamoDB-compatible adapter",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-extenddb-dynamodb/",
+    "date": "Wed, 20 May 2026 17:00:00 GMT"
+  },
+  {
+    "source": "gcp_cloud",
+    "title": "A new experiment brings better group meetings to Google Beam",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
+    "date": "Wed, 20 May 2026 16:45:00 +0000"
   },
   {
     "source": "gcp_cloud",
@@ -63,12 +69,6 @@
     "source": "gcp_cloud",
     "title": "New ways to create and get things done in Google Workspace",
     "link": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
-    "date": "Tue, 19 May 2026 17:45:00 +0000"
-  },
-  {
-    "source": "gcp_cloud",
-    "title": "I/O 2026: Welcome to the agentic Gemini era",
-    "link": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
     "date": "Tue, 19 May 2026 17:45:00 +0000"
   },
   {
@@ -91,6 +91,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Increase Deployment Flexibility with VCF Edge Automation 1.0.3",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/20/increase-deployment-flexibility-with-vcf-edge-automation-1-0-3/",
+    "date": "Wed, 20 May 2026 21:23:53 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Avi Advantage: Automating Certificate Management of VCF Workloads",
     "link": "https://blogs.vmware.com/load-balancing/2026/05/19/automate-certificate-management-on-vcf-with-avi/",
     "date": "Tue, 19 May 2026 15:00:00 +0000"
@@ -100,12 +106,6 @@
     "title": "More Memory, Less Effort: Configuring Memory Tiering in VCF 9.1",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/05/19/more-memory-less-effort-configuring-memory-tiering-in-vcf-9-1/",
     "date": "Tue, 19 May 2026 13:00:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "VCF 9.1 Licensing: Programmatic, Centralized, and Built to Scale",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/18/vcf-9-1-licensing-programmatic-centralized-and-built-to-scale/",
-    "date": "Mon, 18 May 2026 14:24:40 +0000"
   },
   {
     "source": "veeam_intel",
