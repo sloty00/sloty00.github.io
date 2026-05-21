@@ -1,6 +1,12 @@
 [
   {
     "source": "sophos_threat",
+    "title": "GitHub internal repositories breached",
+    "link": "https://www.sophos.com/en-us/blog/github-internal-repositories-breached",
+    "date": "Wed, 20 May 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "WantToCry ransomware remotely encrypts files",
     "link": "https://www.sophos.com/en-us/blog/wanttocry-ransomware-remotely-encrypts-files",
     "date": "Tue, 19 May 2026 00:00:00 GMT"
@@ -10,12 +16,6 @@
     "title": "Why AMOS matters: The macOS malware stealing data at scale",
     "link": "https://www.sophos.com/en-us/blog/why-amos-matters-the-macos-malware-stealing-data-at-scale",
     "date": "Thu, 14 May 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "May’s Patch Tuesday hauls out 132 CVEs",
-    "link": "https://www.sophos.com/en-us/blog/may-patch-tuesday-hauls-out-132-cves",
-    "date": "Wed, 13 May 2026 00:00:00 GMT"
   },
   {
     "source": "sophos_ops",
