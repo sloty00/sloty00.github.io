@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon CloudWatch Logs Insights adds new query commands and functions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-logs-insights/",
-    "date": "Thu, 21 May 2026 23:00:00 GMT"
+    "title": "Amazon SageMaker expands domain management across domain types",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/domain-management-iam-idc/",
+    "date": "Fri, 22 May 2026 19:30:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EC2 C7i-flex, M7i-flex & M7i instances now available in Asia Pacific (Hyderabad) region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-c7i-flex-m7i-flex-m7i-instances-HYD-region/",
-    "date": "Thu, 21 May 2026 19:39:00 GMT"
+    "title": "New agentic migration assessment capabilities now available with AWS Transform",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/assessment-capabilities-transform",
+    "date": "Fri, 22 May 2026 18:58:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "SageMaker Unified Studio automates Glue connector provisioning for cross-subnet job retries",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/sagemaker-unified-studio-glue/",
-    "date": "Thu, 21 May 2026 19:27:00 GMT"
+    "title": "Amazon SageMaker adds business metadata and governance in IAM-based domains",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/sagemaker-catalog-iam-domains/",
+    "date": "Fri, 22 May 2026 18:24:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -91,6 +91,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Smarter Patching at Scale: Vulnerability Assessment and Remediation with VMware Tanzu Platform",
+    "link": "https://blogs.vmware.com/tanzu/smarter-patching-at-scale-vulnerability-assessment-and-remediation-with-vmware-tanzu-platform/",
+    "date": "Fri, 22 May 2026 19:13:38 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Encrypted vMotion Offload to Intel QAT in VMware Cloud Foundation 9.1",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/05/21/encrypted-vmotion-offload-to-intel-qat-in-vmware-cloud-foundation-9-1/",
     "date": "Thu, 21 May 2026 16:20:37 +0000"
@@ -100,12 +106,6 @@
     "title": "Deepen Your Expertise: Four Key Benefits of Attending",
     "link": "https://blogs.vmware.com/explore/why-customers-should-attend-explore/",
     "date": "Thu, 21 May 2026 16:00:22 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Increase Deployment Flexibility with VCF Edge Automation 1.0.3",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/20/increase-deployment-flexibility-with-vcf-edge-automation-1-0-3/",
-    "date": "Wed, 20 May 2026 21:23:53 +0000"
   },
   {
     "source": "veeam_intel",
