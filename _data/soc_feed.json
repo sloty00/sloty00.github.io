@@ -109,6 +109,12 @@
   },
   {
     "source": "veeam_intel",
+    "title": "When Identity is Compromised: How to Recover and Keep Your Business Moving",
+    "link": "https://www.veeam.com/blog/entra-id-identity-attack-recovery.html",
+    "date": "Sat, 23 May 2026 06:02:54 +0000"
+  },
+  {
+    "source": "veeam_intel",
     "title": "From Backup to Cyber Resilience: Why Your Infrastructure Matters and How Veeam Delivers Added Resilience with Dell Data Domain",
     "link": "https://www.veeam.com/blog/veeam-dell-data-domain-cyber-resilience.html",
     "date": "Wed, 20 May 2026 01:47:56 +0000"
@@ -118,12 +124,6 @@
     "title": "Cyber Extortion Trends: Identity, Recoverability, and Shifts in Payment Leverage",
     "link": "https://www.veeam.com/blog/cyber-extortion-trends-2025.html",
     "date": "Fri, 15 May 2026 19:01:31 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "What’s New in Veeam Data Platform v13.1: Practitioner Takeaways from VeeamON 2026",
-    "link": "https://www.veeam.com/blog/veeam-data-platform-v13-1-announcements-veeamon-2026.html",
-    "date": "Thu, 14 May 2026 15:05:22 +0000"
   },
   {
     "source": "hackerrank",
