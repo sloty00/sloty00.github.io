@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "MobileLinux Hackday #1 in České Budějovice Outperforms Prague!",
+    "link": "https://www.suse.com/c/first-mobilelinux-hackday-in-ceske-budejovice-outperforms-prague/",
+    "date": "Mon, 25 May 2026 11:51:34 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "EUC Modernization Has a New Stack: How SUSE Virtualization + Kasm Workspaces Deliver the Browser-First, AI-Ready Digital Workplace",
     "link": "https://www.suse.com/c/suse-and-kasm-partnership/",
     "date": "Wed, 20 May 2026 08:00:23 +0000"
@@ -84,10 +90,10 @@
     "date": "Tue, 19 May 2026 18:16:43 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "An Open Letter from Europe’s Open Source Industry",
-    "link": "https://www.suse.com/c/an-open-letter-from-europes-open-source-industry/",
-    "date": "Mon, 18 May 2026 10:00:33 +0000"
+    "source": "broadcom_vmware",
+    "title": "VMware Cloud on AWS の使用状況を確認できる API",
+    "link": "https://blogs.vmware.com/vmware-japan/2026/05/vmc-usage-report.html",
+    "date": "Tue, 26 May 2026 01:42:08 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -100,12 +106,6 @@
     "title": "Smarter Patching at Scale: Vulnerability Assessment and Remediation with VMware Tanzu Platform",
     "link": "https://blogs.vmware.com/tanzu/smarter-patching-at-scale-vulnerability-assessment-and-remediation-with-vmware-tanzu-platform/",
     "date": "Fri, 22 May 2026 19:13:38 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Encrypted vMotion Offload to Intel QAT in VMware Cloud Foundation 9.1",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/21/encrypted-vmotion-offload-to-intel-qat-in-vmware-cloud-foundation-9-1/",
-    "date": "Thu, 21 May 2026 16:20:37 +0000"
   },
   {
     "source": "veeam_intel",
