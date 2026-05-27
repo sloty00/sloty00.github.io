@@ -37,15 +37,15 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon RDS now supports ENA Express for Multi-AZ replication",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-ena-express-multiAZ/",
-    "date": "Tue, 26 May 2026 19:00:00 GMT"
+    "title": "Amazon EC2 X8i instances are now available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-SIN-SYD-PDT-region/",
+    "date": "Tue, 26 May 2026 21:58:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EC2 M8i and M8i-flex instances are now available in AWS GovCloud (US-East) Region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-m8i-m8i-flex-govcloud-east/",
-    "date": "Tue, 26 May 2026 16:00:00 GMT"
+    "title": "Amazon RDS now supports ENA Express for Multi-AZ replication",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-ena-express-multiAZ/",
+    "date": "Tue, 26 May 2026 19:00:00 GMT"
   },
   {
     "source": "aws_news",
@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "Broadcom VMware told them to sell, instead FIS Group built something bigger.",
+    "link": "https://www.suse.com/c/broadcom-vmware-told-them-to-sell-instead-fis-group-built-something-bigger/",
+    "date": "Tue, 26 May 2026 22:24:20 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "SUSE Rancher Developer Access On-Boarding",
     "link": "https://www.suse.com/c/suse-rancher-developer-access-on-boarding/",
     "date": "Tue, 26 May 2026 10:32:51 +0000"
@@ -84,10 +90,10 @@
     "date": "Mon, 25 May 2026 11:51:34 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "EUC Modernization Has a New Stack: How SUSE Virtualization + Kasm Workspaces Deliver the Browser-First, AI-Ready Digital Workplace",
-    "link": "https://www.suse.com/c/suse-and-kasm-partnership/",
-    "date": "Wed, 20 May 2026 08:00:23 +0000"
+    "source": "broadcom_vmware",
+    "title": "Zero Touch Provisioning: Activating Edge Sites with VMware Cloud Foundation Edge 9.1",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/27/zero-touch-provisioning-activating-edge-sites-with-vmware-cloud-foundation-edge-9-1/",
+    "date": "Wed, 27 May 2026 08:35:28 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -100,12 +106,6 @@
     "title": "VMware Cloud on AWS の使用状況を確認できる API",
     "link": "https://blogs.vmware.com/vmware-japan/2026/05/vmc-usage-report.html",
     "date": "Tue, 26 May 2026 01:42:08 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Unlocking the Full Potential of Programmable Infrastructure with VMware Cloud Foundation 9.1 – New Features and Capabilities",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/25/unlocking-the-full-potential-of-programmable-infrastructure-with-vmware-cloud-foundation-9-1-new-features-and-capabilities/",
-    "date": "Mon, 25 May 2026 12:50:50 +0000"
   },
   {
     "source": "veeam_intel",
