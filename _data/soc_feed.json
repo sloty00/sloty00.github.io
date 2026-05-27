@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon SageMaker expands domain management across domain types",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/domain-management-iam-idc/",
-    "date": "Fri, 22 May 2026 19:30:00 GMT"
+    "title": "Amazon RDS now supports ENA Express for Multi-AZ replication",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-ena-express-multiAZ/",
+    "date": "Tue, 26 May 2026 19:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "New agentic migration assessment capabilities now available with AWS Transform",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/assessment-capabilities-transform",
-    "date": "Fri, 22 May 2026 18:58:00 GMT"
+    "title": "Amazon EC2 M8i and M8i-flex instances are now available in AWS GovCloud (US-East) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-m8i-m8i-flex-govcloud-east/",
+    "date": "Tue, 26 May 2026 16:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon SageMaker adds business metadata and governance in IAM-based domains",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/sagemaker-catalog-iam-domains/",
-    "date": "Fri, 22 May 2026 18:24:00 GMT"
+    "title": "Amazon EC2 R8i and R8i-flex instances are now available in AWS GovCloud (US-East) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-r8i-r8i-flex-govcloud-east/",
+    "date": "Tue, 26 May 2026 16:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "SUSE Rancher Developer Access On-Boarding",
+    "link": "https://www.suse.com/c/suse-rancher-developer-access-on-boarding/",
+    "date": "Tue, 26 May 2026 10:32:51 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "MobileLinux Hackday #1 in České Budějovice Outperforms Prague!",
     "link": "https://www.suse.com/c/first-mobilelinux-hackday-in-ceske-budejovice-outperforms-prague/",
     "date": "Mon, 25 May 2026 11:51:34 +0000"
@@ -84,10 +90,10 @@
     "date": "Wed, 20 May 2026 08:00:23 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "Powering the Grid of the Future: SUSE Commits to LF Energy’s SEAPATH Project",
-    "link": "https://www.suse.com/c/suse-commits-to-lf-energys-seapath-project/",
-    "date": "Tue, 19 May 2026 18:16:43 +0000"
+    "source": "broadcom_vmware",
+    "title": "VCF Breakroom Chats Episode 85 – Cloning Success at Scale: Inside VCF 9.1’s App Stack Formation",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/26/vcf-breakroom-chats-episode-85-cloning-success-at-scale-inside-vcf-9-1s-app-stack-formation/",
+    "date": "Tue, 26 May 2026 17:23:19 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -100,12 +106,6 @@
     "title": "Unlocking the Full Potential of Programmable Infrastructure with VMware Cloud Foundation 9.1 – New Features and Capabilities",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/05/25/unlocking-the-full-potential-of-programmable-infrastructure-with-vmware-cloud-foundation-9-1-new-features-and-capabilities/",
     "date": "Mon, 25 May 2026 12:50:50 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Smarter Patching at Scale: Vulnerability Assessment and Remediation with VMware Tanzu Platform",
-    "link": "https://blogs.vmware.com/tanzu/smarter-patching-at-scale-vulnerability-assessment-and-remediation-with-vmware-tanzu-platform/",
-    "date": "Fri, 22 May 2026 19:13:38 +0000"
   },
   {
     "source": "veeam_intel",
