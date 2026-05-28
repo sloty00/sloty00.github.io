@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon EC2 X8i instances are now available in additional regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-SIN-SYD-PDT-region/",
-    "date": "Tue, 26 May 2026 21:58:00 GMT"
+    "title": "Announcing Region Expansion of P6-B200 instances on SageMaker Notebook Instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/p6-b200-region-expansion-sagemaker-notebook-instances/",
+    "date": "Wed, 27 May 2026 23:30:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon RDS now supports ENA Express for Multi-AZ replication",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-ena-express-multiAZ/",
-    "date": "Tue, 26 May 2026 19:00:00 GMT"
+    "title": "Amazon Bedrock expands support for Service Quotas",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/5/amazon-bedrock-service-quotas/",
+    "date": "Wed, 27 May 2026 21:41:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EC2 R8i and R8i-flex instances are now available in AWS GovCloud (US-East) Region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-r8i-r8i-flex-govcloud-east/",
-    "date": "Tue, 26 May 2026 16:00:00 GMT"
+    "title": "SageMaker Notebook Instances now support P5.4xl instance types",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/p5-4xl-new-instance-launch-sagemaker-notebook-instances/",
+    "date": "Wed, 27 May 2026 20:30:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,39 +73,39 @@
   },
   {
     "source": "suse_news",
+    "title": "The Art of Kernel Module Harmony",
+    "link": "https://www.suse.com/c/the-art-of-kernel-module-harmony/",
+    "date": "Wed, 27 May 2026 18:09:23 +0000"
+  },
+  {
+    "source": "suse_news",
+    "title": "A Modern Approach to SAP Infrastructure Observability with Grafana Alloy",
+    "link": "https://www.suse.com/c/a-modern-approach-to-sap-infrastructure-observability-with-grafana-alloy/",
+    "date": "Wed, 27 May 2026 17:25:56 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Broadcom VMware told them to sell, instead FIS Group built something bigger.",
     "link": "https://www.suse.com/c/broadcom-vmware-told-them-to-sell-instead-fis-group-built-something-bigger/",
     "date": "Tue, 26 May 2026 22:24:20 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "SUSE Rancher Developer Access On-Boarding",
-    "link": "https://www.suse.com/c/suse-rancher-developer-access-on-boarding/",
-    "date": "Tue, 26 May 2026 10:32:51 +0000"
+    "source": "broadcom_vmware",
+    "title": "Securing Your VCF 9.1 Infrastructure with the Symantec Identity Security Platform",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/27/securing-your-vcf-9-1-infrastructure-with-the-symantec-identity-security-platform/",
+    "date": "Wed, 27 May 2026 20:22:12 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "MobileLinux Hackday #1 in České Budějovice Outperforms Prague!",
-    "link": "https://www.suse.com/c/first-mobilelinux-hackday-in-ceske-budejovice-outperforms-prague/",
-    "date": "Mon, 25 May 2026 11:51:34 +0000"
+    "source": "broadcom_vmware",
+    "title": "Virtually Speaking: The AI Reality Check with Dave Linthicum",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/27/virtually-speaking-the-ai-reality-check-with-dave-linthicum/",
+    "date": "Wed, 27 May 2026 20:12:21 +0000"
   },
   {
     "source": "broadcom_vmware",
     "title": "Zero Touch Provisioning: Activating Edge Sites with VMware Cloud Foundation Edge 9.1",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/05/27/zero-touch-provisioning-activating-edge-sites-with-vmware-cloud-foundation-edge-9-1/",
     "date": "Wed, 27 May 2026 08:35:28 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "VCF Breakroom Chats Episode 85 – Cloning Success at Scale: Inside VCF 9.1’s App Stack Formation",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/26/vcf-breakroom-chats-episode-85-cloning-success-at-scale-inside-vcf-9-1s-app-stack-formation/",
-    "date": "Tue, 26 May 2026 17:23:19 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "VMware Cloud on AWS の使用状況を確認できる API",
-    "link": "https://blogs.vmware.com/vmware-japan/2026/05/vmc-usage-report.html",
-    "date": "Tue, 26 May 2026 01:42:08 +0000"
   },
   {
     "source": "veeam_intel",
