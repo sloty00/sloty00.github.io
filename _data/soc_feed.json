@@ -49,8 +49,8 @@
   },
   {
     "source": "aws_news",
-    "title": "SageMaker Notebook Instances now support P5.4xl instance types",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/p5-4xl-new-instance-launch-sagemaker-notebook-instances/",
+    "title": "SageMaker Notebook Instances now support P5en.48xl instance types",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/p5en-new-instance-launch-sagemaker-notebook-instances/",
     "date": "Wed, 27 May 2026 20:30:00 GMT"
   },
   {
@@ -91,21 +91,21 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Announcing the VMware Cloud Foundation 9.1 Upgrade Planning Tool",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/28/announcing-the-vmware-cloud-foundation-9-1-upgrade-planning-tool/",
+    "date": "Thu, 28 May 2026 13:01:27 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "VCF Breakroom Chats Episode 86 – Containers Made Easy: The New “Container-as-a-Service” in VCF 9.1",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/28/vcf-breakroom-chats-episode-86-containers-made-easy-the-new-container-as-a-service-in-vcf-9-1/",
+    "date": "Thu, 28 May 2026 12:00:00 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Securing Your VCF 9.1 Infrastructure with the Symantec Identity Security Platform",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/05/27/securing-your-vcf-9-1-infrastructure-with-the-symantec-identity-security-platform/",
     "date": "Wed, 27 May 2026 20:22:12 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Virtually Speaking: The AI Reality Check with Dave Linthicum",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/27/virtually-speaking-the-ai-reality-check-with-dave-linthicum/",
-    "date": "Wed, 27 May 2026 20:12:21 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Zero Touch Provisioning: Activating Edge Sites with VMware Cloud Foundation Edge 9.1",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/27/zero-touch-provisioning-activating-edge-sites-with-vmware-cloud-foundation-edge-9-1/",
-    "date": "Wed, 27 May 2026 08:35:28 +0000"
   },
   {
     "source": "veeam_intel",
