@@ -37,6 +37,12 @@
   },
   {
     "source": "aws_news",
+    "title": "Amazon S3 Tables are now available in two additional AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-s3-tables-aws-regions/",
+    "date": "Fri, 29 May 2026 04:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "Monitor AWS Budgets directly in Billing and Cost Management Dashboards with new Budgets widget",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/monitor-aws-budgets-using-dashboards",
     "date": "Thu, 28 May 2026 20:57:00 GMT"
@@ -46,12 +52,6 @@
     "title": "AWS IoT Core adds APIs for MQTT connection management",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iot-core-apis-mqtt/",
     "date": "Thu, 28 May 2026 20:30:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "AWS Organizations emits CloudTrail events for account membership changes",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-organizations-cloudtrail/",
-    "date": "Thu, 28 May 2026 16:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -91,6 +91,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "「VMware Tanzu® Spring Essentials」とは",
+    "link": "https://blogs.vmware.com/vmware-japan/2026/05/tanzu-spring-essentials-by-broadcom.html",
+    "date": "Fri, 29 May 2026 05:10:06 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Diagnostics for VMware Cloud Foundation (VCF) 9.1 with Old Versions of VCF Components",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/05/28/diagnostics-for-vmware-cloud-foundation-vcf-9-1-with-old-versions-of-vcf-components/",
     "date": "Thu, 28 May 2026 22:30:11 +0000"
@@ -100,12 +106,6 @@
     "title": "Mastering Infrastructure Policies in VMware Cloud Foundation Automation 9.1",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/05/28/vcf-automation-infrastructure-policies/",
     "date": "Thu, 28 May 2026 16:51:23 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Modernizing the Private Cloud: Why VCF 9.1 Lifecycle Management is a Game Changer",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/28/modernizing-the-private-cloud-why-vcf-9-1-lifecycle-management-is-a-game-changer/",
-    "date": "Thu, 28 May 2026 15:31:17 +0000"
   },
   {
     "source": "veeam_intel",
