@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Announcing Region Expansion of P6-B200 instances on SageMaker Notebook Instances",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/p6-b200-region-expansion-sagemaker-notebook-instances/",
-    "date": "Wed, 27 May 2026 23:30:00 GMT"
+    "title": "Monitor AWS Budgets directly in Billing and Cost Management Dashboards with new Budgets widget",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/monitor-aws-budgets-using-dashboards",
+    "date": "Thu, 28 May 2026 20:57:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Bedrock expands support for Service Quotas",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/5/amazon-bedrock-service-quotas/",
-    "date": "Wed, 27 May 2026 21:41:00 GMT"
+    "title": "AWS IoT Core adds APIs for MQTT connection management",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iot-core-apis-mqtt/",
+    "date": "Thu, 28 May 2026 20:30:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "SageMaker Notebook Instances now support P5en.48xl instance types",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/p5en-new-instance-launch-sagemaker-notebook-instances/",
-    "date": "Wed, 27 May 2026 20:30:00 GMT"
+    "title": "AWS Organizations emits CloudTrail events for account membership changes",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-organizations-cloudtrail/",
+    "date": "Thu, 28 May 2026 16:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "Your Next Enterprise Linux: SUSE Linux 16.1 Public Beta is on the Way",
+    "link": "https://www.suse.com/c/suse-linux-16-1-public-beta/",
+    "date": "Thu, 28 May 2026 14:12:40 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "The Art of Kernel Module Harmony",
     "link": "https://www.suse.com/c/the-art-of-kernel-module-harmony/",
     "date": "Wed, 27 May 2026 18:09:23 +0000"
@@ -84,28 +90,22 @@
     "date": "Wed, 27 May 2026 17:25:56 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "Broadcom VMware told them to sell, instead FIS Group built something bigger.",
-    "link": "https://www.suse.com/c/broadcom-vmware-told-them-to-sell-instead-fis-group-built-something-bigger/",
-    "date": "Tue, 26 May 2026 22:24:20 +0000"
+    "source": "broadcom_vmware",
+    "title": "Diagnostics for VMware Cloud Foundation (VCF) 9.1 with Old Versions of VCF Components",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/28/diagnostics-for-vmware-cloud-foundation-vcf-9-1-with-old-versions-of-vcf-components/",
+    "date": "Thu, 28 May 2026 22:30:11 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Announcing the VMware Cloud Foundation 9.1 Upgrade Planning Tool",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/28/announcing-the-vmware-cloud-foundation-9-1-upgrade-planning-tool/",
-    "date": "Thu, 28 May 2026 13:01:27 +0000"
+    "title": "Mastering Infrastructure Policies in VMware Cloud Foundation Automation 9.1",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/28/vcf-automation-infrastructure-policies/",
+    "date": "Thu, 28 May 2026 16:51:23 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "VCF Breakroom Chats Episode 86 – Containers Made Easy: The New “Container-as-a-Service” in VCF 9.1",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/28/vcf-breakroom-chats-episode-86-containers-made-easy-the-new-container-as-a-service-in-vcf-9-1/",
-    "date": "Thu, 28 May 2026 12:00:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Securing Your VCF 9.1 Infrastructure with the Symantec Identity Security Platform",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/27/securing-your-vcf-9-1-infrastructure-with-the-symantec-identity-security-platform/",
-    "date": "Wed, 27 May 2026 20:22:12 +0000"
+    "title": "Modernizing the Private Cloud: Why VCF 9.1 Lifecycle Management is a Game Changer",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/28/modernizing-the-private-cloud-why-vcf-9-1-lifecycle-management-is-a-game-changer/",
+    "date": "Thu, 28 May 2026 15:31:17 +0000"
   },
   {
     "source": "veeam_intel",
