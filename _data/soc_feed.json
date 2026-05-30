@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon S3 Tables are now available in two additional AWS Regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-s3-tables-aws-regions/",
-    "date": "Fri, 29 May 2026 04:00:00 GMT"
+    "title": "Amazon SES now offers inbox placement metrics and blocklist monitoring",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ses-global-deliverability/",
+    "date": "Fri, 29 May 2026 21:48:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Monitor AWS Budgets directly in Billing and Cost Management Dashboards with new Budgets widget",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/monitor-aws-budgets-using-dashboards",
-    "date": "Thu, 28 May 2026 20:57:00 GMT"
+    "title": "AWS End User Messaging RCS for Business now available in 20 additional countries",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-rcs-countries/",
+    "date": "Fri, 29 May 2026 20:23:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS IoT Core adds APIs for MQTT connection management",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iot-core-apis-mqtt/",
-    "date": "Thu, 28 May 2026 20:30:00 GMT"
+    "title": "Amazon Connect Customer now supports scheduling tasks up to 90 days in advance",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-customer-tasks-90day-schedule",
+    "date": "Fri, 29 May 2026 18:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "Announcing Trento Version 3.1",
+    "link": "https://www.suse.com/c/announcing-trento-version-3-1/",
+    "date": "Fri, 29 May 2026 12:38:27 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Your Next Enterprise Linux: SUSE Linux 16.1 Public Beta is on the Way",
     "link": "https://www.suse.com/c/suse-linux-16-1-public-beta/",
     "date": "Thu, 28 May 2026 14:12:40 +0000"
@@ -82,12 +88,6 @@
     "title": "The Art of Kernel Module Harmony",
     "link": "https://www.suse.com/c/the-art-of-kernel-module-harmony/",
     "date": "Wed, 27 May 2026 18:09:23 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "A Modern Approach to SAP Infrastructure Observability with Grafana Alloy",
-    "link": "https://www.suse.com/c/a-modern-approach-to-sap-infrastructure-observability-with-grafana-alloy/",
-    "date": "Wed, 27 May 2026 17:25:56 +0000"
   },
   {
     "source": "broadcom_vmware",
