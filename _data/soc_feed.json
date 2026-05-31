@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "Tuning Windows VM Performance on SUSE Virtualization",
+    "link": "https://www.suse.com/c/tuning-windows-vm-performance-on-suse-virtualization/",
+    "date": "Sun, 31 May 2026 06:31:57 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Announcing Trento Version 3.1",
     "link": "https://www.suse.com/c/announcing-trento-version-3-1/",
     "date": "Fri, 29 May 2026 12:38:27 +0000"
@@ -82,12 +88,6 @@
     "title": "Your Next Enterprise Linux: SUSE Linux 16.1 Public Beta is on the Way",
     "link": "https://www.suse.com/c/suse-linux-16-1-public-beta/",
     "date": "Thu, 28 May 2026 14:12:40 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "The Art of Kernel Module Harmony",
-    "link": "https://www.suse.com/c/the-art-of-kernel-module-harmony/",
-    "date": "Wed, 27 May 2026 18:09:23 +0000"
   },
   {
     "source": "broadcom_vmware",
