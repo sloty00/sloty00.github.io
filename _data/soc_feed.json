@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon SES now offers inbox placement metrics and blocklist monitoring",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ses-global-deliverability/",
-    "date": "Fri, 29 May 2026 21:48:00 GMT"
+    "title": "Amazon Bedrock AgentCore Identity now allows you to bring your own secrets with AWS Secrets Manager",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/agentcore-identity-secrets-manager/",
+    "date": "Mon, 01 Jun 2026 16:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS End User Messaging RCS for Business now available in 20 additional countries",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-rcs-countries/",
-    "date": "Fri, 29 May 2026 20:23:00 GMT"
+    "title": "Amazon Bedrock adds Amazon CloudWatch metrics for OpenAI- and Anthropic-compatible APIs",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-supports-cloudwatch-metrics-bedrock-mantle-endpoint/",
+    "date": "Mon, 01 Jun 2026 13:38:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Connect Customer now supports scheduling tasks up to 90 days in advance",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-customer-tasks-90day-schedule",
-    "date": "Fri, 29 May 2026 18:00:00 GMT"
+    "title": "Amazon SES now supports tenant-level suppression lists",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ses-tenant-level-suppression-lists/",
+    "date": "Mon, 01 Jun 2026 12:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "A Unified Approach to Virtualization",
+    "link": "https://www.suse.com/c/a-unified-approach-to-virtualization/",
+    "date": "Mon, 01 Jun 2026 16:31:35 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Tuning Windows VM Performance on SUSE Virtualization",
     "link": "https://www.suse.com/c/tuning-windows-vm-performance-on-suse-virtualization/",
     "date": "Sun, 31 May 2026 06:31:57 +0000"
@@ -82,12 +88,6 @@
     "title": "Announcing Trento Version 3.1",
     "link": "https://www.suse.com/c/announcing-trento-version-3-1/",
     "date": "Fri, 29 May 2026 12:38:27 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "Your Next Enterprise Linux: SUSE Linux 16.1 Public Beta is on the Way",
-    "link": "https://www.suse.com/c/suse-linux-16-1-public-beta/",
-    "date": "Thu, 28 May 2026 14:12:40 +0000"
   },
   {
     "source": "broadcom_vmware",
