@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon Bedrock AgentCore Identity now allows you to bring your own secrets with AWS Secrets Manager",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/agentcore-identity-secrets-manager/",
-    "date": "Mon, 01 Jun 2026 16:00:00 GMT"
+    "title": "AWS HealthOmics now supports Nextflow version pinning at run time",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-nextflow-version-pinning-at-runtime/",
+    "date": "Mon, 01 Jun 2026 23:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Bedrock adds Amazon CloudWatch metrics for OpenAI- and Anthropic-compatible APIs",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-supports-cloudwatch-metrics-bedrock-mantle-endpoint/",
-    "date": "Mon, 01 Jun 2026 13:38:00 GMT"
+    "title": "AWS HealthOmics now supports Nextflow version 26.04",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-nextflow-version-26-04/",
+    "date": "Mon, 01 Jun 2026 23:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon SES now supports tenant-level suppression lists",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ses-tenant-level-suppression-lists/",
-    "date": "Mon, 01 Jun 2026 12:00:00 GMT"
+    "title": "Quick Research now supports customer managed keys",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-research-cm-keys",
+    "date": "Mon, 01 Jun 2026 18:27:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "Field Notes: Optimizing a DELL PowerStor CSI installation on SUSE Virtualization",
+    "link": "https://www.suse.com/c/field-notes-optimizing-a-dell-powerstor-csi-installation-on-suse-virtualization/",
+    "date": "Mon, 01 Jun 2026 18:57:47 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "A Unified Approach to Virtualization",
     "link": "https://www.suse.com/c/a-unified-approach-to-virtualization/",
     "date": "Mon, 01 Jun 2026 16:31:35 +0000"
@@ -84,10 +90,10 @@
     "date": "Sun, 31 May 2026 06:31:57 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "Announcing Trento Version 3.1",
-    "link": "https://www.suse.com/c/announcing-trento-version-3-1/",
-    "date": "Fri, 29 May 2026 12:38:27 +0000"
+    "source": "broadcom_vmware",
+    "title": "Retrieve vCenter Server VMs and NSX VMs resource allocations in VCF Operations",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/01/retrieve-vcenter-server-vms-and-nsx-vms-resource-allocations-in-vcf-operations/",
+    "date": "Mon, 01 Jun 2026 22:29:55 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -100,12 +106,6 @@
     "title": "Diagnostics for VMware Cloud Foundation (VCF) 9.1 with Old Versions of VCF Components",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/05/28/diagnostics-for-vmware-cloud-foundation-vcf-9-1-with-old-versions-of-vcf-components/",
     "date": "Thu, 28 May 2026 22:30:11 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Mastering Infrastructure Policies in VMware Cloud Foundation Automation 9.1",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/28/vcf-automation-infrastructure-policies/",
-    "date": "Thu, 28 May 2026 16:51:23 +0000"
   },
   {
     "source": "veeam_intel",
