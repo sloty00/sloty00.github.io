@@ -1,6 +1,12 @@
 [
   {
     "source": "sophos_threat",
+    "title": "Pointing a Cursor at evading detection",
+    "link": "https://www.sophos.com/en-us/blog/pointing-a-cursor-at-evading-detection",
+    "date": "Tue, 02 Jun 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "GitHub internal repositories breached",
     "link": "https://www.sophos.com/en-us/blog/github-internal-repositories-breached",
     "date": "Wed, 20 May 2026 00:00:00 GMT"
@@ -10,12 +16,6 @@
     "title": "WantToCry ransomware remotely encrypts files",
     "link": "https://www.sophos.com/en-us/blog/wanttocry-ransomware-remotely-encrypts-files",
     "date": "Tue, 19 May 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "Why AMOS matters: The macOS malware stealing data at scale",
-    "link": "https://www.sophos.com/en-us/blog/why-amos-matters-the-macos-malware-stealing-data-at-scale",
-    "date": "Thu, 14 May 2026 00:00:00 GMT"
   },
   {
     "source": "sophos_ops",
@@ -37,6 +37,12 @@
   },
   {
     "source": "aws_news",
+    "title": "Amazon RDS for SQL Server supports Bring Your Own Media",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/rds-sqlserver-supports-bring-your-own-media/",
+    "date": "Tue, 02 Jun 2026 07:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "AWS HealthOmics now supports Nextflow version pinning at run time",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-nextflow-version-pinning-at-runtime/",
     "date": "Mon, 01 Jun 2026 23:00:00 GMT"
@@ -46,12 +52,6 @@
     "title": "AWS HealthOmics now supports Nextflow version 26.04",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-nextflow-version-26-04/",
     "date": "Mon, 01 Jun 2026 23:00:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Quick Research now supports customer managed keys",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-research-cm-keys",
-    "date": "Mon, 01 Jun 2026 18:27:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -91,21 +91,21 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Capture a Namespace as a Blueprint in VMware Cloud Foundation",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/02/capture-a-namespace-as-a-blueprint-in-vmware-cloud-foundation/",
+    "date": "Tue, 02 Jun 2026 15:41:48 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "vCenter Management Evolved: New vCenter Linking in VMware Cloud Foundation 9.x",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/02/vcenter-management-evolved-new-vcenter-linking-in-vmware-cloud-foundation-9-x/",
+    "date": "Tue, 02 Jun 2026 14:00:00 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Retrieve vCenter Server VMs and NSX VMs resource allocations in VCF Operations",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/06/01/retrieve-vcenter-server-vms-and-nsx-vms-resource-allocations-in-vcf-operations/",
     "date": "Mon, 01 Jun 2026 22:29:55 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "「VMware Tanzu® Spring Essentials」とは",
-    "link": "https://blogs.vmware.com/vmware-japan/2026/05/tanzu-spring-essentials-by-broadcom.html",
-    "date": "Fri, 29 May 2026 05:10:06 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Diagnostics for VMware Cloud Foundation (VCF) 9.1 with Old Versions of VCF Components",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/05/28/diagnostics-for-vmware-cloud-foundation-vcf-9-1-with-old-versions-of-vcf-components/",
-    "date": "Thu, 28 May 2026 22:30:11 +0000"
   },
   {
     "source": "veeam_intel",
