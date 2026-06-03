@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon RDS for SQL Server supports Bring Your Own Media",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/rds-sqlserver-supports-bring-your-own-media/",
-    "date": "Tue, 02 Jun 2026 07:00:00 GMT"
+    "title": "Amazon EKS and Amazon EKS Distro now supports Kubernetes version 1.36",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-distro-kubernetes-version-1-36",
+    "date": "Tue, 02 Jun 2026 21:48:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS HealthOmics now supports Nextflow version pinning at run time",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-nextflow-version-pinning-at-runtime/",
-    "date": "Mon, 01 Jun 2026 23:00:00 GMT"
+    "title": "AWS Config now supports internal service linked rules",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-config-supports-internal-service-linked-rules",
+    "date": "Tue, 02 Jun 2026 18:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS HealthOmics now supports Nextflow version 26.04",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-nextflow-version-26-04/",
-    "date": "Mon, 01 Jun 2026 23:00:00 GMT"
+    "title": "AWS Deadline Cloud now supports persistent storage for Service Managed Fleets",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/deadline-cloud/persistent-storage",
+    "date": "Tue, 02 Jun 2026 17:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "SUSE HA for SAP HANA scale-up cost-optimized improved",
+    "link": "https://www.suse.com/c/suse-ha-for-sap-hana-scale-up-cost-optimized-improved/",
+    "date": "Tue, 02 Jun 2026 09:20:48 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Field Notes: Optimizing a DELL PowerStor CSI installation on SUSE Virtualization",
     "link": "https://www.suse.com/c/field-notes-optimizing-a-dell-powerstor-csi-installation-on-suse-virtualization/",
     "date": "Mon, 01 Jun 2026 18:57:47 +0000"
@@ -84,28 +90,22 @@
     "date": "Mon, 01 Jun 2026 16:31:35 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "Tuning Windows VM Performance on SUSE Virtualization",
-    "link": "https://www.suse.com/c/tuning-windows-vm-performance-on-suse-virtualization/",
-    "date": "Sun, 31 May 2026 06:31:57 +0000"
+    "source": "broadcom_vmware",
+    "title": "VCF 9.1 Tag Management: Elevating Operational Governance",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/02/vcf-9-1-tag-management-elevating-operational-governance/",
+    "date": "Tue, 02 Jun 2026 17:30:23 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "VCF 9.1 Brings Multi-Network Support to VMware vSphere Kubernetes Service",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/02/vcf-9-1-brings-multi-network-support-to-vsphere-kubernetes-service/",
+    "date": "Tue, 02 Jun 2026 16:12:04 +0000"
   },
   {
     "source": "broadcom_vmware",
     "title": "Capture a Namespace as a Blueprint in VMware Cloud Foundation",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/06/02/capture-a-namespace-as-a-blueprint-in-vmware-cloud-foundation/",
     "date": "Tue, 02 Jun 2026 15:41:48 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "vCenter Management Evolved: New vCenter Linking in VMware Cloud Foundation 9.x",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/02/vcenter-management-evolved-new-vcenter-linking-in-vmware-cloud-foundation-9-x/",
-    "date": "Tue, 02 Jun 2026 14:00:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Retrieve vCenter Server VMs and NSX VMs resource allocations in VCF Operations",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/01/retrieve-vcenter-server-vms-and-nsx-vms-resource-allocations-in-vcf-operations/",
-    "date": "Mon, 01 Jun 2026 22:29:55 +0000"
   },
   {
     "source": "veeam_intel",
