@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
+    "title": "Amazon Keyspaces (for Apache Cassandra) now provides CDC iterator position",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/keyspaces-cdc-iterator-position/",
+    "date": "Wed, 03 Jun 2026 16:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
+    "title": "Amazon SageMaker AI launches multi-turn reinforcement learning for AI agent model customization",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/multi-turn-reinforcement-learning-on-sagemaker-ai/",
+    "date": "Wed, 03 Jun 2026 15:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "Amazon EKS and Amazon EKS Distro now supports Kubernetes version 1.36",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-distro-kubernetes-version-1-36",
     "date": "Tue, 02 Jun 2026 21:48:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "AWS Config now supports internal service linked rules",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-config-supports-internal-service-linked-rules",
-    "date": "Tue, 02 Jun 2026 18:00:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "AWS Deadline Cloud now supports persistent storage for Service Managed Fleets",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/deadline-cloud/persistent-storage",
-    "date": "Tue, 02 Jun 2026 17:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "Field Notes: Using the Harvester CSI Driver to consume Longhorn storage in your guest cluster",
+    "link": "https://www.suse.com/c/field-notes-using-the-harvester-csi-driver-to-consume-longhorn-storage-in-your-guest-cluster/",
+    "date": "Wed, 03 Jun 2026 01:39:08 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "SUSE HA for SAP HANA scale-up cost-optimized improved",
     "link": "https://www.suse.com/c/suse-ha-for-sap-hana-scale-up-cost-optimized-improved/",
     "date": "Tue, 02 Jun 2026 09:20:48 +0000"
@@ -82,12 +88,6 @@
     "title": "Field Notes: Optimizing a DELL PowerStor CSI installation on SUSE Virtualization",
     "link": "https://www.suse.com/c/field-notes-optimizing-a-dell-powerstor-csi-installation-on-suse-virtualization/",
     "date": "Mon, 01 Jun 2026 18:57:47 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "A Unified Approach to Virtualization",
-    "link": "https://www.suse.com/c/a-unified-approach-to-virtualization/",
-    "date": "Mon, 01 Jun 2026 16:31:35 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -109,21 +109,21 @@
   },
   {
     "source": "veeam_intel",
+    "title": "Announcing the Data & AI Trust Gap Report: Why AI Ambition Is Outpacing Trust",
+    "link": "https://www.veeam.com/blog/data-ai-trust-gap-report.html",
+    "date": "Wed, 03 Jun 2026 11:59:56 +0000"
+  },
+  {
+    "source": "veeam_intel",
+    "title": "Privacy Operations Agents Are Redefining How Organizations Scale With Agentic AI",
+    "link": "https://www.veeam.com/blog/privacy-operations-agents-agentic-ai-scale.html",
+    "date": "Wed, 03 Jun 2026 11:29:56 +0000"
+  },
+  {
+    "source": "veeam_intel",
     "title": "When Identity is Compromised: How to Recover and Keep Your Business Moving",
     "link": "https://www.veeam.com/blog/entra-id-identity-attack-recovery.html",
     "date": "Sat, 23 May 2026 06:02:54 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "From Backup to Cyber Resilience: Why Your Infrastructure Matters and How Veeam Delivers Added Resilience with Dell Data Domain",
-    "link": "https://www.veeam.com/blog/veeam-dell-data-domain-cyber-resilience.html",
-    "date": "Wed, 20 May 2026 01:47:56 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Cyber Extortion Trends: Identity, Recoverability, and Shifts in Payment Leverage",
-    "link": "https://www.veeam.com/blog/cyber-extortion-trends-2025.html",
-    "date": "Fri, 15 May 2026 19:01:31 +0000"
   },
   {
     "source": "hackerrank",
