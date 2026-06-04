@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon Keyspaces (for Apache Cassandra) now provides CDC iterator position",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/keyspaces-cdc-iterator-position/",
-    "date": "Wed, 03 Jun 2026 16:00:00 GMT"
+    "title": "AWS IoT Device Management adds MQTT session data to connectivity status API",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iot-device-management-mqtt/",
+    "date": "Wed, 03 Jun 2026 21:15:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon SageMaker AI launches multi-turn reinforcement learning for AI agent model customization",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/multi-turn-reinforcement-learning-on-sagemaker-ai/",
-    "date": "Wed, 03 Jun 2026 15:00:00 GMT"
+    "title": "Amazon SageMaker Data Agent now supports conversation history",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-data-agent/",
+    "date": "Wed, 03 Jun 2026 20:26:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EKS and Amazon EKS Distro now supports Kubernetes version 1.36",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-distro-kubernetes-version-1-36",
-    "date": "Tue, 02 Jun 2026 21:48:00 GMT"
+    "title": "Amazon SageMaker Unified Studio now supports notebook scheduling",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-unified-studio/",
+    "date": "Wed, 03 Jun 2026 20:13:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "The EU Cloud and AI Development Act: What It Gets Right, and What It Still Needs",
+    "link": "https://www.suse.com/c/eu-cloud-ai-development-act-open-source-first/",
+    "date": "Wed, 03 Jun 2026 16:53:12 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Field Notes: Using the Harvester CSI Driver to consume Longhorn storage in your guest cluster",
     "link": "https://www.suse.com/c/field-notes-using-the-harvester-csi-driver-to-consume-longhorn-storage-in-your-guest-cluster/",
     "date": "Wed, 03 Jun 2026 01:39:08 +0000"
@@ -84,10 +90,10 @@
     "date": "Tue, 02 Jun 2026 09:20:48 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "Field Notes: Optimizing a DELL PowerStor CSI installation on SUSE Virtualization",
-    "link": "https://www.suse.com/c/field-notes-optimizing-a-dell-powerstor-csi-installation-on-suse-virtualization/",
-    "date": "Mon, 01 Jun 2026 18:57:47 +0000"
+    "source": "broadcom_vmware",
+    "title": "Unified Cloud Value: Accelerating Cloud Fin-Ops with VCF 9.1 and FOCUS",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/03/unified-cloud-value-accelerating-cloud-fin-ops-with-vcf-9-1-and-focus/",
+    "date": "Thu, 04 Jun 2026 03:05:59 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -100,12 +106,6 @@
     "title": "VCF 9.1 Brings Multi-Network Support to VMware vSphere Kubernetes Service",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/06/02/vcf-9-1-brings-multi-network-support-to-vsphere-kubernetes-service/",
     "date": "Tue, 02 Jun 2026 16:12:04 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Capture a Namespace as a Blueprint in VMware Cloud Foundation",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/02/capture-a-namespace-as-a-blueprint-in-vmware-cloud-foundation/",
-    "date": "Tue, 02 Jun 2026 15:41:48 +0000"
   },
   {
     "source": "veeam_intel",
