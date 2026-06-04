@@ -1,6 +1,12 @@
 [
   {
     "source": "sophos_threat",
+    "title": "You do surprise me.exe: An unexpected executable in Hola Browser",
+    "link": "https://www.sophos.com/en-us/blog/you-do-surprise-me-exe-an-unexpected-executable-in-hola-browser",
+    "date": "Thu, 04 Jun 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "Pointing a Cursor at evading detection",
     "link": "https://www.sophos.com/en-us/blog/pointing-a-cursor-at-evading-detection",
     "date": "Tue, 02 Jun 2026 00:00:00 GMT"
@@ -10,12 +16,6 @@
     "title": "GitHub internal repositories breached",
     "link": "https://www.sophos.com/en-us/blog/github-internal-repositories-breached",
     "date": "Wed, 20 May 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "WantToCry ransomware remotely encrypts files",
-    "link": "https://www.sophos.com/en-us/blog/wanttocry-ransomware-remotely-encrypts-files",
-    "date": "Tue, 19 May 2026 00:00:00 GMT"
   },
   {
     "source": "sophos_ops",
@@ -91,6 +91,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Explore What’s New: VMware vSphere Foundation 9.1 Resources Now Available",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/04/explore-whats-new-vmware-vsphere-foundation-9-1-resources-now-available/",
+    "date": "Thu, 04 Jun 2026 13:00:00 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Unified Cloud Value: Accelerating Cloud Fin-Ops with VCF 9.1 and FOCUS",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/06/03/unified-cloud-value-accelerating-cloud-fin-ops-with-vcf-9-1-and-focus/",
     "date": "Thu, 04 Jun 2026 03:05:59 +0000"
@@ -102,10 +108,10 @@
     "date": "Tue, 02 Jun 2026 17:30:23 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "VCF 9.1 Brings Multi-Network Support to VMware vSphere Kubernetes Service",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/02/vcf-9-1-brings-multi-network-support-to-vsphere-kubernetes-service/",
-    "date": "Tue, 02 Jun 2026 16:12:04 +0000"
+    "source": "veeam_intel",
+    "title": "Why You Should Make Veeam a Must-Visit at Pure Accelerate 2026",
+    "link": "https://www.veeam.com/blog/veeam-pure-accelerate-2026.html",
+    "date": "Thu, 04 Jun 2026 14:11:32 +0000"
   },
   {
     "source": "veeam_intel",
@@ -118,12 +124,6 @@
     "title": "Privacy Operations Agents Are Redefining How Organizations Scale With Agentic AI",
     "link": "https://www.veeam.com/blog/privacy-operations-agents-agentic-ai-scale.html",
     "date": "Wed, 03 Jun 2026 11:29:56 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "When Identity is Compromised: How to Recover and Keep Your Business Moving",
-    "link": "https://www.veeam.com/blog/entra-id-identity-attack-recovery.html",
-    "date": "Sat, 23 May 2026 06:02:54 +0000"
   },
   {
     "source": "hackerrank",
