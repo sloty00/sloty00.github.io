@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS IoT Device Management adds MQTT session data to connectivity status API",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iot-device-management-mqtt/",
-    "date": "Wed, 03 Jun 2026 21:15:00 GMT"
+    "title": "Amazon SageMaker Data Agent integrates business context into conversations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-data-agent-bdc/",
+    "date": "Thu, 04 Jun 2026 21:51:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon SageMaker Data Agent now supports conversation history",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-data-agent/",
-    "date": "Wed, 03 Jun 2026 20:26:00 GMT"
+    "title": "Amazon Cognito now supports multi-Region replication",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-multi-region/",
+    "date": "Thu, 04 Jun 2026 17:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon SageMaker Unified Studio now supports notebook scheduling",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-unified-studio/",
-    "date": "Wed, 03 Jun 2026 20:13:00 GMT"
+    "title": "AWS Databases on Vercel now available in additional AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-databases-vercel-aws-regions/",
+    "date": "Thu, 04 Jun 2026 17:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "CRA: How SUSE Provides Innovation and Trust in the Secure Software Era",
+    "link": "https://www.suse.com/c/cra-how-suse-provides-innovation-and-trust-in-the-secure-software-era/",
+    "date": "Thu, 04 Jun 2026 13:56:36 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "The EU Cloud and AI Development Act: What It Gets Right, and What It Still Needs",
     "link": "https://www.suse.com/c/eu-cloud-ai-development-act-open-source-first/",
     "date": "Wed, 03 Jun 2026 16:53:12 +0000"
@@ -84,10 +90,10 @@
     "date": "Wed, 03 Jun 2026 01:39:08 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "SUSE HA for SAP HANA scale-up cost-optimized improved",
-    "link": "https://www.suse.com/c/suse-ha-for-sap-hana-scale-up-cost-optimized-improved/",
-    "date": "Tue, 02 Jun 2026 09:20:48 +0000"
+    "source": "broadcom_vmware",
+    "title": "AIによるサイバーセキュリティ脅威の劇的変化　インフラ準備はできているか？",
+    "link": "https://blogs.vmware.com/vmware-japan/2026/06/vcf9-1article1.html",
+    "date": "Fri, 05 Jun 2026 01:01:14 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -100,30 +106,6 @@
     "title": "Unified Cloud Value: Accelerating Cloud Fin-Ops with VCF 9.1 and FOCUS",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/06/03/unified-cloud-value-accelerating-cloud-fin-ops-with-vcf-9-1-and-focus/",
     "date": "Thu, 04 Jun 2026 03:05:59 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "VCF 9.1 Tag Management: Elevating Operational Governance",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/02/vcf-9-1-tag-management-elevating-operational-governance/",
-    "date": "Tue, 02 Jun 2026 17:30:23 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Why You Should Make Veeam a Must-Visit at Pure Accelerate 2026",
-    "link": "https://www.veeam.com/blog/veeam-pure-accelerate-2026.html",
-    "date": "Thu, 04 Jun 2026 14:11:32 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Announcing the Data & AI Trust Gap Report: Why AI Ambition Is Outpacing Trust",
-    "link": "https://www.veeam.com/blog/data-ai-trust-gap-report.html",
-    "date": "Wed, 03 Jun 2026 11:59:56 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Privacy Operations Agents Are Redefining How Organizations Scale With Agentic AI",
-    "link": "https://www.veeam.com/blog/privacy-operations-agents-agentic-ai-scale.html",
-    "date": "Wed, 03 Jun 2026 11:29:56 +0000"
   },
   {
     "source": "hackerrank",
