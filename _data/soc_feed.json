@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon SageMaker Data Agent integrates business context into conversations",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-data-agent-bdc/",
-    "date": "Thu, 04 Jun 2026 21:51:00 GMT"
+    "title": "Amazon Bedrock AgentCore Runtime introduces interactive shells for terminal access into agent sessions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-runtime/",
+    "date": "Fri, 05 Jun 2026 22:25:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Cognito now supports multi-Region replication",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-multi-region/",
-    "date": "Thu, 04 Jun 2026 17:00:00 GMT"
+    "title": "Simplified permissions for Amazon S3 Tables and Iceberg materialized views are now available in AWS GovCloud (US) Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/gdc-s3tables-simplified-permissions-in-aws-govcloud/",
+    "date": "Fri, 05 Jun 2026 21:11:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Databases on Vercel now available in additional AWS Regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-databases-vercel-aws-regions/",
-    "date": "Thu, 04 Jun 2026 17:00:00 GMT"
+    "title": "Amazon OpenSearch UI is now available in GovCloud regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/opensearch-ui-govcloud-region",
+    "date": "Fri, 05 Jun 2026 20:40:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,14 +73,8 @@
   },
   {
     "source": "suse_news",
-    "title": "SUSE Virtualization Options for SAP",
-    "link": "https://www.suse.com/c/suse-virtualization-options-for-sap/",
-    "date": "Fri, 05 Jun 2026 00:03:35 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "CRA: How SUSE Provides Innovation and Trust in the Secure Software Era",
-    "link": "https://www.suse.com/c/cra-how-suse-provides-innovation-and-trust-in-the-secure-software-era/",
+    "title": "Cyber Resilience Act (CRA): How SUSE Provides Innovation and Trust in the Secure Software Era",
+    "link": "https://www.suse.com/c/cyber-resilience-act-compliance-suse/",
     "date": "Thu, 04 Jun 2026 13:56:36 +0000"
   },
   {
@@ -90,22 +84,28 @@
     "date": "Wed, 03 Jun 2026 16:53:12 +0000"
   },
   {
+    "source": "suse_news",
+    "title": "Field Notes: Using the Harvester CSI Driver to consume Longhorn storage in your guest cluster",
+    "link": "https://www.suse.com/c/field-notes-using-the-harvester-csi-driver-to-consume-longhorn-storage-in-your-guest-cluster/",
+    "date": "Wed, 03 Jun 2026 01:39:08 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "88.8% of Production Transactions Run On-Premises. Are Your Private Cloud IT Operations Efficient?",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/05/88-8-of-production-transactions-run-on-premises-are-your-private-cloud-it-operations-efficient/",
+    "date": "Fri, 05 Jun 2026 15:48:13 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "Modernizing Infrastructure: VMware Cloud Foundation 5.2.x to 9.1 Upgrade Guide",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/05/modernizing-infrastructure-vmware-cloud-foundation-5-2-x-to-9-1-upgrade-guide/",
+    "date": "Fri, 05 Jun 2026 14:00:00 +0000"
+  },
+  {
     "source": "broadcom_vmware",
     "title": "Driving GitOps workflows with ArgoCD on VMware vSphere Kubernetes Service",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/06/05/gitops-argo-on-vks/",
     "date": "Fri, 05 Jun 2026 12:00:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "AIによるサイバーセキュリティ脅威の劇的変化　インフラ準備はできているか？",
-    "link": "https://blogs.vmware.com/vmware-japan/2026/06/vcf9-1article1.html",
-    "date": "Fri, 05 Jun 2026 01:01:14 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Explore What’s New: VMware vSphere Foundation 9.1 Resources Now Available",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/04/explore-whats-new-vmware-vsphere-foundation-9-1-resources-now-available/",
-    "date": "Thu, 04 Jun 2026 13:00:00 +0000"
   },
   {
     "source": "veeam_intel",
