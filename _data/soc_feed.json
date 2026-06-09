@@ -37,6 +37,12 @@
   },
   {
     "source": "aws_news",
+    "title": "AWS Cost Explorer launches intelligent cost explanations powered by Amazon Q",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cost-explorer-intelligent-cost-explanations",
+    "date": "Tue, 09 Jun 2026 03:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "AWS Compute Optimizer now supports idle recommendations for six additional resource types",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-compute-optimizer-six-new-idle",
     "date": "Mon, 08 Jun 2026 21:00:00 GMT"
@@ -46,12 +52,6 @@
     "title": "Amazon MSK Express Brokers now support automatic topic creation with Kafka Streams",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-msk-express-topic-support-kstreams/",
     "date": "Mon, 08 Jun 2026 19:36:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Amazon DocumentDB now supports engine minor version starting with 5.0.1",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-documentdb-engine-minor-version-5-0-1/",
-    "date": "Mon, 08 Jun 2026 18:59:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -91,6 +91,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Broadcom’s Investment in Spring to Combat AI-Fueled Security Challenges in the Enterprise",
+    "link": "https://blogs.vmware.com/tanzu/broadcoms-investment-in-spring-to-combat-ai-fueled-security-challenges-in-the-enterprise/",
+    "date": "Tue, 09 Jun 2026 12:25:00 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "バーチャルパッチ:  vDefend と Aviを使ってAIが発見する脆弱性の「津波」に備える",
     "link": "https://blogs.vmware.com/vmware-japan/2026/06/vcf9-1vdefendandavi.html",
     "date": "Mon, 08 Jun 2026 23:59:40 +0000"
@@ -102,10 +108,10 @@
     "date": "Mon, 08 Jun 2026 21:52:21 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "Achieve Speed, Scale, and Reliability of Virtual Machine Deployments with ‘cloud-init’",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/08/achieve-speed-scale-and-reliability-of-virtual-machine-deployments-with-cloud-init/",
-    "date": "Mon, 08 Jun 2026 07:48:44 +0000"
+    "source": "veeam_intel",
+    "title": "Small Business Backup Software: A Practical Evaluation Guide",
+    "link": "https://www.veeam.com/blog/small-business-backup-software.html",
+    "date": "Tue, 09 Jun 2026 13:50:07 +0000"
   },
   {
     "source": "veeam_intel",
@@ -118,12 +124,6 @@
     "title": "Why You Should Make Veeam a Must-Visit at Pure Accelerate 2026",
     "link": "https://www.veeam.com/blog/veeam-pure-accelerate-2026.html",
     "date": "Thu, 04 Jun 2026 14:11:32 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Announcing the Data & AI Trust Gap Report: Why AI Ambition Is Outpacing Trust",
-    "link": "https://www.veeam.com/blog/data-ai-trust-gap-report.html",
-    "date": "Wed, 03 Jun 2026 11:59:56 +0000"
   },
   {
     "source": "hackerrank",
