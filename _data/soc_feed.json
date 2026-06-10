@@ -37,6 +37,12 @@
   },
   {
     "source": "aws_news",
+    "title": "Amazon FSx for OpenZFS Intelligent-Tiering storage class is now available in 8 additional AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-fsx-openzfs/",
+    "date": "Tue, 09 Jun 2026 20:52:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "Amazon SageMaker Unified Studio Notebooks now support EMR Serverless",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-unified-studio-emr/",
     "date": "Tue, 09 Jun 2026 18:46:00 GMT"
@@ -46,12 +52,6 @@
     "title": "Amazon S3 Access Grants are now available in the AWS European Sovereign Cloud (Germany) Region",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-s3-access-grants-european-sovereign-cloud-germany-region",
     "date": "Tue, 09 Jun 2026 17:14:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "AWS FinOps Agent is now available in preview",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-finops-agent-preview/",
-    "date": "Tue, 09 Jun 2026 15:28:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "Empowering Channel Growth: SUSE Amplifies Reach as Microsoft Expands Multiparty Private Offers Across Europe and Asia",
+    "link": "https://www.suse.com/c/suse-microsoft-multiparty-private-offers-channel-growth/",
+    "date": "Wed, 10 Jun 2026 02:21:32 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Workload Repatriation Is a Resilience Strategy, Not an IT Project",
     "link": "https://www.suse.com/c/workload-repatriation-is-a-resilience-strategy-not-an-it-project/",
     "date": "Tue, 09 Jun 2026 14:46:44 +0000"
@@ -84,10 +90,10 @@
     "date": "Thu, 04 Jun 2026 13:56:36 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "The EU Cloud and AI Development Act: What It Gets Right, and What It Still Needs",
-    "link": "https://www.suse.com/c/eu-cloud-ai-development-act-open-source-first/",
-    "date": "Wed, 03 Jun 2026 16:53:12 +0000"
+    "source": "broadcom_vmware",
+    "title": "AI主導の脆弱性攻撃にどう備えるか",
+    "link": "https://blogs.vmware.com/vmware-japan/2026/06/howtoprepare_ai.html",
+    "date": "Wed, 10 Jun 2026 08:28:57 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -102,28 +108,22 @@
     "date": "Tue, 09 Jun 2026 18:25:53 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "Architecting VMware vSphere Kubernetes Service on VCF: Top Webinar and Field Questions Answered",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/09/architecting-vmware-vsphere-kubernetes-service-on-vcf-top-webinar-and-field-questions-answered/",
-    "date": "Tue, 09 Jun 2026 14:37:49 +0000"
+    "source": "veeam_intel",
+    "title": "The One-Vendor Advantage: Why Stitched-Together Backup Storage Puts You at Risk",
+    "link": "https://www.veeam.com/blog/veeam-vault-vs-wasabi.html",
+    "date": "Wed, 10 Jun 2026 15:00:00 +0000"
+  },
+  {
+    "source": "veeam_intel",
+    "title": "Why the Partner Advisory Council Matters and Why Our Partners Matter More Than Ever",
+    "link": "https://www.veeam.com/blog/emea-partner-advisory-council-2026.html",
+    "date": "Wed, 10 Jun 2026 12:13:18 +0000"
   },
   {
     "source": "veeam_intel",
     "title": "Small Business Backup Software: A Practical Evaluation Guide",
     "link": "https://www.veeam.com/blog/small-business-backup-software.html",
     "date": "Tue, 09 Jun 2026 13:50:07 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Veeam at HPE Discover 2026: 15 Years, One Vision",
-    "link": "https://www.veeam.com/blog/veeam-hpe-discover-2026.html",
-    "date": "Mon, 08 Jun 2026 19:02:19 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Why You Should Make Veeam a Must-Visit at Pure Accelerate 2026",
-    "link": "https://www.veeam.com/blog/veeam-pure-accelerate-2026.html",
-    "date": "Thu, 04 Jun 2026 14:11:32 +0000"
   },
   {
     "source": "hackerrank",
