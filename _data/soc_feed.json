@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS Cost Explorer launches intelligent cost explanations powered by Amazon Q",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cost-explorer-intelligent-cost-explanations",
-    "date": "Tue, 09 Jun 2026 03:00:00 GMT"
+    "title": "Amazon SageMaker Unified Studio Notebooks now support EMR Serverless",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-unified-studio-emr/",
+    "date": "Tue, 09 Jun 2026 18:46:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Compute Optimizer now supports idle recommendations for six additional resource types",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-compute-optimizer-six-new-idle",
-    "date": "Mon, 08 Jun 2026 21:00:00 GMT"
+    "title": "Amazon S3 Access Grants are now available in the AWS European Sovereign Cloud (Germany) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-s3-access-grants-european-sovereign-cloud-germany-region",
+    "date": "Tue, 09 Jun 2026 17:14:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon MSK Express Brokers now support automatic topic creation with Kafka Streams",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-msk-express-topic-support-kstreams/",
-    "date": "Mon, 08 Jun 2026 19:36:00 GMT"
+    "title": "AWS FinOps Agent is now available in preview",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-finops-agent-preview/",
+    "date": "Tue, 09 Jun 2026 15:28:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "Workload Repatriation Is a Resilience Strategy, Not an IT Project",
+    "link": "https://www.suse.com/c/workload-repatriation-is-a-resilience-strategy-not-an-it-project/",
+    "date": "Tue, 09 Jun 2026 14:46:44 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Cyber Resilience Act (CRA): How SUSE Provides Innovation and Trust in the Secure Software Era",
     "link": "https://www.suse.com/c/cyber-resilience-act-compliance-suse/",
     "date": "Thu, 04 Jun 2026 13:56:36 +0000"
@@ -84,28 +90,22 @@
     "date": "Wed, 03 Jun 2026 16:53:12 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "Field Notes: Using the Harvester CSI Driver to consume Longhorn storage in your guest cluster",
-    "link": "https://www.suse.com/c/field-notes-using-the-harvester-csi-driver-to-consume-longhorn-storage-in-your-guest-cluster/",
-    "date": "Wed, 03 Jun 2026 01:39:08 +0000"
+    "source": "broadcom_vmware",
+    "title": "Improving VMware Cloud Foundation Performance with Enhanced Data Path (EDP)",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/09/improving-vmware-cloud-foundation-performance-with-enhanced-data-path-edp/",
+    "date": "Wed, 10 Jun 2026 01:00:00 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Broadcom’s Investment in Spring to Combat AI-Fueled Security Challenges in the Enterprise",
-    "link": "https://blogs.vmware.com/tanzu/broadcoms-investment-in-spring-to-combat-ai-fueled-security-challenges-in-the-enterprise/",
-    "date": "Tue, 09 Jun 2026 12:25:00 +0000"
+    "title": "VCF 9.1 Networking: Precision Workload Placement with VPC Network Span",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/09/vcf-9-1-networking-precision-workload-placement-with-vpc-network-span/",
+    "date": "Tue, 09 Jun 2026 18:25:53 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "バーチャルパッチ:  vDefend と Aviを使ってAIが発見する脆弱性の「津波」に備える",
-    "link": "https://blogs.vmware.com/vmware-japan/2026/06/vcf9-1vdefendandavi.html",
-    "date": "Mon, 08 Jun 2026 23:59:40 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Scaling AI on Kubernetes: Join Broadcom at KubeCon India 2026",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/08/scaling-ai-on-kubernetes-join-broadcom-at-kubecon-india-2026/",
-    "date": "Mon, 08 Jun 2026 21:52:21 +0000"
+    "title": "Architecting VMware vSphere Kubernetes Service on VCF: Top Webinar and Field Questions Answered",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/09/architecting-vmware-vsphere-kubernetes-service-on-vcf-top-webinar-and-field-questions-answered/",
+    "date": "Tue, 09 Jun 2026 14:37:49 +0000"
   },
   {
     "source": "veeam_intel",
