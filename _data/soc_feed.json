@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon FSx for OpenZFS Intelligent-Tiering storage class is now available in 8 additional AWS Regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-fsx-openzfs/",
-    "date": "Tue, 09 Jun 2026 20:52:00 GMT"
+    "title": "OpenAI GPT-5.4 and GPT-5.5 models now available in US East (N. Virginia) on Amazon Bedrock",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/openai-gpt-us-east-virginia-amazon/",
+    "date": "Thu, 11 Jun 2026 00:12:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon SageMaker Unified Studio Notebooks now support EMR Serverless",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-unified-studio-emr/",
-    "date": "Tue, 09 Jun 2026 18:46:00 GMT"
+    "title": "Amazon ECS Managed Daemons now support inter-task visibility and communication",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/ecs-managed-daemons-pid-ipc-modes/",
+    "date": "Wed, 10 Jun 2026 20:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon S3 Access Grants are now available in the AWS European Sovereign Cloud (Germany) Region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-s3-access-grants-european-sovereign-cloud-germany-region",
-    "date": "Tue, 09 Jun 2026 17:14:00 GMT"
+    "title": "Amazon EC2 M9g and M9gd general purpose instances are now available",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-m9g-m9gd-instances-graviton5-processors-available",
+    "date": "Wed, 10 Jun 2026 15:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,21 +73,27 @@
   },
   {
     "source": "suse_news",
+    "title": "SUSE at DTW Ignite 2026: Accelerating Telco Modernization",
+    "link": "https://www.suse.com/c/suse-at-dtw-ignite-2026-accelerating-telco-modernization/",
+    "date": "Wed, 10 Jun 2026 18:19:53 +0000"
+  },
+  {
+    "source": "suse_news",
+    "title": "SUSE Security Data considerations",
+    "link": "https://www.suse.com/c/suse-security-data-considerations/",
+    "date": "Wed, 10 Jun 2026 13:27:47 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Empowering Channel Growth: SUSE Amplifies Reach as Microsoft Expands Multiparty Private Offers Across Europe and Asia",
     "link": "https://www.suse.com/c/suse-microsoft-multiparty-private-offers-channel-growth/",
     "date": "Wed, 10 Jun 2026 02:21:32 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "Workload Repatriation Is a Resilience Strategy, Not an IT Project",
-    "link": "https://www.suse.com/c/workload-repatriation-is-a-resilience-strategy-not-an-it-project/",
-    "date": "Tue, 09 Jun 2026 14:46:44 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "Cyber Resilience Act (CRA): How SUSE Provides Innovation and Trust in the Secure Software Era",
-    "link": "https://www.suse.com/c/cyber-resilience-act-compliance-suse/",
-    "date": "Thu, 04 Jun 2026 13:56:36 +0000"
+    "source": "broadcom_vmware",
+    "title": "[TAM Blog] VMware Cloud Foundation® で実現する Kubernetes 運用【後編】",
+    "link": "https://blogs.vmware.com/vmware-japan/2026/06/monitoring-k8s-from-vcfops-2.html",
+    "date": "Thu, 11 Jun 2026 00:14:12 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -100,12 +106,6 @@
     "title": "Improving VMware Cloud Foundation Performance with Enhanced Data Path (EDP)",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/06/09/improving-vmware-cloud-foundation-performance-with-enhanced-data-path-edp/",
     "date": "Wed, 10 Jun 2026 01:00:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "VCF 9.1 Networking: Precision Workload Placement with VPC Network Span",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/09/vcf-9-1-networking-precision-workload-placement-with-vpc-network-span/",
-    "date": "Tue, 09 Jun 2026 18:25:53 +0000"
   },
   {
     "source": "veeam_intel",
@@ -124,23 +124,5 @@
     "title": "Small Business Backup Software: A Practical Evaluation Guide",
     "link": "https://www.veeam.com/blog/small-business-backup-software.html",
     "date": "Tue, 09 Jun 2026 13:50:07 +0000"
-  },
-  {
-    "source": "hackerrank",
-    "title": "Behind the Scenes of HackerRank Orchestrate",
-    "link": "https://www.hackerrank.com/blog/behind-the-scenes-of-hackerrank-orchestrate/",
-    "date": "Mon, 08 Jun 2026 16:23:13 +0000"
-  },
-  {
-    "source": "hackerrank",
-    "title": "The Productivity Paradox of AI: Why Smarter Tools Are Creating More Developers, Not Fewer",
-    "link": "https://www.hackerrank.com/blog/the-productivity-paradox-of-ai/",
-    "date": "Wed, 10 Dec 2025 22:51:56 +0000"
-  },
-  {
-    "source": "hackerrank",
-    "title": "The Great Engineering Hiring Dilemma: Double Down on Seniors or Bet Big on AI-Native Talent?",
-    "link": "https://www.hackerrank.com/blog/the-engineering-hiring-dilemma/",
-    "date": "Wed, 12 Nov 2025 09:00:58 +0000"
   }
 ]
