@@ -1,5 +1,22 @@
 [
     {
+    "nombre": "GitOps-Project-Manager-Engine",
+    "tipo": "Platform Engineering / GitOps",
+    "stack": [
+      "Python 3.10",
+      "GitHub Actions",
+      "Jekyll",
+      "Liquid Templates",
+      "JavaScript Vanilla",
+      "Repository Dispatch API",
+      "Serverless Architecture"
+    ],
+    "descripcion": "Micro-ERP automatizado y serverless para el control de gestión de proyectos, cálculo de horas-hombre y métricas financieras en UF/CLP. Implementa una arquitectura basada en GitOps donde Git actúa como única fuente de verdad (Single Source of Truth). El sistema desacopla el frontend estático del backend de cómputo asíncrono utilizando la API de triggers de GitHub y Actions sobre entornos Linux aislados para mutar el estado documental en archivos JSON, garantizando un historial de auditoría nativo y resiliencia total a caídas sin costos de infraestructura.",
+    "url_repo": "https://youtu.be/dGIA3Iq7X9w",
+    "status": "Production",
+    "icon": "fas fa-cogs"
+    },
+    {
         "nombre": "VARTO-Workflow-Personal",
         "tipo": "Fullstack",
         "stack": [
