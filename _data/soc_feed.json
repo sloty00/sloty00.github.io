@@ -43,15 +43,15 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon ECS Managed Daemons now support inter-task visibility and communication",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/ecs-managed-daemons-pid-ipc-modes/",
-    "date": "Wed, 10 Jun 2026 20:00:00 GMT"
+    "title": "Amazon OpenSearch Service launches MCP Apps for agentic observability",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/opensearch-agentic-observability-mcp-app",
+    "date": "Wed, 10 Jun 2026 22:58:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EC2 M9g and M9gd general purpose instances are now available",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-m9g-m9gd-instances-graviton5-processors-available",
-    "date": "Wed, 10 Jun 2026 15:00:00 GMT"
+    "title": "Amazon ECS Managed Daemons now support inter-task visibility and communication",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/ecs-managed-daemons-pid-ipc-modes/",
+    "date": "Wed, 10 Jun 2026 20:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "Driving 5G-Advanced and Open RAN Excellence: SUSE Telco Cloud on AMD EPYC 9005 Series Processors",
+    "link": "https://www.suse.com/c/driving-5g-advanced-and-open-ran-excellence-suse-telco-cloud-on-amd-epyc-9005-series-processors/",
+    "date": "Thu, 11 Jun 2026 11:15:08 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "SUSE at DTW Ignite 2026: Accelerating Telco Modernization",
     "link": "https://www.suse.com/c/suse-at-dtw-ignite-2026-accelerating-telco-modernization/",
     "date": "Wed, 10 Jun 2026 18:19:53 +0000"
@@ -84,10 +90,10 @@
     "date": "Wed, 10 Jun 2026 13:27:47 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "Empowering Channel Growth: SUSE Amplifies Reach as Microsoft Expands Multiparty Private Offers Across Europe and Asia",
-    "link": "https://www.suse.com/c/suse-microsoft-multiparty-private-offers-channel-growth/",
-    "date": "Wed, 10 Jun 2026 02:21:32 +0000"
+    "source": "broadcom_vmware",
+    "title": "Modern Automation with VMware Cloud Foundation Part 2: Modern Infrastructure as Code with VCF",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/11/modern-automation-with-vmware-cloud-foundation-part-2-modern-infrastructure-as-code-with-vcf/",
+    "date": "Thu, 11 Jun 2026 11:54:00 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -100,12 +106,6 @@
     "title": "AI主導の脆弱性攻撃にどう備えるか",
     "link": "https://blogs.vmware.com/vmware-japan/2026/06/howtoprepare_ai.html",
     "date": "Wed, 10 Jun 2026 08:28:57 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Improving VMware Cloud Foundation Performance with Enhanced Data Path (EDP)",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/09/improving-vmware-cloud-foundation-performance-with-enhanced-data-path-edp/",
-    "date": "Wed, 10 Jun 2026 01:00:00 +0000"
   },
   {
     "source": "veeam_intel",
@@ -124,5 +124,23 @@
     "title": "Small Business Backup Software: A Practical Evaluation Guide",
     "link": "https://www.veeam.com/blog/small-business-backup-software.html",
     "date": "Tue, 09 Jun 2026 13:50:07 +0000"
+  },
+  {
+    "source": "hackerrank",
+    "title": "AI Fluency Isn’t a Soft Skill. Here’s How to Actually Measure It.",
+    "link": "https://www.hackerrank.com/blog/ai-fluency-isnt-a-soft-skill-heres-how-to-actually-measure-it/",
+    "date": "Wed, 10 Jun 2026 15:59:16 +0000"
+  },
+  {
+    "source": "hackerrank",
+    "title": "What 12,885 Developers Taught Us About Building with AI",
+    "link": "https://www.hackerrank.com/blog/what-12885-developers-taught-us-about-building-with-ai/",
+    "date": "Wed, 10 Jun 2026 15:56:17 +0000"
+  },
+  {
+    "source": "hackerrank",
+    "title": "What Good Looks Like: OK vs. Good vs. Great in the Age of AI",
+    "link": "https://www.hackerrank.com/blog/what-good-looks-like-ok-vs-good-vs-great-in-the-age-of-ai/",
+    "date": "Wed, 10 Jun 2026 15:53:45 +0000"
   }
 ]
