@@ -765,7 +765,8 @@
       ],
       "roles": [
         "analyst",
-        "engineer"
+        "engineer",
+        "devops"
       ],
       "puntos_clave": [
         "Problem Solving",
