@@ -37,6 +37,12 @@
   },
   {
     "source": "aws_news",
+    "title": "Amazon Quick now integrates with Snowflake Cortex AI",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-snowflake-cortex-ai/",
+    "date": "Thu, 11 Jun 2026 22:02:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "Amazon CloudWatch Application Signals now supports infrastructure, logs, and traces context for faster troubleshooting",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/cloudwatch-application-signals-supports infrastructure-logs-traces-context-for-faster troubleshooting/",
     "date": "Thu, 11 Jun 2026 20:10:00 GMT"
@@ -46,12 +52,6 @@
     "title": "Amazon Aurora now supports PostgreSQL major version 18",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-aurora-postgresql-major-version-18/",
     "date": "Thu, 11 Jun 2026 18:59:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "AWS Elastic Beanstalk console now integrates CloudWatch Logs in the Logs tab",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/elastic-beanstalk-cloudwatch-logs/",
-    "date": "Thu, 11 Jun 2026 17:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "SUSE at GITEX AI Europe 2026: Empowering Sovereign Digital Transformation and Enterprise AI",
+    "link": "https://www.suse.com/c/suse-at-gitex-ai-europe-2026-empowering-sovereign-digital-transformation-and-enterprise-ai/",
+    "date": "Fri, 12 Jun 2026 07:09:17 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Driving 5G-Advanced and Open RAN Excellence: SUSE Telco Cloud on AMD EPYC 9005 Series Processors",
     "link": "https://www.suse.com/c/driving-5g-advanced-and-open-ran-excellence-suse-telco-cloud-on-amd-epyc-9005-series-processors/",
     "date": "Thu, 11 Jun 2026 11:15:08 +0000"
@@ -82,12 +88,6 @@
     "title": "SUSE at DTW Ignite 2026: Accelerating Telco Modernization",
     "link": "https://www.suse.com/c/suse-at-dtw-ignite-2026-accelerating-telco-modernization/",
     "date": "Wed, 10 Jun 2026 18:19:53 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "SUSE Security Data considerations",
-    "link": "https://www.suse.com/c/suse-security-data-considerations/",
-    "date": "Wed, 10 Jun 2026 13:27:47 +0000"
   },
   {
     "source": "broadcom_vmware",
