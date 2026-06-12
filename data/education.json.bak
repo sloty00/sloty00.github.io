@@ -754,6 +754,27 @@
       ]
     },
     {
+      "titulo": "Master Completo Java de cero a experto",
+      "emisor": "Udemy",
+      "badge": "Fullstack Dev",
+      "categoria": "programacion",
+      "marca": "udemy",
+      "skills": [
+        "sql",
+        "automation"
+      ],
+      "roles": [
+        "analyst",
+        "engineer"
+      ],
+      "puntos_clave": [
+        "Problem Solving",
+        "Data Structures",
+        "Code Efficiency",
+        "Logic"
+      ]
+    },
+    {
       "badge": "yyy",
       "categoria": "yyy",
       "emisor": "yyy",
