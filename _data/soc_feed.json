@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon Quick now integrates with Snowflake Cortex AI",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-snowflake-cortex-ai/",
-    "date": "Thu, 11 Jun 2026 22:02:00 GMT"
+    "title": "Amazon Lightsail is now available in three additional AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-lightsail-aws-regions/",
+    "date": "Fri, 12 Jun 2026 20:43:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon CloudWatch Application Signals now supports infrastructure, logs, and traces context for faster troubleshooting",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/cloudwatch-application-signals-supports infrastructure-logs-traces-context-for-faster troubleshooting/",
-    "date": "Thu, 11 Jun 2026 20:10:00 GMT"
+    "title": "SageMaker AI now supports serverless fine-tuning for NVIDIA Nemotron models",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ft-nemotron-3/",
+    "date": "Fri, 12 Jun 2026 17:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Aurora now supports PostgreSQL major version 18",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-aurora-postgresql-major-version-18/",
-    "date": "Thu, 11 Jun 2026 18:59:00 GMT"
+    "title": "Amazon EC2 I7i instances now available in AWS Europe (Paris) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-i7i-instances-europe-paris-region/",
+    "date": "Fri, 12 Jun 2026 16:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -91,6 +91,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Modernize with Virtualized Storage",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/12/modernize-with-virtualized-storage/",
+    "date": "Fri, 12 Jun 2026 17:15:00 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "VCF Breakroom Chats Episode 89 – Governing the AI Private Cloud: Deep Dive into VCF 9.1 Infrastructure Placement Policies",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/06/11/vcf-breakroom-chats-episode-89-governing-the-ai-private-cloud-deep-dive-into-vcf-9-1-infrastructure-placement-policies/",
     "date": "Thu, 11 Jun 2026 18:13:36 +0000"
@@ -102,10 +108,10 @@
     "date": "Thu, 11 Jun 2026 18:13:36 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "Deploying VMware Cloud Foundation Private AI Services: Navigating Supervisor Architectures With and Without NSX",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/11/deploying-vmware-cloud-foundation-private-ai-services-navigating-supervisor-architectures-with-and-without-nsx/",
-    "date": "Thu, 11 Jun 2026 15:42:00 +0000"
+    "source": "veeam_intel",
+    "title": "Anthropic Just Wrote the Case for Data & AI Trust (They Just Didn’t Call It That)",
+    "link": "https://www.veeam.com/blog/zero-trust-ai-agents-data-ai-trust.html",
+    "date": "Fri, 12 Jun 2026 19:01:27 +0000"
   },
   {
     "source": "veeam_intel",
@@ -118,12 +124,6 @@
     "title": "Why the Partner Advisory Council Matters and Why Our Partners Matter More Than Ever",
     "link": "https://www.veeam.com/blog/emea-partner-advisory-council-2026.html",
     "date": "Wed, 10 Jun 2026 12:13:18 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Small Business Backup Software: A Practical Evaluation Guide",
-    "link": "https://www.veeam.com/blog/small-business-backup-software.html",
-    "date": "Tue, 09 Jun 2026 13:50:07 +0000"
   },
   {
     "source": "hackerrank",
