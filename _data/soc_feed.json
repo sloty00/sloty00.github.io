@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "The New AI Computing Stack: A Guide for Tech Leaders to Navigate Shifting Power Dynamics",
+    "link": "https://www.suse.com/c/the-new-ai-computing-stack-a-guide-for-tech-leaders-to-navigate-shifting-power-dynamics/",
+    "date": "Sun, 14 Jun 2026 02:15:25 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "SUSE at GITEX AI Europe 2026: Empowering Sovereign Digital Transformation and Enterprise AI",
     "link": "https://www.suse.com/c/suse-at-gitex-ai-europe-2026-empowering-sovereign-digital-transformation-and-enterprise-ai/",
     "date": "Fri, 12 Jun 2026 07:09:17 +0000"
@@ -82,12 +88,6 @@
     "title": "Driving 5G-Advanced and Open RAN Excellence: SUSE Telco Cloud on AMD EPYC 9005 Series Processors",
     "link": "https://www.suse.com/c/driving-5g-advanced-and-open-ran-excellence-suse-telco-cloud-on-amd-epyc-9005-series-processors/",
     "date": "Thu, 11 Jun 2026 11:15:08 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "SUSE at DTW Ignite 2026: Accelerating Telco Modernization",
-    "link": "https://www.suse.com/c/suse-at-dtw-ignite-2026-accelerating-telco-modernization/",
-    "date": "Wed, 10 Jun 2026 18:19:53 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -106,24 +106,6 @@
     "title": "VCF Breakroom Chats Episode 87 – Governing the AI Private Cloud: Deep Dive into VCF 9.1 Infrastructure Placement Policies",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/06/11/vcf-breakroom-chats-episode-87-governing-the-ai-private-cloud-deep-dive-into-vcf-9-1-infrastructure-placement-policies/",
     "date": "Thu, 11 Jun 2026 18:13:36 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Anthropic Just Wrote the Case for Data & AI Trust (They Just Didn’t Call It That)",
-    "link": "https://www.veeam.com/blog/zero-trust-ai-agents-data-ai-trust.html",
-    "date": "Fri, 12 Jun 2026 19:01:27 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "The One-Vendor Advantage: Why Stitched-Together Backup Storage Puts You at Risk",
-    "link": "https://www.veeam.com/blog/veeam-vault-vs-wasabi.html",
-    "date": "Wed, 10 Jun 2026 15:00:00 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Why the Partner Advisory Council Matters and Why Our Partners Matter More Than Ever",
-    "link": "https://www.veeam.com/blog/emea-partner-advisory-council-2026.html",
-    "date": "Wed, 10 Jun 2026 12:13:18 +0000"
   },
   {
     "source": "hackerrank",
