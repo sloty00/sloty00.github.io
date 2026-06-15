@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
+    "title": "AWS Lambda Managed Instances now supports Tag Propagation for Managed Resources",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-managed-instances-tag-propagation/",
+    "date": "Mon, 15 Jun 2026 15:55:00 GMT"
+  },
+  {
+    "source": "aws_news",
+    "title": "AWS DevOps Agent expands with custom SRE agents and MCP/A2A protocols",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-devops-agent-custom-agents/",
+    "date": "Mon, 15 Jun 2026 15:47:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "Amazon Lightsail is now available in three additional AWS Regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-lightsail-aws-regions/",
     "date": "Fri, 12 Jun 2026 20:43:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "SageMaker AI now supports serverless fine-tuning for NVIDIA Nemotron models",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ft-nemotron-3/",
-    "date": "Fri, 12 Jun 2026 17:00:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Amazon EC2 I7i instances now available in AWS Europe (Paris) Region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-i7i-instances-europe-paris-region/",
-    "date": "Fri, 12 Jun 2026 16:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -127,20 +127,20 @@
   },
   {
     "source": "hackerrank",
-    "title": "AI Fluency Isn’t a Soft Skill. Here’s How to Actually Measure It.",
-    "link": "https://www.hackerrank.com/blog/ai-fluency-isnt-a-soft-skill-heres-how-to-actually-measure-it/",
-    "date": "Wed, 10 Jun 2026 15:59:16 +0000"
+    "title": "How to Build a Technical Interview Process for the Agentic Era",
+    "link": "https://www.hackerrank.com/blog/how-to-build-a-technical-interview-process-for-the-agentic-era/",
+    "date": "Mon, 15 Jun 2026 15:56:33 +0000"
   },
   {
     "source": "hackerrank",
-    "title": "What 12,885 Developers Taught Us About Building with AI",
-    "link": "https://www.hackerrank.com/blog/what-12885-developers-taught-us-about-building-with-ai/",
-    "date": "Wed, 10 Jun 2026 15:56:17 +0000"
+    "title": "What Does “AI Fluency” Actually Mean in Technical Hiring?",
+    "link": "https://www.hackerrank.com/blog/what-does-ai-fluency-actually-mean-in-technical-hiring/",
+    "date": "Mon, 15 Jun 2026 15:44:12 +0000"
   },
   {
     "source": "hackerrank",
-    "title": "What Good Looks Like: OK vs. Good vs. Great in the Age of AI",
-    "link": "https://www.hackerrank.com/blog/what-good-looks-like-ok-vs-good-vs-great-in-the-age-of-ai/",
-    "date": "Wed, 10 Jun 2026 15:53:45 +0000"
+    "title": "Nobody Knows What a Good Engineer Looks Like Anymore",
+    "link": "https://www.hackerrank.com/blog/nobody-knows-what-a-good-engineer-looks-like-anymore/",
+    "date": "Mon, 15 Jun 2026 15:37:36 +0000"
   }
 ]
