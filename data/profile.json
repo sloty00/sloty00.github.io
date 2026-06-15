@@ -1,11 +1,27 @@
 [
-  {
-    "id": "cert-ms-az400",
-    "titulo": "AZ-400 DevOps Solutions",
-    "institucion": "Microsoft Learn",
+    {
+    "id": "cert-utp-sec",
+    "titulo": "Microsoft Learn AZ400 Desarrollo Para Enterprise Devops",
+    "institucion": "Microsoft",
     "imagen": "/images/diplomas/Microsoft_Learn_AZ400_Desarrollo_Para_Enterprise_Devops.png",
-    "tipo": "Expert",
-    "icon": "fas fa-infinity"
+    "tipo": "Arquitect Plataform",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "Microsoft Learn Administracion del trabajo con GitHub Projects",
+    "institucion": "Microsoft",
+    "imagen": "/images/diplomas/Microsoft_Learn_Administracion_del_trabajo_con_GitHub_Projects.png",
+    "tipo": "Arquitect Plataform",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "Microsoft Learn Automatizacion de GitHub mediante script",
+    "institucion": "Microsoft",
+    "imagen": "/images/diplomas/Microsoft_Learn_Automatizacion_de_GitHub_mediante_script.png",
+    "tipo": "Arquitect Plataform",
+    "icon": "fas fa-user-shield"
   },
   {
     "id": "cert-aws-s3",
@@ -189,30 +205,6 @@
     "institucion": "Hackerrank Developer",
     "imagen": "/images/diplomas/HR_Certificate_SQL_(Advanced).jpg",
     "tipo": "Database",
-    "icon": "fas fa-user-shield"
-  },
-  {
-    "id": "cert-utp-sec",
-    "titulo": "Microsoft Learn AZ400 Desarrollo Para Enterprise Devops",
-    "institucion": "Microsoft",
-    "imagen": "/images/diplomas/Microsoft_Learn_AZ400_Desarrollo_Para_Enterprise_Devops.png",
-    "tipo": "Arquitect Plataform",
-    "icon": "fas fa-user-shield"
-  },
-  {
-    "id": "cert-utp-sec",
-    "titulo": "Microsoft Learn Administracion del trabajo con GitHub Projects",
-    "institucion": "Microsoft",
-    "imagen": "/images/diplomas/Microsoft_Learn_Administracion_del_trabajo_con_GitHub_Projects.png",
-    "tipo": "Arquitect Plataform",
-    "icon": "fas fa-user-shield"
-  },
-  {
-    "id": "cert-utp-sec",
-    "titulo": "Microsoft Learn Automatizacion de GitHub mediante script",
-    "institucion": "Microsoft",
-    "imagen": "/images/diplomas/Microsoft_Learn_Automatizacion_de_GitHub_mediante_script.png",
-    "tipo": "Arquitect Plataform",
     "icon": "fas fa-user-shield"
   },
   {
