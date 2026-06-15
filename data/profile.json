@@ -201,6 +201,14 @@
   },
   {
     "id": "cert-utp-sec",
+    "titulo": "Microsoft Learn Administracion del trabajo con GitHub Projects",
+    "institucion": "Microsoft",
+    "imagen": "/images/diplomas/Microsoft_Learn_Administracion_del_trabajo_con_GitHub_Projects.png",
+    "tipo": "Arquitect Plataform",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
     "titulo": "Udemy Autocad 2023 MasterClass",
     "institucion": "Udemy",
     "imagen": "/images/diplomas/Udemy_Autocad_2023_MasterClass.png",
