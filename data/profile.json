@@ -48,6 +48,30 @@
     "icon": "fas fa-user-shield"
   },
   {
+    "id": "cert-utp-sec",
+    "titulo": "Microsoft Learn Codigo con GitHub Pages",
+    "institucion": "Microsoft",
+    "imagen": "/images/diplomas/Microsoft_Learn_Codigo_con_GutHub_Pages.png",
+    "tipo": "Arquitect Plataform",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "Microsoft Learn Creacion de flujos de trabajo de CI",
+    "institucion": "Microsoft",
+    "imagen": "/images/diplomas/Microsoft_Learn_Creacion_de_flujos_de_trabajo_de_CI.png",
+    "tipo": "Arquitect Plataform",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "Microsoft Learn Comunicacion eficaz en GitHub mediante Markdown",
+    "institucion": "Microsoft",
+    "imagen": "/images/diplomas/Microsoft_Learn_Comunicacion_eficaz_en_GitHub_mediante_Markdown.png",
+    "tipo": "Arquitect Plataform",
+    "icon": "fas fa-user-shield"
+  },
+  {
     "id": "cert-aws-s3",
     "titulo": "AWS Storage Gateway Deep Dive: Amazon S3 File Gateway",
     "institucion": "Amazon",
