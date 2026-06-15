@@ -72,6 +72,22 @@
     "icon": "fas fa-user-shield"
   },
   {
+    "id": "cert-utp-sec",
+    "titulo": "Microsoft Learn Creacion de un programa de codigo mediante procedimientos...",
+    "institucion": "Microsoft",
+    "imagen": "/images/diplomas/Microsoft_Learn_Creacion_de_un_programa_de_codigo.png",
+    "tipo": "Arquitect Plataform",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "Microsoft Learn Creacion y publicacion de acciones personalizadas de GitHub",
+    "institucion": "Microsoft",
+    "imagen": "/images/diplomas/Microsoft_Learn_Creacion_y_publicacion_de_acciones_personalizadas_de_GitHub.png",
+    "tipo": "Arquitect Plataform",
+    "icon": "fas fa-user-shield"
+  },
+  {
     "id": "cert-aws-s3",
     "titulo": "AWS Storage Gateway Deep Dive: Amazon S3 File Gateway",
     "institucion": "Amazon",
