@@ -88,6 +88,38 @@
     "icon": "fas fa-user-shield"
   },
   {
+    "id": "cert-utp-sec",
+    "titulo": "Microsoft Learn Creación e implementación de aplicaciones en Azure",
+    "institucion": "Microsoft",
+    "imagen": "/images/diplomas/Microsoft_Learn_Creación_e_implementación_de_aplicaciones_en_Azure.png",
+    "tipo": "Arquitect Plataform",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "Microsoft Learn Creación y hospedaje de sitios web mediante GitHub Pages",
+    "institucion": "Microsoft",
+    "imagen": "/images/diplomas/Microsoft_Learn_Creación_y_hospedaje_de_sitios_web_mediante_GitHub_Pages.png",
+    "tipo": "Arquitect Plataform",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "Microsoft Learn Seguridad Avanzada de Github I",
+    "institucion": "Microsoft",
+    "imagen": "/images/diplomas/Microsoft_Learn_Seguridad_Avanzada_de_Github_I.png",
+    "tipo": "Arquitect Plataform",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "Microsoft Learn Seguridad Avanzada de Github II",
+    "institucion": "Microsoft",
+    "imagen": "/images/diplomas/Microsoft_Learn_Seguridad_Avanzada_de_Github_II.png",
+    "tipo": "Arquitect Plataform",
+    "icon": "fas fa-user-shield"
+  },
+  {
     "id": "cert-aws-s3",
     "titulo": "AWS Storage Gateway Deep Dive: Amazon S3 File Gateway",
     "institucion": "Amazon",
