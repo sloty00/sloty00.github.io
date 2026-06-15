@@ -193,6 +193,14 @@
   },
   {
     "id": "cert-utp-sec",
+    "titulo": "Microsoft Learn AZ400 Desarrollo Para Enterprise Devops",
+    "institucion": "Microsoft",
+    "imagen": "/images/diplomas/Microsoft_Learn_AZ400_Desarrollo_Para_Enterprise_Devops.png",
+    "tipo": "Arquitect Plataform",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
     "titulo": "Udemy Autocad 2023 MasterClass",
     "institucion": "Udemy",
     "imagen": "/images/diplomas/Udemy_Autocad_2023_MasterClass.png",
