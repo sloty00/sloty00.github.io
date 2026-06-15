@@ -24,6 +24,30 @@
     "icon": "fas fa-user-shield"
   },
   {
+    "id": "cert-utp-sec",
+    "titulo": "Microsoft Learn Automatizacion de las tareas de desarrollo mediante acciones GitHub",
+    "institucion": "Microsoft",
+    "imagen": "/images/diplomas/Microsoft_Learn_Automatizacion_de_las_tareas_de_desarrollo.png",
+    "tipo": "Arquitect Plataform",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "Microsoft Learn Automatizacion del flujo de trabajo I",
+    "institucion": "Microsoft",
+    "imagen": "/images/diplomas/Microsoft_Learn_Automatizacion_del_flujo_de_trabajo_I.png",
+    "tipo": "Arquitect Plataform",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "Microsoft Learn Automatizacion del flujo de trabajo II",
+    "institucion": "Microsoft",
+    "imagen": "/images/diplomas/Microsoft_Learn_Automatizacion_del_flujo_de_trabajo_II.png",
+    "tipo": "Arquitect Plataform",
+    "icon": "fas fa-user-shield"
+  },
+  {
     "id": "cert-aws-s3",
     "titulo": "AWS Storage Gateway Deep Dive: Amazon S3 File Gateway",
     "institucion": "Amazon",
