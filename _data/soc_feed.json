@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS Lambda Managed Instances now supports Tag Propagation for Managed Resources",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-managed-instances-tag-propagation/",
-    "date": "Mon, 15 Jun 2026 15:55:00 GMT"
+    "title": "AWS Management Console Private Access now works without internet connectivity",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-management-console-private/",
+    "date": "Mon, 15 Jun 2026 23:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS DevOps Agent expands with custom SRE agents and MCP/A2A protocols",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-devops-agent-custom-agents/",
-    "date": "Mon, 15 Jun 2026 15:47:00 GMT"
+    "title": "Amazon Bedrock AgentCore Memory now supports strictly consistent metadata for long-term memory",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/agentcore-memory-scmetadata",
+    "date": "Mon, 15 Jun 2026 20:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Lightsail is now available in three additional AWS Regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-lightsail-aws-regions/",
-    "date": "Fri, 12 Jun 2026 20:43:00 GMT"
+    "title": "Amazon FSx for OpenZFS now supports on-demand data replication across AWS opt-in Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/on-demand-cross-region-replication/",
+    "date": "Mon, 15 Jun 2026 18:30:00 GMT"
   },
   {
     "source": "gcp_cloud",
