@@ -616,6 +616,92 @@
       ]
     },
     {
+      "titulo": "GitHub Copilot Integration",
+      "emisor": "Microsoft/GitHub",
+      "badge": "AI-Assisted Developer",
+      "categoria": "programacion",
+      "marca": "microsoft",
+      "skills": [
+        "ai-tools",
+        "productivity"
+      ],
+      "roles": [
+        "engineer",
+        "frontend"
+      ],
+      "puntos_clave": [
+        "AI Code Completion",
+        "Prompt Engineering",
+        "Contextual Refactoring",
+        "Workflow Optimization"
+      ]
+    },
+    {
+      "titulo": "Azure Core Infrastructure (AZ-104 Suite)",
+      "emisor": "Microsoft",
+      "badge": "Azure Administrator",
+      "categoria": "herramientas",
+      "marca": "microsoft",
+      "skills": [
+        "azure",
+        "cloud",
+        "linux"
+      ],
+      "roles": [
+        "engineer",
+        "devops"
+      ],
+      "puntos_clave": [
+        "Identity & Governance",
+        "Storage Management",
+        "Compute & Linux VMs",
+        "Process Architecture"
+      ]
+    },
+    {
+      "titulo": "Azure Networking & Operations (AZ-104 Suite)",
+      "emisor": "Microsoft",
+      "badge": "Cloud Operations Specialist",
+      "categoria": "herramientas",
+      "marca": "microsoft",
+      "skills": [
+        "azure",
+        "networking",
+        "security"
+      ],
+      "roles": [
+        "engineer",
+        "devops"
+      ],
+      "puntos_clave": [
+        "Virtual Networking",
+        "Application Gateway",
+        "Resources Monitoring",
+        "Backup & Recovery"
+      ]
+    },
+    {
+      "titulo": "Data Analysis & ETL with Power BI",
+      "emisor": "Microsoft",
+      "badge": "Data Specialist",
+      "categoria": "herramientas",
+      "marca": "microsoft",
+      "skills": [
+        "power-bi",
+        "data-analysis"
+      ],
+      "roles": [
+        "engineer",
+        "lead"
+      ],
+      "puntos_clave": [
+        "Data Preparation",
+        "ETL Processes",
+        "Data Modeling",
+        "Insights Extraction"
+      ]
+    },
+    {
       "titulo": "Data Prep with Power BI",
       "emisor": "Microsoft Learn",
       "badge": "Data Analytics",
