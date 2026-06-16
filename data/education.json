@@ -380,6 +380,242 @@
       ]
     },
     {
+      "titulo": "GitHub Projects",
+      "emisor": "Microsoft",
+      "badge": "Project Administrator",
+      "categoria": "herramientas",
+      "marca": "microsoft",
+      "skills": [
+        "agile",
+        "management"
+      ],
+      "roles": [
+        "engineer",
+        "devops",
+        "lead"
+      ],
+      "puntos_clave": [
+        "Work management",
+        "Automation",
+        "Insights",
+        "Boards & Tables"
+      ]
+    },
+    {
+      "titulo": "GitHub Scripting Automation",
+      "emisor": "Microsoft",
+      "badge": "Automation Specialist",
+      "categoria": "programacion",
+      "marca": "microsoft",
+      "skills": [
+        "automation",
+        "scripting"
+      ],
+      "roles": [
+        "engineer",
+        "devops"
+      ],
+      "puntos_clave": [
+        "GitHub CLI",
+        "GitHub API",
+        "Octokit",
+        "Task Automation"
+      ]
+    },
+    {
+      "titulo": "Development Tasks Automation",
+      "emisor": "Microsoft",
+      "badge": "Workflow Automation",
+      "categoria": "programacion",
+      "marca": "microsoft",
+      "skills": [
+        "automation",
+        "devops"
+      ],
+      "roles": [
+        "engineer",
+        "devops"
+      ],
+      "puntos_clave": [
+        "Event Triggers",
+        "Runner Environment",
+        "Job Optimization",
+        "SDLC Automation"
+      ]
+    },
+    {
+      "titulo": "Workflow Automation I - II",
+      "emisor": "Microsoft",
+      "badge": "Workflow Architect",
+      "categoria": "programacion",
+      "marca": "microsoft",
+      "skills": [
+        "automation",
+        "ci-cd"
+      ],
+      "roles": [
+        "engineer",
+        "devops"
+      ],
+      "puntos_clave": [
+        "Workflow Design",
+        "Job Dependencies",
+        "Artifacts Mgmt",
+        "Environment Control"
+      ]
+    },
+    {
+      "titulo": "GitHub Pages Deployment",
+      "emisor": "Microsoft",
+      "badge": "Hosting Specialist",
+      "categoria": "programacion",
+      "marca": "microsoft",
+      "skills": [
+        "hosting",
+        "deployment",
+        "frontend"
+      ],
+      "roles": [
+        "engineer",
+        "frontend"
+      ],
+      "puntos_clave": [
+        "Static Hosting",
+        "Custom Domains",
+        "Jekyll Integration",
+        "Site Security"
+      ]
+    },
+    {
+      "titulo": "CI Workflow Creation",
+      "emisor": "Microsoft",
+      "badge": "CI Specialist",
+      "categoria": "programacion",
+      "marca": "microsoft",
+      "skills": [
+        "ci-cd",
+        "automation",
+        "testing"
+      ],
+      "roles": [
+        "engineer",
+        "devops"
+      ],
+      "puntos_clave": [
+        "Continuous Integration",
+        "Automated Testing",
+        "Build Pipelines",
+        "Code Validation"
+      ]
+    },
+    {
+      "titulo": "Technical Communication with Markdown",
+      "emisor": "Microsoft",
+      "badge": "Documentation Specialist",
+      "categoria": "herramientas",
+      "marca": "microsoft",
+      "skills": [
+        "documentation",
+        "collaboration"
+      ],
+      "roles": [
+        "engineer",
+        "devops"
+      ],
+      "puntos_clave": [
+        "Markdown Syntax",
+        "Issue Templates",
+        "PR Documentation",
+        "Repository Readmes"
+      ]
+    },
+    {
+      "titulo": "GitHub Code Best Practices",
+      "emisor": "Microsoft",
+      "badge": "Best Practices Specialist",
+      "categoria": "programacion",
+      "marca": "microsoft",
+      "skills": [
+        "git-flow",
+        "collaboration"
+      ],
+      "roles": [
+        "engineer",
+        "devops"
+      ],
+      "puntos_clave": [
+        "GitHub Flow",
+        "Branching Strategies",
+        "Code Review",
+        "Protected Branches"
+      ]
+    },
+    {
+      "titulo": "Custom GitHub Actions Development",
+      "emisor": "Microsoft",
+      "badge": "Actions Developer",
+      "categoria": "programacion",
+      "marca": "microsoft",
+      "skills": [
+        "automation",
+        "devops"
+      ],
+      "roles": [
+        "engineer",
+        "devops"
+      ],
+      "puntos_clave": [
+        "Custom Actions",
+        "Docker & JS Actions",
+        "Marketplace Publishing",
+        "Action Metadata (action.yml)"
+      ]
+    },
+    {
+      "titulo": "Azure Application Deployment",
+      "emisor": "Microsoft",
+      "badge": "Cloud Deployment Specialist",
+      "categoria": "programacion",
+      "marca": "microsoft",
+      "skills": [
+        "azure",
+        "cloud",
+        "deployment"
+      ],
+      "roles": [
+        "engineer",
+        "devops"
+      ],
+      "puntos_clave": [
+        "App Services",
+        "Cloud Architecture",
+        "Resource Management",
+        "Continuous Deployment"
+      ]
+    },
+    {
+      "titulo": "Web Hosting with GitHub Pages",
+      "emisor": "Microsoft",
+      "badge": "Web Hosting Specialist",
+      "categoria": "programacion",
+      "marca": "microsoft",
+      "skills": [
+        "hosting",
+        "deployment",
+        "web-development"
+      ],
+      "roles": [
+        "engineer",
+        "frontend"
+      ],
+      "puntos_clave": [
+        "Web Hosting",
+        "Static Site Generation",
+        "Repository Management",
+        "Deployment Pipelines"
+      ]
+    },
+    {
       "titulo": "Data Prep with Power BI",
       "emisor": "Microsoft Learn",
       "badge": "Data Analytics",
