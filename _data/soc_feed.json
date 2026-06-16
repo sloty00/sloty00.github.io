@@ -1,6 +1,12 @@
 [
   {
     "source": "sophos_threat",
+    "title": "June Patch Tuesday smashes past 500-CVE mark",
+    "link": "https://www.sophos.com/en-us/blog/june-2026-patch-tuesday",
+    "date": "Thu, 11 Jun 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "You do surprise me.exe: An unexpected executable in Hola Browser",
     "link": "https://www.sophos.com/en-us/blog/you-do-surprise-me-exe-an-unexpected-executable-in-hola-browser",
     "date": "Thu, 04 Jun 2026 00:00:00 GMT"
@@ -10,12 +16,6 @@
     "title": "Pointing a Cursor at evading detection",
     "link": "https://www.sophos.com/en-us/blog/pointing-a-cursor-at-evading-detection",
     "date": "Tue, 02 Jun 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "GitHub internal repositories breached",
-    "link": "https://www.sophos.com/en-us/blog/github-internal-repositories-breached",
-    "date": "Wed, 20 May 2026 00:00:00 GMT"
   },
   {
     "source": "sophos_ops",
@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS Management Console Private Access now works without internet connectivity",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-management-console-private/",
-    "date": "Mon, 15 Jun 2026 23:00:00 GMT"
+    "title": "AWS Partner Central agents now accelerate co-selling on every deal",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/accelerate-co-selling-with-agents/",
+    "date": "Tue, 16 Jun 2026 13:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Bedrock AgentCore Memory now supports strictly consistent metadata for long-term memory",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/agentcore-memory-scmetadata",
-    "date": "Mon, 15 Jun 2026 20:00:00 GMT"
+    "title": "Amazon CloudWatch introduces native OpenTelemetry metrics with PromQL querying and per-GB pricing",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-otel-metrics/",
+    "date": "Tue, 16 Jun 2026 12:44:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon FSx for OpenZFS now supports on-demand data replication across AWS opt-in Regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/on-demand-cross-region-replication/",
-    "date": "Mon, 15 Jun 2026 18:30:00 GMT"
+    "title": "AWS Marketplace announces AI-assisted product listing",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/ai-assisted-product-listing/",
+    "date": "Tue, 16 Jun 2026 12:30:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,39 +73,39 @@
   },
   {
     "source": "suse_news",
+    "title": "Beyond Backups: Achieving True Disaster Recovery for Modern Hybrid Cloud Workloads",
+    "link": "https://www.suse.com/c/beyond-backups-achieving-true-disaster-recovery-for-modern-hybrid-cloud-workloads/",
+    "date": "Tue, 16 Jun 2026 10:39:29 +0000"
+  },
+  {
+    "source": "suse_news",
+    "title": "The New EU Open Source Strategy is the Best in the World, but Where Should the Commission Start?",
+    "link": "https://www.suse.com/c/new-eu-open-source-strategy/",
+    "date": "Tue, 16 Jun 2026 08:04:28 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "The New AI Computing Stack: A Guide for Tech Leaders to Navigate Shifting Power Dynamics",
     "link": "https://www.suse.com/c/the-new-ai-computing-stack-a-guide-for-tech-leaders-to-navigate-shifting-power-dynamics/",
     "date": "Sun, 14 Jun 2026 02:15:25 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "SUSE at GITEX AI Europe 2026: Empowering Sovereign Digital Transformation and Enterprise AI",
-    "link": "https://www.suse.com/c/suse-at-gitex-ai-europe-2026-empowering-sovereign-digital-transformation-and-enterprise-ai/",
-    "date": "Fri, 12 Jun 2026 07:09:17 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "Driving 5G-Advanced and Open RAN Excellence: SUSE Telco Cloud on AMD EPYC 9005 Series Processors",
-    "link": "https://www.suse.com/c/driving-5g-advanced-and-open-ran-excellence-suse-telco-cloud-on-amd-epyc-9005-series-processors/",
-    "date": "Thu, 11 Jun 2026 11:15:08 +0000"
+    "source": "broadcom_vmware",
+    "title": "VMware vSphere Configuration Profiles: A Comparison with VMware Host Profiles",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/16/vsphere-configuration-profiles-comparison/",
+    "date": "Tue, 16 Jun 2026 14:44:58 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Modernize with Virtualized Storage",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/12/modernize-with-virtualized-storage/",
-    "date": "Fri, 12 Jun 2026 17:15:00 +0000"
+    "title": "AI-Driven Exploits: What RabbitMQ Teaches Us About Unsupported OSS Risk",
+    "link": "https://blogs.vmware.com/tanzu/ai-driven-exploits-what-rabbitmq-teaches-us-about-unsupported-oss-risk/",
+    "date": "Tue, 16 Jun 2026 14:42:54 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "VCF Breakroom Chats Episode 89 – Governing the AI Private Cloud: Deep Dive into VCF 9.1 Infrastructure Placement Policies",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/11/vcf-breakroom-chats-episode-89-governing-the-ai-private-cloud-deep-dive-into-vcf-9-1-infrastructure-placement-policies/",
-    "date": "Thu, 11 Jun 2026 18:13:36 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "VCF Breakroom Chats Episode 87 – Governing the AI Private Cloud: Deep Dive into VCF 9.1 Infrastructure Placement Policies",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/11/vcf-breakroom-chats-episode-87-governing-the-ai-private-cloud-deep-dive-into-vcf-9-1-infrastructure-placement-policies/",
-    "date": "Thu, 11 Jun 2026 18:13:36 +0000"
+    "title": "VMware Cloud Foundation 9.1 – Path For Dell VxRail Customers",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/16/vmware-cloud-foundation-9-1-path-for-dell-vxrail-customers/",
+    "date": "Tue, 16 Jun 2026 13:00:00 +0000"
   },
   {
     "source": "veeam_intel",
