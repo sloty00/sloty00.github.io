@@ -1,6 +1,12 @@
 [
   {
     "source": "sophos_threat",
+    "title": "AI in the underground: Curiosity, claims, and concerns",
+    "link": "https://www.sophos.com/en-us/blog/ai-in-the-underground-curiosity-claims-and-concerns",
+    "date": "Wed, 17 Jun 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "June Patch Tuesday smashes past 500-CVE mark",
     "link": "https://www.sophos.com/en-us/blog/june-2026-patch-tuesday",
     "date": "Thu, 11 Jun 2026 00:00:00 GMT"
@@ -10,12 +16,6 @@
     "title": "You do surprise me.exe: An unexpected executable in Hola Browser",
     "link": "https://www.sophos.com/en-us/blog/you-do-surprise-me-exe-an-unexpected-executable-in-hola-browser",
     "date": "Thu, 04 Jun 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "Pointing a Cursor at evading detection",
-    "link": "https://www.sophos.com/en-us/blog/pointing-a-cursor-at-evading-detection",
-    "date": "Tue, 02 Jun 2026 00:00:00 GMT"
   },
   {
     "source": "sophos_ops",
@@ -55,6 +55,12 @@
   },
   {
     "source": "gcp_cloud",
+    "title": "Scaling the UK government’s AI vision",
+    "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-cloud-summit-london-2026/",
+    "date": "Wed, 17 Jun 2026 07:00:00 +0000"
+  },
+  {
+    "source": "gcp_cloud",
     "title": "The latest AI news we announced in May 2026",
     "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
     "date": "Fri, 05 Jun 2026 14:45:00 +0000"
@@ -66,10 +72,10 @@
     "date": "Wed, 20 May 2026 16:45:00 +0000"
   },
   {
-    "source": "gcp_cloud",
-    "title": "Making it easier to understand how content was created and edited",
-    "link": "https://blog.google/innovation-and-ai/products/identifying-ai-generated-media-online/",
-    "date": "Tue, 19 May 2026 17:45:00 +0000"
+    "source": "suse_news",
+    "title": "Powering Up SUSE India: Meet Marshal Correia, Our New GM Leading the Charge for Sovereign AI",
+    "link": "https://www.suse.com/c/powering-up-suse-india-meet-marshal-correia/",
+    "date": "Wed, 17 Jun 2026 06:05:25 +0000"
   },
   {
     "source": "suse_news",
@@ -84,10 +90,16 @@
     "date": "Tue, 16 Jun 2026 08:04:28 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "The New AI Computing Stack: A Guide for Tech Leaders to Navigate Shifting Power Dynamics",
-    "link": "https://www.suse.com/c/the-new-ai-computing-stack-a-guide-for-tech-leaders-to-navigate-shifting-power-dynamics/",
-    "date": "Sun, 14 Jun 2026 02:15:25 +0000"
+    "source": "broadcom_vmware",
+    "title": "The End of Database Silos: Consolidating Database Management on VMware Cloud Foundation",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/17/the-end-of-database-silos-consolidating-database-management-on-vmware-cloud-foundation/",
+    "date": "Wed, 17 Jun 2026 15:20:34 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "Embracing Schema Drift: Seamless Parquet Querying in Tanzu Greenplum, No Matter How Your Data Changes",
+    "link": "https://blogs.vmware.com/tanzu/embracing-schema-drift-seamless-parquet-querying-in-tanzu-greenplum-no-matter-how-your-data-changes/",
+    "date": "Wed, 17 Jun 2026 13:00:00 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -96,16 +108,10 @@
     "date": "Wed, 17 Jun 2026 01:00:00 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "July 22, 2026: Demystifying the Agentic Loop: Building Safe, Server-Driven Agents with Spring",
-    "link": "https://blogs.vmware.com/tanzu/july-22-2026-demystifying-the-agentic-loop-building-safe-server-driven-agents-with-spring/",
-    "date": "Tue, 16 Jun 2026 17:40:45 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Platform Engineering 2.0: The Evolution the AI Era Demands",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/16/platform-engineering-2-0-the-evolution-the-ai-era-demands/",
-    "date": "Tue, 16 Jun 2026 17:00:45 +0000"
+    "source": "veeam_intel",
+    "title": "Agentic AI Security: How to Protect Data in an AI-Driven World",
+    "link": "https://www.veeam.com/blog/agentic-ai-data-protection.html",
+    "date": "Wed, 17 Jun 2026 06:50:12 +0000"
   },
   {
     "source": "veeam_intel",
@@ -118,12 +124,6 @@
     "title": "The One-Vendor Advantage: Why Stitched-Together Backup Storage Puts You at Risk",
     "link": "https://www.veeam.com/blog/veeam-vault-vs-wasabi.html",
     "date": "Wed, 10 Jun 2026 15:00:00 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Why the Partner Advisory Council Matters and Why Our Partners Matter More Than Ever",
-    "link": "https://www.veeam.com/blog/emea-partner-advisory-council-2026.html",
-    "date": "Wed, 10 Jun 2026 12:13:18 +0000"
   },
   {
     "source": "hackerrank",
