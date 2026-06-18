@@ -91,21 +91,27 @@
   },
   {
     "source": "broadcom_vmware",
-    "title": "The End of Database Silos: Consolidating Database Management on VMware Cloud Foundation",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/17/the-end-of-database-silos-consolidating-database-management-on-vmware-cloud-foundation/",
-    "date": "Wed, 17 Jun 2026 15:20:34 +0000"
+    "title": "How to Upgrade to VMware Cloud Foundation 9.1",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/18/how-to-upgrade-to-vmware-cloud-foundation-9-1/",
+    "date": "Thu, 18 Jun 2026 14:59:29 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Embracing Schema Drift: Seamless Parquet Querying in Tanzu Greenplum, No Matter How Your Data Changes",
-    "link": "https://blogs.vmware.com/tanzu/embracing-schema-drift-seamless-parquet-querying-in-tanzu-greenplum-no-matter-how-your-data-changes/",
-    "date": "Wed, 17 Jun 2026 13:00:00 +0000"
+    "title": "Understanding Large Memory Pages with VMware Advanced Memory Tiering",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/18/understanding-large-memory-pages-with-vmware-advanced-memory-tiering/",
+    "date": "Thu, 18 Jun 2026 13:40:06 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Elevating Enterprise Kubernetes with Automated Security, Scale, and Seamless Add-ons: Introducing VKS 3.7",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/16/elevating-enterprise-kubernetes-with-automated-security-scale-and-seamless-add-ons-introducing-vks-3-7/",
-    "date": "Wed, 17 Jun 2026 01:00:00 +0000"
+    "title": "VCF Breakroom Chats Episode 88 – Unpacking the Latest AI Advancements in the VCF 9.1 Release- 1",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/18/unpacking-the-latest-ai-advancements-in-the-vcf-9-1-release-1/",
+    "date": "Thu, 18 Jun 2026 10:29:17 +0000"
+  },
+  {
+    "source": "veeam_intel",
+    "title": "Everpure and Veeam Deepen Global Alliance: New Milestones in Cyber Resilience, Platform Integration, and Kubernetes Data Protection",
+    "link": "https://www.veeam.com/blog/everpure-veeam-cyber-resilience-alliance.html",
+    "date": "Thu, 18 Jun 2026 15:00:00 +0000"
   },
   {
     "source": "veeam_intel",
@@ -118,12 +124,6 @@
     "title": "Agentic AI Security: How to Protect Data in an AI-Driven World",
     "link": "https://www.veeam.com/blog/agentic-ai-data-protection.html",
     "date": "Wed, 17 Jun 2026 06:50:12 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Anthropic Just Wrote the Case for Data & AI Trust (They Just Didn’t Call It That)",
-    "link": "https://www.veeam.com/blog/zero-trust-ai-agents-data-ai-trust.html",
-    "date": "Fri, 12 Jun 2026 19:01:27 +0000"
   },
   {
     "source": "hackerrank",
