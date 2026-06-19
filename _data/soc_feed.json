@@ -91,6 +91,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "The Year the Sovereign Cloud Debate Got Specific",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/19/the-year-the-sovereign-cloud-debate-got-specific/",
+    "date": "Fri, 19 Jun 2026 13:00:00 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "How to Upgrade to VMware Cloud Foundation 9.1",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/06/18/how-to-upgrade-to-vmware-cloud-foundation-9-1/",
     "date": "Thu, 18 Jun 2026 14:59:29 +0000"
@@ -100,12 +106,6 @@
     "title": "Understanding Large Memory Pages with VMware Advanced Memory Tiering",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/06/18/understanding-large-memory-pages-with-vmware-advanced-memory-tiering/",
     "date": "Thu, 18 Jun 2026 13:40:06 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "VCF Breakroom Chats Episode 88 – Unpacking the Latest AI Advancements in the VCF 9.1 Release- 1",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/18/unpacking-the-latest-ai-advancements-in-the-vcf-9-1-release-1/",
-    "date": "Thu, 18 Jun 2026 10:29:17 +0000"
   },
   {
     "source": "veeam_intel",
