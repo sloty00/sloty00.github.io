@@ -43,15 +43,15 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon MSK Express brokers now support Intelligent Rebalancing on existing clusters",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-msk-express-intelligent/",
-    "date": "Thu, 18 Jun 2026 22:36:00 GMT"
+    "title": "Amazon CloudWatch Synthetics now supports multilocation canaries",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-synthetics-multilocation/",
+    "date": "Thu, 18 Jun 2026 22:41:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon ECS announces faster service auto scaling",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-faster-autoscaling/",
-    "date": "Thu, 18 Jun 2026 21:00:00 GMT"
+    "title": "Amazon MSK Express brokers now support Intelligent Rebalancing on existing clusters",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-msk-express-intelligent/",
+    "date": "Thu, 18 Jun 2026 22:36:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "Striped LVM on Linux — Concept, Setup, Extension & XFS Alignment",
+    "link": "https://www.suse.com/c/striped-lvm-on-linux-concept-setup-extension-xfs-alignment/",
+    "date": "Fri, 19 Jun 2026 12:48:25 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Powering Up SUSE India: Meet Marshal Correia, Our New GM Leading the Charge for Sovereign AI",
     "link": "https://www.suse.com/c/powering-up-suse-india-meet-marshal-correia/",
     "date": "Wed, 17 Jun 2026 06:05:25 +0000"
@@ -84,10 +90,10 @@
     "date": "Tue, 16 Jun 2026 10:39:29 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "The New EU Open Source Strategy is the Best in the World, but Where Should the Commission Start?",
-    "link": "https://www.suse.com/c/new-eu-open-source-strategy/",
-    "date": "Tue, 16 Jun 2026 08:04:28 +0000"
+    "source": "broadcom_vmware",
+    "title": "VCF Breakroom Chats Episode 89 –                  Unpacking the Latest AI Advancements in the VCF 9.1 Release- 2",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/19/unpacking-the-latest-ai-advancements-in-the-vcf-9-1-release-2/",
+    "date": "Fri, 19 Jun 2026 17:00:00 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -100,12 +106,6 @@
     "title": "How to Upgrade to VMware Cloud Foundation 9.1",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/06/18/how-to-upgrade-to-vmware-cloud-foundation-9-1/",
     "date": "Thu, 18 Jun 2026 14:59:29 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Understanding Large Memory Pages with VMware Advanced Memory Tiering",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/18/understanding-large-memory-pages-with-vmware-advanced-memory-tiering/",
-    "date": "Thu, 18 Jun 2026 13:40:06 +0000"
   },
   {
     "source": "veeam_intel",
