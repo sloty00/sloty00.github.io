@@ -91,6 +91,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "VCF Breakroom Chats Episode 90 – Shift Into High Gear: Supercharge Your Private Cloud with VMware vSphere Kubernetes Service in VCF 9.1",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/22/vcf-breakroom-chats-episode-90-shift-into-high-gear-supercharge-your-private-cloud-with-vmware-vsphere-kubernetes-service-in-vcf-9-1/",
+    "date": "Mon, 22 Jun 2026 14:00:00 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "VCF Breakroom Chats Episode 89 –                  Unpacking the Latest AI Advancements in the VCF 9.1 Release- 2",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/06/19/unpacking-the-latest-ai-advancements-in-the-vcf-9-1-release-2/",
     "date": "Fri, 19 Jun 2026 17:00:00 +0000"
@@ -102,10 +108,10 @@
     "date": "Fri, 19 Jun 2026 13:00:00 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "How to Upgrade to VMware Cloud Foundation 9.1",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/18/how-to-upgrade-to-vmware-cloud-foundation-9-1/",
-    "date": "Thu, 18 Jun 2026 14:59:29 +0000"
+    "source": "veeam_intel",
+    "title": "Translation test",
+    "link": "https://www.veeam.com/blog/translation-test.html",
+    "date": "Mon, 22 Jun 2026 15:11:59 +0000"
   },
   {
     "source": "veeam_intel",
@@ -118,12 +124,6 @@
     "title": "Why Post-Quantum Cryptography Matters Now",
     "link": "https://www.veeam.com/blog/post-quantum-cryptography-backup.html",
     "date": "Thu, 18 Jun 2026 03:18:47 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Agentic AI Security: How to Protect Data in an AI-Driven World",
-    "link": "https://www.veeam.com/blog/agentic-ai-data-protection.html",
-    "date": "Wed, 17 Jun 2026 06:50:12 +0000"
   },
   {
     "source": "hackerrank",
