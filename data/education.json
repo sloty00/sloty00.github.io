@@ -317,25 +317,48 @@
       ]
     },
     {
-      "titulo": "AZ-400: DevOps Solutions",
+      "titulo": "Microsoft Certified: DevOps Engineer Expert (AZ-400)",
       "emisor": "Microsoft Learn",
       "badge": "DevOps & SRE Expert",
       "categoria": "infraestructura",
       "marca": "microsoft",
-      "skills": [
-        "automation",
-        "cloud",
-        "devops"
-      ],
-      "roles": [
-        "devops",
-        "architect"
-      ],
+      "skills": ["automation", "cloud", "devops", "ci-cd", "security"],
+      "roles": ["devops", "sre", "engineer"],
       "puntos_clave": [
-        "CI/CD Pipelines",
-        "IaC (Terraform)",
-        "DevSecOps",
-        "SRE & Monitoring"
+        "CI/CD Pipelines (Azure & GitHub)",
+        "Infrastructure as Code (ARM/Bicep)",
+        "DevSecOps & Code Validation",
+        "Continuous Feedback & SRE"
+      ]
+    },
+    {
+      "titulo": "Microsoft Certified: Azure Developer Associate (AZ-204)",
+      "emisor": "Microsoft Learn",
+      "badge": "Cloud Developer Associate",
+      "categoria": "desarrollo",
+      "marca": "microsoft",
+      "skills": ["cloud-native", "api-development", "microservices", "java"],
+      "roles": ["developer", "backend"],
+      "puntos_clave": [
+        "Azure App Service & Functions",
+        "Cosmos DB & Blob Storage",
+        "API Management & Security",
+        "Event-driven & Message-based solutions"
+      ]
+    },
+    {
+      "titulo": "Microsoft Certified: Azure Solutions Architect Expert (AZ-305)",
+      "emisor": "Microsoft Learn",
+      "badge": "Solutions Architect Expert",
+      "categoria": "arquitectura",
+      "marca": "microsoft",
+      "skills": ["architecture", "governance", "scalability", "resiliency"],
+      "roles": ["architect", "consultant"],
+      "puntos_clave": [
+        "Identity, Governance & Monitoring",
+        "Business Continuity Design",
+        "Data Storage Architecture",
+        "Well-Architected Framework (WAF)"
       ]
     },
     {
