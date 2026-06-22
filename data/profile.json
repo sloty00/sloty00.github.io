@@ -17,6 +17,14 @@
   },
   {
     "id": "cert-utp-sec",
+    "titulo": "Microsoft Learn Trayectoria profesional Arquiecto de soluciones Azure",
+    "institucion": "Microsoft",
+    "imagen": "/images/diplomas/Microsoft_Learn_Trayectoria_profesional_Arquiecto_de_soluciones_Azure.png",
+    "tipo": "Arquitect Plataform",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
     "titulo": "Microsoft Learn AZ104 Administracion de identidades y gobernanza en Azure",
     "institucion": "Microsoft",
     "imagen": "/images/diplomas/Microsoft_Learn_AZ104_Administracion_de_identidades_y_gobernanza_en_Azure.png",
