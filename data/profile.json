@@ -1,9 +1,17 @@
 [
-    {
+  {
     "id": "cert-utp-sec",
     "titulo": "Microsoft Learn Trayectoria profesional Ingeniero de DevOps (AZ400)",
     "institucion": "Microsoft",
     "imagen": "/images/diplomas/Microsoft_Learn_Trayectoria_profesional_como_Ingeniero_de_DevOps.png",
+    "tipo": "Arquitect Plataform",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
+    "titulo": "Microsoft Learn Trayectoria profesional como Desarrollador",
+    "institucion": "Microsoft",
+    "imagen": "/images/diplomas/Microsoft_Learn_Trayectoria_profesional_como_Desarrollador.png",
     "tipo": "Arquitect Plataform",
     "icon": "fas fa-user-shield"
   },
