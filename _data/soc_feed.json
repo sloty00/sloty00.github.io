@@ -49,9 +49,9 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS Network Firewall updates default drop action for improved connection reliability",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-network-firewall-updates-default-drop-action",
-    "date": "Mon, 22 Jun 2026 17:00:00 GMT"
+    "title": "AWS Transform for migrations now supports all AWS commercial regions as migration targets",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-migrations-region-expansion/",
+    "date": "Mon, 22 Jun 2026 17:30:40 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "Navigating the SAP Tightrope: Innovation vs. Control in a Volatile World",
+    "link": "https://www.suse.com/c/navigating-the-sap-tightrope-innovation-vs-control-in-a-volatile-world/",
+    "date": "Tue, 23 Jun 2026 11:42:07 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Striped LVM on Linux — Concept, Setup, Extension & XFS Alignment",
     "link": "https://www.suse.com/c/striped-lvm-on-linux-concept-setup-extension-xfs-alignment/",
     "date": "Fri, 19 Jun 2026 12:48:25 +0000"
@@ -84,10 +90,10 @@
     "date": "Wed, 17 Jun 2026 06:05:25 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "Beyond Backups: Achieving True Disaster Recovery for Modern Hybrid Cloud Workloads",
-    "link": "https://www.suse.com/c/beyond-backups-achieving-true-disaster-recovery-for-modern-hybrid-cloud-workloads/",
-    "date": "Tue, 16 Jun 2026 10:39:29 +0000"
+    "source": "broadcom_vmware",
+    "title": "Plan. Filter. Favorite. The Content Catalog Is Live",
+    "link": "https://blogs.vmware.com/explore/content-catalog-now-live/",
+    "date": "Tue, 23 Jun 2026 12:00:00 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -100,12 +106,6 @@
     "title": "VCF Breakroom Chats Episode 89 –                  Unpacking the Latest AI Advancements in the VCF 9.1 Release- 2",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/06/19/unpacking-the-latest-ai-advancements-in-the-vcf-9-1-release-2/",
     "date": "Fri, 19 Jun 2026 17:00:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "The Year the Sovereign Cloud Debate Got Specific",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/19/the-year-the-sovereign-cloud-debate-got-specific/",
-    "date": "Fri, 19 Jun 2026 13:00:00 +0000"
   },
   {
     "source": "veeam_intel",
