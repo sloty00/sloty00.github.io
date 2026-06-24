@@ -41,6 +41,14 @@
   },
   {
     "id": "cert-utp-sec",
+    "titulo": Microsoft Learn Trayectoria Identity and Access Administrator Career Path",
+    "institucion": "Microsoft",
+    "imagen": "/images/diplomas/Microsoft_Learn_Trayectoria_Identity_and_Access_Administrator_Career_Path.png",
+    "tipo": "Arquitect Plataform",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "id": "cert-utp-sec",
     "titulo": "Microsoft Learn Implementacion y administracion de maquinas virtuales Linux en Azure",
     "institucion": "Microsoft",
     "imagen": "/images/diplomas/Microsoft_Learn_Implementacion_y_administracion_de_maquinas_virtuales_Linux_en_Azure.png",
