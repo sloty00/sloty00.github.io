@@ -317,6 +317,21 @@
       ]
     },
     {
+      "titulo": "Microsoft Certified: Azure Administrator Associate (AZ-104)",
+      "emisor": "Microsoft Learn",
+      "badge": "Azure Infrastructure Expert",
+      "categoria": "infraestructura",
+      "marca": "microsoft",
+      "skills": ["identity", "governance", "virtual-networks", "storage", "compute"],
+      "roles": ["administrator", "cloud-engineer"],
+      "puntos_clave": [
+        "Azure Entra ID & Governance",
+        "Virtual Network Connectivity",
+        "Storage Management & Security",
+        "Compute & Resource Monitoring"
+      ]
+    },
+    {
       "titulo": "Microsoft Certified: DevOps Engineer Expert (AZ-400)",
       "emisor": "Microsoft Learn",
       "badge": "DevOps & SRE Expert",
@@ -359,6 +374,21 @@
         "Business Continuity Design",
         "Data Storage Architecture",
         "Well-Architected Framework (WAF)"
+      ]
+    },
+    {
+      "titulo": "Trayectoria Profesional: Especialista en Ingeniería Cloud",
+      "emisor": "Microsoft Learn",
+      "badge": "Senior Cloud Professional",
+      "categoria": "carrera",
+      "marca": "microsoft",
+      "skills": ["leadership", "strategy", "full-stack", "enterprise"],
+      "roles": ["senior-developer", "lead-engineer"],
+      "puntos_clave": [
+        "Integración de desarrollo y operaciones",
+        "Estrategia de modernización empresarial",
+        "Arquitecturas escalables de alto rendimiento",
+        "Optimización de costos y ciclos de entrega"
       ]
     },
     {
