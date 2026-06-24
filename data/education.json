@@ -392,6 +392,21 @@
       ]
     },
     {
+      "titulo": "Trayectoria Profesional: Identity and Access Administrator",
+      "emisor": "Microsoft Learn",
+      "badge": "Identity and Access Administrator Associate",
+      "categoria": "carrera",
+      "marca": "microsoft",
+      "skills": ["identity-governance", "access-management", "security-compliance", "hybrid-identity"],
+      "roles": ["identity-admin", "security-engineer"],
+      "puntos_clave": [
+        "Gestión de identidades y acceso (IAM)",
+        "Implementación de soluciones de identidad híbrida",
+        "Configuración de acceso condicional y MFA",
+        "Gobernanza y protección de identidades privilegiadas"
+      ]
+    },
+    {
       "titulo": "GitHub Advanced Security (GHAS)",
       "emisor": "Microsoft/GitHub",
       "badge": "AppSec & DevSecOps",
