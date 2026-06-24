@@ -37,6 +37,12 @@
   },
   {
     "source": "aws_news",
+    "title": "Amazon CloudWatch now supports tags on dashboards",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-tags-on-dashboards",
+    "date": "Wed, 24 Jun 2026 08:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "Amazon CloudWatch Logs supports managed syslog ingestion",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-syslog-ingestion/",
     "date": "Tue, 23 Jun 2026 20:30:00 GMT"
@@ -46,12 +52,6 @@
     "title": "SageMaker Notebook Instances now support G6e instance types",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/g6e-new-launch-sagemaker-notebook-instances/",
     "date": "Tue, 23 Jun 2026 18:14:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Amazon Bedrock AgentCore Memory now supports cross-account access",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/agentcore-memory-cross-account-access",
-    "date": "Tue, 23 Jun 2026 17:20:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "Running highly available virtualization at the Edge with just two data nodes",
+    "link": "https://www.suse.com/c/ha-virtualization-at-the-edge-two-data-nodes/",
+    "date": "Wed, 24 Jun 2026 11:39:20 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Navigating the SAP Tightrope: Innovation vs. Control in a Volatile World",
     "link": "https://www.suse.com/c/navigating-the-sap-tightrope-innovation-vs-control-in-a-volatile-world/",
     "date": "Tue, 23 Jun 2026 11:42:07 +0000"
@@ -82,12 +88,6 @@
     "title": "Striped LVM on Linux — Concept, Setup, Extension & XFS Alignment",
     "link": "https://www.suse.com/c/striped-lvm-on-linux-concept-setup-extension-xfs-alignment/",
     "date": "Fri, 19 Jun 2026 12:48:25 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "Powering Up SUSE India: Meet Marshal Correia, Our New GM Leading the Charge for Sovereign AI",
-    "link": "https://www.suse.com/c/powering-up-suse-india-meet-marshal-correia/",
-    "date": "Wed, 17 Jun 2026 06:05:25 +0000"
   },
   {
     "source": "broadcom_vmware",
