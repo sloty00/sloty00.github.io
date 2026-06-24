@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS HealthOmics now supports Nextflow profiles",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-nextflow-profiles/",
-    "date": "Mon, 22 Jun 2026 22:00:00 GMT"
+    "title": "Amazon CloudWatch Logs supports managed syslog ingestion",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-syslog-ingestion/",
+    "date": "Tue, 23 Jun 2026 20:30:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS introduces Lambda MicroVMs for isolated execution of user and AI-generated code",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-microvms/",
-    "date": "Mon, 22 Jun 2026 20:37:00 GMT"
+    "title": "SageMaker Notebook Instances now support G6e instance types",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/g6e-new-launch-sagemaker-notebook-instances/",
+    "date": "Tue, 23 Jun 2026 18:14:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Transform for migrations now supports all AWS commercial regions as migration targets",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-migrations-region-expansion/",
-    "date": "Mon, 22 Jun 2026 17:30:40 GMT"
+    "title": "Amazon Bedrock AgentCore Memory now supports cross-account access",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/agentcore-memory-cross-account-access",
+    "date": "Tue, 23 Jun 2026 17:20:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -91,21 +91,21 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "PostgreSQL Diagnostic Superpowers: Deep Visibility with VMware Data Services Manager 9.1",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/23/postgresql-diagnostic-superpowers-deep-visibility-with-vmware-data-services-manager-9-1/",
+    "date": "Tue, 23 Jun 2026 16:36:09 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "The People’s Choice Awards Are Back",
+    "link": "https://blogs.vmware.com/explore/announcing-people-choice-awards/",
+    "date": "Tue, 23 Jun 2026 14:00:00 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Plan. Filter. Favorite. The Content Catalog Is Live",
     "link": "https://blogs.vmware.com/explore/content-catalog-now-live/",
     "date": "Tue, 23 Jun 2026 12:00:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "VCF Breakroom Chats Episode 90 – Shift Into High Gear: Supercharge Your Private Cloud with VMware vSphere Kubernetes Service in VCF 9.1",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/22/vcf-breakroom-chats-episode-90-shift-into-high-gear-supercharge-your-private-cloud-with-vmware-vsphere-kubernetes-service-in-vcf-9-1/",
-    "date": "Mon, 22 Jun 2026 14:00:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "VCF Breakroom Chats Episode 89 –                  Unpacking the Latest AI Advancements in the VCF 9.1 Release- 2",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/19/unpacking-the-latest-ai-advancements-in-the-vcf-9-1-release-2/",
-    "date": "Fri, 19 Jun 2026 17:00:00 +0000"
   },
   {
     "source": "veeam_intel",
