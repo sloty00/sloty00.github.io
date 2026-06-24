@@ -25,57 +25,17 @@
   },
   {
     "id": "cert-utp-sec",
-    "titulo": "Microsoft Learn AZ104 Administracion de identidades y gobernanza en Azure",
+    "titulo": "Microsoft Learn Developer Career Path (AZ204)",
     "institucion": "Microsoft",
-    "imagen": "/images/diplomas/Microsoft_Learn_AZ104_Administracion_de_identidades_y_gobernanza_en_Azure.png",
+    "imagen": "/images/diplomas/Microsoft_Learn_Trayectoria_Developer_Career_Path.png",
     "tipo": "Arquitect Plataform",
     "icon": "fas fa-user-shield"
   },
   {
     "id": "cert-utp-sec",
-    "titulo": "Microsoft Learn AZ104 Configuracion y administracion de redes virtuales para administradores de Azure",
+    "titulo": "Microsoft Learn Adminstrator Career Path (AZ104)",
     "institucion": "Microsoft",
-    "imagen": "/images/diplomas/Microsoft_Learn_AZ104_Configuracion_y_administracion_de_redes_virtuales_para_administradores_de_Azure.png",
-    "tipo": "Arquitect Plataform",
-    "icon": "fas fa-user-shield"
-  },
-  {
-    "id": "cert-utp-sec",
-    "titulo": "Microsoft Learn AZ104 Implementacion y administracion de recursos de procesos de Azure",
-    "institucion": "Microsoft",
-    "imagen": "/images/diplomas/Microsoft_Learn_AZ104_Implementacion_y_administracion_de_recursos_de_procesos_de_Azure.png",
-    "tipo": "Arquitect Plataform",
-    "icon": "fas fa-user-shield"
-  },
-  {
-    "id": "cert-utp-sec",
-    "titulo": "Microsoft Learn AZ104 Implementacion y administracion del almacenamiento en Azure",
-    "institucion": "Microsoft",
-    "imagen": "/images/diplomas/Microsoft_Learn_AZ104_Implementacion_y_administracion_del_almacenamiento_en_Azure.png",
-    "tipo": "Arquitect Plataform",
-    "icon": "fas fa-user-shield"
-  },
-  {
-    "id": "cert-utp-sec",
-    "titulo": "Microsoft Learn AZ104 Requisitos previos para administradores de Azure",
-    "institucion": "Microsoft",
-    "imagen": "/images/diplomas/Microsoft_Learn_AZ104_Requisitos_previos_para_administradores_de_Azure.png",
-    "tipo": "Arquitect Plataform",
-    "icon": "fas fa-user-shield"
-  },
-  {
-    "id": "cert-utp-sec",
-    "titulo": "Microsoft Learn AZ104 Supervision y copia de seguridad de recursos de Azure",
-    "institucion": "Microsoft",
-    "imagen": "/images/diplomas/Microsoft_Learn_AZ104_Supervision_y_copia_de_seguridad_de_recursos_de_Azure.png",
-    "tipo": "Arquitect Plataform",
-    "icon": "fas fa-user-shield"
-  },
-  {
-    "id": "cert-utp-sec",
-    "titulo": "Microsoft Learn Arquitectura de infraestructura de procesos en Azure",
-    "institucion": "Microsoft",
-    "imagen": "/images/diplomas/Microsoft_Learn_Arquitectura_de_infraestructura_de_procesos_en_Azure.png",
+    "imagen": "/images/diplomas/Microsoft_Learn_Trayectoria_Administrator_Career_Path.png",
     "tipo": "Arquitect Plataform",
     "icon": "fas fa-user-shield"
   },
