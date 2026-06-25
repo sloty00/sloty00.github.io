@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon CloudWatch now supports tags on dashboards",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-tags-on-dashboards",
-    "date": "Wed, 24 Jun 2026 08:00:00 GMT"
+    "title": "Amazon EC2 announces AMI Watermarks for improved AMI governance",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-image-watermarks-allowed-images",
+    "date": "Wed, 24 Jun 2026 20:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon CloudWatch Logs supports managed syslog ingestion",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-syslog-ingestion/",
-    "date": "Tue, 23 Jun 2026 20:30:00 GMT"
+    "title": "Amazon EMR Serverless now supports live configuration updates without application restarts",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-emr-serverless/",
+    "date": "Wed, 24 Jun 2026 19:21:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "SageMaker Notebook Instances now support G6e instance types",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/g6e-new-launch-sagemaker-notebook-instances/",
-    "date": "Tue, 23 Jun 2026 18:14:00 GMT"
+    "title": "AWS IoT Device SDK for Swift is now generally available",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-iot-device-sdk-swift/",
+    "date": "Wed, 24 Jun 2026 18:48:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "SUSE Multi-Linux Manager 5.x on Azure",
+    "link": "https://www.suse.com/c/onboarding-suse-multi-linux-manager/",
+    "date": "Wed, 24 Jun 2026 14:15:15 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Running highly available virtualization at the Edge with just two data nodes",
     "link": "https://www.suse.com/c/ha-virtualization-at-the-edge-two-data-nodes/",
     "date": "Wed, 24 Jun 2026 11:39:20 +0000"
@@ -84,10 +90,10 @@
     "date": "Tue, 23 Jun 2026 11:42:07 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "Striped LVM on Linux — Concept, Setup, Extension & XFS Alignment",
-    "link": "https://www.suse.com/c/striped-lvm-on-linux-concept-setup-extension-xfs-alignment/",
-    "date": "Fri, 19 Jun 2026 12:48:25 +0000"
+    "source": "broadcom_vmware",
+    "title": "Diagnostics Log Assist for Broadcom Cases",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/24/diagnostics-log-assist-for-broadcom-cases/",
+    "date": "Wed, 24 Jun 2026 19:20:16 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -100,12 +106,6 @@
     "title": "The People’s Choice Awards Are Back",
     "link": "https://blogs.vmware.com/explore/announcing-people-choice-awards/",
     "date": "Tue, 23 Jun 2026 14:00:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Plan. Filter. Favorite. The Content Catalog Is Live",
-    "link": "https://blogs.vmware.com/explore/content-catalog-now-live/",
-    "date": "Tue, 23 Jun 2026 12:00:00 +0000"
   },
   {
     "source": "veeam_intel",
