@@ -91,21 +91,21 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "The Complete Guide to Workload Mobility with VCF Operations HCX 9.1 (Part 1: Deployment)",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/26/vcf-9-operations-hcx-deployment-part-1/",
+    "date": "Fri, 26 Jun 2026 11:29:20 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "From Instance to Fleet: Enterprise-Scale Service Management in Tanzu Platform 10.4",
+    "link": "https://blogs.vmware.com/tanzu/from-instance-to-fleet-enterprise-scale-service-management-in-tanzu-platform-10-4/",
+    "date": "Fri, 26 Jun 2026 11:00:00 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "What a TAM Really Does: Three Stories from the Field",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/06/25/what-a-tam-really-does-three-stories-from-the-field/",
     "date": "Thu, 25 Jun 2026 20:20:56 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "USSFCU Secures Financial Data on a Sovereign Private Cloud",
-    "link": "https://blogs.vmware.com/tanzu/ussfcu-secures-financial-data-on-a-sovereign-private-cloud/",
-    "date": "Thu, 25 Jun 2026 15:42:15 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Diagnostics Log Assist for Broadcom Cases",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/24/diagnostics-log-assist-for-broadcom-cases/",
-    "date": "Wed, 24 Jun 2026 19:20:16 +0000"
   },
   {
     "source": "veeam_intel",
