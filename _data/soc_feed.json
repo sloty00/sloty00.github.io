@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon EC2 announces AMI Watermarks for improved AMI governance",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-image-watermarks-allowed-images",
-    "date": "Wed, 24 Jun 2026 20:00:00 GMT"
+    "title": "Amazon EC2 C7a instances are now available in the Asia Pacific (Singapore) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c7a-instances-asia-pacific-singapore-region/",
+    "date": "Thu, 25 Jun 2026 22:24:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EMR Serverless now supports live configuration updates without application restarts",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-emr-serverless/",
-    "date": "Wed, 24 Jun 2026 19:21:00 GMT"
+    "title": "Amazon EC2 M8a instances now available in the Asia Pacific (Mumbai) region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-m8a-instances-asia-pacific-mumbai-region/",
+    "date": "Thu, 25 Jun 2026 22:15:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS IoT Device SDK for Swift is now generally available",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-iot-device-sdk-swift/",
-    "date": "Wed, 24 Jun 2026 18:48:00 GMT"
+    "title": "OpenAI GPT, OpenAI GPT OSS, and NVIDIA Nemotron models on Amazon Bedrock receive FedRAMP High and DoD IL-4/5 approval in AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/addl-bedrock-model-fedramp-il-5-govcloud",
+    "date": "Thu, 25 Jun 2026 21:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -91,21 +91,21 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "What a TAM Really Does: Three Stories from the Field",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/25/what-a-tam-really-does-three-stories-from-the-field/",
+    "date": "Thu, 25 Jun 2026 20:20:56 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "USSFCU Secures Financial Data on a Sovereign Private Cloud",
+    "link": "https://blogs.vmware.com/tanzu/ussfcu-secures-financial-data-on-a-sovereign-private-cloud/",
+    "date": "Thu, 25 Jun 2026 15:42:15 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Diagnostics Log Assist for Broadcom Cases",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/06/24/diagnostics-log-assist-for-broadcom-cases/",
     "date": "Wed, 24 Jun 2026 19:20:16 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "PostgreSQL Diagnostic Superpowers: Deep Visibility with VMware Data Services Manager 9.1",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/23/postgresql-diagnostic-superpowers-deep-visibility-with-vmware-data-services-manager-9-1/",
-    "date": "Tue, 23 Jun 2026 16:36:09 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "The People’s Choice Awards Are Back",
-    "link": "https://blogs.vmware.com/explore/announcing-people-choice-awards/",
-    "date": "Tue, 23 Jun 2026 14:00:00 +0000"
   },
   {
     "source": "veeam_intel",
