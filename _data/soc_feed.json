@@ -37,6 +37,12 @@
   },
   {
     "source": "aws_news",
+    "title": "Amazon EC2 R8g instances now available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-r8g-instances-additional-regions/",
+    "date": "Fri, 26 Jun 2026 15:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "Amazon EC2 C7a instances are now available in the Asia Pacific (Singapore) Region",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c7a-instances-asia-pacific-singapore-region/",
     "date": "Thu, 25 Jun 2026 22:24:00 GMT"
@@ -46,12 +52,6 @@
     "title": "Amazon EC2 M8a instances now available in the Asia Pacific (Mumbai) region",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-m8a-instances-asia-pacific-mumbai-region/",
     "date": "Thu, 25 Jun 2026 22:15:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "OpenAI GPT, OpenAI GPT OSS, and NVIDIA Nemotron models on Amazon Bedrock receive FedRAMP High and DoD IL-4/5 approval in AWS GovCloud (US)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/addl-bedrock-model-fedramp-il-5-govcloud",
-    "date": "Thu, 25 Jun 2026 21:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "Sovereign, Open, and Carrier-Grade: What SUSE Telco Cloud 3.6 Actually Delivers",
+    "link": "https://www.suse.com/c/sovereign-open-and-carrier-grade-what-suse-telco-cloud-3-6-actually-delivers/",
+    "date": "Fri, 26 Jun 2026 16:31:49 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "SUSE Multi-Linux Manager 5.x on Azure",
     "link": "https://www.suse.com/c/onboarding-suse-multi-linux-manager/",
     "date": "Wed, 24 Jun 2026 14:15:15 +0000"
@@ -82,12 +88,6 @@
     "title": "Running highly available virtualization at the Edge with just two data nodes",
     "link": "https://www.suse.com/c/ha-virtualization-at-the-edge-two-data-nodes/",
     "date": "Wed, 24 Jun 2026 11:39:20 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "Navigating the SAP Tightrope: Innovation vs. Control in a Volatile World",
-    "link": "https://www.suse.com/c/navigating-the-sap-tightrope-innovation-vs-control-in-a-volatile-world/",
-    "date": "Tue, 23 Jun 2026 11:42:07 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -109,6 +109,12 @@
   },
   {
     "source": "veeam_intel",
+    "title": "9 Best Practices for Secure, Reliable Azure Backup and Recovery",
+    "link": "https://www.veeam.com/blog/secure-azure-backup-best-practices.html",
+    "date": "Fri, 26 Jun 2026 18:10:11 +0000"
+  },
+  {
+    "source": "veeam_intel",
     "title": "Everpure and Veeam Deepen Global Alliance: New Milestones in Cyber Resilience, Platform Integration, and Kubernetes Data Protection",
     "link": "https://www.veeam.com/blog/everpure-veeam-cyber-resilience-alliance.html",
     "date": "Thu, 18 Jun 2026 15:00:00 +0000"
@@ -118,12 +124,6 @@
     "title": "Why Post-Quantum Cryptography Matters Now",
     "link": "https://www.veeam.com/blog/post-quantum-cryptography-backup.html",
     "date": "Thu, 18 Jun 2026 03:18:47 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Agentic AI Security: How to Protect Data in an AI-Driven World",
-    "link": "https://www.veeam.com/blog/agentic-ai-data-protection.html",
-    "date": "Wed, 17 Jun 2026 06:50:12 +0000"
   },
   {
     "source": "hackerrank",
