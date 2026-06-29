@@ -91,6 +91,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "VMware Cloud Foundation® 9.1 徹底解説！Distributed Transit Gateway (DTGW) と VNA がもたらす新たなネットワークアーキテクチャ",
+    "link": "https://blogs.vmware.com/vmware-japan/2026/06/dtgw-vna.html",
+    "date": "Mon, 29 Jun 2026 01:34:38 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "The Complete Guide to Workload Mobility with VCF Operations HCX 9.1 (Part 1: Deployment)",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/06/26/vcf-9-operations-hcx-deployment-part-1/",
     "date": "Fri, 26 Jun 2026 11:29:20 +0000"
@@ -100,12 +106,6 @@
     "title": "From Instance to Fleet: Enterprise-Scale Service Management in Tanzu Platform 10.4",
     "link": "https://blogs.vmware.com/tanzu/from-instance-to-fleet-enterprise-scale-service-management-in-tanzu-platform-10-4/",
     "date": "Fri, 26 Jun 2026 11:00:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "What a TAM Really Does: Three Stories from the Field",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/25/what-a-tam-really-does-three-stories-from-the-field/",
-    "date": "Thu, 25 Jun 2026 20:20:56 +0000"
   },
   {
     "source": "veeam_intel",
