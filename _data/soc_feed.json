@@ -37,21 +37,27 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon EC2 R8g instances now available in additional regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-r8g-instances-additional-regions/",
-    "date": "Fri, 26 Jun 2026 15:00:00 GMT"
+    "title": "AWS WAF adds support for Amazon Bedrock AgentCore Gateway",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-waf-amazon-bedrock-agentcore/",
+    "date": "Mon, 29 Jun 2026 22:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EC2 C7a instances are now available in the Asia Pacific (Singapore) Region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c7a-instances-asia-pacific-singapore-region/",
-    "date": "Thu, 25 Jun 2026 22:24:00 GMT"
+    "title": "Amazon MWAA Serverless now supports shared VPC configurations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-mwaa-serverless-vpc/",
+    "date": "Mon, 29 Jun 2026 17:19:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EC2 M8a instances now available in the Asia Pacific (Mumbai) region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-m8a-instances-asia-pacific-mumbai-region/",
-    "date": "Thu, 25 Jun 2026 22:15:00 GMT"
+    "title": "Amazon S3 server access logs now deliver to Amazon CloudWatch Logs and Amazon S3 Tables",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-s3-cloudwatch-logs-tables/",
+    "date": "Mon, 29 Jun 2026 04:00:00 GMT"
+  },
+  {
+    "source": "gcp_cloud",
+    "title": "Gemini can now take notes in Google Meet for Google AI Pro and Ultra subscribers.",
+    "link": "https://blog.google/products-and-platforms/products/workspace/take-notes-for-me/",
+    "date": "Mon, 29 Jun 2026 16:00:00 +0000"
   },
   {
     "source": "gcp_cloud",
@@ -64,12 +70,6 @@
     "title": "Scaling the UK government’s AI vision",
     "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-cloud-summit-london-2026/",
     "date": "Wed, 17 Jun 2026 07:00:00 +0000"
-  },
-  {
-    "source": "gcp_cloud",
-    "title": "The latest AI news we announced in May 2026",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
-    "date": "Fri, 05 Jun 2026 14:45:00 +0000"
   },
   {
     "source": "suse_news",
@@ -91,6 +91,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Simplifying Policy Management with Open Policy Agent Gatekeeper",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/29/simplifying-policy-management-with-open-policy-agent-gatekeeper/",
+    "date": "Mon, 29 Jun 2026 22:09:21 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Installing Express Patches with VMware Cloud Foundation 9.1",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/06/29/installing-express-patches-with-vmware-cloud-foundation-9-1/",
     "date": "Mon, 29 Jun 2026 14:00:45 +0000"
@@ -100,12 +106,6 @@
     "title": "VMware Cloud Foundation Named a G2 Leader in IaaS for Summer 2026!",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/06/29/vmware-cloud-foundation-named-a-g2-leader-in-iaas-for-summer-2026/",
     "date": "Mon, 29 Jun 2026 13:00:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "VMware Cloud Foundation® 9.1 徹底解説！Distributed Transit Gateway (DTGW) と VNA がもたらす新たなネットワークアーキテクチャ",
-    "link": "https://blogs.vmware.com/vmware-japan/2026/06/dtgw-vna.html",
-    "date": "Mon, 29 Jun 2026 01:34:38 +0000"
   },
   {
     "source": "veeam_intel",
