@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Claude Opus 4.8 is now available in AWS GovCloud (US)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/claude-opus-4.8-aws-govcloud-us",
-    "date": "Tue, 30 Jun 2026 12:00:00 GMT"
+    "title": "Amazon CloudWatch Logs enriches log events with AWS resource tags",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-logs-resource-tags/",
+    "date": "Tue, 30 Jun 2026 21:15:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "OpenAI GPT-5.4 and NVIDIA Nemotron 3 Super 120B now available on Kiro in AWS GovCloud (US-West) Region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/kiro-gpt-nemotron-launch-aws-govcloud-us/",
-    "date": "Tue, 30 Jun 2026 09:00:00 GMT"
+    "title": "AWS CloudFormation and CDK accelerate development feedback loops with pre-deployment validation on all stack operations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cloudformation/",
+    "date": "Tue, 30 Jun 2026 21:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS WAF adds support for Amazon Bedrock AgentCore Gateway",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-waf-amazon-bedrock-agentcore/",
-    "date": "Mon, 29 Jun 2026 22:00:00 GMT"
+    "title": "AWS CloudFormation and CDK express mode speeds up infrastructure deployments by up to 4x",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cloudformation-cdk/",
+    "date": "Tue, 30 Jun 2026 21:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -91,39 +91,39 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Faster Security Patching with Fewer Disruptions in VCF 9.1",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/30/security-patching-in-vcf-9/",
+    "date": "Tue, 30 Jun 2026 15:02:00 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "From Container Image to Production: Container Service in VMware Cloud Foundation 9.1",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/30/from-container-image-to-production-container-service-in-vmware-cloud-foundation-9-1/",
+    "date": "Tue, 30 Jun 2026 14:34:43 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "VMware Cloud Foundation における VMware vSphere Kubernetes Service (VKS) の設計およびアーキテクチャ検討について",
     "link": "https://blogs.vmware.com/vmware-japan/2026/06/vcf-vks-architecture-jpn.html",
     "date": "Tue, 30 Jun 2026 11:34:59 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "Simplifying Policy Management with Open Policy Agent Gatekeeper",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/29/simplifying-policy-management-with-open-policy-agent-gatekeeper/",
-    "date": "Mon, 29 Jun 2026 22:09:21 +0000"
+    "source": "veeam_intel",
+    "title": "NIST AI Risk Management Framework: A Data Protection Guide",
+    "link": "https://www.veeam.com/blog/nist-ai-risk-management-framework.html",
+    "date": "Tue, 30 Jun 2026 17:16:00 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "Installing Express Patches with VMware Cloud Foundation 9.1",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/29/installing-express-patches-with-vmware-cloud-foundation-9-1/",
-    "date": "Mon, 29 Jun 2026 14:00:45 +0000"
+    "source": "veeam_intel",
+    "title": "Veeam Named a Leader in the 2026 Gartner® Magic Quadrant™ for Backup and Data Protection Platforms",
+    "link": "https://www.veeam.com/blog/leader-gartner-magic-quadrant.html",
+    "date": "Tue, 30 Jun 2026 14:47:04 +0000"
   },
   {
     "source": "veeam_intel",
     "title": "9 Best Practices for Secure, Reliable Azure Backup and Recovery",
     "link": "https://www.veeam.com/blog/secure-azure-backup-best-practices.html",
     "date": "Fri, 26 Jun 2026 18:10:11 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Everpure and Veeam Deepen Global Alliance: New Milestones in Cyber Resilience, Platform Integration, and Kubernetes Data Protection",
-    "link": "https://www.veeam.com/blog/everpure-veeam-cyber-resilience-alliance.html",
-    "date": "Thu, 18 Jun 2026 15:00:00 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Why Post-Quantum Cryptography Matters Now",
-    "link": "https://www.veeam.com/blog/post-quantum-cryptography-backup.html",
-    "date": "Thu, 18 Jun 2026 03:18:47 +0000"
   },
   {
     "source": "hackerrank",
