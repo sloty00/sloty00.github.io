@@ -1,6 +1,12 @@
 [
   {
     "source": "sophos_threat",
+    "title": "Vect and TeamPCP partner for ransomware campaigns",
+    "link": "https://www.sophos.com/en-us/blog/vect-and-teampcp-partner-for-ransomware-campaigns",
+    "date": "Thu, 02 Jul 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "AI in the underground: Curiosity, claims, and concerns",
     "link": "https://www.sophos.com/en-us/blog/ai-in-the-underground-curiosity-claims-and-concerns",
     "date": "Wed, 17 Jun 2026 00:00:00 GMT"
@@ -10,12 +16,6 @@
     "title": "June Patch Tuesday smashes past 500-CVE mark",
     "link": "https://www.sophos.com/en-us/blog/june-2026-patch-tuesday",
     "date": "Thu, 11 Jun 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "You do surprise me.exe: An unexpected executable in Hola Browser",
-    "link": "https://www.sophos.com/en-us/blog/you-do-surprise-me-exe-an-unexpected-executable-in-hola-browser",
-    "date": "Thu, 04 Jun 2026 00:00:00 GMT"
   },
   {
     "source": "sophos_ops",
@@ -91,6 +91,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "VMware Cloud Foundation® 9.1 徹底解説！物理と仮想の境界をなくす「VLAN Extension」の全貌",
+    "link": "https://blogs.vmware.com/vmware-japan/2026/07/vlan-extension.html",
+    "date": "Thu, 02 Jul 2026 05:22:35 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Announcing the General Availability of Holodeck 9.1",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/07/01/announcing-the-general-availability-of-holodeck-9-1/",
     "date": "Wed, 01 Jul 2026 14:11:48 +0000"
@@ -100,12 +106,6 @@
     "title": "Community Highlights: Learn, Connect, and Grow with vExperts",
     "link": "https://blogs.vmware.com/explore/community-highlights/",
     "date": "Wed, 01 Jul 2026 12:00:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Faster Security Patching with Fewer Disruptions in VCF 9.1",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/30/security-patching-in-vcf-9/",
-    "date": "Tue, 30 Jun 2026 15:02:00 +0000"
   },
   {
     "source": "veeam_intel",
