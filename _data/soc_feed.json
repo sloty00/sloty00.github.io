@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon CloudWatch Logs enriches log events with AWS resource tags",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-logs-resource-tags/",
-    "date": "Tue, 30 Jun 2026 21:15:00 GMT"
+    "title": "Amazon Bedrock AgentCore increases default runtime quota limits",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-bedrock-agentcore-increases-default-runtime-quota-limits/",
+    "date": "Wed, 01 Jul 2026 22:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS CloudFormation and CDK accelerate development feedback loops with pre-deployment validation on all stack operations",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cloudformation/",
-    "date": "Tue, 30 Jun 2026 21:00:00 GMT"
+    "title": "Amazon CloudWatch supports creating alarms from log queries",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-log-alarms/",
+    "date": "Wed, 01 Jul 2026 21:30:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS CloudFormation and CDK express mode speeds up infrastructure deployments by up to 4x",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cloudformation-cdk/",
-    "date": "Tue, 30 Jun 2026 21:00:00 GMT"
+    "title": "ECS Service Connect now supports Zone-Aware routing",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/ecs-service-connect-zone-aware/",
+    "date": "Wed, 01 Jul 2026 21:28:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "Your Patch Cycle Is Already Behind.",
+    "link": "https://www.suse.com/c/your-patch-cycle-is-already-behind/",
+    "date": "Wed, 01 Jul 2026 17:36:01 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Sovereign, Open, and Carrier-Grade: What SUSE Telco Cloud 3.6 Actually Delivers",
     "link": "https://www.suse.com/c/sovereign-open-and-carrier-grade-what-suse-telco-cloud-3-6-actually-delivers/",
     "date": "Fri, 26 Jun 2026 16:31:49 +0000"
@@ -84,10 +90,10 @@
     "date": "Wed, 24 Jun 2026 14:15:15 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "Running highly available virtualization at the Edge with just two data nodes",
-    "link": "https://www.suse.com/c/ha-virtualization-at-the-edge-two-data-nodes/",
-    "date": "Wed, 24 Jun 2026 11:39:20 +0000"
+    "source": "broadcom_vmware",
+    "title": "Announcing the General Availability of Holodeck 9.1",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/01/announcing-the-general-availability-of-holodeck-9-1/",
+    "date": "Wed, 01 Jul 2026 14:11:48 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -100,12 +106,6 @@
     "title": "Faster Security Patching with Fewer Disruptions in VCF 9.1",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/06/30/security-patching-in-vcf-9/",
     "date": "Tue, 30 Jun 2026 15:02:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "From Container Image to Production: Container Service in VMware Cloud Foundation 9.1",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/06/30/from-container-image-to-production-container-service-in-vmware-cloud-foundation-9-1/",
-    "date": "Tue, 30 Jun 2026 14:34:43 +0000"
   },
   {
     "source": "veeam_intel",
