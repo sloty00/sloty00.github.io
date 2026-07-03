@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon Bedrock AgentCore increases default runtime quota limits",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-bedrock-agentcore-increases-default-runtime-quota-limits/",
-    "date": "Wed, 01 Jul 2026 22:00:00 GMT"
+    "title": "Amazon SageMaker Unified Studio now supports Terraform for provisioning",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-terraform/",
+    "date": "Thu, 02 Jul 2026 21:49:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon CloudWatch supports creating alarms from log queries",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-log-alarms/",
-    "date": "Wed, 01 Jul 2026 21:30:00 GMT"
+    "title": "Amazon EC2 X8i instances are now available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-ICN-KUL-NRT-region/",
+    "date": "Thu, 02 Jul 2026 20:48:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "ECS Service Connect now supports Zone-Aware routing",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/ecs-service-connect-zone-aware/",
-    "date": "Wed, 01 Jul 2026 21:28:00 GMT"
+    "title": "Amazon EC2 Dedicated Hosts now support AMD SEV-SNP",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-amd-sev-snp-dedicated-hosts",
+    "date": "Thu, 02 Jul 2026 17:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -72,22 +72,10 @@
     "date": "Wed, 17 Jun 2026 07:00:00 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "Your Patch Cycle Is Already Behind.",
-    "link": "https://www.suse.com/c/your-patch-cycle-is-already-behind/",
-    "date": "Wed, 01 Jul 2026 17:36:01 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "Sovereign, Open, and Carrier-Grade: What SUSE Telco Cloud 3.6 Actually Delivers",
-    "link": "https://www.suse.com/c/sovereign-open-and-carrier-grade-what-suse-telco-cloud-3-6-actually-delivers/",
-    "date": "Fri, 26 Jun 2026 16:31:49 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "SUSE Multi-Linux Manager 5.x on Azure",
-    "link": "https://www.suse.com/c/onboarding-suse-multi-linux-manager/",
-    "date": "Wed, 24 Jun 2026 14:15:15 +0000"
+    "source": "broadcom_vmware",
+    "title": "Beyond Benchmarks: Engineering a Science-Grounded Validation for the Envoy AI Gateway",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/02/beyond-benchmarks-engineering-a-science-grounded-validation-for-the-envoy-ai-gateway/",
+    "date": "Thu, 02 Jul 2026 22:07:43 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -100,12 +88,6 @@
     "title": "Announcing the General Availability of Holodeck 9.1",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/07/01/announcing-the-general-availability-of-holodeck-9-1/",
     "date": "Wed, 01 Jul 2026 14:11:48 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Community Highlights: Learn, Connect, and Grow with vExperts",
-    "link": "https://blogs.vmware.com/explore/community-highlights/",
-    "date": "Wed, 01 Jul 2026 12:00:00 +0000"
   },
   {
     "source": "veeam_intel",
