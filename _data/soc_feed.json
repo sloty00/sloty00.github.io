@@ -37,6 +37,12 @@
   },
   {
     "source": "aws_news",
+    "title": "AWS CodePipeline now available in Asia Pacific (New Zealand) region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-codepipeline-new-zealand/",
+    "date": "Mon, 06 Jul 2026 09:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "Amazon SageMaker Unified Studio now supports Terraform for provisioning",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-terraform/",
     "date": "Thu, 02 Jul 2026 21:49:00 GMT"
@@ -46,12 +52,6 @@
     "title": "Amazon EC2 X8i instances are now available in additional regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-ICN-KUL-NRT-region/",
     "date": "Thu, 02 Jul 2026 20:48:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Amazon EC2 Dedicated Hosts now support AMD SEV-SNP",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-amd-sev-snp-dedicated-hosts",
-    "date": "Thu, 02 Jul 2026 17:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,21 +73,21 @@
   },
   {
     "source": "suse_news",
+    "title": "Reflections from Brussels, Utrecht and Paris",
+    "link": "https://www.suse.com/c/reflections-from-brussels-utrecht-and-paris/",
+    "date": "Mon, 06 Jul 2026 10:01:23 +0000"
+  },
+  {
+    "source": "suse_news",
+    "title": "SUSE AI Factory with NVIDIA is now generally available",
+    "link": "https://www.suse.com/c/suse-ai-factory-with-nvidia-is-now-generally-available/",
+    "date": "Mon, 06 Jul 2026 10:00:42 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Your Patch Cycle Is Already Behind.",
     "link": "https://www.suse.com/c/your-patch-cycle-is-already-behind/",
     "date": "Wed, 01 Jul 2026 17:36:01 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "Sovereign, Open, and Carrier-Grade: What SUSE Telco Cloud 3.6 Actually Delivers",
-    "link": "https://www.suse.com/c/sovereign-open-and-carrier-grade-what-suse-telco-cloud-3-6-actually-delivers/",
-    "date": "Fri, 26 Jun 2026 16:31:49 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "SUSE Multi-Linux Manager 5.x on Azure",
-    "link": "https://www.suse.com/c/onboarding-suse-multi-linux-manager/",
-    "date": "Wed, 24 Jun 2026 14:15:15 +0000"
   },
   {
     "source": "broadcom_vmware",
