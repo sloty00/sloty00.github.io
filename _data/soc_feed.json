@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS CodePipeline now available in Asia Pacific (New Zealand) region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-codepipeline-new-zealand/",
-    "date": "Mon, 06 Jul 2026 09:00:00 GMT"
+    "title": "Amazon SageMaker HyperPod now supports disaggregated prefill and decode",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/7/amazon-sagemaker-hyperpod-dpd/",
+    "date": "Mon, 06 Jul 2026 21:29:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon SageMaker Unified Studio now supports Terraform for provisioning",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-terraform/",
-    "date": "Thu, 02 Jul 2026 21:49:00 GMT"
+    "title": "Amazon Cognito now supports self-service provisioned API rate limits",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/cognito-provisioned-limits",
+    "date": "Mon, 06 Jul 2026 21:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EC2 X8i instances are now available in additional regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-ICN-KUL-NRT-region/",
-    "date": "Thu, 02 Jul 2026 20:48:00 GMT"
+    "title": "Amazon SageMaker Studio now integrates with Hugging Face for one-click model deployment and customization",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/sagemaker-studio-hugging-face-integration/",
+    "date": "Mon, 06 Jul 2026 20:30:00 GMT"
   },
   {
     "source": "gcp_cloud",
