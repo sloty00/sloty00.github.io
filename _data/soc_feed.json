@@ -91,6 +91,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Optimize Your On-Prem Reality at VMware Explore 2026",
+    "link": "https://blogs.vmware.com/explore/level-up-your-learning-at-explore/",
+    "date": "Tue, 07 Jul 2026 12:00:00 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Beyond Benchmarks: Engineering a Science-Grounded Validation for the Envoy AI Gateway",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/07/02/beyond-benchmarks-engineering-a-science-grounded-validation-for-the-envoy-ai-gateway/",
     "date": "Thu, 02 Jul 2026 22:07:43 +0000"
@@ -102,28 +108,22 @@
     "date": "Thu, 02 Jul 2026 05:22:35 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "Announcing the General Availability of Holodeck 9.1",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/01/announcing-the-general-availability-of-holodeck-9-1/",
-    "date": "Wed, 01 Jul 2026 14:11:48 +0000"
+    "source": "veeam_intel",
+    "title": "Modern Apps and AI Are Evolving Fast and Protection Must Keep Pace",
+    "link": "https://www.veeam.com/blog/modern-apps-ai-data-protection.html",
+    "date": "Tue, 07 Jul 2026 12:45:59 +0000"
   },
   {
     "source": "veeam_intel",
-    "title": "NIST AI Risk Management Framework: A Data Protection Guide",
-    "link": "https://www.veeam.com/blog/nist-ai-risk-management-framework.html",
-    "date": "Tue, 30 Jun 2026 17:16:00 +0000"
+    "title": "Hypervisor Hunger Games: Why the Winner Is a Strategy, Not a Platform",
+    "link": "https://www.veeam.com/blog/hypervisor-migration-strategy.html",
+    "date": "Tue, 07 Jul 2026 12:39:45 +0000"
   },
   {
     "source": "veeam_intel",
-    "title": "Veeam Named a Leader in the 2026 Gartner® Magic Quadrant™ for Backup and Data Protection Platforms",
-    "link": "https://www.veeam.com/blog/leader-gartner-magic-quadrant.html",
-    "date": "Tue, 30 Jun 2026 14:47:04 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "9 Best Practices for Secure, Reliable Azure Backup and Recovery",
-    "link": "https://www.veeam.com/blog/secure-azure-backup-best-practices.html",
-    "date": "Fri, 26 Jun 2026 18:10:11 +0000"
+    "title": "You Migrated Your VMs to Red Hat OpenShift. Now How Do You Protect Them?",
+    "link": "https://www.veeam.com/blog/protect-vms-red-hat-openshift.html",
+    "date": "Tue, 07 Jul 2026 12:29:35 +0000"
   },
   {
     "source": "hackerrank",
