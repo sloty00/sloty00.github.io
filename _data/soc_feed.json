@@ -1,6 +1,12 @@
 [
   {
     "source": "sophos_threat",
+    "title": "2607_agents_vs_telemetry",
+    "link": "https://www.sophos.com/en-us/blog/2607_agents_vs_telemetry",
+    "date": "Tue, 07 Jul 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "Vect and TeamPCP partner for ransomware campaigns",
     "link": "https://www.sophos.com/en-us/blog/vect-and-teampcp-partner-for-ransomware-campaigns",
     "date": "Thu, 02 Jul 2026 00:00:00 GMT"
@@ -10,12 +16,6 @@
     "title": "AI in the underground: Curiosity, claims, and concerns",
     "link": "https://www.sophos.com/en-us/blog/ai-in-the-underground-curiosity-claims-and-concerns",
     "date": "Wed, 17 Jun 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "June Patch Tuesday smashes past 500-CVE mark",
-    "link": "https://www.sophos.com/en-us/blog/june-2026-patch-tuesday",
-    "date": "Thu, 11 Jun 2026 00:00:00 GMT"
   },
   {
     "source": "sophos_ops",
@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon SageMaker HyperPod now supports disaggregated prefill and decode",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/7/amazon-sagemaker-hyperpod-dpd/",
-    "date": "Mon, 06 Jul 2026 21:29:00 GMT"
+    "title": "Amazon GameLift Streams introduces secure terminal access for stream sessions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-gamelift-streams-terminal-access/",
+    "date": "Tue, 07 Jul 2026 21:26:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Cognito now supports self-service provisioned API rate limits",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/cognito-provisioned-limits",
-    "date": "Mon, 06 Jul 2026 21:00:00 GMT"
+    "title": "Amazon S3 Vectors is now available in AWS GovCloud (US) Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/s3-vectors-available-aws-govcloud-regions/",
+    "date": "Tue, 07 Jul 2026 19:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon SageMaker Studio now integrates with Hugging Face for one-click model deployment and customization",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/sagemaker-studio-hugging-face-integration/",
-    "date": "Mon, 06 Jul 2026 20:30:00 GMT"
+    "title": "AWS Security Hub extends unified security management to Microsoft Azure",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-security-hub-supports-monitoring-microsoft-azure/",
+    "date": "Tue, 07 Jul 2026 18:21:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,21 +73,27 @@
   },
   {
     "source": "suse_news",
+    "title": "How to Simplify AWS IAM for Multi-Cluster Kubernetes",
+    "link": "https://www.suse.com/c/how-to-simplify-aws-iam-for-multi-cluster-kubernetes/",
+    "date": "Tue, 07 Jul 2026 20:23:20 +0000"
+  },
+  {
+    "source": "suse_news",
+    "title": "Europe’s Sovereignty Story Had a Missing Chapter, It Was Called Silicon.",
+    "link": "https://www.suse.com/c/europes-sovereignty-story-had-a-missing-chapter-it-was-called-silicon/",
+    "date": "Tue, 07 Jul 2026 19:22:38 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Reflections from Brussels, Utrecht and Paris",
     "link": "https://www.suse.com/c/reflections-from-brussels-utrecht-and-paris/",
     "date": "Mon, 06 Jul 2026 10:01:23 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "SUSE AI Factory with NVIDIA is now generally available",
-    "link": "https://www.suse.com/c/suse-ai-factory-with-nvidia-is-now-generally-available/",
-    "date": "Mon, 06 Jul 2026 10:00:42 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "Your Patch Cycle Is Already Behind.",
-    "link": "https://www.suse.com/c/your-patch-cycle-is-already-behind/",
-    "date": "Wed, 01 Jul 2026 17:36:01 +0000"
+    "source": "broadcom_vmware",
+    "title": "Why the Banks of the Next Decade Must be Sovereign Supercomputers",
+    "link": "https://blogs.vmware.com/tanzu/why-the-banks-of-the-next-decade-must-be-sovereign-supercomputers/",
+    "date": "Tue, 07 Jul 2026 16:43:42 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -100,12 +106,6 @@
     "title": "Beyond Benchmarks: Engineering a Science-Grounded Validation for the Envoy AI Gateway",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/07/02/beyond-benchmarks-engineering-a-science-grounded-validation-for-the-envoy-ai-gateway/",
     "date": "Thu, 02 Jul 2026 22:07:43 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "VMware Cloud Foundation® 9.1 徹底解説！物理と仮想の境界をなくす「VLAN Extension」の全貌",
-    "link": "https://blogs.vmware.com/vmware-japan/2026/07/vlan-extension.html",
-    "date": "Thu, 02 Jul 2026 05:22:35 +0000"
   },
   {
     "source": "veeam_intel",
