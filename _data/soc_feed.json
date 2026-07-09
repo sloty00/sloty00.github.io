@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "AI-Native Disaggregated RAN: Project Sylva Reference Architecture with SUSE Telco Cloud and OCUDU RAN stack",
+    "link": "https://www.suse.com/c/ai-native-disaggregated-ran-project-sylva-reference-architecture-with-suse-telco-cloud-and-ocudu-ran-stack/",
+    "date": "Thu, 09 Jul 2026 06:23:07 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "How to Simplify AWS IAM for Multi-Cluster Kubernetes",
     "link": "https://www.suse.com/c/how-to-simplify-aws-iam-for-multi-cluster-kubernetes/",
     "date": "Tue, 07 Jul 2026 20:23:20 +0000"
@@ -82,12 +88,6 @@
     "title": "Europe’s Sovereignty Story Had a Missing Chapter, It Was Called Silicon.",
     "link": "https://www.suse.com/c/europes-sovereignty-story-had-a-missing-chapter-it-was-called-silicon/",
     "date": "Tue, 07 Jul 2026 19:22:38 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "Reflections from Brussels, Utrecht and Paris",
-    "link": "https://www.suse.com/c/reflections-from-brussels-utrecht-and-paris/",
-    "date": "Mon, 06 Jul 2026 10:01:23 +0000"
   },
   {
     "source": "broadcom_vmware",
