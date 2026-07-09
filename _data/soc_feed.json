@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon GameLift Streams introduces secure terminal access for stream sessions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-gamelift-streams-terminal-access/",
-    "date": "Tue, 07 Jul 2026 21:26:00 GMT"
+    "title": "AWS Builder Center Now Offers Free Sandbox Environments",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-builder-center-sandbox/",
+    "date": "Wed, 08 Jul 2026 22:45:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon S3 Vectors is now available in AWS GovCloud (US) Regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/s3-vectors-available-aws-govcloud-regions/",
-    "date": "Tue, 07 Jul 2026 19:00:00 GMT"
+    "title": "AWS Security Hub now offers Network Scanning to identify publicly reachable resources",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-hub-network-scanning/",
+    "date": "Wed, 08 Jul 2026 21:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Security Hub extends unified security management to Microsoft Azure",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-security-hub-supports-monitoring-microsoft-azure/",
-    "date": "Tue, 07 Jul 2026 18:21:00 GMT"
+    "title": "Amazon Redshift RG instances now available on the trailing track",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-graviton-rg-instances-trailing-track",
+    "date": "Wed, 08 Jul 2026 18:12:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -91,21 +91,21 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "VCF Automation 活用 – 第１部 仮想基盤/共通基盤のジレンマと「運用の行き詰まり」",
+    "link": "https://blogs.vmware.com/vmware-japan/2026/07/vcfa-1.html",
+    "date": "Wed, 08 Jul 2026 23:23:24 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "Inside Audi’s Factory Transformation: What ARC’s Research Reveals",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/08/inside-audis-factory-transformation-what-arcs-research-reveals/",
+    "date": "Wed, 08 Jul 2026 15:09:45 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Why the Banks of the Next Decade Must be Sovereign Supercomputers",
     "link": "https://blogs.vmware.com/tanzu/why-the-banks-of-the-next-decade-must-be-sovereign-supercomputers/",
     "date": "Tue, 07 Jul 2026 16:43:42 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Optimize Your On-Prem Reality at VMware Explore 2026",
-    "link": "https://blogs.vmware.com/explore/level-up-your-learning-at-explore/",
-    "date": "Tue, 07 Jul 2026 12:00:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Beyond Benchmarks: Engineering a Science-Grounded Validation for the Envoy AI Gateway",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/02/beyond-benchmarks-engineering-a-science-grounded-validation-for-the-envoy-ai-gateway/",
-    "date": "Thu, 02 Jul 2026 22:07:43 +0000"
   },
   {
     "source": "veeam_intel",
