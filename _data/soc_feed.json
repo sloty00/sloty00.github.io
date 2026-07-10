@@ -91,6 +91,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Deploying the Official VMware Explore 2026 Swag Stack",
+    "link": "https://blogs.vmware.com/explore/event-gear-2026/",
+    "date": "Fri, 10 Jul 2026 12:00:00 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "VCF Automation 活用 – 第１部 仮想基盤/共通基盤のジレンマと「運用の行き詰まり」",
     "link": "https://blogs.vmware.com/vmware-japan/2026/07/vcfa-1.html",
     "date": "Wed, 08 Jul 2026 23:23:24 +0000"
@@ -100,12 +106,6 @@
     "title": "Inside Audi’s Factory Transformation: What ARC’s Research Reveals",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/07/08/inside-audis-factory-transformation-what-arcs-research-reveals/",
     "date": "Wed, 08 Jul 2026 15:09:45 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Why the Banks of the Next Decade Must be Sovereign Supercomputers",
-    "link": "https://blogs.vmware.com/tanzu/why-the-banks-of-the-next-decade-must-be-sovereign-supercomputers/",
-    "date": "Tue, 07 Jul 2026 16:43:42 +0000"
   },
   {
     "source": "veeam_intel",
