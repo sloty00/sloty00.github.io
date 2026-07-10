@@ -37,21 +37,27 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS Builder Center Now Offers Free Sandbox Environments",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-builder-center-sandbox/",
-    "date": "Wed, 08 Jul 2026 22:45:00 GMT"
+    "title": "OAuth support for the AWS MCP Server",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/oauth-aws-mcp-server/",
+    "date": "Thu, 09 Jul 2026 23:03:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Security Hub now offers Network Scanning to identify publicly reachable resources",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-hub-network-scanning/",
-    "date": "Wed, 08 Jul 2026 21:00:00 GMT"
+    "title": "Amazon Timestream for InfluxDB now publishes database state change events to Amazon EventBridge",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/timestream-influxdb-eventbridge/",
+    "date": "Thu, 09 Jul 2026 17:24:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Redshift RG instances now available on the trailing track",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-graviton-rg-instances-trailing-track",
-    "date": "Wed, 08 Jul 2026 18:12:00 GMT"
+    "title": "AWS Client VPN extends availability to four additional AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-client-vpn-four-additional-regions/",
+    "date": "Thu, 09 Jul 2026 17:08:00 GMT"
+  },
+  {
+    "source": "gcp_cloud",
+    "title": "We're rolling out AlphaEvolve widely to solve Google Cloud customers' hardest problems.",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-on-cloud/",
+    "date": "Thu, 09 Jul 2026 16:00:00 +0000"
   },
   {
     "source": "gcp_cloud",
@@ -64,12 +70,6 @@
     "title": "Powering the world’s first AI arts museum",
     "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/dataland-ai-art-museum/",
     "date": "Thu, 18 Jun 2026 15:00:00 +0000"
-  },
-  {
-    "source": "gcp_cloud",
-    "title": "Scaling the UK government’s AI vision",
-    "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-cloud-summit-london-2026/",
-    "date": "Wed, 17 Jun 2026 07:00:00 +0000"
   },
   {
     "source": "suse_news",
@@ -109,6 +109,12 @@
   },
   {
     "source": "veeam_intel",
+    "title": "How Veeam and Arms Cyber Help Protect Recovery Infrastructure from Modern Cyberattacks",
+    "link": "https://www.veeam.com/blog/arms-cyber-backup-protection.html",
+    "date": "Thu, 09 Jul 2026 13:00:00 +0000"
+  },
+  {
+    "source": "veeam_intel",
     "title": "Modern Apps and AI Are Evolving Fast and Protection Must Keep Pace",
     "link": "https://www.veeam.com/blog/modern-apps-ai-data-protection.html",
     "date": "Tue, 07 Jul 2026 12:45:59 +0000"
@@ -118,12 +124,6 @@
     "title": "Hypervisor Hunger Games: Why the Winner Is a Strategy, Not a Platform",
     "link": "https://www.veeam.com/blog/hypervisor-migration-strategy.html",
     "date": "Tue, 07 Jul 2026 12:39:45 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "You Migrated Your VMs to Red Hat OpenShift. Now How Do You Protect Them?",
-    "link": "https://www.veeam.com/blog/protect-vms-red-hat-openshift.html",
-    "date": "Tue, 07 Jul 2026 12:29:35 +0000"
   },
   {
     "source": "hackerrank",
