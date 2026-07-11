@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "OAuth support for the AWS MCP Server",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/oauth-aws-mcp-server/",
-    "date": "Thu, 09 Jul 2026 23:03:00 GMT"
+    "title": "Amazon EC2 network/EBS instances now available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r8in-r8ib-r8idn-r8idb",
+    "date": "Fri, 10 Jul 2026 20:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Timestream for InfluxDB now publishes database state change events to Amazon EventBridge",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/timestream-influxdb-eventbridge/",
-    "date": "Thu, 09 Jul 2026 17:24:00 GMT"
+    "title": "Amazon EMR on EKS now supports Apache Spark troubleshooting agent",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-emr-eks-spark-troubleshooting/",
+    "date": "Fri, 10 Jul 2026 18:16:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Client VPN extends availability to four additional AWS Regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-client-vpn-four-additional-regions/",
-    "date": "Thu, 09 Jul 2026 17:08:00 GMT"
+    "title": "Amazon Location Service enhances Places APIs with new address and search options",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-location-service-enhanced-address-search",
+    "date": "Fri, 10 Jul 2026 17:26:00 GMT"
   },
   {
     "source": "gcp_cloud",
