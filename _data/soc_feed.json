@@ -91,21 +91,27 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "The Complete Guide to Workload Mobility with VMware Cloud Foundation Operations HCX 9.1 (Part 2: HCX Service Mesh)",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/13/vcf-9-operations-hcx-service-mesh-part-2/",
+    "date": "Mon, 13 Jul 2026 11:39:48 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "VCF Automation 活用 – 第２部 VCF 9 が提示する解決策「プライベートクラウドポータル」",
+    "link": "https://blogs.vmware.com/vmware-japan/2026/07/vcfa-2.html",
+    "date": "Mon, 13 Jul 2026 05:21:49 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Deploying the Official VMware Explore 2026 Swag Stack",
     "link": "https://blogs.vmware.com/explore/event-gear-2026/",
     "date": "Fri, 10 Jul 2026 12:00:00 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "VCF Automation 活用 – 第１部 仮想基盤/共通基盤のジレンマと「運用の行き詰まり」",
-    "link": "https://blogs.vmware.com/vmware-japan/2026/07/vcfa-1.html",
-    "date": "Wed, 08 Jul 2026 23:23:24 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Inside Audi’s Factory Transformation: What ARC’s Research Reveals",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/08/inside-audis-factory-transformation-what-arcs-research-reveals/",
-    "date": "Wed, 08 Jul 2026 15:09:45 +0000"
+    "source": "veeam_intel",
+    "title": "Best Practices for Cloud Data Security",
+    "link": "https://www.veeam.com/blog/cloud-data-security-best-practices.html",
+    "date": "Mon, 13 Jul 2026 06:44:07 +0000"
   },
   {
     "source": "veeam_intel",
@@ -118,12 +124,6 @@
     "title": "Modern Apps and AI Are Evolving Fast and Protection Must Keep Pace",
     "link": "https://www.veeam.com/blog/modern-apps-ai-data-protection.html",
     "date": "Tue, 07 Jul 2026 12:45:59 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Hypervisor Hunger Games: Why the Winner Is a Strategy, Not a Platform",
-    "link": "https://www.veeam.com/blog/hypervisor-migration-strategy.html",
-    "date": "Tue, 07 Jul 2026 12:39:45 +0000"
   },
   {
     "source": "hackerrank",
