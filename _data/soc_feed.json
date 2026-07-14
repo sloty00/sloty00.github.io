@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon EC2 network/EBS instances now available in additional regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r8in-r8ib-r8idn-r8idb",
-    "date": "Fri, 10 Jul 2026 20:00:00 GMT"
+    "title": "OpenAI GPT-5.6 Sol, Terra, and Luna now generally available on Amazon Bedrock",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/openai-gpt-sol-terra/",
+    "date": "Mon, 13 Jul 2026 22:03:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EMR on EKS now supports Apache Spark troubleshooting agent",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-emr-eks-spark-troubleshooting/",
-    "date": "Fri, 10 Jul 2026 18:16:00 GMT"
+    "title": "Amazon Managed Service for Prometheus is now available in Asia Pacific (New Zealand) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-prometheus-new-zealand/",
+    "date": "Mon, 13 Jul 2026 21:17:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Location Service enhances Places APIs with new address and search options",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-location-service-enhanced-address-search",
-    "date": "Fri, 10 Jul 2026 17:26:00 GMT"
+    "title": "Amazon DocumentDB (with MongoDB compatibility) now available as a skill in the Agent Toolkit for AWS",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-documentdb-agent-skill",
+    "date": "Mon, 13 Jul 2026 18:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,39 +73,39 @@
   },
   {
     "source": "suse_news",
-    "title": "AI-Native Disaggregated RAN: Project Sylva Reference Architecture with SUSE Telco Cloud and OCUDU RAN stack",
-    "link": "https://www.suse.com/c/ai-native-disaggregated-ran-project-sylva-reference-architecture-with-suse-telco-cloud-and-ocudu-ran-stack/",
-    "date": "Thu, 09 Jul 2026 06:23:07 +0000"
+    "title": "Economically Sustainable Reliability at Machine Speed",
+    "link": "https://www.suse.com/c/economically-sustainable-reliability-at-machine-speed/",
+    "date": "Mon, 13 Jul 2026 21:02:51 +0000"
   },
   {
     "source": "suse_news",
-    "title": "How to Simplify AWS IAM for Multi-Cluster Kubernetes",
-    "link": "https://www.suse.com/c/how-to-simplify-aws-iam-for-multi-cluster-kubernetes/",
-    "date": "Tue, 07 Jul 2026 20:23:20 +0000"
+    "title": "Storage Virtualization Solutions: A Kubernetes-Native Approach",
+    "link": "https://www.suse.com/c/storage-virtualization-solutions-a-kubernetes-native-approach/",
+    "date": "Mon, 13 Jul 2026 15:48:31 +0000"
   },
   {
     "source": "suse_news",
-    "title": "Europe’s Sovereignty Story Had a Missing Chapter, It Was Called Silicon.",
-    "link": "https://www.suse.com/c/europes-sovereignty-story-had-a-missing-chapter-it-was-called-silicon/",
-    "date": "Tue, 07 Jul 2026 19:22:38 +0000"
+    "title": "What Is Storage Virtualization? Everything You Need to Know About the Virtualization of Storage",
+    "link": "https://www.suse.com/c/what-is-storage-virtualization-everything-you-need-to-know-about-the-virtualization-of-storage/",
+    "date": "Mon, 13 Jul 2026 15:25:43 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "The Complete Guide to Workload Mobility with VMware Cloud Foundation Operations HCX 9.1 (Part 2: HCX Service Mesh)",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/13/vcf-9-operations-hcx-service-mesh-part-2/",
-    "date": "Mon, 13 Jul 2026 11:39:48 +0000"
+    "title": "Load Balancing in vSphere 9.0 and VMware Cloud Foundation 9.0",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/13/choosing-the-right-load-balancer-for-vsphere-supervisor-in-vsphere-9-0-and-vmware-cloud-foundation-9-0/",
+    "date": "Mon, 13 Jul 2026 22:48:52 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "VCF Automation 活用 – 第２部 VCF 9 が提示する解決策「プライベートクラウドポータル」",
-    "link": "https://blogs.vmware.com/vmware-japan/2026/07/vcfa-2.html",
-    "date": "Mon, 13 Jul 2026 05:21:49 +0000"
+    "title": "Securing Your Database Estate Against AI-Driven Threats with VMware Data Services Manager",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/13/securing-your-database-estate-against-ai-driven-threats-with-vmware-data-services-manager/",
+    "date": "Mon, 13 Jul 2026 22:23:45 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Deploying the Official VMware Explore 2026 Swag Stack",
-    "link": "https://blogs.vmware.com/explore/event-gear-2026/",
-    "date": "Fri, 10 Jul 2026 12:00:00 +0000"
+    "title": "Performance Best Practices for VMware vSphere 9.1",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/13/performance-best-practices-for-vmware-vsphere-9-1/",
+    "date": "Mon, 13 Jul 2026 16:22:16 +0000"
   },
   {
     "source": "veeam_intel",
