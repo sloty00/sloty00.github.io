@@ -25,19 +25,3 @@ A diferencia de los sitios estáticos tradicionales, este portafolio implementa 
 * **Frontend:** JavaScript Moderno (ES6+), Motores asíncronos modulares
 * **Data Management:** JSON as a Service (Local API)
 * **DevOps:** GitHub Pages + GitOps Workflow
-
----
-
-## 📁 Estructura de Archivos Refactorizada
-
-```text
-/ (raíz)
-├── _data/                # Metadatos y el feed automático (soc_feed.json)
-├── data/                 # API PÚBLICA: Certificaciones, Proyectos (.json)
-├── assets/
-│   ├── js/               # Motores: visit-counter.js, projects-renderer.js, etc.
-│   └── css/              # Capa de estilos desacoplada
-├── _posts/               # Blog técnico y artículos de arquitectura
-├── _config.yml           # Configuración del ecosistema Jekyll
-├── fetch_rss.py          # Script de automatización de inteligencia
-└── [vistas].md           # Esqueletos estructurales (Perfil, Desarrollo, Experiencia)
