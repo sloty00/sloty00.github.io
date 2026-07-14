@@ -73,21 +73,27 @@
   },
   {
     "source": "suse_news",
-    "title": "Economically Sustainable Reliability at Machine Speed",
-    "link": "https://www.suse.com/c/economically-sustainable-reliability-at-machine-speed/",
-    "date": "Mon, 13 Jul 2026 21:02:51 +0000"
+    "title": "SUSE Multi-Linux Manager 5.2 Announcement: Enabling Operational Sovereignty Across Mixed Linux Estates",
+    "link": "https://www.suse.com/c/suse-multi-linux-manager-5-2-linux-fleet-management/",
+    "date": "Tue, 14 Jul 2026 08:00:42 +0000"
   },
   {
     "source": "suse_news",
-    "title": "Storage Virtualization Solutions: A Kubernetes-Native Approach",
-    "link": "https://www.suse.com/c/storage-virtualization-solutions-a-kubernetes-native-approach/",
-    "date": "Mon, 13 Jul 2026 15:48:31 +0000"
+    "title": "Sovereign AI With SUSE: Infrastructure You Control, AI You Trust",
+    "link": "https://www.suse.com/c/sovereign-ai-with-suse-infrastructure-you-control-ai-you-trust/",
+    "date": "Tue, 14 Jul 2026 07:15:21 +0000"
   },
   {
     "source": "suse_news",
-    "title": "What Is Storage Virtualization? Everything You Need to Know About the Virtualization of Storage",
-    "link": "https://www.suse.com/c/what-is-storage-virtualization-everything-you-need-to-know-about-the-virtualization-of-storage/",
-    "date": "Mon, 13 Jul 2026 15:25:43 +0000"
+    "title": "Sovereign Cloud Infrastructure: A Comprehensive Guide to True Cloud Sovereignty with SUSE",
+    "link": "https://www.suse.com/c/sovereign-cloud-infrastructure/",
+    "date": "Tue, 14 Jul 2026 06:57:34 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "Broadcom Named a Leader in the 2026 IDC MarketScape for Worldwide Private and Hybrid Cloud Management and Automation",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/14/broadcom-named-a-leader-in-the-2026-idc-marketscape-for-worldwide-private-and-hybrid-cloud-management-and-automation/",
+    "date": "Tue, 14 Jul 2026 13:00:00 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -100,12 +106,6 @@
     "title": "Securing Your Database Estate Against AI-Driven Threats with VMware Data Services Manager",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/07/13/securing-your-database-estate-against-ai-driven-threats-with-vmware-data-services-manager/",
     "date": "Mon, 13 Jul 2026 22:23:45 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Performance Best Practices for VMware vSphere 9.1",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/13/performance-best-practices-for-vmware-vsphere-9-1/",
-    "date": "Mon, 13 Jul 2026 16:22:16 +0000"
   },
   {
     "source": "veeam_intel",
