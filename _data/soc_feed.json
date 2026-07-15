@@ -37,6 +37,12 @@
   },
   {
     "source": "aws_news",
+    "title": "AWS Lambda announces self-managed code storage",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/lambda-self-managed-code-storage/",
+    "date": "Wed, 15 Jul 2026 07:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "AWS Elastic Disaster Recovery now supports Amazon EBS volume initialization rate",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-drs-fast-hydration/",
     "date": "Tue, 14 Jul 2026 22:00:56 GMT"
@@ -46,12 +52,6 @@
     "title": "AWS Lambda console provides a one-click setup prompt for coding agents",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-prompt-coding-agents/",
     "date": "Tue, 14 Jul 2026 20:00:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "AWS IAM Identity Center achieves FedRAMP Class C Certification",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-identity-center-fedramp/",
-    "date": "Tue, 14 Jul 2026 19:10:00 GMT"
   },
   {
     "source": "gcp_cloud",
