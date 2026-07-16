@@ -1,6 +1,12 @@
 [
   {
     "source": "sophos_threat",
+    "title": "SonicWall SMA1000 vulnerabilities in active exploitation",
+    "link": "https://www.sophos.com/en-us/blog/sonicwall-sma1000-vulnerabilities-in-active-exploitation",
+    "date": "Wed, 15 Jul 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "When AI agents look like attackers: what behavioral telemetry tells us",
     "link": "https://www.sophos.com/en-us/blog/2607_agents_vs_telemetry",
     "date": "Tue, 07 Jul 2026 00:00:00 GMT"
@@ -10,12 +16,6 @@
     "title": "Vect and TeamPCP partner for ransomware campaigns",
     "link": "https://www.sophos.com/en-us/blog/vect-and-teampcp-partner-for-ransomware-campaigns",
     "date": "Thu, 02 Jul 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "AI in the underground: Curiosity, claims, and concerns",
-    "link": "https://www.sophos.com/en-us/blog/ai-in-the-underground-curiosity-claims-and-concerns",
-    "date": "Wed, 17 Jun 2026 00:00:00 GMT"
   },
   {
     "source": "sophos_ops",
@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS Lambda announces self-managed code storage",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/lambda-self-managed-code-storage/",
-    "date": "Wed, 15 Jul 2026 07:00:00 GMT"
+    "title": "Amazon CloudWatch Logs announces intelligent tiering for storage",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-intelligent-tiering/",
+    "date": "Wed, 15 Jul 2026 20:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Elastic Disaster Recovery now supports Amazon EBS volume initialization rate",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-drs-fast-hydration/",
-    "date": "Tue, 14 Jul 2026 22:00:56 GMT"
+    "title": "Amazon MQ now supports configurable storage for RabbitMQ brokers",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-mq-rabbitmq-configurable-storage/",
+    "date": "Wed, 15 Jul 2026 18:18:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Lambda console provides a one-click setup prompt for coding agents",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-prompt-coding-agents/",
-    "date": "Tue, 14 Jul 2026 20:00:00 GMT"
+    "title": "Amazon EC2 G7e instances now available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-g7e-additional-regions/",
+    "date": "Wed, 15 Jul 2026 18:04:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,21 +73,21 @@
   },
   {
     "source": "suse_news",
-    "title": "SUSE Multi-Linux Manager 5.2 Announcement: Enabling Operational Sovereignty Across Mixed Linux Estates",
-    "link": "https://www.suse.com/c/suse-multi-linux-manager-5-2-linux-fleet-management/",
-    "date": "Tue, 14 Jul 2026 08:00:42 +0000"
+    "title": "Shaking Up the Radio Access Network with SUSE and OCUDU",
+    "link": "https://www.suse.com/c/shaking-up-the-radio-access-network-with-suse-and-ocudu/",
+    "date": "Wed, 15 Jul 2026 16:03:22 +0000"
   },
   {
     "source": "suse_news",
-    "title": "Sovereign AI With SUSE: Infrastructure You Control, AI You Trust",
-    "link": "https://www.suse.com/c/sovereign-ai-with-suse-infrastructure-you-control-ai-you-trust/",
-    "date": "Tue, 14 Jul 2026 07:15:21 +0000"
+    "title": "AI Hardware Shortages: How Enterprises Can Do More With Existing Infrastructure",
+    "link": "https://www.suse.com/c/ai-hardware-shortages-how-enterprises-can-do-more-with-existing-infrastructure/",
+    "date": "Wed, 15 Jul 2026 15:43:09 +0000"
   },
   {
     "source": "suse_news",
-    "title": "Sovereign Cloud Infrastructure: A Comprehensive Guide to True Cloud Sovereignty with SUSE",
-    "link": "https://www.suse.com/c/sovereign-cloud-infrastructure/",
-    "date": "Tue, 14 Jul 2026 06:57:34 +0000"
+    "title": "Industrializing Host-Based Routing for the Horizontal Telco Cloud",
+    "link": "https://www.suse.com/c/industrializing-host-based-routing-for-the-horizontal-telco-cloud/",
+    "date": "Wed, 15 Jul 2026 09:14:37 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -109,21 +109,21 @@
   },
   {
     "source": "veeam_intel",
-    "title": "Best Practices for Cloud Data Security",
-    "link": "https://www.veeam.com/blog/cloud-data-security-best-practices.html",
-    "date": "Mon, 13 Jul 2026 06:44:07 +0000"
+    "title": "What is DSPM? Why It Matters for Cloud Data Security, Compliance, and AI",
+    "link": "https://www.veeam.com/blog/what-is-dspm.html",
+    "date": "Wed, 15 Jul 2026 22:49:52 +0000"
   },
   {
     "source": "veeam_intel",
-    "title": "How Veeam and Arms Cyber Help Protect Recovery Infrastructure from Modern Cyberattacks",
-    "link": "https://www.veeam.com/blog/arms-cyber-backup-protection.html",
-    "date": "Thu, 09 Jul 2026 13:00:00 +0000"
+    "title": "Veeam Kasten v9.0 and Red Hat: Deeper Integration for the Workloads That Matter Most to You",
+    "link": "https://www.veeam.com/blog/kasten-openshift-virtualization-enterprise.html",
+    "date": "Wed, 15 Jul 2026 15:00:00 +0000"
   },
   {
     "source": "veeam_intel",
-    "title": "Modern Apps and AI Are Evolving Fast and Protection Must Keep Pace",
-    "link": "https://www.veeam.com/blog/modern-apps-ai-data-protection.html",
-    "date": "Tue, 07 Jul 2026 12:45:59 +0000"
+    "title": "How to Detect and Govern Shadow AI in Your Organization",
+    "link": "https://www.veeam.com/blog/detect-govern-shadow-ai.html",
+    "date": "Wed, 15 Jul 2026 14:14:52 +0000"
   },
   {
     "source": "hackerrank",
