@@ -91,6 +91,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "VCF Automation 活用 – 第３部 VCF 9 の「次世代テナント管理」",
+    "link": "https://blogs.vmware.com/vmware-japan/2026/07/vcfa-3.html",
+    "date": "Fri, 17 Jul 2026 08:36:23 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Sustainable Intelligence: Singapore’s AI-Driven Future with Green Plan 2030",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/07/14/sustainable-intelligence-singapores-ai-driven-future-with-green-plan-2030/",
     "date": "Tue, 14 Jul 2026 23:34:32 +0000"
@@ -100,12 +106,6 @@
     "title": "Securing the Foundation: VMware Cloud Foundation 9.1 STIG Compliance",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/07/14/securing-the-foundation-vmware-cloud-foundation-9-1-stig-compliance/",
     "date": "Tue, 14 Jul 2026 21:32:16 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Operationalizing VMware Avi Load Balancer with VCF 9.1",
-    "link": "https://blogs.vmware.com/load-balancing/2026/07/14/operationalizing-avi-with-vcf-9-1/",
-    "date": "Tue, 14 Jul 2026 21:29:02 +0000"
   },
   {
     "source": "veeam_intel",
