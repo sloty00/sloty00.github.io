@@ -37,21 +37,27 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon CloudWatch Logs announces intelligent tiering for storage",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-intelligent-tiering/",
-    "date": "Wed, 15 Jul 2026 20:00:00 GMT"
+    "title": "Amazon Managed Grafana achieves FedRAMP High authorization in AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-grafana-fedramp-high/",
+    "date": "Thu, 16 Jul 2026 19:31:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon MQ now supports configurable storage for RabbitMQ brokers",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-mq-rabbitmq-configurable-storage/",
-    "date": "Wed, 15 Jul 2026 18:18:00 GMT"
+    "title": "Track cost efficiency trends directly in Billing and Cost Management Dashboards with the new Cost Efficiency widget",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/monitor-cost-efficiency-using-dashboards",
+    "date": "Thu, 16 Jul 2026 18:56:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EC2 G7e instances now available in additional regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-g7e-additional-regions/",
-    "date": "Wed, 15 Jul 2026 18:04:00 GMT"
+    "title": "Amazon EC2 now surfaces the public SSM parameters associated with public AMIs",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-public-images-ssm-parameters",
+    "date": "Thu, 16 Jul 2026 18:20:00 GMT"
+  },
+  {
+    "source": "gcp_cloud",
+    "title": "Create, edit and star in videos with two Google Vids updates",
+    "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+    "date": "Thu, 16 Jul 2026 16:00:00 +0000"
   },
   {
     "source": "gcp_cloud",
@@ -64,12 +70,6 @@
     "title": "Gemini can now take notes in Google Meet for Google AI Pro and Ultra subscribers.",
     "link": "https://blog.google/products-and-platforms/products/workspace/take-notes-for-me/",
     "date": "Mon, 29 Jun 2026 16:00:00 +0000"
-  },
-  {
-    "source": "gcp_cloud",
-    "title": "Powering the world’s first AI arts museum",
-    "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/dataland-ai-art-museum/",
-    "date": "Thu, 18 Jun 2026 15:00:00 +0000"
   },
   {
     "source": "suse_news",
