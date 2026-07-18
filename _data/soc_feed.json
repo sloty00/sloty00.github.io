@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon Managed Grafana achieves FedRAMP High authorization in AWS GovCloud (US)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-grafana-fedramp-high/",
-    "date": "Thu, 16 Jul 2026 19:31:00 GMT"
+    "title": "Amazon GameLift Streams now supports IAM role credentials for stream sessions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-gamelift-streams-iam/",
+    "date": "Fri, 17 Jul 2026 17:29:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Track cost efficiency trends directly in Billing and Cost Management Dashboards with the new Cost Efficiency widget",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/monitor-cost-efficiency-using-dashboards",
-    "date": "Thu, 16 Jul 2026 18:56:00 GMT"
+    "title": "Amazon OpenSearch UI now supports one-click dashboard migration",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-opensearch-ui-one-click-dashboard-migration",
+    "date": "Fri, 17 Jul 2026 17:23:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EC2 now surfaces the public SSM parameters associated with public AMIs",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-public-images-ssm-parameters",
-    "date": "Thu, 16 Jul 2026 18:20:00 GMT"
+    "title": "Amazon SageMaker HyperPod now supports partition-level topology for Slurm orchestrated clusters",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/hyperpod-partition-topology-slurm/",
+    "date": "Fri, 17 Jul 2026 15:16:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -127,20 +127,20 @@
   },
   {
     "source": "hackerrank",
-    "title": "How to Build a Technical Interview Process for the Agentic Era",
-    "link": "https://www.hackerrank.com/blog/how-to-build-a-technical-interview-process-for-the-agentic-era/",
-    "date": "Mon, 15 Jun 2026 15:56:33 +0000"
+    "title": "How do AI interviewers work?",
+    "link": "https://www.hackerrank.com/blog/how-do-ai-interviewers-work/",
+    "date": "Fri, 17 Jul 2026 16:06:34 +0000"
   },
   {
     "source": "hackerrank",
-    "title": "What Does “AI Fluency” Actually Mean in Technical Hiring?",
-    "link": "https://www.hackerrank.com/blog/what-does-ai-fluency-actually-mean-in-technical-hiring/",
-    "date": "Mon, 15 Jun 2026 15:44:12 +0000"
+    "title": "AI Interviewer for Technical Screening: A Practical Guide for Engineering Teams",
+    "link": "https://www.hackerrank.com/blog/ai-interviewer-for-technical-screening-a-practical-guide-for-engineering-teams/",
+    "date": "Fri, 17 Jul 2026 16:03:45 +0000"
   },
   {
     "source": "hackerrank",
-    "title": "Nobody Knows What a Good Engineer Looks Like Anymore",
-    "link": "https://www.hackerrank.com/blog/nobody-knows-what-a-good-engineer-looks-like-anymore/",
-    "date": "Mon, 15 Jun 2026 15:37:36 +0000"
+    "title": "9 Best Practices for Implementing an AI Interviewer in Your Hiring Process",
+    "link": "https://www.hackerrank.com/blog/9-best-practices-for-implementing-an-ai-interviewer-in-your-hiring-process/",
+    "date": "Fri, 17 Jul 2026 15:46:26 +0000"
   }
 ]
