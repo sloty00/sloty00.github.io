@@ -19,6 +19,12 @@
   },
   {
     "source": "sophos_ops",
+    "title": "Sophos Trusted Code",
+    "link": "https://www.sophos.com/en-us/blog/sophos-trusted-code",
+    "date": "Mon, 20 Jul 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_ops",
     "title": "Strengthening authentication with passkeys: A CISO playbook",
     "link": "https://www.sophos.com/en-us/blog/strengthening-authentication-with-passkeys-a-ciso-playbook",
     "date": "Wed, 22 Apr 2026 00:00:00 GMT"
@@ -30,28 +36,22 @@
     "date": "Sun, 01 Mar 2026 00:00:00 GMT"
   },
   {
-    "source": "sophos_ops",
-    "title": "The Active Adversary Report: Safety in numbers",
-    "link": "https://www.sophos.com/en-us/blog/the-active-adversary-report-safety-in-numbers",
-    "date": "Tue, 24 Feb 2026 00:00:00 GMT"
+    "source": "aws_news",
+    "title": "AWS Data Exports now provides standardized Amazon Bedrock product metadata",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-data-exports-amazon-bedrock-product-metadata/",
+    "date": "Mon, 20 Jul 2026 18:29:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon GameLift Streams now supports IAM role credentials for stream sessions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-gamelift-streams-iam/",
-    "date": "Fri, 17 Jul 2026 17:29:00 GMT"
+    "title": "Amazon EC2 R8i and R8i-flex instances are now available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r8i-r8i-flex-instances-in-stockholm-zurich-regions/",
+    "date": "Mon, 20 Jul 2026 17:37:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon OpenSearch UI now supports one-click dashboard migration",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-opensearch-ui-one-click-dashboard-migration",
-    "date": "Fri, 17 Jul 2026 17:23:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Amazon SageMaker HyperPod now supports partition-level topology for Slurm orchestrated clusters",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/hyperpod-partition-topology-slurm/",
-    "date": "Fri, 17 Jul 2026 15:16:00 GMT"
+    "title": "Selectively log network activity events by identity in AWS CloudTrail",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-cloudtrail-filter-useridentity-advance-selectors/",
+    "date": "Mon, 20 Jul 2026 17:34:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -91,21 +91,21 @@
   },
   {
     "source": "broadcom_vmware",
-    "title": "The Modern Cloud Paradigm: Bridging the Gap Between Developer Velocity and Control",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/20/the-modern-cloud-paradigm-bridging-the-gap-between-developer-velocity-and-control-with-private-cloud-services/",
-    "date": "Mon, 20 Jul 2026 12:00:00 +0000"
+    "title": "Faster is Still Safer: The Three R’s of Enterprise Security in the Era of AI-Driven Exploits",
+    "link": "https://blogs.vmware.com/tanzu/faster-is-still-safer-the-three-rs-of-enterprise-security-in-the-era-of-ai-driven-exploits/",
+    "date": "Mon, 20 Jul 2026 17:24:53 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "VCF Automation 活用 – 第３部 VCF 9 の「次世代テナント管理」",
-    "link": "https://blogs.vmware.com/vmware-japan/2026/07/vcfa-3.html",
-    "date": "Fri, 17 Jul 2026 08:36:23 +0000"
+    "title": "Simplified Identity Management with Authentik for Holodeck 9.1",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/20/identity-mgmt-for-holodeck/",
+    "date": "Mon, 20 Jul 2026 17:04:39 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Sustainable Intelligence: Singapore’s AI-Driven Future with Green Plan 2030",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/14/sustainable-intelligence-singapores-ai-driven-future-with-green-plan-2030/",
-    "date": "Tue, 14 Jul 2026 23:34:32 +0000"
+    "title": "VMware Tanzu Spring Delivers SLSA L3 Compliant Java Dependencies for Spring Boot 2.7.x, 3.x, and 4.x",
+    "link": "https://blogs.vmware.com/tanzu/vmware-tanzu-spring-delivers-slsa-l3-compliant-java-dependencies-for-spring-boot-2-7-x-3-x-and-4-x/",
+    "date": "Mon, 20 Jul 2026 16:38:53 +0000"
   },
   {
     "source": "veeam_intel",
