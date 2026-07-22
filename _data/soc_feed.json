@@ -73,21 +73,27 @@
   },
   {
     "source": "suse_news",
+    "title": "Pioneering Cyber Resilience: How SUSE Helps Shape the Future of Open Source Security",
+    "link": "https://www.suse.com/c/pioneering-cyber-resilience-how-suse-helps-shape-the-future-of-open-source-security/",
+    "date": "Wed, 22 Jul 2026 03:13:01 +0000"
+  },
+  {
+    "source": "suse_news",
+    "title": "SUSE Linux Enterprise Server 16 is validated for SAP workloads",
+    "link": "https://www.suse.com/c/suse-linux-enterprise-server-16-is-validated-for-sap-workloads/",
+    "date": "Wed, 22 Jul 2026 02:59:32 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Driving Sovereign Digital Transformation: SUSE and Mesiniaga Partner to Advance Cloud-Native Infrastructure in Malaysia",
     "link": "https://www.suse.com/c/msb-suse-partnership/",
     "date": "Thu, 16 Jul 2026 09:53:59 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "Shaking Up the Radio Access Network with SUSE and OCUDU",
-    "link": "https://www.suse.com/c/shaking-up-the-radio-access-network-with-suse-and-ocudu/",
-    "date": "Wed, 15 Jul 2026 16:03:22 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "AI Hardware Shortages: How Enterprises Can Do More With Existing Infrastructure",
-    "link": "https://www.suse.com/c/ai-hardware-shortages-how-enterprises-can-do-more-with-existing-infrastructure/",
-    "date": "Wed, 15 Jul 2026 15:43:09 +0000"
+    "source": "broadcom_vmware",
+    "title": "VCF Automation 活用 – 第6部「App Stack Formation」が実現するガバナンスとスピードの両立",
+    "link": "https://blogs.vmware.com/vmware-japan/2026/07/vcfa-6-2.html",
+    "date": "Wed, 22 Jul 2026 07:57:30 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -100,12 +106,6 @@
     "title": "VCF Automation 活用 – 第５部 アプリ開発者向け「セルフサービス IaaS」 体験",
     "link": "https://blogs.vmware.com/vmware-japan/2026/07/vcfa-5-2.html",
     "date": "Tue, 21 Jul 2026 03:51:56 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "VCF Automation 活用 – 第４部 プライベートクラウドへの「VPC」の必要性とネットワークアーキテクチャ",
-    "link": "https://blogs.vmware.com/vmware-japan/2026/07/vcfa-4.html",
-    "date": "Tue, 21 Jul 2026 02:39:22 +0000"
   },
   {
     "source": "veeam_intel",
