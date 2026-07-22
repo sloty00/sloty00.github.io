@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS Data Exports now provides standardized Amazon Bedrock product metadata",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-data-exports-amazon-bedrock-product-metadata/",
-    "date": "Mon, 20 Jul 2026 18:29:00 GMT"
+    "title": "Amazon EC2 R6in and R6idn instances are now available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r6in-r6idn/",
+    "date": "Tue, 21 Jul 2026 20:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EC2 R8i and R8i-flex instances are now available in additional regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r8i-r8i-flex-instances-in-stockholm-zurich-regions/",
-    "date": "Mon, 20 Jul 2026 17:37:00 GMT"
+    "title": "Amazon EC2 C6in instances are now available in Asia Pacific (Taipei) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c6in/",
+    "date": "Tue, 21 Jul 2026 20:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Selectively log network activity events by identity in AWS CloudTrail",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-cloudtrail-filter-useridentity-advance-selectors/",
-    "date": "Mon, 20 Jul 2026 17:34:00 GMT"
+    "title": "Amazon EC2 M6in and M6idn instances are now available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-m6in-m6idn/",
+    "date": "Tue, 21 Jul 2026 20:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -109,6 +109,12 @@
   },
   {
     "source": "veeam_intel",
+    "title": "IBM Maximo on OpenShift: Backup and Disaster Recovery with Veeam Kasten",
+    "link": "https://www.veeam.com/blog/maximo-openshift-backup-recovery.html",
+    "date": "Tue, 21 Jul 2026 17:25:04 +0000"
+  },
+  {
+    "source": "veeam_intel",
     "title": "What is DSPM? Why It Matters for Cloud Data Security, Compliance, and AI",
     "link": "https://www.veeam.com/blog/what-is-dspm.html",
     "date": "Wed, 15 Jul 2026 22:49:52 +0000"
@@ -118,12 +124,6 @@
     "title": "Veeam Kasten v9.0 and Red Hat: Deeper Integration for the Workloads That Matter Most to You",
     "link": "https://www.veeam.com/blog/kasten-openshift-virtualization-enterprise.html",
     "date": "Wed, 15 Jul 2026 15:00:00 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "How to Detect and Govern Shadow AI in Your Organization",
-    "link": "https://www.veeam.com/blog/detect-govern-shadow-ai.html",
-    "date": "Wed, 15 Jul 2026 14:14:52 +0000"
   },
   {
     "source": "hackerrank",
