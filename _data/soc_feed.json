@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "Both Are Open Source, So Why Would a Bank Choose SUSE Linux Over Red Hat?",
+    "link": "https://www.suse.com/c/both-are-open-source-so-why-would-a-bank-choose-suse-linux-over-red-hat/",
+    "date": "Thu, 23 Jul 2026 07:53:13 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Next-Gen Telco Cloud Performance with AMD EPYC 9005 Series",
     "link": "https://www.suse.com/c/next-gen-telco-cloud-performance-with-amd-epyc/",
     "date": "Wed, 22 Jul 2026 22:00:11 +0000"
@@ -84,10 +90,10 @@
     "date": "Wed, 22 Jul 2026 21:20:23 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "Pioneering Cyber Resilience: How SUSE Helps Shape the Future of Open Source Security",
-    "link": "https://www.suse.com/c/pioneering-cyber-resilience-how-suse-helps-shape-the-future-of-open-source-security/",
-    "date": "Wed, 22 Jul 2026 03:13:01 +0000"
+    "source": "broadcom_vmware",
+    "title": "We Asked an Independent Lab to Time Us. Here’s What They Found.",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/23/we-asked-an-independent-lab-to-time-us-heres-what-they-found/",
+    "date": "Thu, 23 Jul 2026 12:30:33 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -100,12 +106,6 @@
     "title": "VCF Automation 活用 – 第6部「App Stack Formation」が実現するガバナンスとスピードの両立",
     "link": "https://blogs.vmware.com/vmware-japan/2026/07/vcfa-6-2.html",
     "date": "Wed, 22 Jul 2026 07:57:30 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Reserve Session Seats and Build Your Agenda Now",
-    "link": "https://blogs.vmware.com/explore/schedule-your-sessions-now/",
-    "date": "Tue, 21 Jul 2026 12:00:00 +0000"
   },
   {
     "source": "veeam_intel",
