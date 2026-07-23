@@ -1,6 +1,12 @@
 [
   {
     "source": "sophos_threat",
+    "title": "July Patch Tuesday only feels endless",
+    "link": "https://www.sophos.com/en-us/blog/july-patch-tuesday-only-feels-endless",
+    "date": "Tue, 21 Jul 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "SonicWall SMA1000 vulnerabilities in active exploitation",
     "link": "https://www.sophos.com/en-us/blog/sonicwall-sma1000-vulnerabilities-in-active-exploitation",
     "date": "Wed, 15 Jul 2026 00:00:00 GMT"
@@ -10,12 +16,6 @@
     "title": "When AI agents look like attackers: what behavioral telemetry tells us",
     "link": "https://www.sophos.com/en-us/blog/2607_agents_vs_telemetry",
     "date": "Tue, 07 Jul 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "Vect and TeamPCP partner for ransomware campaigns",
-    "link": "https://www.sophos.com/en-us/blog/vect-and-teampcp-partner-for-ransomware-campaigns",
-    "date": "Thu, 02 Jul 2026 00:00:00 GMT"
   },
   {
     "source": "sophos_ops",
@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon EC2 R6in and R6idn instances are now available in additional regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r6in-r6idn/",
-    "date": "Tue, 21 Jul 2026 20:00:00 GMT"
+    "title": "Amazon EC2 C7a instances are now available in the US West (N. California) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c7a-instances-us-west-ncalifornia-region/",
+    "date": "Wed, 22 Jul 2026 21:42:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EC2 C6in instances are now available in Asia Pacific (Taipei) Region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c6in/",
-    "date": "Tue, 21 Jul 2026 20:00:00 GMT"
+    "title": "Amazon EC2 M8a instances now available in the Asia Pacific (Hyderabad) region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-m8a-instances-asia-pacific-hyderabad-region/",
+    "date": "Wed, 22 Jul 2026 20:55:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EC2 M6in and M6idn instances are now available in additional regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-m6in-m6idn/",
-    "date": "Tue, 21 Jul 2026 20:00:00 GMT"
+    "title": "AWS Network Load Balancer now supports Listener Rules for custom traffic routing",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-network-load-balancer-supports-listener-rules/",
+    "date": "Wed, 22 Jul 2026 19:13:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,21 +73,27 @@
   },
   {
     "source": "suse_news",
+    "title": "Next-Gen Telco Cloud Performance with AMD EPYC 9005 Series",
+    "link": "https://www.suse.com/c/next-gen-telco-cloud-performance-with-amd-epyc/",
+    "date": "Wed, 22 Jul 2026 22:00:11 +0000"
+  },
+  {
+    "source": "suse_news",
+    "title": "You Read Them, You Rate Them: SUSE Documentation Survey 2026",
+    "link": "https://www.suse.com/c/you-read-them-you-rate-them-suse-doc-survey-2026/",
+    "date": "Wed, 22 Jul 2026 21:20:23 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Pioneering Cyber Resilience: How SUSE Helps Shape the Future of Open Source Security",
     "link": "https://www.suse.com/c/pioneering-cyber-resilience-how-suse-helps-shape-the-future-of-open-source-security/",
     "date": "Wed, 22 Jul 2026 03:13:01 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "SUSE Linux Enterprise Server 16 is validated for SAP workloads",
-    "link": "https://www.suse.com/c/suse-linux-enterprise-server-16-is-validated-for-sap-workloads/",
-    "date": "Wed, 22 Jul 2026 02:59:32 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "Driving Sovereign Digital Transformation: SUSE and Mesiniaga Partner to Advance Cloud-Native Infrastructure in Malaysia",
-    "link": "https://www.suse.com/c/msb-suse-partnership/",
-    "date": "Thu, 16 Jul 2026 09:53:59 +0000"
+    "source": "broadcom_vmware",
+    "title": "Navigating VMware Explore 2026: Key Sessions for Avi",
+    "link": "https://blogs.vmware.com/load-balancing/2026/07/22/navigating-vmware-explore-2026-key-sessions-for-avi/",
+    "date": "Wed, 22 Jul 2026 15:17:39 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -100,12 +106,6 @@
     "title": "Reserve Session Seats and Build Your Agenda Now",
     "link": "https://blogs.vmware.com/explore/schedule-your-sessions-now/",
     "date": "Tue, 21 Jul 2026 12:00:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "VCF Automation 活用 – 第５部 アプリ開発者向け「セルフサービス IaaS」 体験",
-    "link": "https://blogs.vmware.com/vmware-japan/2026/07/vcfa-5-2.html",
-    "date": "Tue, 21 Jul 2026 03:51:56 +0000"
   },
   {
     "source": "veeam_intel",
