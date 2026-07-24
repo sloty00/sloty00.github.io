@@ -19,6 +19,12 @@
   },
   {
     "source": "sophos_ops",
+    "title": "When the attacker is an AI agent",
+    "link": "https://www.sophos.com/en-us/blog/when-the-attacker-is-an-ai-agent",
+    "date": "Thu, 23 Jul 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_ops",
     "title": "Sophos Trusted Code",
     "link": "https://www.sophos.com/en-us/blog/sophos-trusted-code",
     "date": "Mon, 20 Jul 2026 00:00:00 GMT"
@@ -30,28 +36,22 @@
     "date": "Wed, 22 Apr 2026 00:00:00 GMT"
   },
   {
-    "source": "sophos_ops",
-    "title": "Cyber Advisory: Increased Cyber Risk Amid U.S.–Israel–Iran Escalation",
-    "link": "https://www.sophos.com/en-us/blog/cyber-advisory-increased-cyber-risk-amid-u-s-israel-iran-escalation",
-    "date": "Sun, 01 Mar 2026 00:00:00 GMT"
+    "source": "aws_news",
+    "title": "Amazon ECS Service Connect now supports Zone-Aware routing",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/ecs-service-connect-zone-aware/",
+    "date": "Thu, 23 Jul 2026 23:46:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EC2 C7a instances are now available in the US West (N. California) Region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c7a-instances-us-west-ncalifornia-region/",
-    "date": "Wed, 22 Jul 2026 21:42:00 GMT"
+    "title": "AWS now supports automatic credit memo application preferences",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/credit-memo-applications/",
+    "date": "Thu, 23 Jul 2026 18:16:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EC2 M8a instances now available in the Asia Pacific (Hyderabad) region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-m8a-instances-asia-pacific-hyderabad-region/",
-    "date": "Wed, 22 Jul 2026 20:55:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "AWS Network Load Balancer now supports Listener Rules for custom traffic routing",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-network-load-balancer-supports-listener-rules/",
-    "date": "Wed, 22 Jul 2026 19:13:00 GMT"
+    "title": "Amazon RDS for MySQL supports MySQL 9.7 in Amazon RDS Database Preview Environment",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-mysql-long-term-9-7-rds-database-preview/",
+    "date": "Thu, 23 Jul 2026 18:05:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -91,6 +91,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "VCF Breakroom Chats | Episode 91 Spotting Infra Issues Instantly with VCF 9.1",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/23/vcf-breakroom-chats-episode-91-spotting-infra-issues-instantly-with-vcf-9-1/",
+    "date": "Thu, 23 Jul 2026 15:00:00 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "We Asked an Independent Lab to Time Us. Here’s What They Found.",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/07/23/we-asked-an-independent-lab-to-time-us-heres-what-they-found/",
     "date": "Thu, 23 Jul 2026 12:30:33 +0000"
@@ -100,12 +106,6 @@
     "title": "Navigating VMware Explore 2026: Key Sessions for Avi",
     "link": "https://blogs.vmware.com/load-balancing/2026/07/22/navigating-vmware-explore-2026-key-sessions-for-avi/",
     "date": "Wed, 22 Jul 2026 15:17:39 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "VCF Automation 活用 – 第6部「App Stack Formation」が実現するガバナンスとスピードの両立",
-    "link": "https://blogs.vmware.com/vmware-japan/2026/07/vcfa-6-2.html",
-    "date": "Wed, 22 Jul 2026 07:57:30 +0000"
   },
   {
     "source": "veeam_intel",
