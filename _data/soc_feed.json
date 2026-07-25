@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon ECS Service Connect now supports Zone-Aware routing",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/ecs-service-connect-zone-aware/",
-    "date": "Thu, 23 Jul 2026 23:46:00 GMT"
+    "title": "Amazon Connect now supports audio optimization for Azure Virtual Desktop and Windows 365 Cloud PC",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect/",
+    "date": "Fri, 24 Jul 2026 23:11:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS now supports automatic credit memo application preferences",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/credit-memo-applications/",
-    "date": "Thu, 23 Jul 2026 18:16:00 GMT"
+    "title": "Amazon MWAA now supports Apache Airflow version 2.11.2",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-mwaa-now-supports-apache-airflow-version-2-11-2",
+    "date": "Fri, 24 Jul 2026 21:57:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon RDS for MySQL supports MySQL 9.7 in Amazon RDS Database Preview Environment",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-mysql-long-term-9-7-rds-database-preview/",
-    "date": "Thu, 23 Jul 2026 18:05:00 GMT"
+    "title": "Amazon EC2 Dedicated Hosts now support host resource groups without self-managed licenses",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-dedicated-hosts-hrg/",
+    "date": "Fri, 24 Jul 2026 21:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -91,6 +91,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "The Heartbeat of Hands-on Labs at Explore | Command Center Wall",
+    "link": "https://blogs.vmware.com/hol/2026/07/the-heartbeat-of-hands-on-labs-at-explore-command-center-wall.html",
+    "date": "Fri, 24 Jul 2026 17:50:12 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "VCF Breakroom Chats | Episode 91 Spotting Infra Issues Instantly with VCF 9.1",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/07/23/vcf-breakroom-chats-episode-91-spotting-infra-issues-instantly-with-vcf-9-1/",
     "date": "Thu, 23 Jul 2026 15:00:00 +0000"
@@ -100,12 +106,6 @@
     "title": "We Asked an Independent Lab to Time Us. Here’s What They Found.",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/07/23/we-asked-an-independent-lab-to-time-us-heres-what-they-found/",
     "date": "Thu, 23 Jul 2026 12:30:33 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Navigating VMware Explore 2026: Key Sessions for Avi",
-    "link": "https://blogs.vmware.com/load-balancing/2026/07/22/navigating-vmware-explore-2026-key-sessions-for-avi/",
-    "date": "Wed, 22 Jul 2026 15:17:39 +0000"
   },
   {
     "source": "veeam_intel",
@@ -127,20 +127,20 @@
   },
   {
     "source": "hackerrank",
-    "title": "How do AI interviewers work?",
-    "link": "https://www.hackerrank.com/blog/how-do-ai-interviewers-work/",
-    "date": "Fri, 17 Jul 2026 16:06:34 +0000"
+    "title": "The Best AI Interviewers in 2026: How to Evaluate Them",
+    "link": "https://www.hackerrank.com/blog/the-best-ai-interviewers-in-2026-how-to-evaluate-them/",
+    "date": "Fri, 24 Jul 2026 18:08:08 +0000"
   },
   {
     "source": "hackerrank",
-    "title": "AI Interviewer for Technical Screening: A Practical Guide for Engineering Teams",
-    "link": "https://www.hackerrank.com/blog/ai-interviewer-for-technical-screening-a-practical-guide-for-engineering-teams/",
-    "date": "Fri, 17 Jul 2026 16:03:45 +0000"
+    "title": "Getting better at Orchestrate",
+    "link": "https://www.hackerrank.com/blog/getting-better-at-orchestrate/",
+    "date": "Fri, 24 Jul 2026 17:07:54 +0000"
   },
   {
     "source": "hackerrank",
-    "title": "9 Best Practices for Implementing an AI Interviewer in Your Hiring Process",
-    "link": "https://www.hackerrank.com/blog/9-best-practices-for-implementing-an-ai-interviewer-in-your-hiring-process/",
-    "date": "Fri, 17 Jul 2026 15:46:26 +0000"
+    "title": "How HackerRank’s Chakra Scores an Interview",
+    "link": "https://www.hackerrank.com/blog/how-chakra-scores-an-interview/",
+    "date": "Fri, 24 Jul 2026 17:05:56 +0000"
   }
 ]
