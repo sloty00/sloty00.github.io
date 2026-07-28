@@ -1,6 +1,12 @@
 [
   {
     "source": "sophos_threat",
+    "title": "2607-secai",
+    "link": "https://www.sophos.com/en-us/blog/2607-secai",
+    "date": "Mon, 27 Jul 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "July Patch Tuesday only feels endless",
     "link": "https://www.sophos.com/en-us/blog/july-patch-tuesday-only-feels-endless",
     "date": "Tue, 21 Jul 2026 00:00:00 GMT"
@@ -10,12 +16,6 @@
     "title": "SonicWall SMA1000 vulnerabilities in active exploitation",
     "link": "https://www.sophos.com/en-us/blog/sonicwall-sma1000-vulnerabilities-in-active-exploitation",
     "date": "Wed, 15 Jul 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "When AI agents look like attackers: what behavioral telemetry tells us",
-    "link": "https://www.sophos.com/en-us/blog/2607_agents_vs_telemetry",
-    "date": "Tue, 07 Jul 2026 00:00:00 GMT"
   },
   {
     "source": "sophos_ops",
@@ -37,21 +37,27 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon Connect now supports audio optimization for Azure Virtual Desktop and Windows 365 Cloud PC",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect/",
-    "date": "Fri, 24 Jul 2026 23:11:00 GMT"
+    "title": "Amazon Neptune now supports tag-based access control for IAM",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-neptune-tbac/",
+    "date": "Mon, 27 Jul 2026 22:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon MWAA now supports Apache Airflow version 2.11.2",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-mwaa-now-supports-apache-airflow-version-2-11-2",
-    "date": "Fri, 24 Jul 2026 21:57:00 GMT"
+    "title": "AWS Glue Data Quality now supports anomaly detection and writing results to the AWS Glue Data Catalog",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-glue-data-quality-catalog-anomaly-detection-write-results",
+    "date": "Mon, 27 Jul 2026 20:45:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EC2 Dedicated Hosts now support host resource groups without self-managed licenses",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-dedicated-hosts-hrg/",
-    "date": "Fri, 24 Jul 2026 21:00:00 GMT"
+    "title": "AWS Glue Data Quality now supports distribution statistics for data profiling",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-glue-data-quality-distribution-profiling",
+    "date": "Mon, 27 Jul 2026 20:23:00 GMT"
+  },
+  {
+    "source": "gcp_cloud",
+    "title": "NOAA and Google Cloud collaborate to advance weather forecasting.",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/noaa-google-cloud-weather-forecasting/",
+    "date": "Mon, 27 Jul 2026 17:00:00 +0000"
   },
   {
     "source": "gcp_cloud",
@@ -64,12 +70,6 @@
     "title": "We're rolling out AlphaEvolve widely to solve Google Cloud customers' hardest problems.",
     "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-on-cloud/",
     "date": "Thu, 09 Jul 2026 16:00:00 +0000"
-  },
-  {
-    "source": "gcp_cloud",
-    "title": "Gemini can now take notes in Google Meet for Google AI Pro and Ultra subscribers.",
-    "link": "https://blog.google/products-and-platforms/products/workspace/take-notes-for-me/",
-    "date": "Mon, 29 Jun 2026 16:00:00 +0000"
   },
   {
     "source": "suse_news",
@@ -91,21 +91,21 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Modernizing Infrastructure: VMware Aria Automation 8.18.1 to VMware Cloud Foundation Automation 9.1 Upgrade Technical Deep Dive",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/27/modernizing-infrastructure-vmware-aria-automation-8-18-1-to-vmware-cloud-foundation-automation-9-1-upgrade-technical-deep-dive/",
+    "date": "Mon, 27 Jul 2026 17:10:36 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "Modernizing Infrastructure: A Deep Dive into the VMware Cloud foundation Automation 9.0 to 9.1 Upgrade Precheck and Execution Stages",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/27/modernizing-infrastructure-a-deep-dive-into-the-vmware-cloud-foundation-automation-9-0-to-9-1-upgrade-precheck-and-execution-stages/",
+    "date": "Mon, 27 Jul 2026 17:09:49 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "The Heartbeat of Hands-on Labs at Explore | Command Center Wall",
     "link": "https://blogs.vmware.com/hol/2026/07/the-heartbeat-of-hands-on-labs-at-explore-command-center-wall.html",
     "date": "Fri, 24 Jul 2026 17:50:12 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "VCF Breakroom Chats | Episode 91 Spotting Infra Issues Instantly with VCF 9.1",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/23/vcf-breakroom-chats-episode-91-spotting-infra-issues-instantly-with-vcf-9-1/",
-    "date": "Thu, 23 Jul 2026 15:00:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "We Asked an Independent Lab to Time Us. Here’s What They Found.",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/23/we-asked-an-independent-lab-to-time-us-heres-what-they-found/",
-    "date": "Thu, 23 Jul 2026 12:30:33 +0000"
   },
   {
     "source": "veeam_intel",
