@@ -1,6 +1,12 @@
 [
   {
     "source": "sophos_threat",
+    "title": "Chaos in Teams vishing",
+    "link": "https://www.sophos.com/en-us/blog/chaos-in-teams-vishing",
+    "date": "Tue, 28 Jul 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "2607-secai",
     "link": "https://www.sophos.com/en-us/blog/2607-secai",
     "date": "Mon, 27 Jul 2026 00:00:00 GMT"
@@ -10,12 +16,6 @@
     "title": "July Patch Tuesday only feels endless",
     "link": "https://www.sophos.com/en-us/blog/july-patch-tuesday-only-feels-endless",
     "date": "Tue, 21 Jul 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "SonicWall SMA1000 vulnerabilities in active exploitation",
-    "link": "https://www.sophos.com/en-us/blog/sonicwall-sma1000-vulnerabilities-in-active-exploitation",
-    "date": "Wed, 15 Jul 2026 00:00:00 GMT"
   },
   {
     "source": "sophos_ops",
@@ -91,6 +91,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Memory Tiering for VMs and VKS: Deployment Flexibility, Smarter Consolidation, Intelligent Resource Consumption",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/28/memory-tiering-for-vms-and-vks-deployment-flexibility-smarter-consolidation-intelligent-resource-consumption/",
+    "date": "Tue, 28 Jul 2026 11:00:00 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Modernizing Infrastructure: VMware Aria Automation 8.18.1 to VMware Cloud Foundation Automation 9.1 Upgrade Technical Deep Dive",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/07/27/modernizing-infrastructure-vmware-aria-automation-8-18-1-to-vmware-cloud-foundation-automation-9-1-upgrade-technical-deep-dive/",
     "date": "Mon, 27 Jul 2026 17:10:36 +0000"
@@ -100,12 +106,6 @@
     "title": "Modernizing Infrastructure: A Deep Dive into the VMware Cloud foundation Automation 9.0 to 9.1 Upgrade Precheck and Execution Stages",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/07/27/modernizing-infrastructure-a-deep-dive-into-the-vmware-cloud-foundation-automation-9-0-to-9-1-upgrade-precheck-and-execution-stages/",
     "date": "Mon, 27 Jul 2026 17:09:49 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "The Heartbeat of Hands-on Labs at Explore | Command Center Wall",
-    "link": "https://blogs.vmware.com/hol/2026/07/the-heartbeat-of-hands-on-labs-at-explore-command-center-wall.html",
-    "date": "Fri, 24 Jul 2026 17:50:12 +0000"
   },
   {
     "source": "veeam_intel",
