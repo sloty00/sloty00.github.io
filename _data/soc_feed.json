@@ -43,14 +43,14 @@
   },
   {
     "source": "aws_news",
-    "title": "Second-generation AWS Outposts racks now supported in the AWS Asia Pacific (Mumbai) Region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-outposts-asia-pacific-mumbai/",
+    "title": "AWS Console Home now supports the Cost and Usage widget in the AWS European Sovereign Cloud (Germany) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-console-home-cost-and-usage-eu-sovereign-cloud",
     "date": "Tue, 28 Jul 2026 16:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Console Home now supports the Cost and Usage widget in the AWS European Sovereign Cloud (Germany) Region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-console-home-cost-and-usage-eu-sovereign-cloud",
+    "title": "Second-generation AWS Outposts racks now supported in the AWS Asia Pacific (Mumbai) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-outposts-asia-pacific-mumbai/",
     "date": "Tue, 28 Jul 2026 16:00:00 GMT"
   },
   {
@@ -73,39 +73,39 @@
   },
   {
     "source": "suse_news",
+    "title": "Secure and Simple AI Deployment with SUSE and Supermicro",
+    "link": "https://www.suse.com/c/secure-and-simple-ai-deployment-with-suse-and-supermicro/",
+    "date": "Tue, 28 Jul 2026 23:04:14 +0000"
+  },
+  {
+    "source": "suse_news",
+    "title": "Early Bird Registration Is Open for SUSECON 2027 in Barcelona",
+    "link": "https://www.suse.com/c/early-bird-registration-is-open-for-susecon-2027-in-barcelona/",
+    "date": "Tue, 28 Jul 2026 22:37:45 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Both Are Open Source, So Why Would a Bank Choose SUSE Linux Over Red Hat?",
     "link": "https://www.suse.com/c/both-are-open-source-so-why-would-a-bank-choose-suse-linux-over-red-hat/",
     "date": "Thu, 23 Jul 2026 07:53:13 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "Next-Gen Telco Cloud Performance with AMD EPYC 9005 Series",
-    "link": "https://www.suse.com/c/next-gen-telco-cloud-performance-with-amd-epyc/",
-    "date": "Wed, 22 Jul 2026 22:00:11 +0000"
+    "source": "broadcom_vmware",
+    "title": "Sneak Peek: Check Out This Year’s Featured Sessions",
+    "link": "https://blogs.vmware.com/explore/featured-sessions/",
+    "date": "Wed, 29 Jul 2026 12:00:00 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "You Read Them, You Rate Them: SUSE Documentation Survey 2026",
-    "link": "https://www.suse.com/c/you-read-them-you-rate-them-suse-doc-survey-2026/",
-    "date": "Wed, 22 Jul 2026 21:20:23 +0000"
+    "source": "broadcom_vmware",
+    "title": "VCF ネットワークと Infoblox とのシームレスな IPAM (DDI) 連携",
+    "link": "https://blogs.vmware.com/vmware-japan/2026/07/vcf-infoblox.html",
+    "date": "Wed, 29 Jul 2026 06:44:18 +0000"
   },
   {
     "source": "broadcom_vmware",
     "title": "The Odyssey Tournament is back at VMware Explore 2026",
     "link": "https://blogs.vmware.com/hol/2026/07/the-odyssey-tournament-is-back-at-vmware-explore-2026.html",
     "date": "Tue, 28 Jul 2026 20:30:30 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Introducing the VCF Inspector Fling: A Standalone Diagnostic and Health Tool for VMware Cloud Foundation 9.1",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/28/vcf-inspector-fling/",
-    "date": "Tue, 28 Jul 2026 19:19:04 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Modernizing Infrastructure: VMware Cloud Foundation 9.0.x to 9.1 Upgrade Guide",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/28/modernizing-infrastructure-vmware-cloud-foundation-9-0-x-to-9-1-upgrade-guide/",
-    "date": "Tue, 28 Jul 2026 18:20:07 +0000"
   },
   {
     "source": "veeam_intel",
