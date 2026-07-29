@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon Neptune now supports tag-based access control for IAM",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-neptune-tbac/",
-    "date": "Mon, 27 Jul 2026 22:00:00 GMT"
+    "title": "Amazon EKS Provisioned Control Plane now delivers faster pod autoscaling",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-provisioned-control/",
+    "date": "Tue, 28 Jul 2026 17:18:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Glue Data Quality now supports anomaly detection and writing results to the AWS Glue Data Catalog",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-glue-data-quality-catalog-anomaly-detection-write-results",
-    "date": "Mon, 27 Jul 2026 20:45:00 GMT"
+    "title": "Second-generation AWS Outposts racks now supported in the AWS Asia Pacific (Mumbai) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-outposts-asia-pacific-mumbai/",
+    "date": "Tue, 28 Jul 2026 16:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Glue Data Quality now supports distribution statistics for data profiling",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-glue-data-quality-distribution-profiling",
-    "date": "Mon, 27 Jul 2026 20:23:00 GMT"
+    "title": "AWS Console Home now supports the Cost and Usage widget in the AWS European Sovereign Cloud (Germany) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-console-home-cost-and-usage-eu-sovereign-cloud",
+    "date": "Tue, 28 Jul 2026 16:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -91,21 +91,21 @@
   },
   {
     "source": "broadcom_vmware",
-    "title": "Memory Tiering for VMs and VKS: Deployment Flexibility, Smarter Consolidation, Intelligent Resource Consumption",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/28/memory-tiering-for-vms-and-vks-deployment-flexibility-smarter-consolidation-intelligent-resource-consumption/",
-    "date": "Tue, 28 Jul 2026 11:00:00 +0000"
+    "title": "The Odyssey Tournament is back at VMware Explore 2026",
+    "link": "https://blogs.vmware.com/hol/2026/07/the-odyssey-tournament-is-back-at-vmware-explore-2026.html",
+    "date": "Tue, 28 Jul 2026 20:30:30 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Modernizing Infrastructure: VMware Aria Automation 8.18.1 to VMware Cloud Foundation Automation 9.1 Upgrade Technical Deep Dive",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/27/modernizing-infrastructure-vmware-aria-automation-8-18-1-to-vmware-cloud-foundation-automation-9-1-upgrade-technical-deep-dive/",
-    "date": "Mon, 27 Jul 2026 17:10:36 +0000"
+    "title": "Introducing the VCF Inspector Fling: A Standalone Diagnostic and Health Tool for VMware Cloud Foundation 9.1",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/28/vcf-inspector-fling/",
+    "date": "Tue, 28 Jul 2026 19:19:04 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Modernizing Infrastructure: A Deep Dive into the VMware Cloud foundation Automation 9.0 to 9.1 Upgrade Precheck and Execution Stages",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/27/modernizing-infrastructure-a-deep-dive-into-the-vmware-cloud-foundation-automation-9-0-to-9-1-upgrade-precheck-and-execution-stages/",
-    "date": "Mon, 27 Jul 2026 17:09:49 +0000"
+    "title": "Modernizing Infrastructure: VMware Cloud Foundation 9.0.x to 9.1 Upgrade Guide",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/28/modernizing-infrastructure-vmware-cloud-foundation-9-0-x-to-9-1-upgrade-guide/",
+    "date": "Tue, 28 Jul 2026 18:20:07 +0000"
   },
   {
     "source": "veeam_intel",
