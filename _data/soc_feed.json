@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon EKS Provisioned Control Plane now delivers faster pod autoscaling",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-provisioned-control/",
-    "date": "Tue, 28 Jul 2026 17:18:00 GMT"
+    "title": "Amazon EC2 Auto Scaling now supports Instance Refresh in CloudFormation",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-auto-scaling-instance-refresh-cloudformation",
+    "date": "Wed, 29 Jul 2026 21:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Console Home now supports the Cost and Usage widget in the AWS European Sovereign Cloud (Germany) Region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-console-home-cost-and-usage-eu-sovereign-cloud",
-    "date": "Tue, 28 Jul 2026 16:00:00 GMT"
+    "title": "Amazon Redshift Data API announces long polling, session management, and flexible batch execution",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-data-api-longpolling-listsession-flexiblebatchexecute/",
+    "date": "Wed, 29 Jul 2026 20:45:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Second-generation AWS Outposts racks now supported in the AWS Asia Pacific (Mumbai) Region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-outposts-asia-pacific-mumbai/",
-    "date": "Tue, 28 Jul 2026 16:00:00 GMT"
+    "title": "AWS Glue announces VPC support, filter pushdown, and partition support for the REST API connector",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-glue-rest-connector-filtering-partitioning-vpc",
+    "date": "Wed, 29 Jul 2026 20:18:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -91,56 +91,56 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Planning for VMware Explore 2026? Here’s What to Register For, Learn, and Earn in Las Vegas",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/29/vcf-at-vmware-explore-2026-what-to-see-do-learn/",
+    "date": "Wed, 29 Jul 2026 14:15:00 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "From VI Admin to Private Cloud Expert? Why VCAP-VCF Is Your Next Move",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/29/from-vi-admin-to-private-cloud-expert-why-vcap-vcf-is-your-next-move/",
+    "date": "Wed, 29 Jul 2026 14:00:00 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Sneak Peek: Check Out This Year’s Featured Sessions",
     "link": "https://blogs.vmware.com/explore/featured-sessions/",
     "date": "Wed, 29 Jul 2026 12:00:00 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "VCF ネットワークと Infoblox とのシームレスな IPAM (DDI) 連携",
-    "link": "https://blogs.vmware.com/vmware-japan/2026/07/vcf-infoblox.html",
-    "date": "Wed, 29 Jul 2026 06:44:18 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "The Odyssey Tournament is back at VMware Explore 2026",
-    "link": "https://blogs.vmware.com/hol/2026/07/the-odyssey-tournament-is-back-at-vmware-explore-2026.html",
-    "date": "Tue, 28 Jul 2026 20:30:30 +0000"
+    "source": "veeam_intel",
+    "title": "Veeam Data Platform v13.1: Identity Resilience, Cyber Resilience, and AI That Improves Day 2 Operations",
+    "link": "https://www.veeam.com/blog/veeam-data-platform-v13-1-identity-cyber-ai.html",
+    "date": "Thu, 30 Jul 2026 00:05:00 +0000"
   },
   {
     "source": "veeam_intel",
-    "title": "IBM Maximo on OpenShift: Backup and Disaster Recovery with Veeam Kasten",
-    "link": "https://www.veeam.com/blog/maximo-openshift-backup-recovery.html",
-    "date": "Tue, 21 Jul 2026 17:25:04 +0000"
+    "title": "Your Premium Storage Has Better Things to Do: Introducing Veeam Vault Archive",
+    "link": "https://www.veeam.com/blog/veeam-vault-archive.html",
+    "date": "Thu, 30 Jul 2026 00:00:00 +0000"
   },
   {
     "source": "veeam_intel",
-    "title": "What is DSPM? Why It Matters for Cloud Data Security, Compliance, and AI",
-    "link": "https://www.veeam.com/blog/what-is-dspm.html",
-    "date": "Wed, 15 Jul 2026 22:49:52 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Veeam Kasten v9.0 and Red Hat: Deeper Integration for the Workloads That Matter Most to You",
-    "link": "https://www.veeam.com/blog/kasten-openshift-virtualization-enterprise.html",
-    "date": "Wed, 15 Jul 2026 15:00:00 +0000"
+    "title": "Adverse Cyber Extortion Outcomes Happen More Often Than Victims Are Told",
+    "link": "https://www.veeam.com/blog/cyber-extortion-payment-trends-q2-2026.html",
+    "date": "Thu, 30 Jul 2026 00:00:00 +0000"
   },
   {
     "source": "hackerrank",
-    "title": "The Best AI Interviewers in 2026: How to Evaluate Them",
-    "link": "https://www.hackerrank.com/blog/the-best-ai-interviewers-in-2026-how-to-evaluate-them/",
-    "date": "Fri, 24 Jul 2026 18:08:08 +0000"
+    "title": "How HackerRank Is Rebuilding Developer Hiring for the Agentic Era",
+    "link": "https://www.hackerrank.com/blog/how-hackerrank-is-rebuilding-developer-hiring-for-the-agentic-era/",
+    "date": "Wed, 29 Jul 2026 19:14:36 +0000"
   },
   {
     "source": "hackerrank",
-    "title": "Getting better at Orchestrate",
-    "link": "https://www.hackerrank.com/blog/getting-better-at-orchestrate/",
-    "date": "Fri, 24 Jul 2026 17:07:54 +0000"
+    "title": "How to Interview Engineers Who Use AI Coding Assistants",
+    "link": "https://www.hackerrank.com/blog/how-to-interview-engineers-who-use-ai-coding-assistants/",
+    "date": "Wed, 29 Jul 2026 18:54:55 +0000"
   },
   {
     "source": "hackerrank",
-    "title": "How HackerRank’s Chakra Scores an Interview",
-    "link": "https://www.hackerrank.com/blog/how-chakra-scores-an-interview/",
-    "date": "Fri, 24 Jul 2026 17:05:56 +0000"
+    "title": "How to Test AI Fluency in Developer Candidates",
+    "link": "https://www.hackerrank.com/blog/how-to-test-ai-fluency-in-developer-candidates/",
+    "date": "Wed, 29 Jul 2026 18:52:47 +0000"
   }
 ]
