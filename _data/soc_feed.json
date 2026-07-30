@@ -91,6 +91,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "[TAM Blog] VMware Cloud Foundation® Automation が支えるプライベートクラウドの世界",
+    "link": "https://blogs.vmware.com/vmware-japan/2026/07/vcf-auto.html",
+    "date": "Thu, 30 Jul 2026 04:17:15 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Planning for VMware Explore 2026? Here’s What to Register For, Learn, and Earn in Las Vegas",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/07/29/vcf-at-vmware-explore-2026-what-to-see-do-learn/",
     "date": "Wed, 29 Jul 2026 14:15:00 +0000"
@@ -100,12 +106,6 @@
     "title": "From VI Admin to Private Cloud Expert? Why VCAP-VCF Is Your Next Move",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/07/29/from-vi-admin-to-private-cloud-expert-why-vcap-vcf-is-your-next-move/",
     "date": "Wed, 29 Jul 2026 14:00:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Sneak Peek: Check Out This Year’s Featured Sessions",
-    "link": "https://blogs.vmware.com/explore/featured-sessions/",
-    "date": "Wed, 29 Jul 2026 12:00:00 +0000"
   },
   {
     "source": "veeam_intel",
