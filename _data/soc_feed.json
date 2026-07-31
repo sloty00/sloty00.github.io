@@ -37,6 +37,12 @@
   },
   {
     "source": "aws_news",
+    "title": "AWS CodeDeploy now available in five additional AWS regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-codedeploy-five-additional-regions",
+    "date": "Fri, 31 Jul 2026 10:54:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "Amazon SageMaker Unified Studio brings richer Git version control to all project tools",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-git/",
     "date": "Thu, 30 Jul 2026 22:37:00 GMT"
@@ -46,12 +52,6 @@
     "title": "AWS Direct Connect now supports BGP route visibility on Virtual Interfaces",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-direct-connect-bgp-visibility/",
     "date": "Thu, 30 Jul 2026 20:21:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Amazon Redshift RG large and 12xlarge instances now available on the trailing track",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-rg-large-12xlarge-trailing-track",
-    "date": "Thu, 30 Jul 2026 20:02:00 GMT"
   },
   {
     "source": "gcp_cloud",
