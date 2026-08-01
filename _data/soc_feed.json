@@ -19,6 +19,12 @@
   },
   {
     "source": "sophos_ops",
+    "title": "When AI doesn’t know the target is real",
+    "link": "https://www.sophos.com/en-us/blog/when-ai-doesnt-know-the-target-is-real",
+    "date": "Fri, 31 Jul 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_ops",
     "title": "When the attacker is an AI agent",
     "link": "https://www.sophos.com/en-us/blog/when-the-attacker-is-an-ai-agent",
     "date": "Thu, 23 Jul 2026 00:00:00 GMT"
@@ -30,28 +36,22 @@
     "date": "Mon, 20 Jul 2026 00:00:00 GMT"
   },
   {
-    "source": "sophos_ops",
-    "title": "Strengthening authentication with passkeys: A CISO playbook",
-    "link": "https://www.sophos.com/en-us/blog/strengthening-authentication-with-passkeys-a-ciso-playbook",
-    "date": "Wed, 22 Apr 2026 00:00:00 GMT"
+    "source": "aws_news",
+    "title": "Amazon Aurora DSQL adds multi-Region cluster support in four more Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-aurora-dsql-adds-multi-region-clusters-four-more-regions/",
+    "date": "Fri, 31 Jul 2026 18:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS CodeDeploy now available in five additional AWS regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-codedeploy-five-additional-regions",
-    "date": "Fri, 31 Jul 2026 10:54:00 GMT"
+    "title": "Amazon RDS for Oracle now offers Reserved Instances for R8i and M8i instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-oracle-r8i-m8i/",
+    "date": "Fri, 31 Jul 2026 15:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon SageMaker Unified Studio brings richer Git version control to all project tools",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-git/",
-    "date": "Thu, 30 Jul 2026 22:37:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "AWS Direct Connect now supports BGP route visibility on Virtual Interfaces",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-direct-connect-bgp-visibility/",
-    "date": "Thu, 30 Jul 2026 20:21:00 GMT"
+    "title": "AWS Lambda now supports Java 8, 11, and 17 on Amazon Linux 2023",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-java-amazon-linux/",
+    "date": "Fri, 31 Jul 2026 14:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -91,21 +91,21 @@
   },
   {
     "source": "broadcom_vmware",
-    "title": "[TAM Blog] VMware Cloud Foundation® Automation が支えるプライベートクラウドの世界",
-    "link": "https://blogs.vmware.com/vmware-japan/2026/07/vcf-auto.html",
-    "date": "Thu, 30 Jul 2026 04:17:15 +0000"
+    "title": "Deploying NVIDIA Run:ai on VMware Cloud Foundation",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/31/deploying-nvidia-runai-on-vmware-cloud-foundation/",
+    "date": "Fri, 31 Jul 2026 18:52:22 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Planning for VMware Explore 2026? Here’s What to Register For, Learn, and Earn in Las Vegas",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/29/vcf-at-vmware-explore-2026-what-to-see-do-learn/",
-    "date": "Wed, 29 Jul 2026 14:15:00 +0000"
+    "title": "Split or Stay Whole? Disaggregated vs. Monolithic LLM Serving on VMware Cloud Foundation",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/31/split-or-stay-whole-disaggregated-vs-monolithic-llm-serving-on-vmware-cloud-foundation/",
+    "date": "Fri, 31 Jul 2026 18:49:22 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "From VI Admin to Private Cloud Expert? Why VCAP-VCF Is Your Next Move",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/29/from-vi-admin-to-private-cloud-expert-why-vcap-vcf-is-your-next-move/",
-    "date": "Wed, 29 Jul 2026 14:00:00 +0000"
+    "title": "Meet MTAT: Your Zero-Friction Path to Memory Tiering in VMware Cloud Foundation 9",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/31/meet-mtat-your-zero-friction-path-to-memory-tiering-in-vmware-cloud-foundation-9-0/",
+    "date": "Fri, 31 Jul 2026 14:59:56 +0000"
   },
   {
     "source": "veeam_intel",
