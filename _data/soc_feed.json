@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "What Is Agentic AI for Kubernetes? A Platform Engineer’s Guide",
+    "link": "https://www.suse.com/c/what-is-agentic-ai-for-kubernetes-a-platform-engineers-guide/",
+    "date": "Sat, 01 Aug 2026 06:08:57 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Secure and Simple AI Deployment with SUSE and Supermicro",
     "link": "https://www.suse.com/c/secure-and-simple-ai-deployment-with-suse-and-supermicro/",
     "date": "Tue, 28 Jul 2026 23:04:14 +0000"
@@ -82,12 +88,6 @@
     "title": "Early Bird Registration Is Open for SUSECON 2027 in Barcelona",
     "link": "https://www.suse.com/c/early-bird-registration-is-open-for-susecon-2027-in-barcelona/",
     "date": "Tue, 28 Jul 2026 22:37:45 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "Both Are Open Source, So Why Would a Bank Choose SUSE Linux Over Red Hat?",
-    "link": "https://www.suse.com/c/both-are-open-source-so-why-would-a-bank-choose-suse-linux-over-red-hat/",
-    "date": "Thu, 23 Jul 2026 07:53:13 +0000"
   },
   {
     "source": "broadcom_vmware",
