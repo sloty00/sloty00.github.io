@@ -49,8 +49,8 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS Lambda now supports Java 8, 11, and 17 on Amazon Linux 2023",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-java-amazon-linux/",
+    "title": "Amazon Location Service adds Search Nearby support for GrabMaps in Southeast Asia",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-location-service-search-nearby-grabmaps",
     "date": "Fri, 31 Jul 2026 14:00:00 GMT"
   },
   {
@@ -91,21 +91,21 @@
   },
   {
     "source": "broadcom_vmware",
-    "title": "Deploying NVIDIA Run:ai on VMware Cloud Foundation",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/31/deploying-nvidia-runai-on-vmware-cloud-foundation/",
-    "date": "Fri, 31 Jul 2026 18:52:22 +0000"
+    "title": "Your First Line of Defense: How VMware vSphere Foundation 9.1 Addresses AI-Era Security Threats",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/03/your-first-line-of-defense-how-vmware-vsphere-foundation-9-1-addresses-ai-era-security-threats/",
+    "date": "Mon, 03 Aug 2026 13:00:00 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Split or Stay Whole? Disaggregated vs. Monolithic LLM Serving on VMware Cloud Foundation",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/31/split-or-stay-whole-disaggregated-vs-monolithic-llm-serving-on-vmware-cloud-foundation/",
-    "date": "Fri, 31 Jul 2026 18:49:22 +0000"
+    "title": "The Future of Cloud Infrastructure: Deep Dive into VMware Cloud Foundation Automation at Explore 2026",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/03/the-future-of-cloud-infrastructure-deep-dive-into-vmware-cloud-foundation-automation-at-explore-2026/",
+    "date": "Mon, 03 Aug 2026 12:00:00 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Meet MTAT: Your Zero-Friction Path to Memory Tiering in VMware Cloud Foundation 9",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/07/31/meet-mtat-your-zero-friction-path-to-memory-tiering-in-vmware-cloud-foundation-9-0/",
-    "date": "Fri, 31 Jul 2026 14:59:56 +0000"
+    "title": "VMware Cloud Foundation® 9.1 徹底解説！vCenter で直感的に構築する「VPC」と「分散トランジットゲートウェイ」設定ガイド",
+    "link": "https://blogs.vmware.com/vmware-japan/2026/08/vcf-9-1-dtgw-config-vcenter.html",
+    "date": "Mon, 03 Aug 2026 02:23:01 +0000"
   },
   {
     "source": "veeam_intel",
