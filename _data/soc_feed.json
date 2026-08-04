@@ -55,6 +55,12 @@
   },
   {
     "source": "gcp_cloud",
+    "title": "The latest AI news we announced in July 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+    "date": "Tue, 04 Aug 2026 13:00:00 +0000"
+  },
+  {
+    "source": "gcp_cloud",
     "title": "NOAA and Google Cloud collaborate to advance weather forecasting.",
     "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/noaa-google-cloud-weather-forecasting/",
     "date": "Mon, 27 Jul 2026 17:00:00 +0000"
@@ -66,10 +72,10 @@
     "date": "Thu, 16 Jul 2026 16:00:00 +0000"
   },
   {
-    "source": "gcp_cloud",
-    "title": "We're rolling out AlphaEvolve widely to solve Google Cloud customers' hardest problems.",
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-on-cloud/",
-    "date": "Thu, 09 Jul 2026 16:00:00 +0000"
+    "source": "suse_news",
+    "title": "The path to modern observability: Why we’re evolving the SUSE Rancher observability stack",
+    "link": "https://www.suse.com/c/the-path-to-modern-observability-why-were-evolving-the-suse-rancher-observability-stack/",
+    "date": "Tue, 04 Aug 2026 07:08:30 +0000"
   },
   {
     "source": "suse_news",
@@ -82,12 +88,6 @@
     "title": "What Is Agentic AI for Kubernetes? A Platform Engineer’s Guide",
     "link": "https://www.suse.com/c/what-is-agentic-ai-for-kubernetes-a-platform-engineers-guide/",
     "date": "Sat, 01 Aug 2026 06:08:57 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "Secure and Simple AI Deployment with SUSE and Supermicro",
-    "link": "https://www.suse.com/c/secure-and-simple-ai-deployment-with-suse-and-supermicro/",
-    "date": "Tue, 28 Jul 2026 23:04:14 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -109,6 +109,12 @@
   },
   {
     "source": "veeam_intel",
+    "title": "Veeam Joins the Open Secure AI Alliance to Drive Agentic AI with a foundation of Trusted Data",
+    "link": "https://www.veeam.com/blog/veeam-open-secure-ai-alliance.html",
+    "date": "Tue, 04 Aug 2026 13:05:49 +0000"
+  },
+  {
+    "source": "veeam_intel",
     "title": "From Sovereign Cloud to New Hypervisors: What Service Providers Gain in Veeam Data Platform v13.1 and Service Provider Console v9.3",
     "link": "https://www.veeam.com/blog/veeam-service-provider-hypervisors-sovereign-cloud.html",
     "date": "Mon, 03 Aug 2026 22:11:02 +0000"
@@ -118,12 +124,6 @@
     "title": "Why Automated Disaster Recovery Beats Manual Runbooks",
     "link": "https://www.veeam.com/blog/automated-vs-manual-disaster-recovery.html",
     "date": "Mon, 03 Aug 2026 21:21:37 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "How Aussie Broadband Built Kubernetes Resilience at Scale — and What Comes Next",
-    "link": "https://www.veeam.com/blog/aussie-broadband-kubernetes-resilience.html",
-    "date": "Thu, 30 Jul 2026 14:55:26 +0000"
   },
   {
     "source": "hackerrank",
