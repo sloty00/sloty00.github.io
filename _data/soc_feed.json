@@ -109,6 +109,12 @@
   },
   {
     "source": "veeam_intel",
+    "title": "Six Data Security Missteps Leadership Teams Don’t See Coming",
+    "link": "https://www.veeam.com/blog/data-security-missteps.html",
+    "date": "Wed, 05 Aug 2026 12:00:00 +0000"
+  },
+  {
+    "source": "veeam_intel",
     "title": "Veeam Joins the Open Secure AI Alliance to Drive Agentic AI with a foundation of Trusted Data",
     "link": "https://www.veeam.com/blog/veeam-open-secure-ai-alliance.html",
     "date": "Tue, 04 Aug 2026 13:05:49 +0000"
@@ -118,12 +124,6 @@
     "title": "From Sovereign Cloud to New Hypervisors: What Service Providers Gain in Veeam Data Platform v13.1 and Service Provider Console v9.3",
     "link": "https://www.veeam.com/blog/veeam-service-provider-hypervisors-sovereign-cloud.html",
     "date": "Mon, 03 Aug 2026 22:11:02 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Why Automated Disaster Recovery Beats Manual Runbooks",
-    "link": "https://www.veeam.com/blog/automated-vs-manual-disaster-recovery.html",
-    "date": "Mon, 03 Aug 2026 21:21:37 +0000"
   },
   {
     "source": "hackerrank",
