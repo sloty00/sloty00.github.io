@@ -1,21 +1,21 @@
 [
   {
     "source": "sophos_threat",
+    "title": "2608-volatility-interlock",
+    "link": "https://www.sophos.com/en-us/blog/2608-volatility-interlock",
+    "date": "Tue, 04 Aug 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
+    "title": "N-able N-central exploitation results in RMM tool deployment",
+    "link": "https://www.sophos.com/en-us/blog/nable-ncentral-exploitation-results-in-rmm-tool-deployment",
+    "date": "Tue, 04 Aug 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "Chaos in Teams vishing",
     "link": "https://www.sophos.com/en-us/blog/chaos-in-teams-vishing",
     "date": "Tue, 28 Jul 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "2607-secai",
-    "link": "https://www.sophos.com/en-us/blog/2607-secai",
-    "date": "Mon, 27 Jul 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "July Patch Tuesday only feels endless",
-    "link": "https://www.sophos.com/en-us/blog/july-patch-tuesday-only-feels-endless",
-    "date": "Tue, 21 Jul 2026 00:00:00 GMT"
   },
   {
     "source": "sophos_ops",
@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS Transform continuous modernization is now generally available",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/7/aws-transform-continuous-general-available",
-    "date": "Mon, 03 Aug 2026 21:15:00 GMT"
+    "title": "[Preview Announcement] Re-introducing Forward Proxy as AWS Network Firewall Functionality",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-network-firewall-forward-proxy-preview/",
+    "date": "Tue, 04 Aug 2026 22:24:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "OpenAI GPT-5.6 Sol, Terra, and Luna now support 1 million token context windows on Amazon Bedrock",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/gpt-sol-terra-luna-long-context-bedrock",
-    "date": "Mon, 03 Aug 2026 21:03:00 GMT"
+    "title": "Amazon Connect Customer now lets you export cases to CSV from the agent workspace",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-export-cases/",
+    "date": "Tue, 04 Aug 2026 21:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon GameLift Streams now supports sharing streams with stream URLs",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-gamelift-streams/",
-    "date": "Mon, 03 Aug 2026 20:24:00 GMT"
+    "title": "Amazon Bedrock launches Web Search for OpenAI GPT models",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-web/",
+    "date": "Tue, 04 Aug 2026 20:37:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -61,15 +61,21 @@
   },
   {
     "source": "gcp_cloud",
+    "title": "Inside our 353,000-person vibe coding course",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+    "date": "Mon, 03 Aug 2026 15:00:00 +0000"
+  },
+  {
+    "source": "gcp_cloud",
     "title": "NOAA and Google Cloud collaborate to advance weather forecasting.",
     "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/noaa-google-cloud-weather-forecasting/",
     "date": "Mon, 27 Jul 2026 17:00:00 +0000"
   },
   {
-    "source": "gcp_cloud",
-    "title": "Create, edit and star in videos with two Google Vids updates",
-    "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-    "date": "Thu, 16 Jul 2026 16:00:00 +0000"
+    "source": "suse_news",
+    "title": "What Is Agentic AI for Kubernetes? A Platform Engineer’s Guide",
+    "link": "https://www.suse.com/c/what-is-agentic-ai-for-kubernetes-a-platform-engineers-guide-2/",
+    "date": "Tue, 04 Aug 2026 21:27:12 +0000"
   },
   {
     "source": "suse_news",
@@ -84,28 +90,22 @@
     "date": "Mon, 03 Aug 2026 17:03:51 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "What Is Agentic AI for Kubernetes? A Platform Engineer’s Guide",
-    "link": "https://www.suse.com/c/what-is-agentic-ai-for-kubernetes-a-platform-engineers-guide/",
-    "date": "Sat, 01 Aug 2026 06:08:57 +0000"
+    "source": "broadcom_vmware",
+    "title": "Simplify Kubernetes Security with the VMware vSphere Kubernetes Service Policy Bundle",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/04/simplify-kubernetes-security-with-the-vmware-vsphere-kubernetes-service-policy-bundle/",
+    "date": "Tue, 04 Aug 2026 19:18:09 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "VCF Breakroom Chats Episode 92: Simplifying VCF 9.1 Install and Brownfield Import",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/03/vcf-breakroom-chats-episode-92-simplifying-vcf-9-1-install-and-brownfield-import/",
-    "date": "Mon, 03 Aug 2026 17:59:16 +0000"
+    "title": "Meet the VMware Data Services Team at VMware Explore 2026",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/04/meet-the-vmware-data-services-team-at-vmware-explore-2026/",
+    "date": "Tue, 04 Aug 2026 18:38:31 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Refreshing an Existing vSAN Cluster with New Servers",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/03/refreshing-an-existing-vsan-cluster-with-new-servers/",
-    "date": "Mon, 03 Aug 2026 15:13:16 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Your First Line of Defense: How VMware vSphere Foundation 9.1 Addresses AI-Era Security Threats",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/03/your-first-line-of-defense-how-vmware-vsphere-foundation-9-1-addresses-ai-era-security-threats/",
-    "date": "Mon, 03 Aug 2026 13:00:00 +0000"
+    "title": "August 19: Democratizing AI and Analytics in Financial Services with VMware Tanzu & Strongly.AI",
+    "link": "https://blogs.vmware.com/tanzu/august-19-democratizing-ai-and-analytics-in-financial-services-with-vmware-tanzu-strongly-ai/",
+    "date": "Tue, 04 Aug 2026 17:39:49 +0000"
   },
   {
     "source": "veeam_intel",
