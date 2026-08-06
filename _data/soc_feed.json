@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "[Preview Announcement] Re-introducing Forward Proxy as AWS Network Firewall Functionality",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-network-firewall-forward-proxy-preview/",
-    "date": "Tue, 04 Aug 2026 22:24:00 GMT"
+    "title": "AWS Lambda announces scalable network bandwidth up to 3,000 Mbps for functions outside a VPC",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-network-bandwidth/",
+    "date": "Wed, 05 Aug 2026 21:35:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Connect Customer now lets you export cases to CSV from the agent workspace",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-export-cases/",
-    "date": "Tue, 04 Aug 2026 21:00:00 GMT"
+    "title": "Amazon Keyspaces (for Apache Cassandra) is now available in the Canada West (Calgary) Region (ca-west-1)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-keyspaces-apache-cassandra-canada-west/",
+    "date": "Wed, 05 Aug 2026 20:06:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Bedrock launches Web Search for OpenAI GPT models",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-web/",
-    "date": "Tue, 04 Aug 2026 20:37:00 GMT"
+    "title": "AWS Glue Data Quality makes ETL anomaly detection free and improves anomaly predictions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-data-quality-anomaly-detection-free",
+    "date": "Wed, 05 Aug 2026 18:25:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "Direct from Your Peers: Why Enterprises Trust SUSE for Linux, Virtualization and Container Management",
+    "link": "https://www.suse.com/c/direct-from-your-peers-why-enterprises-trust-suse-for-linux-virtualization-and-container-management/",
+    "date": "Wed, 05 Aug 2026 15:44:57 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "What Is Agentic AI for Kubernetes? A Platform Engineer’s Guide",
     "link": "https://www.suse.com/c/what-is-agentic-ai-for-kubernetes-a-platform-engineers-guide-2/",
     "date": "Tue, 04 Aug 2026 21:27:12 +0000"
@@ -82,12 +88,6 @@
     "title": "The path to modern observability: Why we’re evolving the SUSE Rancher observability stack",
     "link": "https://www.suse.com/c/the-path-to-modern-observability-why-were-evolving-the-suse-rancher-observability-stack/",
     "date": "Tue, 04 Aug 2026 07:08:30 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "Unlocking agentic AI with Arm AGI CPU & SUSE AI Factory",
-    "link": "https://www.suse.com/c/unlocking-agentic-ai-with-arm-agi-cpu-suse-ai-factory/",
-    "date": "Mon, 03 Aug 2026 17:03:51 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -109,6 +109,12 @@
   },
   {
     "source": "veeam_intel",
+    "title": "The Threat Surface Isn’t Your Network. It’s Agents Acting on Your Data",
+    "link": "https://www.veeam.com/blog/ai-agents-attack-surface.html",
+    "date": "Wed, 05 Aug 2026 21:30:00 +0000"
+  },
+  {
+    "source": "veeam_intel",
     "title": "Six Data Security Missteps Leadership Teams Don’t See Coming",
     "link": "https://www.veeam.com/blog/data-security-missteps.html",
     "date": "Wed, 05 Aug 2026 12:00:00 +0000"
@@ -120,27 +126,21 @@
     "date": "Tue, 04 Aug 2026 13:05:49 +0000"
   },
   {
-    "source": "veeam_intel",
-    "title": "From Sovereign Cloud to New Hypervisors: What Service Providers Gain in Veeam Data Platform v13.1 and Service Provider Console v9.3",
-    "link": "https://www.veeam.com/blog/veeam-service-provider-hypervisors-sovereign-cloud.html",
-    "date": "Mon, 03 Aug 2026 22:11:02 +0000"
+    "source": "hackerrank",
+    "title": "The New Technical Hiring Bar: CS Fundamentals, AI Fluency, and Judgment",
+    "link": "https://www.hackerrank.com/blog/the-new-technical-hiring-bar-cs-fundamentals-ai-fluency-and-judgment/",
+    "date": "Wed, 05 Aug 2026 20:25:47 +0000"
+  },
+  {
+    "source": "hackerrank",
+    "title": "How Chakra by HackerRank works",
+    "link": "https://www.hackerrank.com/blog/how-chakra-by-hackerrank-works/",
+    "date": "Wed, 05 Aug 2026 20:23:03 +0000"
   },
   {
     "source": "hackerrank",
     "title": "How HackerRank Is Rebuilding Developer Hiring for the Agentic Era",
     "link": "https://www.hackerrank.com/blog/how-hackerrank-is-rebuilding-developer-hiring-for-the-agentic-era/",
     "date": "Wed, 29 Jul 2026 19:14:36 +0000"
-  },
-  {
-    "source": "hackerrank",
-    "title": "How to Interview Engineers Who Use AI Coding Assistants",
-    "link": "https://www.hackerrank.com/blog/how-to-interview-engineers-who-use-ai-coding-assistants/",
-    "date": "Wed, 29 Jul 2026 18:54:55 +0000"
-  },
-  {
-    "source": "hackerrank",
-    "title": "How to Test AI Fluency in Developer Candidates",
-    "link": "https://www.hackerrank.com/blog/how-to-test-ai-fluency-in-developer-candidates/",
-    "date": "Wed, 29 Jul 2026 18:52:47 +0000"
   }
 ]
