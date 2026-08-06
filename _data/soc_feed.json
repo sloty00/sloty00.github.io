@@ -73,39 +73,45 @@
   },
   {
     "source": "suse_news",
+    "title": "Proactive patch management & compliance: Hardening the hybrid Azure fleet at scale",
+    "link": "https://www.suse.com/c/proactive-patch-management-compliance-hardening-the-hybrid-azure-fleet-at-scale/",
+    "date": "Thu, 06 Aug 2026 06:17:32 +0000"
+  },
+  {
+    "source": "suse_news",
+    "title": "AI Architecture: Moving Past the Washing to the Truth",
+    "link": "https://www.suse.com/c/09131985/",
+    "date": "Thu, 06 Aug 2026 05:32:03 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Direct from Your Peers: Why Enterprises Trust SUSE for Linux, Virtualization and Container Management",
     "link": "https://www.suse.com/c/direct-from-your-peers-why-enterprises-trust-suse-for-linux-virtualization-and-container-management/",
     "date": "Wed, 05 Aug 2026 15:44:57 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "What Is Agentic AI for Kubernetes? A Platform Engineer’s Guide",
-    "link": "https://www.suse.com/c/what-is-agentic-ai-for-kubernetes-a-platform-engineers-guide-2/",
-    "date": "Tue, 04 Aug 2026 21:27:12 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "The path to modern observability: Why we’re evolving the SUSE Rancher observability stack",
-    "link": "https://www.suse.com/c/the-path-to-modern-observability-why-were-evolving-the-suse-rancher-observability-stack/",
-    "date": "Tue, 04 Aug 2026 07:08:30 +0000"
+    "source": "broadcom_vmware",
+    "title": "Avi Strengthens Web Application Security, Boosts Performance and Improves Operational Efficiency",
+    "link": "https://blogs.vmware.com/load-balancing/2026/08/06/avi-waap-and-ai-assistant/",
+    "date": "Thu, 06 Aug 2026 13:00:00 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Simplify Kubernetes Security with the VMware vSphere Kubernetes Service Policy Bundle",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/04/simplify-kubernetes-security-with-the-vmware-vsphere-kubernetes-service-policy-bundle/",
-    "date": "Tue, 04 Aug 2026 19:18:09 +0000"
+    "title": "導入事例 : TKC様",
+    "link": "https://blogs.vmware.com/vmware-japan/2026/08/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B-tkc%E6%A7%98.html",
+    "date": "Thu, 06 Aug 2026 11:02:19 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Meet the VMware Data Services Team at VMware Explore 2026",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/04/meet-the-vmware-data-services-team-at-vmware-explore-2026/",
-    "date": "Tue, 04 Aug 2026 18:38:31 +0000"
+    "title": "Memory Tiering and VM Memory Reservation: What You Actually Need to Know",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/06/memory-tiering-and-vm-memory-reservation-what-you-actually-need-to-know/",
+    "date": "Thu, 06 Aug 2026 11:00:00 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "August 19: Democratizing AI and Analytics in Financial Services with VMware Tanzu & Strongly.AI",
-    "link": "https://blogs.vmware.com/tanzu/august-19-democratizing-ai-and-analytics-in-financial-services-with-vmware-tanzu-strongly-ai/",
-    "date": "Tue, 04 Aug 2026 17:39:49 +0000"
+    "source": "veeam_intel",
+    "title": "Your Data Loss Prevention Strategy Was Built for a World That’s Already Gone",
+    "link": "https://www.veeam.com/blog/data-loss-prevention-strategy.html",
+    "date": "Thu, 06 Aug 2026 12:00:00 +0000"
   },
   {
     "source": "veeam_intel",
@@ -118,12 +124,6 @@
     "title": "Six Data Security Missteps Leadership Teams Don’t See Coming",
     "link": "https://www.veeam.com/blog/data-security-missteps.html",
     "date": "Wed, 05 Aug 2026 12:00:00 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Veeam Joins the Open Secure AI Alliance to Drive Agentic AI with a foundation of Trusted Data",
-    "link": "https://www.veeam.com/blog/veeam-open-secure-ai-alliance.html",
-    "date": "Tue, 04 Aug 2026 13:05:49 +0000"
   },
   {
     "source": "hackerrank",
