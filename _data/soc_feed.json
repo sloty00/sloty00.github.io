@@ -108,6 +108,24 @@
     "date": "Thu, 06 Aug 2026 13:00:00 +0000"
   },
   {
+    "source": "veeam_intel",
+    "title": "Your Data Loss Prevention Strategy Was Built for a World That’s Already Gone",
+    "link": "https://www.veeam.com/blog/data-loss-prevention-strategy.html",
+    "date": "Thu, 06 Aug 2026 12:00:00 +0000"
+  },
+  {
+    "source": "veeam_intel",
+    "title": "The Threat Surface Isn’t Your Network. It’s Agents Acting on Your Data",
+    "link": "https://www.veeam.com/blog/ai-agents-attack-surface.html",
+    "date": "Wed, 05 Aug 2026 21:30:00 +0000"
+  },
+  {
+    "source": "veeam_intel",
+    "title": "Six Data Security Missteps Leadership Teams Don’t See Coming",
+    "link": "https://www.veeam.com/blog/data-security-missteps.html",
+    "date": "Wed, 05 Aug 2026 12:00:00 +0000"
+  },
+  {
     "source": "hackerrank",
     "title": "The New Technical Hiring Bar: CS Fundamentals, AI Fluency, and Judgment",
     "link": "https://www.hackerrank.com/blog/the-new-technical-hiring-bar-cs-fundamentals-ai-fluency-and-judgment/",
