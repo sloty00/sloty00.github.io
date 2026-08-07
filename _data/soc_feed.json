@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS Lambda announces scalable network bandwidth up to 3,000 Mbps for functions outside a VPC",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-network-bandwidth/",
-    "date": "Wed, 05 Aug 2026 21:35:00 GMT"
+    "title": "Amazon ECS now supports fractional GPU scheduling with Amazon EC2 G6f instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecs-fractional-gpu/",
+    "date": "Thu, 06 Aug 2026 22:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Keyspaces (for Apache Cassandra) is now available in the Canada West (Calgary) Region (ca-west-1)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-keyspaces-apache-cassandra-canada-west/",
-    "date": "Wed, 05 Aug 2026 20:06:00 GMT"
+    "title": "AWS Lambda console extends console-to-IDE integration to Kiro and Cursor",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-ide-kiro-cursor/",
+    "date": "Thu, 06 Aug 2026 21:53:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Glue Data Quality makes ETL anomaly detection free and improves anomaly predictions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-data-quality-anomaly-detection-free",
-    "date": "Wed, 05 Aug 2026 18:25:00 GMT"
+    "title": "Amazon EC2 G7 instances are now available in the AWS Europe (Spain) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-g7-available-spain",
+    "date": "Thu, 06 Aug 2026 20:51:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,15 +73,15 @@
   },
   {
     "source": "suse_news",
-    "title": "Proactive patch management & compliance: Hardening the hybrid Azure fleet at scale",
-    "link": "https://www.suse.com/c/proactive-patch-management-compliance-hardening-the-hybrid-azure-fleet-at-scale/",
-    "date": "Thu, 06 Aug 2026 06:17:32 +0000"
+    "title": "AI Architecture: Moving Past the Washing to the Truth",
+    "link": "https://www.suse.com/c/enterprise-ai-architecture-beyond-ai-washing/",
+    "date": "Thu, 06 Aug 2026 15:30:46 +0000"
   },
   {
     "source": "suse_news",
-    "title": "AI Architecture: Moving Past the Washing to the Truth",
-    "link": "https://www.suse.com/c/09131985/",
-    "date": "Thu, 06 Aug 2026 05:32:03 +0000"
+    "title": "Proactive patch management & compliance: Hardening the hybrid Azure fleet at scale",
+    "link": "https://www.suse.com/c/proactive-patch-management-compliance-hardening-the-hybrid-azure-fleet-at-scale/",
+    "date": "Thu, 06 Aug 2026 06:17:32 +0000"
   },
   {
     "source": "suse_news",
@@ -91,39 +91,21 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Securing your VMware Cloud Foundation 9.1 Environment",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/06/securing-your-vmware-cloud-foundation-9-1-environment/",
+    "date": "Thu, 06 Aug 2026 15:05:37 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "Your Guide to VCF Sessions for Better Private Cloud Operations at VMware Explore 2026",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/06/your-guide-to-vcf-sessions-for-better-private-cloud-operations-at-vmware-explore-2026/",
+    "date": "Thu, 06 Aug 2026 15:00:00 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Avi Strengthens Web Application Security, Boosts Performance and Improves Operational Efficiency",
     "link": "https://blogs.vmware.com/load-balancing/2026/08/06/avi-waap-and-ai-assistant/",
     "date": "Thu, 06 Aug 2026 13:00:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "導入事例 : TKC様",
-    "link": "https://blogs.vmware.com/vmware-japan/2026/08/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B-tkc%E6%A7%98.html",
-    "date": "Thu, 06 Aug 2026 11:02:19 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Memory Tiering and VM Memory Reservation: What You Actually Need to Know",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/06/memory-tiering-and-vm-memory-reservation-what-you-actually-need-to-know/",
-    "date": "Thu, 06 Aug 2026 11:00:00 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Your Data Loss Prevention Strategy Was Built for a World That’s Already Gone",
-    "link": "https://www.veeam.com/blog/data-loss-prevention-strategy.html",
-    "date": "Thu, 06 Aug 2026 12:00:00 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "The Threat Surface Isn’t Your Network. It’s Agents Acting on Your Data",
-    "link": "https://www.veeam.com/blog/ai-agents-attack-surface.html",
-    "date": "Wed, 05 Aug 2026 21:30:00 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Six Data Security Missteps Leadership Teams Don’t See Coming",
-    "link": "https://www.veeam.com/blog/data-security-missteps.html",
-    "date": "Wed, 05 Aug 2026 12:00:00 +0000"
   },
   {
     "source": "hackerrank",
