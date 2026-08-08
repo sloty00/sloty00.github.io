@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon ECS now supports fractional GPU scheduling with Amazon EC2 G6f instances",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecs-fractional-gpu/",
-    "date": "Thu, 06 Aug 2026 22:00:00 GMT"
+    "title": "Amazon EC2 R8i and R8i-Flex instances are now available in Europe (Milan) region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-r8i-flex/",
+    "date": "Fri, 07 Aug 2026 21:11:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Lambda console extends console-to-IDE integration to Kiro and Cursor",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-ide-kiro-cursor/",
-    "date": "Thu, 06 Aug 2026 21:53:00 GMT"
+    "title": "Amazon Timestream for InfluxDB now supports backup and restore",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/timestream-influxdb-backup-restore/",
+    "date": "Fri, 07 Aug 2026 19:21:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EC2 G7 instances are now available in the AWS Europe (Spain) Region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-g7-available-spain",
-    "date": "Thu, 06 Aug 2026 20:51:00 GMT"
+    "title": "Amazon Cognito now available as a skill in the Agent Toolkit for AWS",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-auth-agent-skill/",
+    "date": "Fri, 07 Aug 2026 18:00:48 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -91,21 +91,21 @@
   },
   {
     "source": "broadcom_vmware",
-    "title": "Securing your VMware Cloud Foundation 9.1 Environment",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/06/securing-your-vmware-cloud-foundation-9-1-environment/",
-    "date": "Thu, 06 Aug 2026 15:05:37 +0000"
+    "title": "Running Solo.io Enterprise agentgateway and Kagent on VMware Cloud Foundation",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/07/running-solo-io-enterprise-agentgateway-and-kagent-on-vmware-cloud-foundation/",
+    "date": "Fri, 07 Aug 2026 19:22:41 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Your Guide to VCF Sessions for Better Private Cloud Operations at VMware Explore 2026",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/06/your-guide-to-vcf-sessions-for-better-private-cloud-operations-at-vmware-explore-2026/",
-    "date": "Thu, 06 Aug 2026 15:00:00 +0000"
+    "title": "Find Your People: The VMware Explore 2026 Community Guide",
+    "link": "https://blogs.vmware.com/explore/communities-at-explore/",
+    "date": "Fri, 07 Aug 2026 19:17:24 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Avi Strengthens Web Application Security, Boosts Performance and Improves Operational Efficiency",
-    "link": "https://blogs.vmware.com/load-balancing/2026/08/06/avi-waap-and-ai-assistant/",
-    "date": "Thu, 06 Aug 2026 13:00:00 +0000"
+    "title": "New Workshops at VMware Explore 2026: Design, Architect, and Consume Private Cloud",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/07/new-workshops-at-vmware-explore-2026-design-architect-and-consume-private-cloud/",
+    "date": "Fri, 07 Aug 2026 19:14:54 +0000"
   },
   {
     "source": "veeam_intel",
