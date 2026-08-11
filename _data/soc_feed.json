@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon EC2 R8i and R8i-Flex instances are now available in Europe (Milan) region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-r8i-flex/",
-    "date": "Fri, 07 Aug 2026 21:11:00 GMT"
+    "title": "FLUX.2-small-decoder and gemma-4-12B-it models now available on Amazon SageMaker JumpStart",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/flux.2-small-decoder-gemma-4-12B-it-on-sagemaker-jumpstart/",
+    "date": "Mon, 10 Aug 2026 23:08:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Timestream for InfluxDB now supports backup and restore",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/timestream-influxdb-backup-restore/",
-    "date": "Fri, 07 Aug 2026 19:21:00 GMT"
+    "title": "langcache-embed-v3-small, Mellum2-12B-A2.5B-Thinking, and LightOnOCR-2-1B models now available on Amazon SageMaker JumpStart",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/langcache-embed-v3-small-mellum2-12B-A2.5B-thinking-lightOnOCR-2-1B-on-sagemaker-jumpstart/",
+    "date": "Mon, 10 Aug 2026 23:05:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Cognito now available as a skill in the Agent Toolkit for AWS",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-auth-agent-skill/",
-    "date": "Fri, 07 Aug 2026 18:00:48 GMT"
+    "title": "Amazon EC2 High Memory U7i instances now available in AWS South America (São Paulo) region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-high-memory-u7i-south-america",
+    "date": "Mon, 10 Aug 2026 23:02:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -91,6 +91,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "VMware Explore 2026: Learn to Build, Govern, Protect and Optimize AI Workloads",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/10/vmware-explore-2026-learn-to-build-govern-protect-and-optimize-ai-workloads/",
+    "date": "Mon, 10 Aug 2026 20:08:02 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "米国 DISA STIG を活用した VMware のセキュリティ監査と自動化",
     "link": "https://blogs.vmware.com/vmware-japan/2026/08/disa-stig-vmware.html",
     "date": "Mon, 10 Aug 2026 06:53:41 +0000"
@@ -100,12 +106,6 @@
     "title": "Running Solo.io Enterprise agentgateway and Kagent on VMware Cloud Foundation",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/08/07/running-solo-io-enterprise-agentgateway-and-kagent-on-vmware-cloud-foundation/",
     "date": "Fri, 07 Aug 2026 19:22:41 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Find Your People: The VMware Explore 2026 Community Guide",
-    "link": "https://blogs.vmware.com/explore/communities-at-explore/",
-    "date": "Fri, 07 Aug 2026 19:17:24 +0000"
   },
   {
     "source": "veeam_intel",
