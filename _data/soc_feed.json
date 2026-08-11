@@ -91,6 +91,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Introducing the VMware Bootstrap Registry Appliance: Air-Gapped Harbor Service in VMware Cloud Foundation 9.0",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/11/vmware-bootstrap-registry-appliance-air-gapped-harbor-deployment/",
+    "date": "Tue, 11 Aug 2026 11:35:07 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "VMware Explore 2026: Learn to Build, Govern, Protect and Optimize AI Workloads",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/08/10/vmware-explore-2026-learn-to-build-govern-protect-and-optimize-ai-workloads/",
     "date": "Mon, 10 Aug 2026 20:08:02 +0000"
@@ -100,12 +106,6 @@
     "title": "米国 DISA STIG を活用した VMware のセキュリティ監査と自動化",
     "link": "https://blogs.vmware.com/vmware-japan/2026/08/disa-stig-vmware.html",
     "date": "Mon, 10 Aug 2026 06:53:41 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Running Solo.io Enterprise agentgateway and Kagent on VMware Cloud Foundation",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/07/running-solo-io-enterprise-agentgateway-and-kagent-on-vmware-cloud-foundation/",
-    "date": "Fri, 07 Aug 2026 19:22:41 +0000"
   },
   {
     "source": "veeam_intel",
