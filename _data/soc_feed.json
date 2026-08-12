@@ -91,6 +91,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Headlamp as a VMware vSphere Kubernetes Service Add-on",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/12/headlamp-as-a-vmware-vsphere-kubernetes-service-add-on/",
+    "date": "Wed, 12 Aug 2026 10:04:19 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "VMware Explore 2026: Top VCF Edge Sessions in Las Vegas",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/08/11/vmware-explore-2026-top-vcf-edge-sessions-in-las-vegas/",
     "date": "Tue, 11 Aug 2026 14:38:56 +0000"
@@ -100,12 +106,6 @@
     "title": "Introducing the VMware Bootstrap Registry Appliance: Air-Gapped Harbor Service in VMware Cloud Foundation 9.0",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/08/11/vmware-bootstrap-registry-appliance-air-gapped-harbor-deployment/",
     "date": "Tue, 11 Aug 2026 11:35:07 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "VMware Explore 2026: Learn to Build, Govern, Protect and Optimize AI Workloads",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/10/vmware-explore-2026-learn-to-build-govern-protect-and-optimize-ai-workloads/",
-    "date": "Mon, 10 Aug 2026 20:08:02 +0000"
   },
   {
     "source": "veeam_intel",
