@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "FLUX.2-small-decoder and gemma-4-12B-it models now available on Amazon SageMaker JumpStart",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/flux.2-small-decoder-gemma-4-12B-it-on-sagemaker-jumpstart/",
-    "date": "Mon, 10 Aug 2026 23:08:00 GMT"
+    "title": "Amazon EC2 R8a instances are now available in Canada (Central) region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8a-instances-canada-central/",
+    "date": "Tue, 11 Aug 2026 22:03:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "langcache-embed-v3-small, Mellum2-12B-A2.5B-Thinking, and LightOnOCR-2-1B models now available on Amazon SageMaker JumpStart",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/langcache-embed-v3-small-mellum2-12B-A2.5B-thinking-lightOnOCR-2-1B-on-sagemaker-jumpstart/",
-    "date": "Mon, 10 Aug 2026 23:05:00 GMT"
+    "title": "Amazon Bedrock expands IAM principal cost allocation to the bedrock-mantle endpoint",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-expands-iam-principal-cost-allocation-bedrock-mantle/",
+    "date": "Tue, 11 Aug 2026 20:25:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EC2 High Memory U7i instances now available in AWS South America (São Paulo) region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-high-memory-u7i-south-america",
-    "date": "Mon, 10 Aug 2026 23:02:00 GMT"
+    "title": "LocateAnything-3B, Qwen-AgentWorld-35B-A3B, and Qwen3.5-122B-A10B models now available on Amazon SageMaker JumpStart",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/locateAnything-3B-qwen-agentworld-35B-A3B-qwen3.5-122B-A10B-on-sagemaker-jumpstart/",
+    "date": "Tue, 11 Aug 2026 15:22:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,21 +73,27 @@
   },
   {
     "source": "suse_news",
+    "title": "Owning your intelligence: SUSE joins the Open Secure AI Alliance",
+    "link": "https://www.suse.com/c/owning-your-intelligence-suse-joins-the-open-secure-ai-alliance/",
+    "date": "Tue, 11 Aug 2026 19:33:52 +0000"
+  },
+  {
+    "source": "suse_news",
+    "title": "Beyond CVEs: What the Hugging Face AI Intrusion Teaches Us About Modern Security",
+    "link": "https://www.suse.com/c/beyond-cves-what-the-hugging-face-ai-intrusion-teaches-us-about-modern-security/",
+    "date": "Tue, 11 Aug 2026 14:37:12 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Public Cloud Toolchains in SUSE Linux Enterprise 16: Evolution and Transparent Containers",
     "link": "https://www.suse.com/c/public-cloud-toolchains-in-suse-linux-enterprise-16-evolution-and-transparent-containers/",
     "date": "Sat, 08 Aug 2026 19:47:51 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "The login screen is where sovereignty gets real",
-    "link": "https://www.suse.com/c/the-login-screen-is-where-sovereignty-gets-real/",
-    "date": "Sat, 08 Aug 2026 19:39:16 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "AI Architecture: Moving Past the Washing to the Truth",
-    "link": "https://www.suse.com/c/enterprise-ai-architecture-beyond-ai-washing/",
-    "date": "Thu, 06 Aug 2026 15:30:46 +0000"
+    "source": "broadcom_vmware",
+    "title": "VMware Explore 2026: Top VCF Edge Sessions in Las Vegas",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/11/vmware-explore-2026-top-vcf-edge-sessions-in-las-vegas/",
+    "date": "Tue, 11 Aug 2026 14:38:56 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -100,12 +106,6 @@
     "title": "VMware Explore 2026: Learn to Build, Govern, Protect and Optimize AI Workloads",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/08/10/vmware-explore-2026-learn-to-build-govern-protect-and-optimize-ai-workloads/",
     "date": "Mon, 10 Aug 2026 20:08:02 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "米国 DISA STIG を活用した VMware のセキュリティ監査と自動化",
-    "link": "https://blogs.vmware.com/vmware-japan/2026/08/disa-stig-vmware.html",
-    "date": "Mon, 10 Aug 2026 06:53:41 +0000"
   },
   {
     "source": "veeam_intel",
