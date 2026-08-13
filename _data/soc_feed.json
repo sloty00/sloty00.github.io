@@ -1,21 +1,21 @@
 [
   {
     "source": "sophos_threat",
+    "title": "deno-case-studies",
+    "link": "https://www.sophos.com/en-us/blog/deno-case-studies",
+    "date": "Tue, 11 Aug 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
+    "title": "ClickFix campaign abuses Deno runtime for infostealer delivery",
+    "link": "https://www.sophos.com/en-us/blog/clickfix-campaign-abuses-deno-runtime-for-infostealer-delivery",
+    "date": "Tue, 11 Aug 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "2608-volatility-interlock",
     "link": "https://www.sophos.com/en-us/blog/2608-volatility-interlock",
     "date": "Tue, 04 Aug 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "N-able N-central exploitation results in RMM tool deployment",
-    "link": "https://www.sophos.com/en-us/blog/nable-ncentral-exploitation-results-in-rmm-tool-deployment",
-    "date": "Tue, 04 Aug 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "Chaos in Teams vishing",
-    "link": "https://www.sophos.com/en-us/blog/chaos-in-teams-vishing",
-    "date": "Tue, 28 Jul 2026 00:00:00 GMT"
   },
   {
     "source": "sophos_ops",
@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon EC2 R8a instances are now available in Canada (Central) region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8a-instances-canada-central/",
-    "date": "Tue, 11 Aug 2026 22:03:00 GMT"
+    "title": "AWS Global View now offers an interactive map view for AWS Regions and AWS Local Zones",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-global-view-map-view/",
+    "date": "Wed, 12 Aug 2026 22:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Bedrock expands IAM principal cost allocation to the bedrock-mantle endpoint",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-expands-iam-principal-cost-allocation-bedrock-mantle/",
-    "date": "Tue, 11 Aug 2026 20:25:00 GMT"
+    "title": "AWS IAM now provides role manager to set up IAM roles automatically",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-role-manager",
+    "date": "Wed, 12 Aug 2026 18:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "LocateAnything-3B, Qwen-AgentWorld-35B-A3B, and Qwen3.5-122B-A10B models now available on Amazon SageMaker JumpStart",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/locateAnything-3B-qwen-agentworld-35B-A3B-qwen3.5-122B-A10B-on-sagemaker-jumpstart/",
-    "date": "Tue, 11 Aug 2026 15:22:00 GMT"
+    "title": "Amazon EKS now supports advanced Kubernetes control plane configuration parameters",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-control-plane-configuration-parameters",
+    "date": "Wed, 12 Aug 2026 18:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -91,21 +91,21 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Hands-on Labs at Explore: The Admin’s Ultimate Playbook",
+    "link": "https://blogs.vmware.com/explore/hands-on-labs-overview/",
+    "date": "Wed, 12 Aug 2026 17:07:00 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "Level Up: Learning and Certification Highlights at VMware Explore 2026",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/12/level-up-learning-and-certification-highlights-at-vmware-explore-2026/",
+    "date": "Wed, 12 Aug 2026 16:59:28 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Headlamp as a VMware vSphere Kubernetes Service Add-on",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/08/12/headlamp-as-a-vmware-vsphere-kubernetes-service-add-on/",
     "date": "Wed, 12 Aug 2026 10:04:19 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "VMware Explore 2026: Top VCF Edge Sessions in Las Vegas",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/11/vmware-explore-2026-top-vcf-edge-sessions-in-las-vegas/",
-    "date": "Tue, 11 Aug 2026 14:38:56 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Introducing the VMware Bootstrap Registry Appliance: Air-Gapped Harbor Service in VMware Cloud Foundation 9.0",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/11/vmware-bootstrap-registry-appliance-air-gapped-harbor-deployment/",
-    "date": "Tue, 11 Aug 2026 11:35:07 +0000"
   },
   {
     "source": "veeam_intel",
