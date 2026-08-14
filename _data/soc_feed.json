@@ -37,21 +37,27 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS Global View now offers an interactive map view for AWS Regions and AWS Local Zones",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-global-view-map-view/",
-    "date": "Wed, 12 Aug 2026 22:00:00 GMT"
+    "title": "AWS Client VPN now supports CLI, administration controls, and faster connections",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-client-vpn-cli/",
+    "date": "Thu, 13 Aug 2026 20:49:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS IAM now provides role manager to set up IAM roles automatically",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-role-manager",
-    "date": "Wed, 12 Aug 2026 18:00:00 GMT"
+    "title": "Claude Opus 5 is now available in AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/claude-opus-5-aws-govcloud/",
+    "date": "Thu, 13 Aug 2026 18:23:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EKS now supports advanced Kubernetes control plane configuration parameters",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-control-plane-configuration-parameters",
-    "date": "Wed, 12 Aug 2026 18:00:00 GMT"
+    "title": "Amazon Quick Microsoft 365 extensions are now generally available",
+    "link": "https://aws.amazon.com/amazon-quick-microsoft-365-extensions-generally-available",
+    "date": "Thu, 13 Aug 2026 18:00:00 GMT"
+  },
+  {
+    "source": "gcp_cloud",
+    "title": "Bring your spreadsheet data to life with Sheets canvas",
+    "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+    "date": "Thu, 13 Aug 2026 16:45:00 +0000"
   },
   {
     "source": "gcp_cloud",
@@ -66,10 +72,16 @@
     "date": "Mon, 03 Aug 2026 15:00:00 +0000"
   },
   {
-    "source": "gcp_cloud",
-    "title": "NOAA and Google Cloud collaborate to advance weather forecasting.",
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/noaa-google-cloud-weather-forecasting/",
-    "date": "Mon, 27 Jul 2026 17:00:00 +0000"
+    "source": "suse_news",
+    "title": "Stop managing SAP infrastructure by hand. Automate it.",
+    "link": "https://www.suse.com/c/stop-managing-sap-infrastructure-by-hand-automate-it/",
+    "date": "Thu, 13 Aug 2026 22:31:34 +0000"
+  },
+  {
+    "source": "suse_news",
+    "title": "Demystifying the Token Tax:  How to Optimize AI Workloads Without Breaking the Bank",
+    "link": "https://www.suse.com/c/what-are-ai-tokens/",
+    "date": "Thu, 13 Aug 2026 14:46:13 +0000"
   },
   {
     "source": "suse_news",
@@ -78,16 +90,10 @@
     "date": "Tue, 11 Aug 2026 19:33:52 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "Beyond CVEs: What the Hugging Face AI Intrusion Teaches Us About Modern Security",
-    "link": "https://www.suse.com/c/beyond-cves-what-the-hugging-face-ai-intrusion-teaches-us-about-modern-security/",
-    "date": "Tue, 11 Aug 2026 14:37:12 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "Public Cloud Toolchains in SUSE Linux Enterprise 16: Evolution and Transparent Containers",
-    "link": "https://www.suse.com/c/public-cloud-toolchains-in-suse-linux-enterprise-16-evolution-and-transparent-containers/",
-    "date": "Sat, 08 Aug 2026 19:47:51 +0000"
+    "source": "broadcom_vmware",
+    "title": "Operationalizing VMware Cloud Foundation Control Plane for  Kubernetes Workloads",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/13/operationalizing-vmware-cloud-foundation-control-plane-for-kubernetes-workloads/",
+    "date": "Thu, 13 Aug 2026 14:20:22 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -97,15 +103,15 @@
   },
   {
     "source": "broadcom_vmware",
-    "title": "Hands-on Labs at Explore: The Admin’s Ultimate Playbook",
-    "link": "https://blogs.vmware.com/explore/hands-on-labs-overview/",
-    "date": "Wed, 12 Aug 2026 17:07:00 +0000"
+    "title": "Get Ahead of the Curve with VMware Cloud Foundation (VCF)",
+    "link": "https://blogs.vmware.com/explore/vcf-at-explore/",
+    "date": "Thu, 13 Aug 2026 12:00:00 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "Level Up: Learning and Certification Highlights at VMware Explore 2026",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/12/level-up-learning-and-certification-highlights-at-vmware-explore-2026/",
-    "date": "Wed, 12 Aug 2026 16:59:28 +0000"
+    "source": "veeam_intel",
+    "title": "Uncover the Threat Intelligence Already in Your Backups",
+    "link": "https://www.veeam.com/blog/veeam-data-platform-threat-detection.html",
+    "date": "Thu, 13 Aug 2026 16:57:08 +0000"
   },
   {
     "source": "veeam_intel",
@@ -118,12 +124,6 @@
     "title": "The Threat Surface Isn’t Your Network. It’s Agents Acting on Your Data",
     "link": "https://www.veeam.com/blog/ai-agents-attack-surface.html",
     "date": "Wed, 05 Aug 2026 21:30:00 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Six Data Security Missteps Leadership Teams Don’t See Coming",
-    "link": "https://www.veeam.com/blog/data-security-missteps.html",
-    "date": "Wed, 05 Aug 2026 12:00:00 +0000"
   },
   {
     "source": "hackerrank",
