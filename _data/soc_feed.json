@@ -37,6 +37,12 @@
   },
   {
     "source": "aws_news",
+    "title": "AWS Billing and Cost Management introduces Managed Dashboards",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-billing-and-cost-management-managed-dashboards/",
+    "date": "Fri, 14 Aug 2026 02:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "AWS Client VPN now supports CLI, administration controls, and faster connections",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-client-vpn-cli/",
     "date": "Thu, 13 Aug 2026 20:49:00 GMT"
@@ -46,12 +52,6 @@
     "title": "Claude Opus 5 is now available in AWS GovCloud (US)",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/claude-opus-5-aws-govcloud/",
     "date": "Thu, 13 Aug 2026 18:23:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Amazon Quick Microsoft 365 extensions are now generally available",
-    "link": "https://aws.amazon.com/amazon-quick-microsoft-365-extensions-generally-available",
-    "date": "Thu, 13 Aug 2026 18:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
