@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
+    "title": "Amazon RDS for Oracle now supports Oracle Application Express (APEX) version 26.1",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-oracle-apex-26-1/",
+    "date": "Fri, 14 Aug 2026 15:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
+    "title": "Amazon SES click tracking now supports custom URL paths for mobile app deep linking",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-supports-customurl-deeplinking",
+    "date": "Fri, 14 Aug 2026 07:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "AWS Billing and Cost Management introduces Managed Dashboards",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-billing-and-cost-management-managed-dashboards/",
     "date": "Fri, 14 Aug 2026 02:00:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "AWS Client VPN now supports CLI, administration controls, and faster connections",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-client-vpn-cli/",
-    "date": "Thu, 13 Aug 2026 20:49:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Claude Opus 5 is now available in AWS GovCloud (US)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/claude-opus-5-aws-govcloud/",
-    "date": "Thu, 13 Aug 2026 18:23:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "Streamline day-two SAP operations with Trento version 3",
+    "link": "https://www.suse.com/c/streamline-day-two-sap-operations-with-trento-version-3/",
+    "date": "Fri, 14 Aug 2026 18:27:32 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Stop managing SAP infrastructure by hand. Automate it.",
     "link": "https://www.suse.com/c/stop-managing-sap-infrastructure-by-hand-automate-it/",
     "date": "Thu, 13 Aug 2026 22:31:34 +0000"
@@ -84,28 +90,22 @@
     "date": "Thu, 13 Aug 2026 14:46:13 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "Owning your intelligence: SUSE joins the Open Secure AI Alliance",
-    "link": "https://www.suse.com/c/owning-your-intelligence-suse-joins-the-open-secure-ai-alliance/",
-    "date": "Tue, 11 Aug 2026 19:33:52 +0000"
+    "source": "broadcom_vmware",
+    "title": "Kubernetes, Container, and VM Services: 50+ Sessions at VMware Explore Tailored for You",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/14/kubernetes-container-and-vm-services-50-sessions-at-vmware-explore-tailored-for-you/",
+    "date": "Fri, 14 Aug 2026 19:58:38 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Operationalizing VMware Cloud Foundation Control Plane for  Kubernetes Workloads",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/13/operationalizing-vmware-cloud-foundation-control-plane-for-kubernetes-workloads/",
-    "date": "Thu, 13 Aug 2026 14:20:22 +0000"
+    "title": "Survive the 2026 Hardware Squeeze: Cost Optimization Sessions at VMware Explore",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/14/survive-the-2026-hardware-squeeze-cost-optimization-sessions-at-vmware-explore/",
+    "date": "Fri, 14 Aug 2026 19:08:28 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "VCF Breakroom Chats Episode 93: From Day-One Deployment to Day-Two Confidence, VMware vSphere Kubernetes Service 3.7 Packs the Punch",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/13/vcf-breakroom-chats-episode-93-from-day-one-deployment-to-day-two-confidence-vmware-vsphere-kubernetes-service-3-7-packs-the-punch/",
-    "date": "Thu, 13 Aug 2026 13:00:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Get Ahead of the Curve with VMware Cloud Foundation (VCF)",
-    "link": "https://blogs.vmware.com/explore/vcf-at-explore/",
-    "date": "Thu, 13 Aug 2026 12:00:00 +0000"
+    "title": "Your Certification Awaits at VMware Explore",
+    "link": "https://blogs.vmware.com/explore/certification-exams/",
+    "date": "Fri, 14 Aug 2026 12:00:00 +0000"
   },
   {
     "source": "veeam_intel",
