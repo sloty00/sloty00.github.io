@@ -19,6 +19,12 @@
   },
   {
     "source": "sophos_ops",
+    "title": "Reviving the Undead: Accelerating NetNTLMv1 Lookups Without GPUs",
+    "link": "https://www.sophos.com/en-us/blog/accelerating-netntlmv1-lookups-without-gpus",
+    "date": "Mon, 17 Aug 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_ops",
     "title": "When AI doesn’t know the target is real",
     "link": "https://www.sophos.com/en-us/blog/when-ai-doesnt-know-the-target-is-real",
     "date": "Fri, 31 Jul 2026 00:00:00 GMT"
@@ -28,12 +34,6 @@
     "title": "When the attacker is an AI agent",
     "link": "https://www.sophos.com/en-us/blog/when-the-attacker-is-an-ai-agent",
     "date": "Thu, 23 Jul 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_ops",
-    "title": "Sophos Trusted Code",
-    "link": "https://www.sophos.com/en-us/blog/sophos-trusted-code",
-    "date": "Mon, 20 Jul 2026 00:00:00 GMT"
   },
   {
     "source": "aws_news",
@@ -73,21 +73,21 @@
   },
   {
     "source": "suse_news",
+    "title": "Sovereign Workload Placement: How Regulated Enterprises Decide Where Things Run",
+    "link": "https://www.suse.com/c/distributed-sovereign-architecture/",
+    "date": "Sat, 15 Aug 2026 03:12:42 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Streamline day-two SAP operations with Trento version 3",
     "link": "https://www.suse.com/c/streamline-day-two-sap-operations-with-trento-version-3/",
     "date": "Fri, 14 Aug 2026 18:27:32 +0000"
   },
   {
     "source": "suse_news",
-    "title": "Stop managing SAP infrastructure by hand. Automate it.",
-    "link": "https://www.suse.com/c/stop-managing-sap-infrastructure-by-hand-automate-it/",
-    "date": "Thu, 13 Aug 2026 22:31:34 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "Demystifying the Token Tax:  How to Optimize AI Workloads Without Breaking the Bank",
-    "link": "https://www.suse.com/c/what-are-ai-tokens/",
-    "date": "Thu, 13 Aug 2026 14:46:13 +0000"
+    "title": "What Is Disaster Recovery as a Service (DRaaS) & What Are Your Alternatives for Disaster Recovery and Business Continuity?",
+    "link": "https://www.suse.com/c/what-is-disaster-recovery-as-a-service-draas-what-are-your-alternatives-for-disaster-recovery-and-business-continuity/",
+    "date": "Fri, 14 Aug 2026 03:06:30 +0000"
   },
   {
     "source": "broadcom_vmware",
