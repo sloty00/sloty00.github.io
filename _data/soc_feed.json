@@ -19,7 +19,7 @@
   },
   {
     "source": "sophos_ops",
-    "title": "Reviving the Undead: Accelerating NetNTLMv1 Lookups Without GPUs",
+    "title": "Hunting the Undead: Accelerating NetNTLMv1 Lookups Without GPUs",
     "link": "https://www.sophos.com/en-us/blog/accelerating-netntlmv1-lookups-without-gpus",
     "date": "Mon, 17 Aug 2026 00:00:00 GMT"
   },
@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon RDS for Oracle now supports Oracle Application Express (APEX) version 26.1",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-oracle-apex-26-1/",
-    "date": "Fri, 14 Aug 2026 15:00:00 GMT"
+    "title": "Amazon Bedrock expands API support and introduces Cross Region Inferencing for OpenAI models",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-cross-region-openai-v2/",
+    "date": "Mon, 17 Aug 2026 20:29:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon SES click tracking now supports custom URL paths for mobile app deep linking",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-supports-customurl-deeplinking",
-    "date": "Fri, 14 Aug 2026 07:00:00 GMT"
+    "title": "Amazon ECR now supports 25 replication rules per registry",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecr-increased-replication-rules-limit",
+    "date": "Mon, 17 Aug 2026 19:01:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Billing and Cost Management introduces Managed Dashboards",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-billing-and-cost-management-managed-dashboards/",
-    "date": "Fri, 14 Aug 2026 02:00:00 GMT"
+    "title": "Amazon EC2 Auto Scaling now supports batch instance termination",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-auto-scaling-batch-termination",
+    "date": "Mon, 17 Aug 2026 18:11:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -91,21 +91,21 @@
   },
   {
     "source": "broadcom_vmware",
-    "title": "Kubernetes, Container, and VM Services: 50+ Sessions at VMware Explore Tailored for You",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/14/kubernetes-container-and-vm-services-50-sessions-at-vmware-explore-tailored-for-you/",
-    "date": "Fri, 14 Aug 2026 19:58:38 +0000"
+    "title": "Community Meetups at Explore 2026 Vegas",
+    "link": "https://blogs.vmware.com/vmtn/2026/08/community-meetups-at-explore-2026-vegas.html",
+    "date": "Mon, 17 Aug 2026 23:12:48 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Survive the 2026 Hardware Squeeze: Cost Optimization Sessions at VMware Explore",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/14/survive-the-2026-hardware-squeeze-cost-optimization-sessions-at-vmware-explore/",
-    "date": "Fri, 14 Aug 2026 19:08:28 +0000"
+    "title": "Exploring API-Driven Day 2 Operations in VCF 9.1 with Rachel Stephens from RedMonk",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/17/exploring-api-driven-day-2-operations-in-vcf-9-1-with-rachel-stephens-from-redmonk/",
+    "date": "Mon, 17 Aug 2026 15:00:00 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Your Certification Awaits at VMware Explore",
-    "link": "https://blogs.vmware.com/explore/certification-exams/",
-    "date": "Fri, 14 Aug 2026 12:00:00 +0000"
+    "title": "Your Tactical Guide to Giveaways in Las Vegas",
+    "link": "https://blogs.vmware.com/explore/event-giveaways/",
+    "date": "Mon, 17 Aug 2026 12:00:00 +0000"
   },
   {
     "source": "veeam_intel",
