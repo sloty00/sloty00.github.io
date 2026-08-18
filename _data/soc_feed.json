@@ -109,6 +109,12 @@
   },
   {
     "source": "veeam_intel",
+    "title": "Veeam Data Platform 13.1: Veeam Data Cloud Vault on Veeam Backup for AWS",
+    "link": "https://www.veeam.com/blog/veeam-vault-aws-backup.html",
+    "date": "Tue, 18 Aug 2026 10:24:30 +0000"
+  },
+  {
+    "source": "veeam_intel",
     "title": "Uncover the Threat Intelligence Already in Your Backups",
     "link": "https://www.veeam.com/blog/veeam-data-platform-threat-detection.html",
     "date": "Thu, 13 Aug 2026 16:57:08 +0000"
@@ -118,12 +124,6 @@
     "title": "Your Data Loss Prevention Strategy Was Built for a World That’s Already Gone",
     "link": "https://www.veeam.com/blog/data-loss-prevention-strategy.html",
     "date": "Thu, 06 Aug 2026 12:00:00 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "The Threat Surface Isn’t Your Network. It’s Agents Acting on Your Data",
-    "link": "https://www.veeam.com/blog/ai-agents-attack-surface.html",
-    "date": "Wed, 05 Aug 2026 21:30:00 +0000"
   },
   {
     "source": "hackerrank",
