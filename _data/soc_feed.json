@@ -1,6 +1,12 @@
 [
   {
     "source": "sophos_threat",
+    "title": "2608-patch-tuesday",
+    "link": "https://www.sophos.com/en-us/blog/2608-patch-tuesday",
+    "date": "Mon, 17 Aug 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "deno-case-studies",
     "link": "https://www.sophos.com/en-us/blog/deno-case-studies",
     "date": "Tue, 11 Aug 2026 00:00:00 GMT"
@@ -10,12 +16,6 @@
     "title": "ClickFix campaign abuses Deno runtime for infostealer delivery",
     "link": "https://www.sophos.com/en-us/blog/clickfix-campaign-abuses-deno-runtime-for-infostealer-delivery",
     "date": "Tue, 11 Aug 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "2608-volatility-interlock",
-    "link": "https://www.sophos.com/en-us/blog/2608-volatility-interlock",
-    "date": "Tue, 04 Aug 2026 00:00:00 GMT"
   },
   {
     "source": "sophos_ops",
@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon Bedrock expands API support and introduces Cross Region Inferencing for OpenAI models",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-cross-region-openai-v2/",
-    "date": "Mon, 17 Aug 2026 20:29:00 GMT"
+    "title": "Amazon Bedrock now supports OpenAI models in India",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-openai-india-v1/",
+    "date": "Tue, 18 Aug 2026 23:30:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon ECR now supports 25 replication rules per registry",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecr-increased-replication-rules-limit",
-    "date": "Mon, 17 Aug 2026 19:01:00 GMT"
+    "title": "AWS IAM identity federation to external services is now available in AWS European Sovereign Cloud Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-european-sovereign-cloud/",
+    "date": "Tue, 18 Aug 2026 22:30:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EC2 Auto Scaling now supports batch instance termination",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-auto-scaling-batch-termination",
-    "date": "Mon, 17 Aug 2026 18:11:00 GMT"
+    "title": "Amazon Corretto August 2026 Critical Security Patch Updates",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-corretto-august-2026-security-updates",
+    "date": "Tue, 18 Aug 2026 21:48:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -91,6 +91,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "IDC White Paper: Self-Service Private Cloud as the Engine for In-House AI and Application Innovation",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/18/idc-white-paper-self-service-private-cloud-as-the-engine-for-in-house-ai-and-application-innovation/",
+    "date": "Tue, 18 Aug 2026 12:00:00 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Community Meetups at Explore 2026 Vegas",
     "link": "https://blogs.vmware.com/vmtn/2026/08/community-meetups-at-explore-2026-vegas.html",
     "date": "Mon, 17 Aug 2026 23:12:48 +0000"
@@ -100,12 +106,6 @@
     "title": "Exploring API-Driven Day 2 Operations in VCF 9.1 with Rachel Stephens from RedMonk",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/08/17/exploring-api-driven-day-2-operations-in-vcf-9-1-with-rachel-stephens-from-redmonk/",
     "date": "Mon, 17 Aug 2026 15:00:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Your Tactical Guide to Giveaways in Las Vegas",
-    "link": "https://blogs.vmware.com/explore/event-giveaways/",
-    "date": "Mon, 17 Aug 2026 12:00:00 +0000"
   },
   {
     "source": "veeam_intel",
