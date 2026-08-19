@@ -1,6 +1,12 @@
 [
   {
     "source": "sophos_threat",
+    "title": "Fake AI, real malware: Attackers impersonating AI brands",
+    "link": "https://www.sophos.com/en-us/blog/fake-ai-real-malware-attackers-impersonating-ai-brands",
+    "date": "Wed, 19 Aug 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "2608-patch-tuesday",
     "link": "https://www.sophos.com/en-us/blog/2608-patch-tuesday",
     "date": "Mon, 17 Aug 2026 00:00:00 GMT"
@@ -9,12 +15,6 @@
     "source": "sophos_threat",
     "title": "deno-case-studies",
     "link": "https://www.sophos.com/en-us/blog/deno-case-studies",
-    "date": "Tue, 11 Aug 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "ClickFix campaign abuses Deno runtime for infostealer delivery",
-    "link": "https://www.sophos.com/en-us/blog/clickfix-campaign-abuses-deno-runtime-for-infostealer-delivery",
     "date": "Tue, 11 Aug 2026 00:00:00 GMT"
   },
   {
@@ -37,6 +37,12 @@
   },
   {
     "source": "aws_news",
+    "title": "Amazon Bedrock now supports SpaceXAI Grok 4.6",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-grok-4-6/",
+    "date": "Wed, 19 Aug 2026 05:18:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "Amazon Bedrock now supports OpenAI models in India",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-openai-india-v1/",
     "date": "Tue, 18 Aug 2026 23:30:00 GMT"
@@ -46,12 +52,6 @@
     "title": "AWS IAM identity federation to external services is now available in AWS European Sovereign Cloud Region",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-european-sovereign-cloud/",
     "date": "Tue, 18 Aug 2026 22:30:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Amazon Corretto August 2026 Critical Security Patch Updates",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-corretto-august-2026-security-updates",
-    "date": "Tue, 18 Aug 2026 21:48:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "Why SUSE Linux Enterprise Server Is the Best Choice for Running SAP",
+    "link": "https://www.suse.com/c/why-suse-linux-enterprise-server-is-the-best-choice-for-running-sap-2/",
+    "date": "Wed, 19 Aug 2026 05:58:32 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Sovereign Workload Placement: How Regulated Enterprises Decide Where Things Run",
     "link": "https://www.suse.com/c/distributed-sovereign-architecture/",
     "date": "Sat, 15 Aug 2026 03:12:42 +0000"
@@ -84,10 +90,10 @@
     "date": "Fri, 14 Aug 2026 18:27:32 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "What Is Disaster Recovery as a Service (DRaaS) & What Are Your Alternatives for Disaster Recovery and Business Continuity?",
-    "link": "https://www.suse.com/c/what-is-disaster-recovery-as-a-service-draas-what-are-your-alternatives-for-disaster-recovery-and-business-continuity/",
-    "date": "Fri, 14 Aug 2026 03:06:30 +0000"
+    "source": "broadcom_vmware",
+    "title": "Putting Numbers Behind Encrypted vMotion Offload to Intel QAT in VMware Cloud Foundation 9.1",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/19/putting-numbers-behind-encrypted-vmotion-offload-to-intel-qat-in-vmware-cloud-foundation-9-1/",
+    "date": "Wed, 19 Aug 2026 11:00:00 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -100,12 +106,6 @@
     "title": "Community Meetups at Explore 2026 Vegas",
     "link": "https://blogs.vmware.com/vmtn/2026/08/community-meetups-at-explore-2026-vegas.html",
     "date": "Mon, 17 Aug 2026 23:12:48 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Exploring API-Driven Day 2 Operations in VCF 9.1 with Rachel Stephens from RedMonk",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/17/exploring-api-driven-day-2-operations-in-vcf-9-1-with-rachel-stephens-from-redmonk/",
-    "date": "Mon, 17 Aug 2026 15:00:00 +0000"
   },
   {
     "source": "veeam_intel",
