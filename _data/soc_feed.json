@@ -37,39 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon Bedrock now supports SpaceXAI Grok 4.6",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-grok-4-6/",
-    "date": "Wed, 19 Aug 2026 05:18:00 GMT"
+    "title": "Launching External Web Access for Web Search on Amazon Bedrock",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-web-access-web-search/",
+    "date": "Wed, 19 Aug 2026 23:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Bedrock now supports OpenAI models in India",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-openai-india-v1/",
-    "date": "Tue, 18 Aug 2026 23:30:00 GMT"
+    "title": "Web Search in Amazon Bedrock AgentCore adds domain and published date filtering, expands to Europe and Asia Pacific",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/web-search-amazon-bedrock/",
+    "date": "Wed, 19 Aug 2026 22:55:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS IAM identity federation to external services is now available in AWS European Sovereign Cloud Region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-european-sovereign-cloud/",
-    "date": "Tue, 18 Aug 2026 22:30:00 GMT"
-  },
-  {
-    "source": "gcp_cloud",
-    "title": "Bring your spreadsheet data to life with Sheets canvas",
-    "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-    "date": "Thu, 13 Aug 2026 16:45:00 +0000"
-  },
-  {
-    "source": "gcp_cloud",
-    "title": "The latest AI news we announced in July 2026",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-    "date": "Tue, 04 Aug 2026 13:00:00 +0000"
-  },
-  {
-    "source": "gcp_cloud",
-    "title": "Inside our 353,000-person vibe coding course",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-    "date": "Mon, 03 Aug 2026 15:00:00 +0000"
+    "title": "Amazon CloudWatch log Centralization now supports log group tag propagation",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-centralization-tag-propogation/",
+    "date": "Wed, 19 Aug 2026 21:06:00 GMT"
   },
   {
     "source": "suse_news",
@@ -91,39 +73,39 @@
   },
   {
     "source": "broadcom_vmware",
-    "title": "Putting Numbers Behind Encrypted vMotion Offload to Intel QAT in VMware Cloud Foundation 9.1",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/19/putting-numbers-behind-encrypted-vmotion-offload-to-intel-qat-in-vmware-cloud-foundation-9-1/",
-    "date": "Wed, 19 Aug 2026 11:00:00 +0000"
+    "title": "Frontier AI and Security: Your Guide to Top Resources at VMware Explore 2026",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/19/frontier-ai-and-vmware-cloud-foundation-security-top-resources-at-vmware-explore-2026/",
+    "date": "Wed, 19 Aug 2026 19:09:36 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "IDC White Paper: Self-Service Private Cloud as the Engine for In-House AI and Application Innovation",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/18/idc-white-paper-self-service-private-cloud-as-the-engine-for-in-house-ai-and-application-innovation/",
-    "date": "Tue, 18 Aug 2026 12:00:00 +0000"
+    "title": "Choosing the Right Kubernetes Migration Path to VMware vSphere Kubernetes Service",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/19/from-blocker-to-playbook-choosing-the-right-kubernetes-migration-path-to-vmware-vsphere-kubernetes-service/",
+    "date": "Wed, 19 Aug 2026 18:09:02 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Community Meetups at Explore 2026 Vegas",
-    "link": "https://blogs.vmware.com/vmtn/2026/08/community-meetups-at-explore-2026-vegas.html",
-    "date": "Mon, 17 Aug 2026 23:12:48 +0000"
+    "title": "Don’t Miss These VMware Tanzu Sessions at VMware Explore 2026",
+    "link": "https://blogs.vmware.com/tanzu/dont-miss-these-vmware-tanzu-sessions-at-vmware-explore-2026/",
+    "date": "Wed, 19 Aug 2026 16:00:00 +0000"
+  },
+  {
+    "source": "veeam_intel",
+    "title": "Veeam Data Cloud Vault for Azure Backup: The Missing Piece in Your Cloud Resilience Strategy",
+    "link": "https://www.veeam.com/blog/vault-storage-for-azure.html",
+    "date": "Wed, 19 Aug 2026 19:56:59 +0000"
+  },
+  {
+    "source": "veeam_intel",
+    "title": "Microsoft 365 Backup: Why Your Data Isn’t as Protected as You Think",
+    "link": "https://www.veeam.com/blog/microsoft-365-backup-gaps.html",
+    "date": "Wed, 19 Aug 2026 18:06:49 +0000"
   },
   {
     "source": "veeam_intel",
     "title": "Veeam Data Platform 13.1: Veeam Data Cloud Vault on Veeam Backup for AWS",
     "link": "https://www.veeam.com/blog/veeam-vault-aws-backup.html",
     "date": "Tue, 18 Aug 2026 10:24:30 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Uncover the Threat Intelligence Already in Your Backups",
-    "link": "https://www.veeam.com/blog/veeam-data-platform-threat-detection.html",
-    "date": "Thu, 13 Aug 2026 16:57:08 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Your Data Loss Prevention Strategy Was Built for a World That’s Already Gone",
-    "link": "https://www.veeam.com/blog/data-loss-prevention-strategy.html",
-    "date": "Thu, 06 Aug 2026 12:00:00 +0000"
   },
   {
     "source": "hackerrank",
