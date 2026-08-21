@@ -73,21 +73,21 @@
   },
   {
     "source": "suse_news",
+    "title": "SUSE Virtualization 1.8 More Control. More Paths Off VMware. No Forced Bundling.",
+    "link": "https://www.suse.com/c/suse-virtualization-1-8-enterprise-controls-migration-composable-platform/",
+    "date": "Fri, 21 Aug 2026 06:24:09 +0000"
+  },
+  {
+    "source": "suse_news",
+    "title": "Enterprise AI Sovereignty Has Three Dimensions: Here’s How SUSE Addresses All of Them",
+    "link": "https://www.suse.com/c/enterprise-ai-sovereignty-has-three-dimensions-heres-how-suse-addresses-all-of-them/",
+    "date": "Fri, 21 Aug 2026 06:17:01 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Why SUSE Linux Enterprise Server Is the Best Choice for Running SAP",
     "link": "https://www.suse.com/c/why-suse-linux-enterprise-server-is-the-best-choice-for-running-sap-2/",
     "date": "Wed, 19 Aug 2026 05:58:32 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "Sovereign Workload Placement: How Regulated Enterprises Decide Where Things Run",
-    "link": "https://www.suse.com/c/distributed-sovereign-architecture/",
-    "date": "Sat, 15 Aug 2026 03:12:42 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "Streamline day-two SAP operations with Trento version 3",
-    "link": "https://www.suse.com/c/streamline-day-two-sap-operations-with-trento-version-3/",
-    "date": "Fri, 14 Aug 2026 18:27:32 +0000"
   },
   {
     "source": "broadcom_vmware",
