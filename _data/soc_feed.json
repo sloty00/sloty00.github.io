@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Launching External Web Access for Web Search on Amazon Bedrock",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-web-access-web-search/",
-    "date": "Wed, 19 Aug 2026 23:00:00 GMT"
+    "title": "AWS announces the general availability of a new AWS Local Zone in Las Vegas, Nevada",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-local-zones-las-vegas-nevada/",
+    "date": "Thu, 20 Aug 2026 21:45:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Web Search in Amazon Bedrock AgentCore adds domain and published date filtering, expands to Europe and Asia Pacific",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/web-search-amazon-bedrock/",
-    "date": "Wed, 19 Aug 2026 22:55:00 GMT"
+    "title": "Amazon Timestream for InfluxDB now supports customer managed keys",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-timestream-influxdb-cmk/",
+    "date": "Thu, 20 Aug 2026 20:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon CloudWatch log Centralization now supports log group tag propagation",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-centralization-tag-propogation/",
-    "date": "Wed, 19 Aug 2026 21:06:00 GMT"
+    "title": "Amazon EC2 P6-B300 instances are now available in the Asia Pacific (Seoul) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-p6-b300/",
+    "date": "Thu, 20 Aug 2026 18:31:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -91,39 +91,39 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Let’s Talk Tokenomics at VMware Explore 2026",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/20/lets-talk-tokenomics-at-vmware-explore-2026/",
+    "date": "Thu, 20 Aug 2026 17:45:57 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "Take Your VCF Upgrade Further: Meet the Hyperscalers at VMware Explore 2026",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/20/take-your-vcf-upgrade-further-meet-the-hyperscalers-at-vmware-explore-2026/",
+    "date": "Thu, 20 Aug 2026 17:27:07 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Frontier AI and Security: Your Guide to Top Resources at VMware Explore 2026",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/08/19/frontier-ai-and-vmware-cloud-foundation-security-top-resources-at-vmware-explore-2026/",
     "date": "Wed, 19 Aug 2026 19:09:36 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "Choosing the Right Kubernetes Migration Path to VMware vSphere Kubernetes Service",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/19/from-blocker-to-playbook-choosing-the-right-kubernetes-migration-path-to-vmware-vsphere-kubernetes-service/",
-    "date": "Wed, 19 Aug 2026 18:09:02 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Don’t Miss These VMware Tanzu Sessions at VMware Explore 2026",
-    "link": "https://blogs.vmware.com/tanzu/dont-miss-these-vmware-tanzu-sessions-at-vmware-explore-2026/",
-    "date": "Wed, 19 Aug 2026 16:00:00 +0000"
+    "source": "veeam_intel",
+    "title": "Migrate VMware to Proxmox: A Technical Guide for Conversion, Cutover, and Continuity",
+    "link": "https://www.veeam.com/blog/vmware-to-proxmox-migration.html",
+    "date": "Thu, 20 Aug 2026 21:40:24 +0000"
   },
   {
     "source": "veeam_intel",
-    "title": "Veeam Data Cloud Vault for Azure Backup: The Missing Piece in Your Cloud Resilience Strategy",
-    "link": "https://www.veeam.com/blog/vault-storage-for-azure.html",
-    "date": "Wed, 19 Aug 2026 19:56:59 +0000"
+    "title": "Resilience Without Blind Spots: Veeam’s Q3 Innovation Pulse",
+    "link": "https://www.veeam.com/blog/q3-2026-innovation-pulse-resilience-blind-spots.html",
+    "date": "Thu, 20 Aug 2026 17:24:04 +0000"
   },
   {
     "source": "veeam_intel",
-    "title": "Microsoft 365 Backup: Why Your Data Isn’t as Protected as You Think",
-    "link": "https://www.veeam.com/blog/microsoft-365-backup-gaps.html",
-    "date": "Wed, 19 Aug 2026 18:06:49 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Veeam Data Platform 13.1: Veeam Data Cloud Vault on Veeam Backup for AWS",
-    "link": "https://www.veeam.com/blog/veeam-vault-aws-backup.html",
-    "date": "Tue, 18 Aug 2026 10:24:30 +0000"
+    "title": "Veeam Data Cloud Vault for AWS Backup: Immutable Storage Outside Your AWS Account",
+    "link": "https://www.veeam.com/blog/vault-storage-for-aws.html",
+    "date": "Thu, 20 Aug 2026 14:28:12 +0000"
   },
   {
     "source": "hackerrank",
