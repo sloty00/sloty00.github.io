@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS announces the general availability of a new AWS Local Zone in Las Vegas, Nevada",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-local-zones-las-vegas-nevada/",
-    "date": "Thu, 20 Aug 2026 21:45:00 GMT"
+    "title": "Amazon Connect Customer now lets managers chat with their data",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-ai-data-analytics",
+    "date": "Fri, 21 Aug 2026 20:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Timestream for InfluxDB now supports customer managed keys",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-timestream-influxdb-cmk/",
-    "date": "Thu, 20 Aug 2026 20:00:00 GMT"
+    "title": "AWS Deadline Cloud now tracks automatic download status in the Deadline Cloud Monitor",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-deadline-cloud-auto-download-status-tracking/",
+    "date": "Fri, 21 Aug 2026 18:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EC2 P6-B300 instances are now available in the Asia Pacific (Seoul) Region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-p6-b300/",
-    "date": "Thu, 20 Aug 2026 18:31:00 GMT"
+    "title": "Amazon EKS Capability for Argo CD now supports custom configuration",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-argo-cd-configuration",
+    "date": "Fri, 21 Aug 2026 17:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -91,6 +91,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "See You at The Party!",
+    "link": "https://blogs.vmware.com/explore/see-you-at-the-party/",
+    "date": "Fri, 21 Aug 2026 12:00:00 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Let’s Talk Tokenomics at VMware Explore 2026",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/08/20/lets-talk-tokenomics-at-vmware-explore-2026/",
     "date": "Thu, 20 Aug 2026 17:45:57 +0000"
@@ -102,10 +108,10 @@
     "date": "Thu, 20 Aug 2026 17:27:07 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "Frontier AI and Security: Your Guide to Top Resources at VMware Explore 2026",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/19/frontier-ai-and-vmware-cloud-foundation-security-top-resources-at-vmware-explore-2026/",
-    "date": "Wed, 19 Aug 2026 19:09:36 +0000"
+    "source": "veeam_intel",
+    "title": "Veeam Data Cloud for Microsoft 365: A Closer Look at Protection, Architecture, and Security",
+    "link": "https://www.veeam.com/blog/veeam-data-cloud-microsoft-365-architecture.html",
+    "date": "Fri, 21 Aug 2026 20:37:55 +0000"
   },
   {
     "source": "veeam_intel",
@@ -118,12 +124,6 @@
     "title": "Resilience Without Blind Spots: Veeam’s Q3 Innovation Pulse",
     "link": "https://www.veeam.com/blog/q3-2026-innovation-pulse-resilience-blind-spots.html",
     "date": "Thu, 20 Aug 2026 17:24:04 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Veeam Data Cloud Vault for AWS Backup: Immutable Storage Outside Your AWS Account",
-    "link": "https://www.veeam.com/blog/vault-storage-for-aws.html",
-    "date": "Thu, 20 Aug 2026 14:28:12 +0000"
   },
   {
     "source": "hackerrank",
