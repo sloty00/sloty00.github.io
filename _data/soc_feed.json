@@ -37,6 +37,12 @@
   },
   {
     "source": "aws_news",
+    "title": "Amazon Bedrock announces reduced pricing for OpenAI GPT-5.6 Sol",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-openai-gpt-56-sol-reduced-pricing/",
+    "date": "Fri, 21 Aug 2026 20:11:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "Amazon Connect Customer now lets managers chat with their data",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-ai-data-analytics",
     "date": "Fri, 21 Aug 2026 20:00:00 GMT"
@@ -46,12 +52,6 @@
     "title": "AWS Deadline Cloud now tracks automatic download status in the Deadline Cloud Monitor",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-deadline-cloud-auto-download-status-tracking/",
     "date": "Fri, 21 Aug 2026 18:00:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Amazon EKS Capability for Argo CD now supports custom configuration",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-argo-cd-configuration",
-    "date": "Fri, 21 Aug 2026 17:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
