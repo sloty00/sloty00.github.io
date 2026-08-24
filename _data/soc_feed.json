@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "Sovereign Cloud in the Public Sector: Understanding Sovereignty for Public Sector Institutions",
+    "link": "https://www.suse.com/c/sovereign-cloud-in-the-public-sector-understanding-sovereignty-for-public-sector-institutions/",
+    "date": "Mon, 24 Aug 2026 01:18:56 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "SUSE Virtualization 1.8 More Control. More Paths Off VMware. No Forced Bundling.",
     "link": "https://www.suse.com/c/suse-virtualization-1-8-enterprise-controls-migration-composable-platform/",
     "date": "Fri, 21 Aug 2026 06:24:09 +0000"
@@ -82,12 +88,6 @@
     "title": "Enterprise AI Sovereignty Has Three Dimensions: Here’s How SUSE Addresses All of Them",
     "link": "https://www.suse.com/c/enterprise-ai-sovereignty-has-three-dimensions-heres-how-suse-addresses-all-of-them/",
     "date": "Fri, 21 Aug 2026 06:17:01 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "Why SUSE Linux Enterprise Server Is the Best Choice for Running SAP",
-    "link": "https://www.suse.com/c/why-suse-linux-enterprise-server-is-the-best-choice-for-running-sap-2/",
-    "date": "Wed, 19 Aug 2026 05:58:32 +0000"
   },
   {
     "source": "broadcom_vmware",
