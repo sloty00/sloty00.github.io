@@ -37,6 +37,12 @@
   },
   {
     "source": "aws_news",
+    "title": "AWS Lambda functions now support full IAM resource-based policies",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-full-iam-resource-based-policies/",
+    "date": "Tue, 25 Aug 2026 02:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "Amazon ECS now automatically detects and repairs container instances with impaired agent connectivity",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecs-agent-connectivity-health",
     "date": "Mon, 24 Aug 2026 22:42:00 GMT"
@@ -46,12 +52,6 @@
     "title": "SageMaker MLflow now supports customer managed keys",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/sagemaker-mlflow-custom-keys",
     "date": "Mon, 24 Aug 2026 19:26:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Amazon EKS now supports multiple external OIDC identity providers per cluster",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-multiple-oidc-providers",
-    "date": "Mon, 24 Aug 2026 18:29:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "The Art of the Possible: Unlocking Enterprise Value with Open Source Virtualization",
+    "link": "https://www.suse.com/c/the-art-of-the-possible-unlocking-enterprise-value-with-open-source-virtualization/",
+    "date": "Tue, 25 Aug 2026 01:12:36 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Sovereign Cloud in the Public Sector: Understanding Sovereignty for Public Sector Institutions",
     "link": "https://www.suse.com/c/sovereign-cloud-in-the-public-sector-understanding-sovereignty-for-public-sector-institutions/",
     "date": "Mon, 24 Aug 2026 01:18:56 +0000"
@@ -82,12 +88,6 @@
     "title": "SUSE Virtualization 1.8 More Control. More Paths Off VMware. No Forced Bundling.",
     "link": "https://www.suse.com/c/suse-virtualization-1-8-enterprise-controls-migration-composable-platform/",
     "date": "Fri, 21 Aug 2026 06:24:09 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "Enterprise AI Sovereignty Has Three Dimensions: Here’s How SUSE Addresses All of Them",
-    "link": "https://www.suse.com/c/enterprise-ai-sovereignty-has-three-dimensions-heres-how-suse-addresses-all-of-them/",
-    "date": "Fri, 21 Aug 2026 06:17:01 +0000"
   },
   {
     "source": "broadcom_vmware",
