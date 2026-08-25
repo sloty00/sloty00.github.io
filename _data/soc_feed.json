@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon Bedrock announces reduced pricing for OpenAI GPT-5.6 Sol",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-openai-gpt-56-sol-reduced-pricing/",
-    "date": "Fri, 21 Aug 2026 20:11:00 GMT"
+    "title": "Amazon ECS now automatically detects and repairs container instances with impaired agent connectivity",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecs-agent-connectivity-health",
+    "date": "Mon, 24 Aug 2026 22:42:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Connect Customer now lets managers chat with their data",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-ai-data-analytics",
-    "date": "Fri, 21 Aug 2026 20:00:00 GMT"
+    "title": "SageMaker MLflow now supports customer managed keys",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/sagemaker-mlflow-custom-keys",
+    "date": "Mon, 24 Aug 2026 19:26:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Deadline Cloud now tracks automatic download status in the Deadline Cloud Monitor",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-deadline-cloud-auto-download-status-tracking/",
-    "date": "Fri, 21 Aug 2026 18:00:00 GMT"
+    "title": "Amazon EKS now supports multiple external OIDC identity providers per cluster",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-multiple-oidc-providers",
+    "date": "Mon, 24 Aug 2026 18:29:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -91,21 +91,21 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "At VMware Explore 2026: Future-Proofing Enterprise AI with a Flexible Model Strategy",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/24/at-vmware-explore-2026-future-proofing-enterprise-ai-with-a-flexible-model-strategy/",
+    "date": "Mon, 24 Aug 2026 22:54:16 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "Bridging the IT Chasm: A Strategic Blueprint for Platform Engineering 2.0",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/24/bridging-the-it-chasm-a-strategic-blueprint-for-platform-engineering-2-0/",
+    "date": "Mon, 24 Aug 2026 19:33:22 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "See You at The Party!",
     "link": "https://blogs.vmware.com/explore/see-you-at-the-party/",
     "date": "Fri, 21 Aug 2026 12:00:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Let’s Talk Tokenomics at VMware Explore 2026",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/20/lets-talk-tokenomics-at-vmware-explore-2026/",
-    "date": "Thu, 20 Aug 2026 17:45:57 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Take Your VCF Upgrade Further: Meet the Hyperscalers at VMware Explore 2026",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/20/take-your-vcf-upgrade-further-meet-the-hyperscalers-at-vmware-explore-2026/",
-    "date": "Thu, 20 Aug 2026 17:27:07 +0000"
   },
   {
     "source": "veeam_intel",
