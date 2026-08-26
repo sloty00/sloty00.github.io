@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "Do you really need more than EKS? An honest answer",
+    "link": "https://www.suse.com/c/do-you-really-need-more-than-eks-an-honest-answer/",
+    "date": "Wed, 26 Aug 2026 06:50:45 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "The Art of the Possible: Unlocking Enterprise Value with Open Source Virtualization",
     "link": "https://www.suse.com/c/the-art-of-the-possible-unlocking-enterprise-value-with-open-source-virtualization/",
     "date": "Tue, 25 Aug 2026 01:12:36 +0000"
@@ -82,12 +88,6 @@
     "title": "Sovereign Cloud in the Public Sector: Understanding Sovereignty for Public Sector Institutions",
     "link": "https://www.suse.com/c/sovereign-cloud-in-the-public-sector-understanding-sovereignty-for-public-sector-institutions/",
     "date": "Mon, 24 Aug 2026 01:18:56 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "SUSE Virtualization 1.8 More Control. More Paths Off VMware. No Forced Bundling.",
-    "link": "https://www.suse.com/c/suse-virtualization-1-8-enterprise-controls-migration-composable-platform/",
-    "date": "Fri, 21 Aug 2026 06:24:09 +0000"
   },
   {
     "source": "broadcom_vmware",
