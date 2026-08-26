@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS Lambda functions now support full IAM resource-based policies",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-full-iam-resource-based-policies/",
-    "date": "Tue, 25 Aug 2026 02:00:00 GMT"
+    "title": "AWS IoT Core now supports native InfluxDB routing for time-series data",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iot-core-influxdb/",
+    "date": "Tue, 25 Aug 2026 19:42:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon ECS now automatically detects and repairs container instances with impaired agent connectivity",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecs-agent-connectivity-health",
-    "date": "Mon, 24 Aug 2026 22:42:00 GMT"
+    "title": "AWS Batch now supports Amazon ECS Managed Instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-batch-on-ecs-managed-instances/",
+    "date": "Tue, 25 Aug 2026 19:36:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "SageMaker MLflow now supports customer managed keys",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/sagemaker-mlflow-custom-keys",
-    "date": "Mon, 24 Aug 2026 19:26:00 GMT"
+    "title": "Capacity Reservation Resource Groups now support Amazon EC2 Capacity Blocks and interruptible Capacity Reservations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/capacity-reservation-resource-groups-ec2",
+    "date": "Tue, 25 Aug 2026 18:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
