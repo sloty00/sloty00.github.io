@@ -13,8 +13,8 @@
   },
   {
     "source": "sophos_threat",
-    "title": "deno-case-studies",
-    "link": "https://www.sophos.com/en-us/blog/deno-case-studies",
+    "title": "ClickFix campaign abuses Deno runtime for infostealer delivery",
+    "link": "https://www.sophos.com/en-us/blog/clickfix-campaign-abuses-deno-runtime-for-infostealer-delivery",
     "date": "Tue, 11 Aug 2026 00:00:00 GMT"
   },
   {
@@ -37,21 +37,27 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS IoT Core now supports native InfluxDB routing for time-series data",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iot-core-influxdb/",
-    "date": "Tue, 25 Aug 2026 19:42:00 GMT"
+    "title": "Amazon Cognito adds admin API operation to reset user TOTP configurations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cognito-totp-reset/",
+    "date": "Wed, 26 Aug 2026 22:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Batch now supports Amazon ECS Managed Instances",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-batch-on-ecs-managed-instances/",
-    "date": "Tue, 25 Aug 2026 19:36:00 GMT"
+    "title": "Amazon Connect Customer now supports unplanned shrinkage in agent schedules",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-unplanned-shrinkage/",
+    "date": "Wed, 26 Aug 2026 20:16:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Capacity Reservation Resource Groups now support Amazon EC2 Capacity Blocks and interruptible Capacity Reservations",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/capacity-reservation-resource-groups-ec2",
-    "date": "Tue, 25 Aug 2026 18:00:00 GMT"
+    "title": "Mountpoint for Amazon S3 adds memory usage controls",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/mountpoint-for-S3-adds-memory-usage-controls",
+    "date": "Wed, 26 Aug 2026 18:00:00 GMT"
+  },
+  {
+    "source": "gcp_cloud",
+    "title": "7 ways to kick-start back to school using Gemini in Workspace",
+    "link": "https://blog.google/products-and-platforms/products/workspace/gemini-google-workspace-back-to-school/",
+    "date": "Wed, 26 Aug 2026 20:30:00 +0000"
   },
   {
     "source": "gcp_cloud",
@@ -66,46 +72,28 @@
     "date": "Tue, 04 Aug 2026 13:00:00 +0000"
   },
   {
-    "source": "gcp_cloud",
-    "title": "Inside our 353,000-person vibe coding course",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-    "date": "Mon, 03 Aug 2026 15:00:00 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "Do you really need more than EKS? An honest answer",
-    "link": "https://www.suse.com/c/do-you-really-need-more-than-eks-an-honest-answer/",
-    "date": "Wed, 26 Aug 2026 06:50:45 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "The Art of the Possible: Unlocking Enterprise Value with Open Source Virtualization",
-    "link": "https://www.suse.com/c/the-art-of-the-possible-unlocking-enterprise-value-with-open-source-virtualization/",
-    "date": "Tue, 25 Aug 2026 01:12:36 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "Sovereign Cloud in the Public Sector: Understanding Sovereignty for Public Sector Institutions",
-    "link": "https://www.suse.com/c/sovereign-cloud-in-the-public-sector-understanding-sovereignty-for-public-sector-institutions/",
-    "date": "Mon, 24 Aug 2026 01:18:56 +0000"
+    "source": "broadcom_vmware",
+    "title": "Unlocking Developer Velocity: The Code-to-URL Revolution",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/26/unlocking-developer-velocity-the-code-to-url-revolution/",
+    "date": "Thu, 27 Aug 2026 06:18:02 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "At VMware Explore 2026: Future-Proofing Enterprise AI with a Flexible Model Strategy",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/24/at-vmware-explore-2026-future-proofing-enterprise-ai-with-a-flexible-model-strategy/",
-    "date": "Mon, 24 Aug 2026 22:54:16 +0000"
+    "title": "Planning to use Epic’s AI Tools? Here’s Some Good News for VCF Customers",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/26/planning-to-use-epics-ai-tools-heres-some-good-news-for-vcf-customers/",
+    "date": "Wed, 26 Aug 2026 19:48:01 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Bridging the IT Chasm: A Strategic Blueprint for Platform Engineering 2.0",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/24/bridging-the-it-chasm-a-strategic-blueprint-for-platform-engineering-2-0/",
-    "date": "Mon, 24 Aug 2026 19:33:22 +0000"
+    "title": "Automate DBaaS Operations on VCF with Agentic AI",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/26/automate-dbaas-operations-on-vcf-with-agentic-ai/",
+    "date": "Wed, 26 Aug 2026 18:41:35 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "See You at The Party!",
-    "link": "https://blogs.vmware.com/explore/see-you-at-the-party/",
-    "date": "Fri, 21 Aug 2026 12:00:00 +0000"
+    "source": "veeam_intel",
+    "title": "Veeam Named a Finalist in CRN’s Best of the Channel Awards",
+    "link": "https://www.veeam.com/blog/veeam-crn-best-of-channel-finalist.html",
+    "date": "Wed, 26 Aug 2026 18:00:25 +0000"
   },
   {
     "source": "veeam_intel",
@@ -118,12 +106,6 @@
     "title": "Migrate VMware to Proxmox: A Technical Guide for Conversion, Cutover, and Continuity",
     "link": "https://www.veeam.com/blog/vmware-to-proxmox-migration.html",
     "date": "Thu, 20 Aug 2026 21:40:24 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Resilience Without Blind Spots: Veeam’s Q3 Innovation Pulse",
-    "link": "https://www.veeam.com/blog/q3-2026-innovation-pulse-resilience-blind-spots.html",
-    "date": "Thu, 20 Aug 2026 17:24:04 +0000"
   },
   {
     "source": "hackerrank",
