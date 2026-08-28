@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon Redshift integrates with Agent Toolkit for AWS for AI-assisted data warehouse management",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-agenttoolkit-for-ai-assisted-datawarehouse-mgmt",
-    "date": "Thu, 27 Aug 2026 20:07:00 GMT"
+    "title": "Cosmos3-Edge, Cosmos3-Nano, and Cosmos3-Super models now available on Amazon SageMaker JumpStart",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/cosmos3-edge-cosmos3-nano-cosmos3-super-on-sagemaker-jumpstart/",
+    "date": "Thu, 27 Aug 2026 22:41:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EC2 X8i instances are now available in additional regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-x8i-europe-milan-spain/",
-    "date": "Thu, 27 Aug 2026 18:40:00 GMT"
+    "title": "Muse-Glimmer-30B and Qwen 3.8-27B models now available on Amazon SageMaker JumpStart",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/muse-glimmer-30b-qwen-3.8-27b-on-sagemaker-jumpstart/",
+    "date": "Thu, 27 Aug 2026 22:39:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Elastic Disaster Recovery introduces Recovery Plans for orchestrated application recovery",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/elastic-disaster-recovery-plans/",
-    "date": "Thu, 27 Aug 2026 18:00:00 GMT"
+    "title": "Amazon Redshift streaming can now ingest 10MiB records from Amazon Kinesis Data Streams",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-streaming-supports-kds-10mib-records",
+    "date": "Thu, 27 Aug 2026 21:41:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "From Stalled PoCs to Enterprise AI: Why an Open Platform Holds the Key",
+    "link": "https://www.suse.com/c/from-stalled-pocs-to-enterprise-ai-why-an-open-platform-holds-the-key/",
+    "date": "Fri, 28 Aug 2026 01:23:45 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Do you really need more than EKS? An honest answer",
     "link": "https://www.suse.com/c/do-you-really-need-more-than-eks-an-honest-answer/",
     "date": "Wed, 26 Aug 2026 06:50:45 +0000"
@@ -82,12 +88,6 @@
     "title": "The Art of the Possible: Unlocking Enterprise Value with Open Source Virtualization",
     "link": "https://www.suse.com/c/the-art-of-the-possible-unlocking-enterprise-value-with-open-source-virtualization/",
     "date": "Tue, 25 Aug 2026 01:12:36 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "Sovereign Cloud in the Public Sector: Understanding Sovereignty for Public Sector Institutions",
-    "link": "https://www.suse.com/c/sovereign-cloud-in-the-public-sector-understanding-sovereignty-for-public-sector-institutions/",
-    "date": "Mon, 24 Aug 2026 01:18:56 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -109,6 +109,12 @@
   },
   {
     "source": "veeam_intel",
+    "title": "Protection That Moves With Your Workloads",
+    "link": "https://www.veeam.com/blog/portable-data-protection.html",
+    "date": "Fri, 28 Aug 2026 06:34:01 +0000"
+  },
+  {
+    "source": "veeam_intel",
     "title": "Veeam Named a Finalist in CRN’s Best of the Channel Awards",
     "link": "https://www.veeam.com/blog/veeam-crn-best-of-channel-finalist.html",
     "date": "Wed, 26 Aug 2026 18:00:25 +0000"
@@ -118,12 +124,6 @@
     "title": "Veeam Data Cloud for Microsoft 365: A Closer Look at Protection, Architecture, and Security",
     "link": "https://www.veeam.com/blog/veeam-data-cloud-microsoft-365-architecture.html",
     "date": "Fri, 21 Aug 2026 20:37:55 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Migrate VMware to Proxmox: A Technical Guide for Conversion, Cutover, and Continuity",
-    "link": "https://www.veeam.com/blog/vmware-to-proxmox-migration.html",
-    "date": "Thu, 20 Aug 2026 21:40:24 +0000"
   },
   {
     "source": "hackerrank",
