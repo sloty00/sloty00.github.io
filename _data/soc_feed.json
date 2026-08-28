@@ -13,8 +13,8 @@
   },
   {
     "source": "sophos_threat",
-    "title": "ClickFix campaign abuses Deno runtime for infostealer delivery",
-    "link": "https://www.sophos.com/en-us/blog/clickfix-campaign-abuses-deno-runtime-for-infostealer-delivery",
+    "title": "deno-case-studies",
+    "link": "https://www.sophos.com/en-us/blog/deno-case-studies",
     "date": "Tue, 11 Aug 2026 00:00:00 GMT"
   },
   {
@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Cosmos3-Edge, Cosmos3-Nano, and Cosmos3-Super models now available on Amazon SageMaker JumpStart",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/cosmos3-edge-cosmos3-nano-cosmos3-super-on-sagemaker-jumpstart/",
-    "date": "Thu, 27 Aug 2026 22:41:00 GMT"
+    "title": "AWS Transform now in scope for FedRAMP Class C",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-transform-fedramp-class-c/",
+    "date": "Fri, 28 Aug 2026 19:45:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Muse-Glimmer-30B and Qwen 3.8-27B models now available on Amazon SageMaker JumpStart",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/muse-glimmer-30b-qwen-3.8-27b-on-sagemaker-jumpstart/",
-    "date": "Thu, 27 Aug 2026 22:39:00 GMT"
+    "title": "Amazon EC2 P6-B300 instances are now available in additional AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-p6-b300-instances-available-additional-regions",
+    "date": "Fri, 28 Aug 2026 17:34:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Redshift streaming can now ingest 10MiB records from Amazon Kinesis Data Streams",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-streaming-supports-kds-10mib-records",
-    "date": "Thu, 27 Aug 2026 21:41:00 GMT"
+    "title": "Amazon Aurora MySQL 3.13 (compatible with MySQL 8.0.45) is generally available",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-mysql-313-available/",
+    "date": "Fri, 28 Aug 2026 16:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
