@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS Transform now in scope for FedRAMP Class C",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-transform-fedramp-class-c/",
-    "date": "Fri, 28 Aug 2026 19:45:00 GMT"
+    "title": "Amazon EC2 C8gn instances are now available in AWS Europe (Paris) region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8gn-europe-paris/",
+    "date": "Fri, 28 Aug 2026 22:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EC2 P6-B300 instances are now available in additional AWS Regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-p6-b300-instances-available-additional-regions",
-    "date": "Fri, 28 Aug 2026 17:34:00 GMT"
+    "title": "Amazon Bedrock AgentCore Memory now supports fine-grained access control",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-fine-grained-access-control",
+    "date": "Fri, 28 Aug 2026 20:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Aurora MySQL 3.13 (compatible with MySQL 8.0.45) is generally available",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-mysql-313-available/",
-    "date": "Fri, 28 Aug 2026 16:00:00 GMT"
+    "title": "Amazon Bedrock AgentCore Memory now supports flexible namespace variables",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-flexible-namespaces",
+    "date": "Fri, 28 Aug 2026 20:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
