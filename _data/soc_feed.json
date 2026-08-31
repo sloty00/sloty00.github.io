@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
+    "title": "Amazon OpenSearch Service adds new Cluster Insights for faster diagnosis of cluster status",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/opensearch-cluster-status-insight/",
+    "date": "Mon, 31 Aug 2026 15:41:00 GMT"
+  },
+  {
+    "source": "aws_news",
+    "title": "AWS Elastic Beanstalk now supports Active Directory domain join for Windows Server environments",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/elastic-beanstalk-active-directory-domain-join/",
+    "date": "Mon, 31 Aug 2026 04:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "Amazon EC2 C8gn instances are now available in AWS Europe (Paris) region",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8gn-europe-paris/",
     "date": "Fri, 28 Aug 2026 22:00:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Amazon Bedrock AgentCore Memory now supports fine-grained access control",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-fine-grained-access-control",
-    "date": "Fri, 28 Aug 2026 20:00:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Amazon Bedrock AgentCore Memory now supports flexible namespace variables",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-flexible-namespaces",
-    "date": "Fri, 28 Aug 2026 20:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -91,21 +91,21 @@
   },
   {
     "source": "broadcom_vmware",
-    "title": "Securing the Memory Layer: How Broadcom and AMD Are Bringing Confidential Computing to the Enterprise",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/27/securing-the-memory-layer-how-broadcom-and-amd-are-bringing-confidential-computing-to-the-enterprise/",
-    "date": "Thu, 27 Aug 2026 15:00:00 +0000"
+    "title": "Elevate Your Enterprise Value with New VCAP and VCDX Certifications",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/31/elevate-your-enterprise-value-with-new-vcap-and-vcdx-certifications/",
+    "date": "Mon, 31 Aug 2026 17:16:51 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "VMware Cloud Foundation Achieves NVIDIA Certification: AI Workload Performance Validated to Operate at Near Bare Metal Performance",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/27/vcf-achieves-nvidia-hypervisor_certification/",
-    "date": "Thu, 27 Aug 2026 13:30:00 +0000"
+    "title": "Deploy VCF on Supermicro HGX Servers with NVIDIA GPUs for AI Workloads",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/31/deploy-vcf-on-supermicro-hgx-servers-with-nvidia-gpus-for-ai-workloads/",
+    "date": "Mon, 31 Aug 2026 16:00:04 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Unlocking Developer Velocity: The Code-to-URL Revolution",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/26/unlocking-developer-velocity-the-code-to-url-revolution/",
-    "date": "Thu, 27 Aug 2026 06:18:02 +0000"
+    "title": "Closing the Gap Between Hardware and Cloud",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/31/closing-the-gap-between-hardware-and-cloud/",
+    "date": "Mon, 31 Aug 2026 16:00:00 +0000"
   },
   {
     "source": "veeam_intel",
