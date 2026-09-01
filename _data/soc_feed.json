@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon OpenSearch Service adds new Cluster Insights for faster diagnosis of cluster status",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/opensearch-cluster-status-insight/",
-    "date": "Mon, 31 Aug 2026 15:41:00 GMT"
+    "title": "Amazon DocumentDB now supports direct major version upgrades to version 8.0",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/documentdb-major-version-upgrade-8-0/",
+    "date": "Mon, 31 Aug 2026 22:30:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Elastic Beanstalk now supports Active Directory domain join for Windows Server environments",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/elastic-beanstalk-active-directory-domain-join/",
-    "date": "Mon, 31 Aug 2026 04:00:00 GMT"
+    "title": "Partner Revenue Measurement expands service coverage for User Agent string capability",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/partner-revenue-measurement-user-agent-expansion/",
+    "date": "Mon, 31 Aug 2026 22:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EC2 C8gn instances are now available in AWS Europe (Paris) region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8gn-europe-paris/",
-    "date": "Fri, 28 Aug 2026 22:00:00 GMT"
+    "title": "AWS Agent Registry agents and MCP servers now available in Amazon Quick",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-agent-registry-agents-mcp-servers-quick/",
+    "date": "Mon, 31 Aug 2026 21:05:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -91,21 +91,21 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "VMware Explore 2026 in Las Vegas | Day 1 Recap",
+    "link": "https://blogs.vmware.com/explore/vmware-explore-2026-las-vegas-recap/",
+    "date": "Tue, 01 Sep 2026 00:28:38 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "Save the Date for VMware Explore 2027",
+    "link": "https://blogs.vmware.com/explore/save-the-date-2027/",
+    "date": "Tue, 01 Sep 2026 00:26:30 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Elevate Your Enterprise Value with New VCAP and VCDX Certifications",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/08/31/elevate-your-enterprise-value-with-new-vcap-and-vcdx-certifications/",
     "date": "Mon, 31 Aug 2026 17:16:51 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Deploy VCF on Supermicro HGX Servers with NVIDIA GPUs for AI Workloads",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/31/deploy-vcf-on-supermicro-hgx-servers-with-nvidia-gpus-for-ai-workloads/",
-    "date": "Mon, 31 Aug 2026 16:00:04 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Closing the Gap Between Hardware and Cloud",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/08/31/closing-the-gap-between-hardware-and-cloud/",
-    "date": "Mon, 31 Aug 2026 16:00:00 +0000"
   },
   {
     "source": "veeam_intel",
