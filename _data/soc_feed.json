@@ -1,6 +1,12 @@
 [
   {
     "source": "sophos_threat",
+    "title": "SonicWall 83548 83549",
+    "link": "https://www.sophos.com/en-us/blog/sonicwall-83548-83549",
+    "date": "Wed, 02 Sep 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "Ungentlemanly behavior: Insights into a ransomware operation",
     "link": "https://www.sophos.com/en-us/blog/ungentlemanly-behavior-insights-into-a-ransomware-operation",
     "date": "Tue, 01 Sep 2026 00:00:00 GMT"
@@ -10,12 +16,6 @@
     "title": "Fake AI, real malware: Attackers impersonating AI brands",
     "link": "https://www.sophos.com/en-us/blog/fake-ai-real-malware-attackers-impersonating-ai-brands",
     "date": "Wed, 19 Aug 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "2608-patch-tuesday",
-    "link": "https://www.sophos.com/en-us/blog/2608-patch-tuesday",
-    "date": "Mon, 17 Aug 2026 00:00:00 GMT"
   },
   {
     "source": "sophos_ops",
@@ -37,6 +37,12 @@
   },
   {
     "source": "aws_news",
+    "title": "AWS Lambda now supports SnapStart for container image functions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-snapstart-container/",
+    "date": "Wed, 02 Sep 2026 09:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "Amazon Quick now lets you build custom apps with natural language  -",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-custom-apps-natural-language/",
     "date": "Tue, 01 Sep 2026 21:37:00 GMT"
@@ -46,12 +52,6 @@
     "title": "AWS Deadline Cloud now supports sharing job bundles",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/deadline-cloud/job-bundle-sharing",
     "date": "Tue, 01 Sep 2026 20:16:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Amazon CloudWatch Database Insights now supports self-managed PostgreSQL",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/database-insights-self-managed-postgresql/",
-    "date": "Tue, 01 Sep 2026 19:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,21 +73,27 @@
   },
   {
     "source": "suse_news",
+    "title": "From Pilot to Production: How to Scale Enterprise AI Without Operational Sprawl",
+    "link": "https://www.suse.com/c/from-pilot-to-production-how-to-scale-enterprise-ai-without-operational-sprawl/",
+    "date": "Wed, 02 Sep 2026 05:45:20 +0000"
+  },
+  {
+    "source": "suse_news",
+    "title": "34 years of openness: Our journey, our values, and the road ahead",
+    "link": "https://www.suse.com/c/34-years-of-openness-our-journey-our-values-and-the-road-ahead/",
+    "date": "Wed, 02 Sep 2026 04:03:07 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "From Stalled PoCs to Enterprise AI: Why an Open Platform Holds the Key",
     "link": "https://www.suse.com/c/from-stalled-pocs-to-enterprise-ai-why-an-open-platform-holds-the-key/",
     "date": "Fri, 28 Aug 2026 01:23:45 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "Do you really need more than EKS? An honest answer",
-    "link": "https://www.suse.com/c/do-you-really-need-more-than-eks-an-honest-answer/",
-    "date": "Wed, 26 Aug 2026 06:50:45 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "The Art of the Possible: Unlocking Enterprise Value with Open Source Virtualization",
-    "link": "https://www.suse.com/c/the-art-of-the-possible-unlocking-enterprise-value-with-open-source-virtualization/",
-    "date": "Tue, 25 Aug 2026 01:12:36 +0000"
+    "source": "broadcom_vmware",
+    "title": "Unlocking Agile Innovation: Delivering on VMware’s Open Networking Approach with Cisco",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/02/unlocking-agile-innovation-delivering-on-vmwares-open-networking-approach-with-cisco/",
+    "date": "Wed, 02 Sep 2026 13:00:00 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -100,12 +106,6 @@
     "title": "Announcing the latest Tanzu Greenplum Updates: Cloud-Like Elasticity, Federal Security, and Enhanced Enterprise Analytics",
     "link": "https://blogs.vmware.com/tanzu/announcing-the-latest-tanzu-greenplum-updates-cloud-like-elasticity-federal-security-and-enhanced-enterprise-analytics/",
     "date": "Tue, 01 Sep 2026 15:13:57 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "博通推出 VMware Private AI Cloud，賦能企業以高成本效益擴展 AI 規模、提升營運安全並加速創新",
-    "link": "https://blogs.vmware.com/vmware-taiwan/2026/09/01/%E5%8D%9A%E9%80%9A%E6%8E%A8%E5%87%BA-vmware-private-ai-cloud%EF%BC%8C%E8%B3%A6%E8%83%BD%E4%BC%81%E6%A5%AD%E4%BB%A5%E9%AB%98%E6%88%90%E6%9C%AC%E6%95%88%E7%9B%8A%E6%93%B4%E5%B1%95-ai-%E8%A6%8F%E6%A8%A1/",
-    "date": "Tue, 01 Sep 2026 09:02:45 +0000"
   },
   {
     "source": "veeam_intel",
