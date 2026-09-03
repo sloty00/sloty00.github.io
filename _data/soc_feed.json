@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "Simplifying VM Migrations",
+    "link": "https://www.suse.com/c/simplifying-vm-migrations/",
+    "date": "Thu, 03 Sep 2026 08:32:57 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "From Pilot to Production: How to Scale Enterprise AI Without Operational Sprawl",
     "link": "https://www.suse.com/c/from-pilot-to-production-how-to-scale-enterprise-ai-without-operational-sprawl/",
     "date": "Wed, 02 Sep 2026 05:45:20 +0000"
@@ -84,28 +90,22 @@
     "date": "Wed, 02 Sep 2026 04:03:07 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "From Stalled PoCs to Enterprise AI: Why an Open Platform Holds the Key",
-    "link": "https://www.suse.com/c/from-stalled-pocs-to-enterprise-ai-why-an-open-platform-holds-the-key/",
-    "date": "Fri, 28 Aug 2026 01:23:45 +0000"
+    "source": "broadcom_vmware",
+    "title": "From Bottleneck to Breakthrough: Centralizing GitOps at Enterprise Scale with VCF 9.1.1",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/03/from-bottleneck-to-breakthrough-centralizing-gitops-at-enterprise-scale-with-vcf-9-1-1/",
+    "date": "Thu, 03 Sep 2026 14:03:46 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Unlocking Agile Innovation: Delivering on VMware’s Open Networking Approach with Cisco",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/02/unlocking-agile-innovation-delivering-on-vmwares-open-networking-approach-with-cisco/",
-    "date": "Wed, 02 Sep 2026 13:00:00 +0000"
+    "title": "New AI and Kubernetes Private Cloud Operations Capabilities in VMware Cloud Foundation 9.1.1",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/03/new-ai-and-kubernetes-private-cloud-operations-capabilities-in-vmware-cloud-foundation-9-1-1/",
+    "date": "Thu, 03 Sep 2026 14:00:05 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "VMware Explore 2026 in Las Vegas | Day 2 Recap",
-    "link": "https://blogs.vmware.com/explore/vmware-explore-2026-las-vegas-recap-day2/",
-    "date": "Wed, 02 Sep 2026 00:03:09 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Announcing the latest Tanzu Greenplum Updates: Cloud-Like Elasticity, Federal Security, and Enhanced Enterprise Analytics",
-    "link": "https://blogs.vmware.com/tanzu/announcing-the-latest-tanzu-greenplum-updates-cloud-like-elasticity-federal-security-and-enhanced-enterprise-analytics/",
-    "date": "Tue, 01 Sep 2026 15:13:57 +0000"
+    "title": "Announcing General Availability of VMware Cloud Foundation 9.1.1",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/03/announcing-general-availability-of-vmware-cloud-foundation-9-1-1/",
+    "date": "Thu, 03 Sep 2026 13:47:18 +0000"
   },
   {
     "source": "veeam_intel",
