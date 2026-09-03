@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS Lambda now supports SnapStart for container image functions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-snapstart-container/",
-    "date": "Wed, 02 Sep 2026 09:00:00 GMT"
+    "title": "Web Search on Amazon Bedrock is now available in AWS GovCloud (US-West)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-web-aws-govcloud/",
+    "date": "Wed, 02 Sep 2026 17:52:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Quick now lets you build custom apps with natural language  -",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-custom-apps-natural-language/",
-    "date": "Tue, 01 Sep 2026 21:37:00 GMT"
+    "title": "Amazon Connect Customer expands automated performance evaluations to Malay",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-customer-automated-evaluations-malay/",
+    "date": "Wed, 02 Sep 2026 17:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Deadline Cloud now supports sharing job bundles",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/deadline-cloud/job-bundle-sharing",
-    "date": "Tue, 01 Sep 2026 20:16:00 GMT"
+    "title": "Amazon Quick adds new tool settings and Model Context Protocol (MCP) sync support for connectors",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-adds-tool-settings-mcp-sync/",
+    "date": "Wed, 02 Sep 2026 16:54:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -109,6 +109,12 @@
   },
   {
     "source": "veeam_intel",
+    "title": "Backup vs Sync: What Small Businesses Keep Getting Wrong",
+    "link": "https://www.veeam.com/blog/differences-between-sync-vs-backup.html",
+    "date": "Wed, 02 Sep 2026 20:36:46 +0000"
+  },
+  {
+    "source": "veeam_intel",
     "title": "Protection That Moves With Your Workloads",
     "link": "https://www.veeam.com/blog/portable-data-protection.html",
     "date": "Fri, 28 Aug 2026 06:34:01 +0000"
@@ -118,12 +124,6 @@
     "title": "Veeam Named a Finalist in CRN’s Best of the Channel Awards",
     "link": "https://www.veeam.com/blog/veeam-crn-best-of-channel-finalist.html",
     "date": "Wed, 26 Aug 2026 18:00:25 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Veeam Data Cloud for Microsoft 365: A Closer Look at Protection, Architecture, and Security",
-    "link": "https://www.veeam.com/blog/veeam-data-cloud-microsoft-365-architecture.html",
-    "date": "Fri, 21 Aug 2026 20:37:55 +0000"
   },
   {
     "source": "hackerrank",
