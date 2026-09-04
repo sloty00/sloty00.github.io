@@ -37,21 +37,27 @@
   },
   {
     "source": "aws_news",
-    "title": "Web Search on Amazon Bedrock is now available in AWS GovCloud (US-West)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-web-aws-govcloud/",
-    "date": "Wed, 02 Sep 2026 17:52:00 GMT"
+    "title": "Amazon ECS Managed Daemons now support non-critical daemons",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ecs-managed-daemons-non-critical/",
+    "date": "Thu, 03 Sep 2026 22:01:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Connect Customer expands automated performance evaluations to Malay",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-customer-automated-evaluations-malay/",
-    "date": "Wed, 02 Sep 2026 17:00:00 GMT"
+    "title": "Amazon EC2 P6-B200 instances are now available in the AWS Asia Pacific (Hyderabad) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-p6-b200-instances-available-asia-pacific-hyderabad",
+    "date": "Thu, 03 Sep 2026 19:14:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Quick adds new tool settings and Model Context Protocol (MCP) sync support for connectors",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-adds-tool-settings-mcp-sync/",
-    "date": "Wed, 02 Sep 2026 16:54:00 GMT"
+    "title": "Amazon EC2 P6-B300 instances are now available in the AWS Asia Pacific (Jakarta) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-p6-b300-instances-available-asia-pacific-jakarta",
+    "date": "Thu, 03 Sep 2026 19:03:00 GMT"
+  },
+  {
+    "source": "gcp_cloud",
+    "title": "Use your voice to get more done in Gmail, Docs, and Keep",
+    "link": "https://blog.google/products-and-platforms/products/workspace/voice-features-gmail-docs-keep/",
+    "date": "Thu, 03 Sep 2026 16:00:00 +0000"
   },
   {
     "source": "gcp_cloud",
@@ -64,12 +70,6 @@
     "title": "7 ways to kick-start back to school using Gemini in Workspace",
     "link": "https://blog.google/products-and-platforms/products/workspace/gemini-google-workspace-back-to-school/",
     "date": "Wed, 26 Aug 2026 20:30:00 +0000"
-  },
-  {
-    "source": "gcp_cloud",
-    "title": "Bring your spreadsheet data to life with Sheets canvas",
-    "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-    "date": "Thu, 13 Aug 2026 16:45:00 +0000"
   },
   {
     "source": "suse_news",
@@ -91,39 +91,39 @@
   },
   {
     "source": "broadcom_vmware",
-    "title": "From Bottleneck to Breakthrough: Centralizing GitOps at Enterprise Scale with VCF 9.1.1",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/03/from-bottleneck-to-breakthrough-centralizing-gitops-at-enterprise-scale-with-vcf-9-1-1/",
-    "date": "Thu, 03 Sep 2026 14:03:46 +0000"
+    "title": "A Unified Data Architecture For Sovereign Agentic AI With VMware Tanzu And VMware vSAN",
+    "link": "https://blogs.vmware.com/tanzu/a-unified-data-architecture-for-sovereign-agentic-ai-with-vmware-tanzu-and-vmware-vsan/",
+    "date": "Thu, 03 Sep 2026 23:27:50 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "New AI and Kubernetes Private Cloud Operations Capabilities in VMware Cloud Foundation 9.1.1",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/03/new-ai-and-kubernetes-private-cloud-operations-capabilities-in-vmware-cloud-foundation-9-1-1/",
-    "date": "Thu, 03 Sep 2026 14:00:05 +0000"
+    "title": "Get to VMware Cloud Foundation Faster with VMware Pro Cloud Services",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/03/get-to-vmware-cloud-foundation-faster-with-vmware-pro-cloud-services/",
+    "date": "Thu, 03 Sep 2026 20:21:10 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Announcing General Availability of VMware Cloud Foundation 9.1.1",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/03/announcing-general-availability-of-vmware-cloud-foundation-9-1-1/",
-    "date": "Thu, 03 Sep 2026 13:47:18 +0000"
+    "title": "VMware Explore 2026 in Las Vegas | Day 4 Recap",
+    "link": "https://blogs.vmware.com/explore/vmware-explore-2026-las-vegas-recap-day4/",
+    "date": "Thu, 03 Sep 2026 19:00:00 +0000"
+  },
+  {
+    "source": "veeam_intel",
+    "title": "What to Back Up First: SMB Data Priorities",
+    "link": "https://www.veeam.com/blog/smb-backup-priorities.html",
+    "date": "Thu, 03 Sep 2026 19:01:43 +0000"
+  },
+  {
+    "source": "veeam_intel",
+    "title": "Your OpenShift Environment Grew. Did Your Backup Strategy?",
+    "link": "https://www.veeam.com/blog/openshift-backup-at-scale.html",
+    "date": "Thu, 03 Sep 2026 17:59:16 +0000"
   },
   {
     "source": "veeam_intel",
     "title": "Backup vs Sync: What Small Businesses Keep Getting Wrong",
     "link": "https://www.veeam.com/blog/differences-between-sync-vs-backup.html",
     "date": "Wed, 02 Sep 2026 20:36:46 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Protection That Moves With Your Workloads",
-    "link": "https://www.veeam.com/blog/portable-data-protection.html",
-    "date": "Fri, 28 Aug 2026 06:34:01 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Veeam Named a Finalist in CRN’s Best of the Channel Awards",
-    "link": "https://www.veeam.com/blog/veeam-crn-best-of-channel-finalist.html",
-    "date": "Wed, 26 Aug 2026 18:00:25 +0000"
   },
   {
     "source": "hackerrank",
