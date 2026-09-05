@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS Transfer Family SFTP Connectors now support continuing file transfers during credential rotation",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/transfer-family-sftp-credential-rotation/",
-    "date": "Fri, 04 Sep 2026 08:00:00 GMT"
+    "title": "Amazon Bedrock Managed Knowledge Base introduces user-managed setup for SharePoint, OneDrive, and Confluence data sources",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-user-managed-setup-sharepoint-onedrive-confluence/",
+    "date": "Fri, 04 Sep 2026 21:29:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon ECS Managed Daemons now support non-critical daemons",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ecs-managed-daemons-non-critical/",
-    "date": "Thu, 03 Sep 2026 22:01:00 GMT"
+    "title": "Amazon Bedrock Managed Knowledge Base now supports ServiceNow as a native data source connector",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-servicenow-native-data-source-connector/",
+    "date": "Fri, 04 Sep 2026 21:14:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EC2 P6-B200 instances are now available in the AWS Asia Pacific (Hyderabad) Region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-p6-b200-instances-available-asia-pacific-hyderabad",
-    "date": "Thu, 03 Sep 2026 19:14:00 GMT"
+    "title": "Amazon Bedrock Managed Knowledge Base now supports automatic sync scheduling for data source connectors",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-automatic-sync-scheduling-data-source-connectors/",
+    "date": "Fri, 04 Sep 2026 21:01:00 GMT"
   },
   {
     "source": "gcp_cloud",
