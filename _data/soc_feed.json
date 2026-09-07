@@ -1,6 +1,12 @@
 [
   {
     "source": "sophos_threat",
+    "title": "Dissecting a PHP web server rootkit",
+    "link": "https://www.sophos.com/en-us/blog/dissecting-a-php-web-server-rootkit",
+    "date": "Mon, 07 Sep 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "SonicWall 83548 83549",
     "link": "https://www.sophos.com/en-us/blog/sonicwall-83548-83549",
     "date": "Wed, 02 Sep 2026 00:00:00 GMT"
@@ -10,12 +16,6 @@
     "title": "Ungentlemanly behavior: Insights into a ransomware operation",
     "link": "https://www.sophos.com/en-us/blog/ungentlemanly-behavior-insights-into-a-ransomware-operation",
     "date": "Tue, 01 Sep 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "Fake AI, real malware: Attackers impersonating AI brands",
-    "link": "https://www.sophos.com/en-us/blog/fake-ai-real-malware-attackers-impersonating-ai-brands",
-    "date": "Wed, 19 Aug 2026 00:00:00 GMT"
   },
   {
     "source": "sophos_ops",
@@ -91,6 +91,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Client-Side SDK Generation with VMware Cloud Foundation OpenAPI Specs",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/07/client-side-sdk-generation-with-vmware-cloud-foundation-openapi-specs/",
+    "date": "Mon, 07 Sep 2026 09:38:44 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "A Unified Data Architecture For Sovereign Agentic AI With VMware Tanzu And VMware vSAN",
     "link": "https://blogs.vmware.com/tanzu/a-unified-data-architecture-for-sovereign-agentic-ai-with-vmware-tanzu-and-vmware-vsan/",
     "date": "Thu, 03 Sep 2026 23:27:50 +0000"
@@ -100,12 +106,6 @@
     "title": "Get to VMware Cloud Foundation Faster with VMware Pro Cloud Services",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/09/03/get-to-vmware-cloud-foundation-faster-with-vmware-pro-cloud-services/",
     "date": "Thu, 03 Sep 2026 20:21:10 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "VMware Explore 2026 in Las Vegas | Day 4 Recap",
-    "link": "https://blogs.vmware.com/explore/vmware-explore-2026-las-vegas-recap-day4/",
-    "date": "Thu, 03 Sep 2026 19:00:00 +0000"
   },
   {
     "source": "veeam_intel",
