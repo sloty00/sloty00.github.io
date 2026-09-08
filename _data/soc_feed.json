@@ -91,6 +91,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "See How Organizations Achieved 137% ROI with VMware Cloud Foundation 9",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/08/see-how-organizations-achieved-137-roi-with-vmware-cloud-foundation-9/",
+    "date": "Tue, 08 Sep 2026 15:00:00 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Client-Side SDK Generation with VMware Cloud Foundation OpenAPI Specs",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/09/07/client-side-sdk-generation-with-vmware-cloud-foundation-openapi-specs/",
     "date": "Mon, 07 Sep 2026 09:38:44 +0000"
@@ -102,10 +108,10 @@
     "date": "Thu, 03 Sep 2026 23:27:50 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "Get to VMware Cloud Foundation Faster with VMware Pro Cloud Services",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/03/get-to-vmware-cloud-foundation-faster-with-vmware-pro-cloud-services/",
-    "date": "Thu, 03 Sep 2026 20:21:10 +0000"
+    "source": "veeam_intel",
+    "title": "No Backup Gap: Introducing Veeam Backup & Replication-Native OpenShift Protection",
+    "link": "https://www.veeam.com/blog/openshift-vm-protection.html",
+    "date": "Tue, 08 Sep 2026 14:22:16 +0000"
   },
   {
     "source": "veeam_intel",
@@ -118,12 +124,6 @@
     "title": "Your OpenShift Environment Grew. Did Your Backup Strategy?",
     "link": "https://www.veeam.com/blog/openshift-backup-at-scale.html",
     "date": "Thu, 03 Sep 2026 17:59:16 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Backup vs Sync: What Small Businesses Keep Getting Wrong",
-    "link": "https://www.veeam.com/blog/differences-between-sync-vs-backup.html",
-    "date": "Wed, 02 Sep 2026 20:36:46 +0000"
   },
   {
     "source": "hackerrank",
