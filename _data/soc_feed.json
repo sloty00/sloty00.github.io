@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon Bedrock Managed Knowledge Base introduces user-managed setup for SharePoint, OneDrive, and Confluence data sources",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-user-managed-setup-sharepoint-onedrive-confluence/",
-    "date": "Fri, 04 Sep 2026 21:29:00 GMT"
+    "title": "OpenAI GPT-6 Astra is now generally available on Amazon Bedrock",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-astra-on-amazon-bedrock/",
+    "date": "Tue, 08 Sep 2026 22:49:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Bedrock Managed Knowledge Base now supports ServiceNow as a native data source connector",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-servicenow-native-data-source-connector/",
-    "date": "Fri, 04 Sep 2026 21:14:00 GMT"
+    "title": "Amazon Timestream for InfluxDB 3 now supports custom plugins",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/timestream-influxdb-custom-plugins/",
+    "date": "Tue, 08 Sep 2026 21:58:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Bedrock Managed Knowledge Base now supports automatic sync scheduling for data source connectors",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-automatic-sync-scheduling-data-source-connectors/",
-    "date": "Fri, 04 Sep 2026 21:01:00 GMT"
+    "title": "Amazon SageMaker Feature Store now supports individual feature updates to lower write latency",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/sgm-feature-store-update-record/",
+    "date": "Tue, 08 Sep 2026 21:19:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "SUSE a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management",
+    "link": "https://www.suse.com/c/suse-leader-2026-gartner-magic-quadrant-container-management/",
+    "date": "Tue, 08 Sep 2026 16:10:48 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Safeguard your SUSE Virtualization workloads with Storware",
     "link": "https://www.suse.com/c/safeguard-your-suse-virtualization-workloads-with-storware/",
     "date": "Sat, 05 Sep 2026 04:04:48 +0000"
@@ -84,28 +90,22 @@
     "date": "Sat, 05 Sep 2026 04:01:05 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "Escaping the Black Box: How Private Enterprise AI Addresses Compliance, Control and Costs",
-    "link": "https://www.suse.com/c/escaping-the-black-box-how-private-enterprise-ai-addresses-compliance-control-and-costs/",
-    "date": "Fri, 04 Sep 2026 06:45:03 +0000"
+    "source": "broadcom_vmware",
+    "title": "VCF Breakroom Chats Episode 94: Supercharging VKS Networking with Tigera",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/08/vcf-breakroom-chats-episode-94-supercharging-vks-networking-with-tigera/",
+    "date": "Tue, 08 Sep 2026 20:45:36 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "AI-Ready Private Cloud with Cisco and VMware",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/08/ai-ready-private-cloud-with-cisco-and-vmware/",
+    "date": "Tue, 08 Sep 2026 15:33:39 +0000"
   },
   {
     "source": "broadcom_vmware",
     "title": "See How Organizations Achieved 137% ROI with VMware Cloud Foundation 9",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/09/08/see-how-organizations-achieved-137-roi-with-vmware-cloud-foundation-9/",
     "date": "Tue, 08 Sep 2026 15:00:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Client-Side SDK Generation with VMware Cloud Foundation OpenAPI Specs",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/07/client-side-sdk-generation-with-vmware-cloud-foundation-openapi-specs/",
-    "date": "Mon, 07 Sep 2026 09:38:44 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "A Unified Data Architecture For Sovereign Agentic AI With VMware Tanzu And VMware vSAN",
-    "link": "https://blogs.vmware.com/tanzu/a-unified-data-architecture-for-sovereign-agentic-ai-with-vmware-tanzu-and-vmware-vsan/",
-    "date": "Thu, 03 Sep 2026 23:27:50 +0000"
   },
   {
     "source": "veeam_intel",
