@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon Connect Customer now lets you set specific capacity limits for different types of Tasks and Emails",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-capacity-limits/",
-    "date": "Wed, 09 Sep 2026 21:00:00 GMT"
+    "title": "CloudWatch Network Monitor now provides NHI for Transit Gateway peering",
+    "link": "https://aws.amazon.com/amazon-cloudwatch-network-monitor-nhi-transit-gateway-peering",
+    "date": "Thu, 10 Sep 2026 10:28:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Transform for .NET modernization is now generally available via CLI",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-dotnet-cli",
-    "date": "Wed, 09 Sep 2026 20:00:00 GMT"
+    "title": "AWS Elemental MediaLive adds support for A/B forensic watermarking",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/medialive-ab-forensic-watermarking/",
+    "date": "Thu, 10 Sep 2026 08:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Lambda now supports 90-minute function timeout on Lambda Managed Instances",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-90-minute-function/",
-    "date": "Wed, 09 Sep 2026 18:00:00 GMT"
+    "title": "AWS Elemental MediaTailor now offers Yield Optimization to automatically fill ad breaks with Amazon Ads demand",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/mediatailor-yield-optimization/",
+    "date": "Thu, 10 Sep 2026 08:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -109,21 +109,21 @@
   },
   {
     "source": "veeam_intel",
-    "title": "No Backup Gap: Introducing Veeam Backup & Replication-Native OpenShift Protection",
-    "link": "https://www.veeam.com/blog/openshift-vm-protection.html",
-    "date": "Tue, 08 Sep 2026 14:22:16 +0000"
+    "title": "Veeam Expands Palo Alto Networks Cortex Integrations for Deeper Investigation and Response",
+    "link": "https://www.veeam.com/blog/veeam-cortex-xsoar-investigation-response.html",
+    "date": "Thu, 10 Sep 2026 15:16:25 +0000"
   },
   {
     "source": "veeam_intel",
-    "title": "What to Back Up First: SMB Data Priorities",
-    "link": "https://www.veeam.com/blog/smb-backup-priorities.html",
-    "date": "Thu, 03 Sep 2026 19:01:43 +0000"
+    "title": "Disaster Recovery You Can Prove, Not Just Plan",
+    "link": "https://www.veeam.com/blog/orchestrated-cloud-recovery.html",
+    "date": "Thu, 10 Sep 2026 12:00:00 +0000"
   },
   {
     "source": "veeam_intel",
-    "title": "Your OpenShift Environment Grew. Did Your Backup Strategy?",
-    "link": "https://www.veeam.com/blog/openshift-backup-at-scale.html",
-    "date": "Thu, 03 Sep 2026 17:59:16 +0000"
+    "title": "How to Upgrade to Veeam Data Platform v13.1 in Four Simple Steps",
+    "link": "https://www.veeam.com/blog/upgrade-veeam-data-platform-v13-1.html",
+    "date": "Thu, 10 Sep 2026 06:25:43 +0000"
   },
   {
     "source": "hackerrank",
