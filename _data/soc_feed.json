@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "OpenAI GPT-6 Astra is now generally available on Amazon Bedrock",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-astra-on-amazon-bedrock/",
-    "date": "Tue, 08 Sep 2026 22:49:00 GMT"
+    "title": "Amazon Connect Customer now lets you set specific capacity limits for different types of Tasks and Emails",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-capacity-limits/",
+    "date": "Wed, 09 Sep 2026 21:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Timestream for InfluxDB 3 now supports custom plugins",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/timestream-influxdb-custom-plugins/",
-    "date": "Tue, 08 Sep 2026 21:58:00 GMT"
+    "title": "AWS Transform for .NET modernization is now generally available via CLI",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-dotnet-cli",
+    "date": "Wed, 09 Sep 2026 20:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon SageMaker Feature Store now supports individual feature updates to lower write latency",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/sgm-feature-store-update-record/",
-    "date": "Tue, 08 Sep 2026 21:19:00 GMT"
+    "title": "AWS Lambda now supports 90-minute function timeout on Lambda Managed Instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-90-minute-function/",
+    "date": "Wed, 09 Sep 2026 18:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
