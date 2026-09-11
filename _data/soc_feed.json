@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "CloudWatch Network Monitor now provides NHI for Transit Gateway peering",
-    "link": "https://aws.amazon.com/amazon-cloudwatch-network-monitor-nhi-transit-gateway-peering",
-    "date": "Thu, 10 Sep 2026 10:28:00 GMT"
+    "title": "AWS Lambda recursive loop detection is now available in Europe Sovereign Cloud",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/lambda-recursion-europe-sovereign-cloud",
+    "date": "Thu, 10 Sep 2026 20:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Elemental MediaLive adds support for A/B forensic watermarking",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/medialive-ab-forensic-watermarking/",
-    "date": "Thu, 10 Sep 2026 08:00:00 GMT"
+    "title": "AWS Transform for .NET now generates unit tests for modernized code",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-net-unit-tests",
+    "date": "Thu, 10 Sep 2026 20:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Elemental MediaTailor now offers Yield Optimization to automatically fill ad breaks with Amazon Ads demand",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/mediatailor-yield-optimization/",
-    "date": "Thu, 10 Sep 2026 08:00:00 GMT"
+    "title": "Amazon API Gateway now supports 1 MB execution logs with configurable delivery destinations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-api-gateway-1-mb-execution-logs/",
+    "date": "Thu, 10 Sep 2026 20:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
