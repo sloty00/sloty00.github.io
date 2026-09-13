@@ -37,6 +37,12 @@
   },
   {
     "source": "aws_news",
+    "title": "AWS Elemental MediaLive enables frame-accurate pipeline locking for streams without timecode",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/medialive-pipeline-locking/",
+    "date": "Sat, 12 Sep 2026 08:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "Amazon EC2 X2idn instances are now available in Asia Pacific (Hong Kong)",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-x2idn-asia-pacific-hong-kong/",
     "date": "Fri, 11 Sep 2026 18:35:00 GMT"
@@ -46,12 +52,6 @@
     "title": "Amazon SageMaker HyperPod now supports model caching for faster inference autoscaling and reduced cold starts",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/sgm-hyperpod-model-caching-inf/",
     "date": "Fri, 11 Sep 2026 18:25:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "AWS Lambda now supports direct read configuration for Amazon S3 Files",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-direct-read-s3files/",
-    "date": "Fri, 11 Sep 2026 17:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
