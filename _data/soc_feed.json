@@ -1,6 +1,12 @@
 [
   {
     "source": "sophos_threat",
+    "title": "Devil’s advocate? Uncensored Luciferus AI service advertised underground",
+    "link": "https://www.sophos.com/en-us/blog/uncensored-luciferus-ai-service-advertised-underground",
+    "date": "Mon, 14 Sep 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "“Eye” spy: Cyclops Blink returns with extended capabilities",
     "link": "https://www.sophos.com/en-us/blog/-eye-spy-cyclops-blink-returns-with-extended-capabilities",
     "date": "Fri, 11 Sep 2026 00:00:00 GMT"
@@ -10,12 +16,6 @@
     "title": "Dissecting a PHP web server rootkit",
     "link": "https://www.sophos.com/en-us/blog/dissecting-a-php-web-server-rootkit",
     "date": "Mon, 07 Sep 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "SonicWall 83548 83549",
-    "link": "https://www.sophos.com/en-us/blog/sonicwall-83548-83549",
-    "date": "Wed, 02 Sep 2026 00:00:00 GMT"
   },
   {
     "source": "sophos_ops",
@@ -55,6 +55,12 @@
   },
   {
     "source": "gcp_cloud",
+    "title": "DevFest is back",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+    "date": "Mon, 14 Sep 2026 16:00:00 +0000"
+  },
+  {
+    "source": "gcp_cloud",
     "title": "Use your voice to get more done in Gmail, Docs, and Keep",
     "link": "https://blog.google/products-and-platforms/products/workspace/voice-features-gmail-docs-keep/",
     "date": "Thu, 03 Sep 2026 16:00:00 +0000"
@@ -64,12 +70,6 @@
     "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
     "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
     "date": "Tue, 01 Sep 2026 16:00:00 +0000"
-  },
-  {
-    "source": "gcp_cloud",
-    "title": "7 ways to kick-start back to school using Gemini in Workspace",
-    "link": "https://blog.google/products-and-platforms/products/workspace/gemini-google-workspace-back-to-school/",
-    "date": "Wed, 26 Aug 2026 20:30:00 +0000"
   },
   {
     "source": "suse_news",
