@@ -1,21 +1,21 @@
 [
   {
     "source": "sophos_threat",
+    "title": "Cisco Secure Email Gateway vulnerability (CVE-2026-76461) in active exploitation",
+    "link": "https://www.sophos.com/en-us/blog/cisco-secure-email-gateway-vulnerability-cve-2026-76461-in-active-exploitation",
+    "date": "Tue, 15 Sep 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
+    "title": "ai research messageboards",
+    "link": "https://www.sophos.com/en-us/blog/ai-research-messageboards",
+    "date": "Tue, 15 Sep 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "Devil’s advocate? Uncensored Luciferus AI service advertised underground",
     "link": "https://www.sophos.com/en-us/blog/uncensored-luciferus-ai-service-advertised-underground",
     "date": "Mon, 14 Sep 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "“Eye” spy: Cyclops Blink returns with extended capabilities",
-    "link": "https://www.sophos.com/en-us/blog/-eye-spy-cyclops-blink-returns-with-extended-capabilities",
-    "date": "Fri, 11 Sep 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "Dissecting a PHP web server rootkit",
-    "link": "https://www.sophos.com/en-us/blog/dissecting-a-php-web-server-rootkit",
-    "date": "Mon, 07 Sep 2026 00:00:00 GMT"
   },
   {
     "source": "sophos_ops",
