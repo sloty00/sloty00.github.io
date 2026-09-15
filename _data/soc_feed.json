@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS Elemental MediaLive enables frame-accurate pipeline locking for streams without timecode",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/medialive-pipeline-locking/",
-    "date": "Sat, 12 Sep 2026 08:00:00 GMT"
+    "title": "Qwen3.6-35B-A3B-NVFP4 and Wan2.1-T2V-1.3B-Diffusers models now available on Amazon SageMaker JumpStart",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/qwen3.6-35b-a3b-nvfp4-wan2.1-t2v-1.3B-diffusers-jumpstart/",
+    "date": "Mon, 14 Sep 2026 17:39:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EC2 X2idn instances are now available in Asia Pacific (Hong Kong)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-x2idn-asia-pacific-hong-kong/",
-    "date": "Fri, 11 Sep 2026 18:35:00 GMT"
+    "title": "Ministral-3-3B-Instruct-2512 and Ministral-3-8B-Instruct-2512 models now available on Amazon SageMaker JumpStart",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/ministral-3-3b-instruct-2512-ministral-3-8B-Instruct-2512-jumpstart/",
+    "date": "Mon, 14 Sep 2026 17:35:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon SageMaker HyperPod now supports model caching for faster inference autoscaling and reduced cold starts",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/sgm-hyperpod-model-caching-inf/",
-    "date": "Fri, 11 Sep 2026 18:25:00 GMT"
+    "title": "Gemma-4-31B-it-assistant and Gemma-4-31B-IT-NVFP4 models now available on Amazon SageMaker JumpStart",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/gemma-4-31b-it-assistant-gemma-4-31b-it-nvfp4-jumpstart/",
+    "date": "Mon, 14 Sep 2026 17:32:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "Private Enterprise AI: How SUSE AI Factory Moves GenAI Beyond the Pilot Stage",
+    "link": "https://www.suse.com/c/private-enterprise-ai-how-suse-ai-factory-moves-genai-beyond-the-pilot-stage/",
+    "date": "Mon, 14 Sep 2026 14:35:40 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "SUSE a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management",
     "link": "https://www.suse.com/c/suse-leader-2026-gartner-magic-quadrant-container-management/",
     "date": "Tue, 08 Sep 2026 16:10:48 +0000"
@@ -82,12 +88,6 @@
     "title": "Safeguard your SUSE Virtualization workloads with Storware",
     "link": "https://www.suse.com/c/safeguard-your-suse-virtualization-workloads-with-storware/",
     "date": "Sat, 05 Sep 2026 04:04:48 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "Help us write what you need: Take the SUSE Documentation Survey 2026",
-    "link": "https://www.suse.com/c/help-us-write-what-you-need-take-the-suse-documentation-survey-2026/",
-    "date": "Sat, 05 Sep 2026 04:01:05 +0000"
   },
   {
     "source": "broadcom_vmware",
