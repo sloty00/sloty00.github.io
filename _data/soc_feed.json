@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Qwen3.6-35B-A3B-NVFP4 and Wan2.1-T2V-1.3B-Diffusers models now available on Amazon SageMaker JumpStart",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/qwen3.6-35b-a3b-nvfp4-wan2.1-t2v-1.3B-diffusers-jumpstart/",
-    "date": "Mon, 14 Sep 2026 17:39:00 GMT"
+    "title": "Monitor cost anomalies directly in Billing and Cost Management Dashboards with the new Detected Anomalies widget",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/monitor-detected-anomalies-using-dashboards",
+    "date": "Tue, 15 Sep 2026 22:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Ministral-3-3B-Instruct-2512 and Ministral-3-8B-Instruct-2512 models now available on Amazon SageMaker JumpStart",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/ministral-3-3b-instruct-2512-ministral-3-8B-Instruct-2512-jumpstart/",
-    "date": "Mon, 14 Sep 2026 17:35:00 GMT"
+    "title": "AWS Direct Connect announces flat-rate pricing for dedicated connections",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-direct-connect-announces-flat-rate-pricing/",
+    "date": "Tue, 15 Sep 2026 19:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Gemma-4-31B-it-assistant and Gemma-4-31B-IT-NVFP4 models now available on Amazon SageMaker JumpStart",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/gemma-4-31b-it-assistant-gemma-4-31b-it-nvfp4-jumpstart/",
-    "date": "Mon, 14 Sep 2026 17:32:00 GMT"
+    "title": "AWS Billing Conductor now supports custom rates and usage tier pricing configurations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/AWS-Billing-Conductor-custom-rates-usage-tier",
+    "date": "Tue, 15 Sep 2026 18:58:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -91,6 +91,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "VCF9で完遂するメインフレーム・モダナイゼーション",
+    "link": "https://blogs.vmware.com/vmware-japan/2026/09/vcf9_mainframe_1.html",
+    "date": "Wed, 16 Sep 2026 00:35:16 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "VCF Breakroom Chats Episode 94: Supercharging VKS Networking with Tigera",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/09/08/vcf-breakroom-chats-episode-94-supercharging-vks-networking-with-tigera/",
     "date": "Tue, 08 Sep 2026 20:45:36 +0000"
@@ -100,12 +106,6 @@
     "title": "AI-Ready Private Cloud with Cisco and VMware",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/09/08/ai-ready-private-cloud-with-cisco-and-vmware/",
     "date": "Tue, 08 Sep 2026 15:33:39 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "See How Organizations Achieved 137% ROI with VMware Cloud Foundation 9",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/08/see-how-organizations-achieved-137-roi-with-vmware-cloud-foundation-9/",
-    "date": "Tue, 08 Sep 2026 15:00:00 +0000"
   },
   {
     "source": "veeam_intel",
