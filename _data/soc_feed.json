@@ -73,21 +73,21 @@
   },
   {
     "source": "suse_news",
+    "title": "Driving Operational Excellence with Agentic AI for Heterogeneous Linux Environments",
+    "link": "https://www.suse.com/c/driving-operational-excellence-with-agentic-ai-for-heterogeneous-linux-environments/",
+    "date": "Wed, 16 Sep 2026 01:24:27 +0000"
+  },
+  {
+    "source": "suse_news",
+    "title": "AI Sovereignty: The Blueprint for Strategic AI Resilience",
+    "link": "https://www.suse.com/c/ai-sovereignty-the-blueprint-for-strategic-ai-resilience/",
+    "date": "Wed, 16 Sep 2026 01:14:24 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Private Enterprise AI: How SUSE AI Factory Moves GenAI Beyond the Pilot Stage",
     "link": "https://www.suse.com/c/private-enterprise-ai-how-suse-ai-factory-moves-genai-beyond-the-pilot-stage/",
     "date": "Mon, 14 Sep 2026 14:35:40 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "SUSE a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management",
-    "link": "https://www.suse.com/c/suse-leader-2026-gartner-magic-quadrant-container-management/",
-    "date": "Tue, 08 Sep 2026 16:10:48 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "Safeguard your SUSE Virtualization workloads with Storware",
-    "link": "https://www.suse.com/c/safeguard-your-suse-virtualization-workloads-with-storware/",
-    "date": "Sat, 05 Sep 2026 04:04:48 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -109,6 +109,12 @@
   },
   {
     "source": "veeam_intel",
+    "title": "NetApp and Veeam Advancing Data Resilience Together",
+    "link": "https://www.veeam.com/blog/netapp-usapi-plugin.html",
+    "date": "Wed, 16 Sep 2026 15:00:00 +0000"
+  },
+  {
+    "source": "veeam_intel",
     "title": "Veeam Expands Palo Alto Networks Cortex Integrations for Deeper Investigation and Response",
     "link": "https://www.veeam.com/blog/veeam-cortex-xsoar-investigation-response.html",
     "date": "Thu, 10 Sep 2026 15:16:25 +0000"
@@ -118,12 +124,6 @@
     "title": "Disaster Recovery You Can Prove, Not Just Plan",
     "link": "https://www.veeam.com/blog/orchestrated-cloud-recovery.html",
     "date": "Thu, 10 Sep 2026 12:00:00 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "How to Upgrade to Veeam Data Platform v13.1 in Four Simple Steps",
-    "link": "https://www.veeam.com/blog/upgrade-veeam-data-platform-v13-1.html",
-    "date": "Thu, 10 Sep 2026 06:25:43 +0000"
   },
   {
     "source": "hackerrank",
