@@ -49,9 +49,9 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS Client VPN is now supporting MacOS 27 Golden Gate",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-client-vpn-macos-golden-gate/",
-    "date": "Wed, 16 Sep 2026 17:56:00 GMT"
+    "title": "Amazon ECS deployment observability for Amazon ECS Managed Daemons in AWS Management Console",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-daemon-deployment-console/",
+    "date": "Wed, 16 Sep 2026 22:01:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,21 +73,21 @@
   },
   {
     "source": "suse_news",
-    "title": "Virtualizing the Grid Edge: Real-Time Determinism, SEAPATH, and the Future of Digital Substations",
-    "link": "https://www.suse.com/c/virtualizing-the-grid-edge-real-time-determinism-seapath-and-the-future-of-digital-substations/",
-    "date": "Wed, 16 Sep 2026 17:26:49 +0000"
+    "title": "Don’t Let AI Become Your Next Black Box",
+    "link": "https://www.suse.com/c/dont-let-ai-become-your-next-black-box/",
+    "date": "Thu, 17 Sep 2026 03:54:41 +0000"
   },
   {
     "source": "suse_news",
-    "title": "SUSE a Visionary in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms",
-    "link": "https://www.suse.com/c/suse-visionary-2026-gartner-magic-quadrant-server-virtualization-platforms/",
-    "date": "Wed, 16 Sep 2026 15:15:20 +0000"
+    "title": "Five Questions I Wish I’d Asked Before Stepping Into the Box",
+    "link": "https://www.suse.com/c/five-questions-i-wish-id-asked-before-stepping-into-the-box/",
+    "date": "Thu, 17 Sep 2026 03:50:49 +0000"
   },
   {
     "source": "suse_news",
-    "title": "SUSE a Visionary in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure",
-    "link": "https://www.suse.com/c/suse-visionary-2026-gartner-magic-quadrant-distributed-hybrid-infrastructure/",
-    "date": "Wed, 16 Sep 2026 15:09:29 +0000"
+    "title": "The Box Was Fine. Until It Wasn’t.",
+    "link": "https://www.suse.com/c/the-box-was-fine-until-it-wasnt/",
+    "date": "Thu, 17 Sep 2026 03:44:01 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -109,21 +109,21 @@
   },
   {
     "source": "veeam_intel",
+    "title": "Backup Features Small Businesses Should Demand",
+    "link": "https://www.veeam.com/blog/backup-features-small-businesses-should-demand.html",
+    "date": "Thu, 17 Sep 2026 14:57:04 +0000"
+  },
+  {
+    "source": "veeam_intel",
+    "title": "Silent Ransom Group: Zero-Encryption Cyber Extortion",
+    "link": "https://www.veeam.com/blog/silent-ransom-group-luna-moth.html",
+    "date": "Wed, 16 Sep 2026 19:31:31 +0000"
+  },
+  {
+    "source": "veeam_intel",
     "title": "AI Agent Error Recovery: How to Detect, Protect, and Undo AI Agent Actions",
     "link": "https://www.veeam.com/blog/ai-agent-error-recovery.html",
     "date": "Wed, 16 Sep 2026 16:19:49 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "NetApp and Veeam Advancing Data Resilience Together",
-    "link": "https://www.veeam.com/blog/netapp-usapi-plugin.html",
-    "date": "Wed, 16 Sep 2026 15:00:00 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Veeam Expands Palo Alto Networks Cortex Integrations for Deeper Investigation and Response",
-    "link": "https://www.veeam.com/blog/veeam-cortex-xsoar-investigation-response.html",
-    "date": "Thu, 10 Sep 2026 15:16:25 +0000"
   },
   {
     "source": "hackerrank",
