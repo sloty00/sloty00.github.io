@@ -1,6 +1,12 @@
 [
   {
     "source": "sophos_threat",
+    "title": "September Patch Tuesday haul includes 973 CVEs",
+    "link": "https://www.sophos.com/en-us/blog/september-2026-patch-tuesday",
+    "date": "Wed, 16 Sep 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "Cisco Secure Email Gateway vulnerability (CVE-2026-76461) in active exploitation",
     "link": "https://www.sophos.com/en-us/blog/cisco-secure-email-gateway-vulnerability-cve-2026-76461-in-active-exploitation",
     "date": "Tue, 15 Sep 2026 00:00:00 GMT"
@@ -10,12 +16,6 @@
     "title": "ai research messageboards",
     "link": "https://www.sophos.com/en-us/blog/ai-research-messageboards",
     "date": "Tue, 15 Sep 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "Devil’s advocate? Uncensored Luciferus AI service advertised underground",
-    "link": "https://www.sophos.com/en-us/blog/uncensored-luciferus-ai-service-advertised-underground",
-    "date": "Mon, 14 Sep 2026 00:00:00 GMT"
   },
   {
     "source": "sophos_ops",
@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Monitor cost anomalies directly in Billing and Cost Management Dashboards with the new Detected Anomalies widget",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/monitor-detected-anomalies-using-dashboards",
-    "date": "Tue, 15 Sep 2026 22:00:00 GMT"
+    "title": "Amazon Corretto 27 is now generally available",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-27-generally-available/",
+    "date": "Thu, 17 Sep 2026 00:00:31 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Direct Connect announces flat-rate pricing for dedicated connections",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-direct-connect-announces-flat-rate-pricing/",
-    "date": "Tue, 15 Sep 2026 19:00:00 GMT"
+    "title": "Amazon SageMaker AI now supports serverless model customization for NVIDIA Nemotron 3.5 Lightning",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-sagemaker-ft-nemotron-3-5-lightning/",
+    "date": "Wed, 16 Sep 2026 22:29:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Billing Conductor now supports custom rates and usage tier pricing configurations",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/AWS-Billing-Conductor-custom-rates-usage-tier",
-    "date": "Tue, 15 Sep 2026 18:58:00 GMT"
+    "title": "AWS Client VPN is now supporting MacOS 27 Golden Gate",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-client-vpn-macos-golden-gate/",
+    "date": "Wed, 16 Sep 2026 17:56:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,21 +73,27 @@
   },
   {
     "source": "suse_news",
-    "title": "Driving Operational Excellence with Agentic AI for Heterogeneous Linux Environments",
-    "link": "https://www.suse.com/c/driving-operational-excellence-with-agentic-ai-for-heterogeneous-linux-environments/",
-    "date": "Wed, 16 Sep 2026 01:24:27 +0000"
+    "title": "Virtualizing the Grid Edge: Real-Time Determinism, SEAPATH, and the Future of Digital Substations",
+    "link": "https://www.suse.com/c/virtualizing-the-grid-edge-real-time-determinism-seapath-and-the-future-of-digital-substations/",
+    "date": "Wed, 16 Sep 2026 17:26:49 +0000"
   },
   {
     "source": "suse_news",
-    "title": "AI Sovereignty: The Blueprint for Strategic AI Resilience",
-    "link": "https://www.suse.com/c/ai-sovereignty-the-blueprint-for-strategic-ai-resilience/",
-    "date": "Wed, 16 Sep 2026 01:14:24 +0000"
+    "title": "SUSE a Visionary in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms",
+    "link": "https://www.suse.com/c/suse-visionary-2026-gartner-magic-quadrant-server-virtualization-platforms/",
+    "date": "Wed, 16 Sep 2026 15:15:20 +0000"
   },
   {
     "source": "suse_news",
-    "title": "Private Enterprise AI: How SUSE AI Factory Moves GenAI Beyond the Pilot Stage",
-    "link": "https://www.suse.com/c/private-enterprise-ai-how-suse-ai-factory-moves-genai-beyond-the-pilot-stage/",
-    "date": "Mon, 14 Sep 2026 14:35:40 +0000"
+    "title": "SUSE a Visionary in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure",
+    "link": "https://www.suse.com/c/suse-visionary-2026-gartner-magic-quadrant-distributed-hybrid-infrastructure/",
+    "date": "Wed, 16 Sep 2026 15:09:29 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "First VMmark 4.1 Power-Performance and VMware Cloud Foundation 9.1 Results",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/16/first-vmmark-4-1-power-performance-and-vcf-9-1-results/",
+    "date": "Wed, 16 Sep 2026 18:20:25 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -102,10 +108,10 @@
     "date": "Tue, 08 Sep 2026 20:45:36 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "AI-Ready Private Cloud with Cisco and VMware",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/08/ai-ready-private-cloud-with-cisco-and-vmware/",
-    "date": "Tue, 08 Sep 2026 15:33:39 +0000"
+    "source": "veeam_intel",
+    "title": "AI Agent Error Recovery: How to Detect, Protect, and Undo AI Agent Actions",
+    "link": "https://www.veeam.com/blog/ai-agent-error-recovery.html",
+    "date": "Wed, 16 Sep 2026 16:19:49 +0000"
   },
   {
     "source": "veeam_intel",
@@ -118,12 +124,6 @@
     "title": "Veeam Expands Palo Alto Networks Cortex Integrations for Deeper Investigation and Response",
     "link": "https://www.veeam.com/blog/veeam-cortex-xsoar-investigation-response.html",
     "date": "Thu, 10 Sep 2026 15:16:25 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Disaster Recovery You Can Prove, Not Just Plan",
-    "link": "https://www.veeam.com/blog/orchestrated-cloud-recovery.html",
-    "date": "Thu, 10 Sep 2026 12:00:00 +0000"
   },
   {
     "source": "hackerrank",
