@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon Corretto 27 is now generally available",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-27-generally-available/",
-    "date": "Thu, 17 Sep 2026 00:00:31 GMT"
+    "title": "AWS Transfer Family now supports source IP preservation for SFTP servers behind a Network Load Balancer (NLB)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/transfer-family-sftp-source-ip-nlb/",
+    "date": "Thu, 17 Sep 2026 19:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon SageMaker AI now supports serverless model customization for NVIDIA Nemotron 3.5 Lightning",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-sagemaker-ft-nemotron-3-5-lightning/",
-    "date": "Wed, 16 Sep 2026 22:29:00 GMT"
+    "title": "AWS HealthOmics now supports IAM session policies",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/omics-iam-session-policy/",
+    "date": "Thu, 17 Sep 2026 18:32:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon ECS deployment observability for Amazon ECS Managed Daemons in AWS Management Console",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-daemon-deployment-console/",
-    "date": "Wed, 16 Sep 2026 22:01:00 GMT"
+    "title": "AWS Batch now supports bulk job cancellation and termination",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-batch-bulk-cancellation/",
+    "date": "Thu, 17 Sep 2026 17:23:00 GMT"
   },
   {
     "source": "gcp_cloud",
