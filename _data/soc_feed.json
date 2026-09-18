@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "Hogyan támogatja az AI az SAP-rendszerek üzemeltetését a Trento segítségével?",
+    "link": "https://www.suse.com/c/hogyan-tamogatja-az-ai-az-sap-rendszerek-uzemelteteset-a-trento-segitsegevel/",
+    "date": "Fri, 18 Sep 2026 05:46:04 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Don’t Let AI Become Your Next Black Box",
     "link": "https://www.suse.com/c/dont-let-ai-become-your-next-black-box/",
     "date": "Thu, 17 Sep 2026 03:54:41 +0000"
@@ -84,28 +90,22 @@
     "date": "Thu, 17 Sep 2026 03:50:49 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "The Box Was Fine. Until It Wasn’t.",
-    "link": "https://www.suse.com/c/the-box-was-fine-until-it-wasnt/",
-    "date": "Thu, 17 Sep 2026 03:44:01 +0000"
+    "source": "broadcom_vmware",
+    "title": "NVMe Drive Selection for Memory Tiering Explained",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/18/nvme-drive-selection-for-memory-tiering-explained/",
+    "date": "Fri, 18 Sep 2026 14:18:46 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "First VMmark 4.1 Power-Performance and VMware Cloud Foundation 9.1 Results",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/16/first-vmmark-4-1-power-performance-and-vcf-9-1-results/",
-    "date": "Wed, 16 Sep 2026 18:20:25 +0000"
+    "title": "Strengthening the Programmable Infrastructure: Security and Hardening in VCF 9.1.1",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/18/strengthening-the-programmable-infrastructure-security-and-hardening-in-vcf-9-1-1/",
+    "date": "Fri, 18 Sep 2026 11:25:21 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "VCF9で完遂するメインフレーム・モダナイゼーション",
-    "link": "https://blogs.vmware.com/vmware-japan/2026/09/vcf9_mainframe_1.html",
-    "date": "Wed, 16 Sep 2026 00:35:16 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "VCF Breakroom Chats Episode 94: Supercharging VKS Networking with Tigera",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/08/vcf-breakroom-chats-episode-94-supercharging-vks-networking-with-tigera/",
-    "date": "Tue, 08 Sep 2026 20:45:36 +0000"
+    "title": "[TAM Blog] VMware Cloud Foundation® 9.1.1 で始める Agentic AI 運用 – AI Assistant for VCF",
+    "link": "https://blogs.vmware.com/vmware-japan/2026/09/ai-assistant-for-vcf.html",
+    "date": "Fri, 18 Sep 2026 06:14:28 +0000"
   },
   {
     "source": "veeam_intel",
