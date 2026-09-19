@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS Transfer Family now supports source IP preservation for SFTP servers behind a Network Load Balancer (NLB)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/transfer-family-sftp-source-ip-nlb/",
-    "date": "Thu, 17 Sep 2026 19:00:00 GMT"
+    "title": "AWS Continuum now supports credential testing and accessible domain suggestions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-security-agent/",
+    "date": "Fri, 18 Sep 2026 18:34:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS HealthOmics now supports IAM session policies",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/omics-iam-session-policy/",
-    "date": "Thu, 17 Sep 2026 18:32:00 GMT"
+    "title": "Amazon ECS Express Mode now supports AWS Graviton (ARM64) workloads",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-express-mode-arm-architecture/",
+    "date": "Fri, 18 Sep 2026 17:27:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Batch now supports bulk job cancellation and termination",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-batch-bulk-cancellation/",
-    "date": "Thu, 17 Sep 2026 17:23:00 GMT"
+    "title": "AWS Resilience Hub adds three new capabilities",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/resilience-hub-eks-dependency-policy/",
+    "date": "Fri, 18 Sep 2026 16:49:00 GMT"
   },
   {
     "source": "gcp_cloud",
