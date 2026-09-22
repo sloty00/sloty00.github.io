@@ -91,6 +91,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "The Next Generation of Hands-on Labs",
+    "link": "https://blogs.vmware.com/hol/2026/09/the-next-generation-of-hands-on-labs.html",
+    "date": "Tue, 22 Sep 2026 02:17:46 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Optimizing AI Deployments with VMware Cloud Foundation (Part 1)",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/09/21/optimizing-ai-deployments-with-vmware-cloud-foundation-part-1/",
     "date": "Tue, 22 Sep 2026 02:13:27 +0000"
@@ -100,12 +106,6 @@
     "title": "Shattering the Resilience Illusion: Cyber Resilience in the Era of AI-Driven Threats",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/09/21/shattering-the-resilience-illusion-cyber-resilience-in-the-era-of-ai-driven-threats/",
     "date": "Mon, 21 Sep 2026 20:35:15 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "NVMe Drive Selection for Memory Tiering Explained",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/18/nvme-drive-selection-for-memory-tiering-explained/",
-    "date": "Fri, 18 Sep 2026 14:18:46 +0000"
   },
   {
     "source": "veeam_intel",
