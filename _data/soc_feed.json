@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
+    "title": "Amazon ECS now provides real-time deployment observability in the AWS Management Console",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-console-deployment-observability/",
+    "date": "Mon, 21 Sep 2026 20:05:00 GMT"
+  },
+  {
+    "source": "aws_news",
+    "title": "Amazon EVS now in scope for FedRAMP Class C",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-evs-fedramp-class-c/",
+    "date": "Mon, 21 Sep 2026 19:08:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "Amazon EC2 X8i instances are now available in the South America (São Paulo) Region",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-x8i-south-america-sao-paulo/",
     "date": "Fri, 18 Sep 2026 22:16:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "AWS Continuum now supports credential testing and accessible domain suggestions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-security-agent/",
-    "date": "Fri, 18 Sep 2026 18:34:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Amazon ECS Express Mode now supports AWS Graviton (ARM64) workloads",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-express-mode-arm-architecture/",
-    "date": "Fri, 18 Sep 2026 17:27:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -91,21 +91,21 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Optimizing AI Deployments with VMware Cloud Foundation (Part 1)",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/21/optimizing-ai-deployments-with-vmware-cloud-foundation-part-1/",
+    "date": "Tue, 22 Sep 2026 02:13:27 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "Shattering the Resilience Illusion: Cyber Resilience in the Era of AI-Driven Threats",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/21/shattering-the-resilience-illusion-cyber-resilience-in-the-era-of-ai-driven-threats/",
+    "date": "Mon, 21 Sep 2026 20:35:15 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "NVMe Drive Selection for Memory Tiering Explained",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/09/18/nvme-drive-selection-for-memory-tiering-explained/",
     "date": "Fri, 18 Sep 2026 14:18:46 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Strengthening the Programmable Infrastructure: Security and Hardening in VCF 9.1.1",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/18/strengthening-the-programmable-infrastructure-security-and-hardening-in-vcf-9-1-1/",
-    "date": "Fri, 18 Sep 2026 11:25:21 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "[TAM Blog] VMware Cloud Foundation® 9.1.1 で始める Agentic AI 運用 – AI Assistant for VCF",
-    "link": "https://blogs.vmware.com/vmware-japan/2026/09/ai-assistant-for-vcf.html",
-    "date": "Fri, 18 Sep 2026 06:14:28 +0000"
   },
   {
     "source": "veeam_intel",
