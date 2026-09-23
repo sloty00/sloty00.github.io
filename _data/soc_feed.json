@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon ECS now provides real-time deployment observability in the AWS Management Console",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-console-deployment-observability/",
-    "date": "Mon, 21 Sep 2026 20:05:00 GMT"
+    "title": "Amazon CloudWatch Omni: AI-first observability for agents and applications",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-cloudwatch-omni-ai/",
+    "date": "Wed, 23 Sep 2026 00:06:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EVS now in scope for FedRAMP Class C",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-evs-fedramp-class-c/",
-    "date": "Mon, 21 Sep 2026 19:08:00 GMT"
+    "title": "Billing Transfer now supports automatic billing group creation for two-level transfers",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-billing-transfer-supports-automatic-billing-group-creation/",
+    "date": "Tue, 22 Sep 2026 20:08:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EC2 X8i instances are now available in the South America (São Paulo) Region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-x8i-south-america-sao-paulo/",
-    "date": "Fri, 18 Sep 2026 22:16:00 GMT"
+    "title": "OpenAI GPT-6 Sol and GPT-6 Luna are now generally available on Amazon Bedrock",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-sol-luna-on-amazon-bedrock/",
+    "date": "Tue, 22 Sep 2026 18:09:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -70,24 +70,6 @@
     "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
     "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
     "date": "Tue, 01 Sep 2026 16:00:00 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "Why Digital Sovereignty Comes Down to One Metric: Exit Velocity",
-    "link": "https://www.suse.com/c/why-digital-sovereignty-comes-down-to-one-metric-exit-velocity/",
-    "date": "Sat, 19 Sep 2026 06:42:15 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "SUSE at World Summit AI 2026: Enabling Sovereign Enterprise AI",
-    "link": "https://www.suse.com/c/suse-at-world-summit-ai-2026-enabling-sovereign-enterprise-ai/",
-    "date": "Sat, 19 Sep 2026 06:27:46 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "What RKE2 Security Responder collects, and why",
-    "link": "https://www.suse.com/c/what-rke2-security-responder-collects-and-why/",
-    "date": "Sat, 19 Sep 2026 03:39:13 +0000"
   },
   {
     "source": "broadcom_vmware",
