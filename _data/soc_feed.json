@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon Kinesis Data Streams announces Service-Managed Partition Keys for simplified data ingestion",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/kinesis/service-managed-partition-keys",
-    "date": "Wed, 23 Sep 2026 22:51:00 GMT"
+    "title": "Amazon EventBridge relaunches event buses for enterprise scale",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/eventbridge-relaunches-custom-event-buses/",
+    "date": "Thu, 24 Sep 2026 21:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Bedrock Managed Knowledge Base now supports Salesforce and Zendesk as native data source connectors",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-salesforce-zendesk-native-data-source-connectors/",
-    "date": "Wed, 23 Sep 2026 17:41:00 GMT"
+    "title": "AWS Lambda durable functions are now available in AWS European Sovereign Cloud region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/durablefunctions-european-sovereign-cloud/",
+    "date": "Thu, 24 Sep 2026 18:29:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Connect Customer now provides routing step data in the analytics data lake",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-routing-step-data/",
-    "date": "Wed, 23 Sep 2026 16:00:00 GMT"
+    "title": "Amazon RDS for MySQL announces Extended Support minor versions 5.7.44-rds.20260902 and 8.0.46-rds.20260908",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-mysql-extended-support-minor-5744-8046-rds/",
+    "date": "Thu, 24 Sep 2026 16:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "Delivering Real Value: Why Enterprise Success Starts with Choice, Trust and Execution",
+    "link": "https://www.suse.com/c/delivering-real-value-why-enterprise-success-starts-with-choice-trust-and-execution/",
+    "date": "Thu, 24 Sep 2026 15:49:09 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Why Digital Sovereignty Comes Down to One Metric: Exit Velocity",
     "link": "https://www.suse.com/c/why-digital-sovereignty-comes-down-to-one-metric-exit-velocity/",
     "date": "Sat, 19 Sep 2026 06:42:15 +0000"
@@ -84,28 +90,22 @@
     "date": "Sat, 19 Sep 2026 06:27:46 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "What RKE2 Security Responder collects, and why",
-    "link": "https://www.suse.com/c/what-rke2-security-responder-collects-and-why/",
-    "date": "Sat, 19 Sep 2026 03:39:13 +0000"
+    "source": "broadcom_vmware",
+    "title": "Broadcom (VMware) Recognized as a Leader in Two 2026 Gartner® Magic Quadrant™ Reports",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/24/broadcom-vmware-recognized-as-a-leader-in-two-2026-gartner-magic-quadrant-reports/",
+    "date": "Thu, 24 Sep 2026 22:33:44 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "Webinar Recap: Operationalizing VMware vSphere Kubernetes Service with Add-Ons",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/24/webinar-recap-operationalizing-vmware-vsphere-kubernetes-service-with-add-ons/",
+    "date": "Thu, 24 Sep 2026 19:59:25 +0000"
   },
   {
     "source": "broadcom_vmware",
     "title": "The Next Generation of Hands-on Labs",
     "link": "https://blogs.vmware.com/hol/2026/09/the-next-generation-of-hands-on-labs.html",
     "date": "Tue, 22 Sep 2026 02:17:46 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Optimizing AI Deployments with VMware Cloud Foundation (Part 1)",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/21/optimizing-ai-deployments-with-vmware-cloud-foundation-part-1/",
-    "date": "Tue, 22 Sep 2026 02:13:27 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Shattering the Resilience Illusion: Cyber Resilience in the Era of AI-Driven Threats",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/21/shattering-the-resilience-illusion-cyber-resilience-in-the-era-of-ai-driven-threats/",
-    "date": "Mon, 21 Sep 2026 20:35:15 +0000"
   },
   {
     "source": "veeam_intel",
