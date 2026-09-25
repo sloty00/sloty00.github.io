@@ -37,6 +37,12 @@
   },
   {
     "source": "aws_news",
+    "title": "AWS Billing and Cost Management now provides billing context for your account through a new API",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-billing-and-cost-management-billing-context-api/",
+    "date": "Fri, 25 Sep 2026 00:58:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "Amazon EventBridge relaunches event buses for enterprise scale",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/eventbridge-relaunches-custom-event-buses/",
     "date": "Thu, 24 Sep 2026 21:00:00 GMT"
@@ -46,12 +52,6 @@
     "title": "AWS Lambda durable functions are now available in AWS European Sovereign Cloud region",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/durablefunctions-european-sovereign-cloud/",
     "date": "Thu, 24 Sep 2026 18:29:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Amazon RDS for MySQL announces Extended Support minor versions 5.7.44-rds.20260902 and 8.0.46-rds.20260908",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-mysql-extended-support-minor-5744-8046-rds/",
-    "date": "Thu, 24 Sep 2026 16:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -72,40 +72,22 @@
     "date": "Mon, 14 Sep 2026 16:00:00 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "Delivering Real Value: Why Enterprise Success Starts with Choice, Trust and Execution",
-    "link": "https://www.suse.com/c/delivering-real-value-why-enterprise-success-starts-with-choice-trust-and-execution/",
-    "date": "Thu, 24 Sep 2026 15:49:09 +0000"
+    "source": "broadcom_vmware",
+    "title": "One Namespace to Rule Them All: The New esxcli memtier Namespace",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/25/one-namespace-to-rule-them-all-the-new-esxcli-memtier-namespace/",
+    "date": "Fri, 25 Sep 2026 14:18:42 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "Why Digital Sovereignty Comes Down to One Metric: Exit Velocity",
-    "link": "https://www.suse.com/c/why-digital-sovereignty-comes-down-to-one-metric-exit-velocity/",
-    "date": "Sat, 19 Sep 2026 06:42:15 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "SUSE at World Summit AI 2026: Enabling Sovereign Enterprise AI",
-    "link": "https://www.suse.com/c/suse-at-world-summit-ai-2026-enabling-sovereign-enterprise-ai/",
-    "date": "Sat, 19 Sep 2026 06:27:46 +0000"
+    "source": "broadcom_vmware",
+    "title": "The Complete Guide to Workload Mobility with VMware Cloud Foundation Operations HCX 9.1 (Part 3: Extending Networks and Migrating Workloads)",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/25/vcf-9-operations-hcx-network-extension-migration-part-3/",
+    "date": "Fri, 25 Sep 2026 10:11:19 +0000"
   },
   {
     "source": "broadcom_vmware",
     "title": "Broadcom (VMware) Recognized as a Leader in Two 2026 Gartner® Magic Quadrant™ Reports",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/09/24/broadcom-vmware-recognized-as-a-leader-in-two-2026-gartner-magic-quadrant-reports/",
     "date": "Thu, 24 Sep 2026 22:33:44 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Webinar Recap: Operationalizing VMware vSphere Kubernetes Service with Add-Ons",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/24/webinar-recap-operationalizing-vmware-vsphere-kubernetes-service-with-add-ons/",
-    "date": "Thu, 24 Sep 2026 19:59:25 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "The Next Generation of Hands-on Labs",
-    "link": "https://blogs.vmware.com/hol/2026/09/the-next-generation-of-hands-on-labs.html",
-    "date": "Tue, 22 Sep 2026 02:17:46 +0000"
   },
   {
     "source": "veeam_intel",
