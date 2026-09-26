@@ -1,6 +1,12 @@
 [
   {
     "source": "sophos_threat",
+    "title": "Kiteworks recommends server shutdown pending possible attack",
+    "link": "https://www.sophos.com/en-us/blog/kiteworks-recommends-server-shutdown-pending-possible-attack",
+    "date": "Fri, 25 Sep 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "September Patch Tuesday haul includes 973 CVEs",
     "link": "https://www.sophos.com/en-us/blog/september-2026-patch-tuesday",
     "date": "Wed, 16 Sep 2026 00:00:00 GMT"
@@ -9,12 +15,6 @@
     "source": "sophos_threat",
     "title": "Cisco Secure Email Gateway vulnerability (CVE-2026-76461) in active exploitation",
     "link": "https://www.sophos.com/en-us/blog/cisco-secure-email-gateway-vulnerability-cve-2026-76461-in-active-exploitation",
-    "date": "Tue, 15 Sep 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "ai research messageboards",
-    "link": "https://www.sophos.com/en-us/blog/ai-research-messageboards",
     "date": "Tue, 15 Sep 2026 00:00:00 GMT"
   },
   {
@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS Billing and Cost Management now provides billing context for your account through a new API",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-billing-and-cost-management-billing-context-api/",
-    "date": "Fri, 25 Sep 2026 00:58:00 GMT"
+    "title": "Amazon Transcribe adds customer-managed KMS keys for custom resources",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-transcribe/",
+    "date": "Fri, 25 Sep 2026 19:19:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EventBridge relaunches event buses for enterprise scale",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/eventbridge-relaunches-custom-event-buses/",
-    "date": "Thu, 24 Sep 2026 21:00:00 GMT"
+    "title": "Amazon EC2 M8i and M8i-flex instances are now available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-m8i-m8i-flex-thf/",
+    "date": "Fri, 25 Sep 2026 18:40:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Lambda durable functions are now available in AWS European Sovereign Cloud region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/durablefunctions-european-sovereign-cloud/",
-    "date": "Thu, 24 Sep 2026 18:29:00 GMT"
+    "title": "Amazon EC2 R8i and R8i-flex instances are now available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-r8i-r8i-flex-thf/",
+    "date": "Fri, 25 Sep 2026 18:37:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -70,6 +70,24 @@
     "title": "DevFest is back",
     "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
     "date": "Mon, 14 Sep 2026 16:00:00 +0000"
+  },
+  {
+    "source": "suse_news",
+    "title": "The path to a sovereign autonomous enterprise: Why open source is your clean core advantage",
+    "link": "https://www.suse.com/c/the-path-to-a-sovereign-autonomous-enterprise-why-open-source-is-your-clean-core-advantage/",
+    "date": "Fri, 25 Sep 2026 06:41:07 +0000"
+  },
+  {
+    "source": "suse_news",
+    "title": "Managing multiple EKS clusters: why cluster #3 is the wall",
+    "link": "https://www.suse.com/c/managing-multiple-eks-clusters-why-cluster-3-is-the-wall/",
+    "date": "Fri, 25 Sep 2026 06:31:23 +0000"
+  },
+  {
+    "source": "suse_news",
+    "title": "From SAP data to operational insight: Modernizing Day-Two SAP operations with SUSE Trento",
+    "link": "https://www.suse.com/c/from-sap-data-to-operational-insight-modernizing-day-two-sap-operations-with-suse-trento/",
+    "date": "Fri, 25 Sep 2026 06:24:13 +0000"
   },
   {
     "source": "broadcom_vmware",
