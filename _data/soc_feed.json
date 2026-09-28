@@ -1,6 +1,12 @@
 [
   {
     "source": "sophos_threat",
+    "title": "Citrix NetScaler vulnerabilities (CVE-2026-88771, CVE-2026-88772) in active exploitation",
+    "link": "https://www.sophos.com/en-us/blog/citrix-netscaler-cve-2026-88771-cve-2026-88772-in-active-exploitation",
+    "date": "Mon, 28 Sep 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "Kiteworks recommends server shutdown pending possible attack",
     "link": "https://www.sophos.com/en-us/blog/kiteworks-recommends-server-shutdown-pending-possible-attack",
     "date": "Fri, 25 Sep 2026 00:00:00 GMT"
@@ -10,12 +16,6 @@
     "title": "September Patch Tuesday haul includes 973 CVEs",
     "link": "https://www.sophos.com/en-us/blog/september-2026-patch-tuesday",
     "date": "Wed, 16 Sep 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "Cisco Secure Email Gateway vulnerability (CVE-2026-76461) in active exploitation",
-    "link": "https://www.sophos.com/en-us/blog/cisco-secure-email-gateway-vulnerability-cve-2026-76461-in-active-exploitation",
-    "date": "Tue, 15 Sep 2026 00:00:00 GMT"
   },
   {
     "source": "sophos_ops",
@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
+    "title": "Claude Sonnet 5.5 now available on AWS",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws/",
+    "date": "Mon, 28 Sep 2026 15:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
+    "title": "Amazon Corretto September 2026 Patch Updates",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-sept-2026-updates/",
+    "date": "Mon, 28 Sep 2026 14:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "Amazon Transcribe adds customer-managed KMS keys for custom resources",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-transcribe/",
     "date": "Fri, 25 Sep 2026 19:19:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Amazon EC2 M8i and M8i-flex instances are now available in additional regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-m8i-m8i-flex-thf/",
-    "date": "Fri, 25 Sep 2026 18:40:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Amazon EC2 R8i and R8i-flex instances are now available in additional regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-r8i-r8i-flex-thf/",
-    "date": "Fri, 25 Sep 2026 18:37:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,21 +73,27 @@
   },
   {
     "source": "suse_news",
+    "title": "We Gave Our Agents Autonomy. Here’s How We Kept Control.",
+    "link": "https://www.suse.com/c/we-gave-our-agents-autonomy-heres-how-we-kept-control/",
+    "date": "Mon, 28 Sep 2026 09:00:40 +0000"
+  },
+  {
+    "source": "suse_news",
+    "title": "Clearing the Vulnerability Backlog Safely: Agentic SecOps on SUSE AI Factory with the NVIDIA Open Agent Safety Platform",
+    "link": "https://www.suse.com/c/agentic-secops-on-suse-ai-factory-with-nvidia-agent-safety-platform/",
+    "date": "Mon, 28 Sep 2026 09:00:33 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "The path to a sovereign autonomous enterprise: Why open source is your clean core advantage",
     "link": "https://www.suse.com/c/the-path-to-a-sovereign-autonomous-enterprise-why-open-source-is-your-clean-core-advantage/",
     "date": "Fri, 25 Sep 2026 06:41:07 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "Managing multiple EKS clusters: why cluster #3 is the wall",
-    "link": "https://www.suse.com/c/managing-multiple-eks-clusters-why-cluster-3-is-the-wall/",
-    "date": "Fri, 25 Sep 2026 06:31:23 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "From SAP data to operational insight: Modernizing Day-Two SAP operations with SUSE Trento",
-    "link": "https://www.suse.com/c/from-sap-data-to-operational-insight-modernizing-day-two-sap-operations-with-suse-trento/",
-    "date": "Fri, 25 Sep 2026 06:24:13 +0000"
+    "source": "broadcom_vmware",
+    "title": "The Cost Case Is Clear: Infrastructure Economics with VMware vSphere Foundation 9.1",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/28/the-cost-case-is-clear-infrastructure-economics-with-vmware-vsphere-foundation-9-1/",
+    "date": "Mon, 28 Sep 2026 13:00:00 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -100,12 +106,6 @@
     "title": "The Complete Guide to Workload Mobility with VMware Cloud Foundation Operations HCX 9.1 (Part 3: Extending Networks and Migrating Workloads)",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/09/25/vcf-9-operations-hcx-network-extension-migration-part-3/",
     "date": "Fri, 25 Sep 2026 10:11:19 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Broadcom (VMware) Recognized as a Leader in Two 2026 Gartner® Magic Quadrant™ Reports",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/24/broadcom-vmware-recognized-as-a-leader-in-two-2026-gartner-magic-quadrant-reports/",
-    "date": "Thu, 24 Sep 2026 22:33:44 +0000"
   },
   {
     "source": "veeam_intel",
