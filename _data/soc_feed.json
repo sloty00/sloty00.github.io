@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Claude Sonnet 5.5 now available on AWS",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws/",
-    "date": "Mon, 28 Sep 2026 15:00:00 GMT"
+    "title": "Amazon EC2 Future-dated Capacity Reservations Now Supports Postponing Start Dates",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-fcr-postpone-start-date/",
+    "date": "Mon, 28 Sep 2026 21:17:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Corretto September 2026 Patch Updates",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-sept-2026-updates/",
-    "date": "Mon, 28 Sep 2026 14:00:00 GMT"
+    "title": "Amazon Rekognition Face Liveness now returns Feedback Codes",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/rekognition-liveness-feedback-codes/",
+    "date": "Mon, 28 Sep 2026 20:41:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Transcribe adds customer-managed KMS keys for custom resources",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-transcribe/",
-    "date": "Fri, 25 Sep 2026 19:19:00 GMT"
+    "title": "Grok 4.7 is now available on Amazon Bedrock",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-grok-4-7/",
+    "date": "Mon, 28 Sep 2026 18:29:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -91,6 +91,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Optimizing AI Deployments with VMware Cloud Foundation (Part 2)",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/28/optimizing-ai-deployments-with-vmware-cloud-foundation-part-2/",
+    "date": "Mon, 28 Sep 2026 22:07:39 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "The Cost Case Is Clear: Infrastructure Economics with VMware vSphere Foundation 9.1",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/09/28/the-cost-case-is-clear-infrastructure-economics-with-vmware-vsphere-foundation-9-1/",
     "date": "Mon, 28 Sep 2026 13:00:00 +0000"
@@ -102,10 +108,10 @@
     "date": "Fri, 25 Sep 2026 14:18:42 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "The Complete Guide to Workload Mobility with VMware Cloud Foundation Operations HCX 9.1 (Part 3: Extending Networks and Migrating Workloads)",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/25/vcf-9-operations-hcx-network-extension-migration-part-3/",
-    "date": "Fri, 25 Sep 2026 10:11:19 +0000"
+    "source": "veeam_intel",
+    "title": "Beyond OADP: What Regulated OpenShift Environments Need to Prove Recovery",
+    "link": "https://www.veeam.com/blog/oadp-openshift-compliance.html",
+    "date": "Mon, 28 Sep 2026 19:30:06 +0000"
   },
   {
     "source": "veeam_intel",
@@ -118,12 +124,6 @@
     "title": "Silent Ransom Group: Zero-Encryption Cyber Extortion",
     "link": "https://www.veeam.com/blog/silent-ransom-group-luna-moth.html",
     "date": "Wed, 16 Sep 2026 19:31:31 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "AI Agent Error Recovery: How to Detect, Protect, and Undo AI Agent Actions",
-    "link": "https://www.veeam.com/blog/ai-agent-error-recovery.html",
-    "date": "Wed, 16 Sep 2026 16:19:49 +0000"
   },
   {
     "source": "hackerrank",
