@@ -37,6 +37,12 @@
   },
   {
     "source": "aws_news",
+    "title": "AWS Systems Manager now supports sharing documents through AWS Resource Access Manager",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/systems-manager-sharing-documents-ram/",
+    "date": "Tue, 29 Sep 2026 08:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "Amazon EC2 Future-dated Capacity Reservations Now Supports Postponing Start Dates",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-fcr-postpone-start-date/",
     "date": "Mon, 28 Sep 2026 21:17:00 GMT"
@@ -46,12 +52,6 @@
     "title": "Amazon Rekognition Face Liveness now returns Feedback Codes",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/rekognition-liveness-feedback-codes/",
     "date": "Mon, 28 Sep 2026 20:41:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Grok 4.7 is now available on Amazon Bedrock",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-grok-4-7/",
-    "date": "Mon, 28 Sep 2026 18:29:00 GMT"
   },
   {
     "source": "gcp_cloud",
