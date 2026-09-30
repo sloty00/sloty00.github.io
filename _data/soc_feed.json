@@ -1,6 +1,12 @@
 [
   {
     "source": "sophos_threat",
+    "title": "TerminalFix and Lorem Ipsum Loader enable covert tunneling",
+    "link": "https://www.sophos.com/en-us/blog/terminalfix-and-lorem-ipsum-loader-enable-covert-tunneling",
+    "date": "Wed, 30 Sep 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "Citrix NetScaler vulnerabilities (CVE-2026-88771, CVE-2026-88772) in active exploitation",
     "link": "https://www.sophos.com/en-us/blog/citrix-netscaler-cve-2026-88771-cve-2026-88772-in-active-exploitation",
     "date": "Mon, 28 Sep 2026 00:00:00 GMT"
@@ -10,12 +16,6 @@
     "title": "Kiteworks recommends server shutdown pending possible attack",
     "link": "https://www.sophos.com/en-us/blog/kiteworks-recommends-server-shutdown-pending-possible-attack",
     "date": "Fri, 25 Sep 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "September Patch Tuesday haul includes 973 CVEs",
-    "link": "https://www.sophos.com/en-us/blog/september-2026-patch-tuesday",
-    "date": "Wed, 16 Sep 2026 00:00:00 GMT"
   },
   {
     "source": "sophos_ops",
@@ -37,6 +37,12 @@
   },
   {
     "source": "aws_news",
+    "title": "Uncover blind spots in AWS data plane operations with CloudTrail Event Coverage",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-cloudtrail-event-coverage/",
+    "date": "Wed, 30 Sep 2026 16:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "Amazon Bedrock Managed Agents, powered by OpenAI, is now available in preview",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/bedrock-managed-agents-preview/",
     "date": "Tue, 29 Sep 2026 21:10:00 GMT"
@@ -46,12 +52,6 @@
     "title": "Amazon RDS now adds full snapshot size information to the Console and API",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-full-snapshot-size-available/",
     "date": "Tue, 29 Sep 2026 21:00:23 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "OpenAI GPT-6.1 Sol is now generally available on Amazon Bedrock",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-1-sol-on-amazon-bedrock/",
-    "date": "Tue, 29 Sep 2026 20:17:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "Elevating cloud choice: SUSE teams with Ingram Micro to streamline AWS and Microsoft Marketplace procurement",
+    "link": "https://www.suse.com/c/elevating-cloud-choice-suse-teams-with-ingram-micro-to-streamline-aws-and-microsoft-marketplace-procurement/",
+    "date": "Wed, 30 Sep 2026 16:06:41 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "We Gave Our Agents Autonomy. Here’s How We Kept Control.",
     "link": "https://www.suse.com/c/we-gave-our-agents-autonomy-heres-how-we-kept-control/",
     "date": "Mon, 28 Sep 2026 09:00:40 +0000"
@@ -84,28 +90,22 @@
     "date": "Mon, 28 Sep 2026 09:00:33 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "The path to a sovereign autonomous enterprise: Why open source is your clean core advantage",
-    "link": "https://www.suse.com/c/the-path-to-a-sovereign-autonomous-enterprise-why-open-source-is-your-clean-core-advantage/",
-    "date": "Fri, 25 Sep 2026 06:41:07 +0000"
+    "source": "broadcom_vmware",
+    "title": "Streamlining CI/CD on VMware vSphere Kubernetes Service with Harness, Wiz, Artifactory, Dynatrace and the VCF Secret Store",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/30/streamlining-ci-cd-on-vmware-vsphere-kubernetes-service-with-harness-wiz-artifactory-dynatrace-and-the-vcf-secret-store/",
+    "date": "Wed, 30 Sep 2026 14:42:52 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Optimizing AI Deployments with VMware Cloud Foundation (Part 2)",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/28/optimizing-ai-deployments-with-vmware-cloud-foundation-part-2/",
-    "date": "Mon, 28 Sep 2026 22:07:39 +0000"
+    "title": "VMware Explore on Tour 2026 | Season Recap",
+    "link": "https://blogs.vmware.com/explore/explore-on-tour-recap-2026/",
+    "date": "Wed, 30 Sep 2026 12:30:00 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "The Cost Case Is Clear: Infrastructure Economics with VMware vSphere Foundation 9.1",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/28/the-cost-case-is-clear-infrastructure-economics-with-vmware-vsphere-foundation-9-1/",
-    "date": "Mon, 28 Sep 2026 13:00:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "One Namespace to Rule Them All: The New esxcli memtier Namespace",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/25/one-namespace-to-rule-them-all-the-new-esxcli-memtier-namespace/",
-    "date": "Fri, 25 Sep 2026 14:18:42 +0000"
+    "title": "Managing VKS Clusters at Scale: Improvements in VCF 9.1",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/30/managing-vks-clusters-at-scale-improvements-in-vcf-9-1/",
+    "date": "Wed, 30 Sep 2026 09:14:56 +0000"
   },
   {
     "source": "veeam_intel",
