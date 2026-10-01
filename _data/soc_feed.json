@@ -37,21 +37,27 @@
   },
   {
     "source": "aws_news",
-    "title": "Uncover blind spots in AWS data plane operations with CloudTrail Event Coverage",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-cloudtrail-event-coverage/",
-    "date": "Wed, 30 Sep 2026 16:00:00 GMT"
+    "title": "Amazon WorkSpaces Core Managed Instances adds support for NVIDIA Blackwell GPU",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-cmi-g7/",
+    "date": "Wed, 30 Sep 2026 23:59:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Bedrock Managed Agents, powered by OpenAI, is now available in preview",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/bedrock-managed-agents-preview/",
-    "date": "Tue, 29 Sep 2026 21:10:00 GMT"
+    "title": "AWS CLI now supports bulk skill updates and version checks for the Agent Toolkit for AWS",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-cli-agent-toolkit-update-skill/",
+    "date": "Wed, 30 Sep 2026 20:16:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon RDS now adds full snapshot size information to the Console and API",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-full-snapshot-size-available/",
-    "date": "Tue, 29 Sep 2026 21:00:23 GMT"
+    "title": "Amazon S3 Vectors introduces metadata pre-filtering for up to 5x higher recall on filtered search",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/s3-vectors-introduces-metadata-pre-filtering/",
+    "date": "Wed, 30 Sep 2026 20:00:00 GMT"
+  },
+  {
+    "source": "gcp_cloud",
+    "title": "Google is supporting water resilience in Chile.",
+    "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/water-resilience-chile/",
+    "date": "Wed, 30 Sep 2026 18:34:00 +0000"
   },
   {
     "source": "gcp_cloud",
@@ -64,12 +70,6 @@
     "title": "Google Beam expands with new regions, partners, and customers",
     "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
     "date": "Wed, 23 Sep 2026 18:00:00 +0000"
-  },
-  {
-    "source": "gcp_cloud",
-    "title": "DevFest is back",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-    "date": "Mon, 14 Sep 2026 16:00:00 +0000"
   },
   {
     "source": "suse_news",
@@ -91,6 +91,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "BroadcomがサポートするKubernetes関連のOSSパッケージ (VKS アドオン) について",
+    "link": "https://blogs.vmware.com/vmware-japan/2026/10/vcf-vks-addons-jpn.html",
+    "date": "Thu, 01 Oct 2026 00:23:37 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Streamlining CI/CD on VMware vSphere Kubernetes Service with Harness, Wiz, Artifactory, Dynatrace and the VCF Secret Store",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/09/30/streamlining-ci-cd-on-vmware-vsphere-kubernetes-service-with-harness-wiz-artifactory-dynatrace-and-the-vcf-secret-store/",
     "date": "Wed, 30 Sep 2026 14:42:52 +0000"
@@ -102,28 +108,22 @@
     "date": "Wed, 30 Sep 2026 12:30:00 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "Managing VKS Clusters at Scale: Improvements in VCF 9.1",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/30/managing-vks-clusters-at-scale-improvements-in-vcf-9-1/",
-    "date": "Wed, 30 Sep 2026 09:14:56 +0000"
+    "source": "veeam_intel",
+    "title": "Backup Software Hidden Costs Nobody Mentions",
+    "link": "https://www.veeam.com/blog/backup-software-hidden-costs.html",
+    "date": "Wed, 30 Sep 2026 21:20:33 +0000"
   },
   {
     "source": "veeam_intel",
-    "title": "Backup Features Small Business IT Admins Should Demand",
-    "link": "https://www.veeam.com/blog/backup-features-smb-it-teams.html",
-    "date": "Tue, 29 Sep 2026 22:11:37 +0000"
+    "title": "Stop Calling It Cloud Storage: What Actually Makes a Backup Copy Attack-Resistant",
+    "link": "https://www.veeam.com/blog/backup-copy-attack-resistant.html",
+    "date": "Wed, 30 Sep 2026 19:33:12 +0000"
   },
   {
     "source": "veeam_intel",
-    "title": "Beyond OADP: What Regulated OpenShift Environments Need to Prove Recovery",
-    "link": "https://www.veeam.com/blog/oadp-openshift-compliance.html",
-    "date": "Mon, 28 Sep 2026 19:30:06 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Backup Features Small Businesses Should Demand",
-    "link": "https://www.veeam.com/blog/backup-features-small-businesses-should-demand.html",
-    "date": "Thu, 17 Sep 2026 14:57:04 +0000"
+    "title": "From APL to STIG: What Government IT Leaders Need to Know About Backup Compliance and How to Stay Ahead of the Curve",
+    "link": "https://www.veeam.com/blog/apl-to-stig-backup-compliance.html",
+    "date": "Wed, 30 Sep 2026 18:04:16 +0000"
   },
   {
     "source": "hackerrank",
