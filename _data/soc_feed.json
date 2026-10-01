@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon WorkSpaces Core Managed Instances adds support for NVIDIA Blackwell GPU",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-cmi-g7/",
-    "date": "Wed, 30 Sep 2026 23:59:00 GMT"
+    "title": "Amazon Corretto 8 September 2026 Patch Updates",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-8-sept-2026-updates/",
+    "date": "Thu, 01 Oct 2026 14:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS CLI now supports bulk skill updates and version checks for the Agent Toolkit for AWS",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-cli-agent-toolkit-update-skill/",
-    "date": "Wed, 30 Sep 2026 20:16:00 GMT"
+    "title": "Serverless Storage on Amazon EMR Serverless now supports terabyte-scale shuffle",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/emr-serverless-terabyte-scale-shuffle/",
+    "date": "Thu, 01 Oct 2026 08:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon S3 Vectors introduces metadata pre-filtering for up to 5x higher recall on filtered search",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/s3-vectors-introduces-metadata-pre-filtering/",
-    "date": "Wed, 30 Sep 2026 20:00:00 GMT"
+    "title": "Improve your secrets security posture with actionable recommendations in the AWS Secrets Manager console",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-secrets-manager-security-posture-recommendations",
+    "date": "Thu, 01 Oct 2026 07:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,21 +73,27 @@
   },
   {
     "source": "suse_news",
+    "title": "Avoiding Vendor Lock-In Through an Open Source Approach: A Developer’s Perspective",
+    "link": "https://www.suse.com/c/avoiding-vendor-lock-in-through-an-open-source-approach-a-developers-perspective/",
+    "date": "Thu, 01 Oct 2026 07:01:19 +0000"
+  },
+  {
+    "source": "suse_news",
+    "title": "The Rise of Agentic AI on Kubernetes: Unleashing the New Infrastructure Layer",
+    "link": "https://www.suse.com/c/the-rise-of-agentic-ai-on-kubernetes-unleashing-the-new-infrastructure-layer/",
+    "date": "Thu, 01 Oct 2026 06:51:26 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Elevating cloud choice: SUSE teams with Ingram Micro to streamline AWS and Microsoft Marketplace procurement",
     "link": "https://www.suse.com/c/elevating-cloud-choice-suse-teams-with-ingram-micro-to-streamline-aws-and-microsoft-marketplace-procurement/",
     "date": "Wed, 30 Sep 2026 16:06:41 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "We Gave Our Agents Autonomy. Here’s How We Kept Control.",
-    "link": "https://www.suse.com/c/we-gave-our-agents-autonomy-heres-how-we-kept-control/",
-    "date": "Mon, 28 Sep 2026 09:00:40 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "Clearing the Vulnerability Backlog Safely: Agentic SecOps on SUSE AI Factory with the NVIDIA Open Agent Safety Platform",
-    "link": "https://www.suse.com/c/agentic-secops-on-suse-ai-factory-with-nvidia-agent-safety-platform/",
-    "date": "Mon, 28 Sep 2026 09:00:33 +0000"
+    "source": "broadcom_vmware",
+    "title": "Navigating the AI Threat Era: Upgrading to VMware Cloud Foundation 9.1 and Applying Express Patches",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/01/navigating-the-ai-threat-era-upgrading-to-vmware-cloud-foundation-9-1-and-applying-express-patches/",
+    "date": "Thu, 01 Oct 2026 17:17:22 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -102,10 +108,10 @@
     "date": "Wed, 30 Sep 2026 14:42:52 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "VMware Explore on Tour 2026 | Season Recap",
-    "link": "https://blogs.vmware.com/explore/explore-on-tour-recap-2026/",
-    "date": "Wed, 30 Sep 2026 12:30:00 +0000"
+    "source": "veeam_intel",
+    "title": "Start With What You Can Prove: Measuring the National Resilience Strategy",
+    "link": "https://www.veeam.com/blog/national-resilience-strategy-metrics.html",
+    "date": "Thu, 01 Oct 2026 12:00:00 +0000"
   },
   {
     "source": "veeam_intel",
@@ -118,12 +124,6 @@
     "title": "Stop Calling It Cloud Storage: What Actually Makes a Backup Copy Attack-Resistant",
     "link": "https://www.veeam.com/blog/backup-copy-attack-resistant.html",
     "date": "Wed, 30 Sep 2026 19:33:12 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "From APL to STIG: What Government IT Leaders Need to Know About Backup Compliance and How to Stay Ahead of the Curve",
-    "link": "https://www.veeam.com/blog/apl-to-stig-backup-compliance.html",
-    "date": "Wed, 30 Sep 2026 18:04:16 +0000"
   },
   {
     "source": "hackerrank",
