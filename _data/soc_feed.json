@@ -91,6 +91,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Security Starts with Hardware",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/02/security-starts-with-hardware/",
+    "date": "Fri, 02 Oct 2026 15:38:44 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Navigating the AI Threat Era: Upgrading to VMware Cloud Foundation 9.1 and Applying Express Patches",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/10/01/navigating-the-ai-threat-era-upgrading-to-vmware-cloud-foundation-9-1-and-applying-express-patches/",
     "date": "Thu, 01 Oct 2026 17:17:22 +0000"
@@ -100,12 +106,6 @@
     "title": "BroadcomがサポートするKubernetes関連のOSSパッケージ (VKS アドオン) について",
     "link": "https://blogs.vmware.com/vmware-japan/2026/10/vcf-vks-addons-jpn.html",
     "date": "Thu, 01 Oct 2026 00:23:37 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Streamlining CI/CD on VMware vSphere Kubernetes Service with Harness, Wiz, Artifactory, Dynatrace and the VCF Secret Store",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/09/30/streamlining-ci-cd-on-vmware-vsphere-kubernetes-service-with-harness-wiz-artifactory-dynatrace-and-the-vcf-secret-store/",
-    "date": "Wed, 30 Sep 2026 14:42:52 +0000"
   },
   {
     "source": "veeam_intel",
