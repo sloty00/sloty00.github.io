@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon Corretto 8 September 2026 Patch Updates",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-8-sept-2026-updates/",
-    "date": "Thu, 01 Oct 2026 14:00:00 GMT"
+    "title": "GuardDuty Runtime Monitoring is now included in the AWS Security Hub Threat Analytics plan",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-security-hub-runtime-monitoring/",
+    "date": "Fri, 02 Oct 2026 03:35:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Serverless Storage on Amazon EMR Serverless now supports terabyte-scale shuffle",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/emr-serverless-terabyte-scale-shuffle/",
-    "date": "Thu, 01 Oct 2026 08:00:00 GMT"
+    "title": "AWS Well-Architected Agent is now available in preview",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-well-architected-agent/",
+    "date": "Thu, 01 Oct 2026 20:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Improve your secrets security posture with actionable recommendations in the AWS Secrets Manager console",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-secrets-manager-security-posture-recommendations",
-    "date": "Thu, 01 Oct 2026 07:00:00 GMT"
+    "title": "Amazon Redshift now supports cross-Region queries for your data lake",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-cross-Region-queries-for-data-lake",
+    "date": "Thu, 01 Oct 2026 18:41:00 GMT"
   },
   {
     "source": "gcp_cloud",
