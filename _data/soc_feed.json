@@ -73,6 +73,12 @@
   },
   {
     "source": "suse_news",
+    "title": "The energy grid and the larger story of Europe’s digital sovereignty",
+    "link": "https://www.suse.com/c/energy-grid-digital-sovereignty/",
+    "date": "Mon, 05 Oct 2026 00:19:25 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "Avoiding Vendor Lock-In Through an Open Source Approach: A Developer’s Perspective",
     "link": "https://www.suse.com/c/avoiding-vendor-lock-in-through-an-open-source-approach-a-developers-perspective/",
     "date": "Thu, 01 Oct 2026 07:01:19 +0000"
@@ -82,12 +88,6 @@
     "title": "The Rise of Agentic AI on Kubernetes: Unleashing the New Infrastructure Layer",
     "link": "https://www.suse.com/c/the-rise-of-agentic-ai-on-kubernetes-unleashing-the-new-infrastructure-layer/",
     "date": "Thu, 01 Oct 2026 06:51:26 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "Elevating cloud choice: SUSE teams with Ingram Micro to streamline AWS and Microsoft Marketplace procurement",
-    "link": "https://www.suse.com/c/elevating-cloud-choice-suse-teams-with-ingram-micro-to-streamline-aws-and-microsoft-marketplace-procurement/",
-    "date": "Wed, 30 Sep 2026 16:06:41 +0000"
   },
   {
     "source": "broadcom_vmware",
