@@ -1,6 +1,12 @@
 [
   {
     "source": "sophos_threat",
+    "title": "Citrix NetScaler vulnerability (CVE-2026-88779) in active exploitation",
+    "link": "https://www.sophos.com/en-us/blog/citrix-netscaler-vulnerability-cve-2026-88779-in-active-exploitation",
+    "date": "Mon, 05 Oct 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "TerminalFix and Lorem Ipsum Loader enable covert tunneling",
     "link": "https://www.sophos.com/en-us/blog/terminalfix-and-lorem-ipsum-loader-enable-covert-tunneling",
     "date": "Wed, 30 Sep 2026 00:00:00 GMT"
@@ -10,12 +16,6 @@
     "title": "Citrix NetScaler vulnerabilities (CVE-2026-88771, CVE-2026-88772) in active exploitation",
     "link": "https://www.sophos.com/en-us/blog/citrix-netscaler-cve-2026-88771-cve-2026-88772-in-active-exploitation",
     "date": "Mon, 28 Sep 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "Kiteworks recommends server shutdown pending possible attack",
-    "link": "https://www.sophos.com/en-us/blog/kiteworks-recommends-server-shutdown-pending-possible-attack",
-    "date": "Fri, 25 Sep 2026 00:00:00 GMT"
   },
   {
     "source": "sophos_ops",
@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon ECS adds Amazon VPC Lattice support for blue/green, linear, and canary deployments",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-vpc-lattice-blue-green-deployments",
-    "date": "Fri, 02 Oct 2026 20:18:00 GMT"
+    "title": "Amazon Redshift adds support for creating and refreshing Apache Iceberg materialized views",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-iceberg-materialized-views",
+    "date": "Mon, 05 Oct 2026 21:57:18 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Health introduces the version catalog for software lifecycle management",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-health-introduces-version-catalog-software-lifecycle-management",
-    "date": "Fri, 02 Oct 2026 18:09:00 GMT"
+    "title": "GLM 5.3 by Z.ai is now generally available on Amazon Bedrock",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-glm-5-3/",
+    "date": "Mon, 05 Oct 2026 21:42:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.37",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-distro-kubernetes-version-1-37",
-    "date": "Fri, 02 Oct 2026 17:30:00 GMT"
+    "title": "AWS IAM Identity Center now supports network access controls for Identity Store",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-identity-store-network-controls/",
+    "date": "Mon, 05 Oct 2026 21:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,39 +73,45 @@
   },
   {
     "source": "suse_news",
+    "title": "Tales from the AI Crypt: How SUSE AI Factory Banishes AI Horrors",
+    "link": "https://www.suse.com/c/tales-from-the-ai-crypt-how-suse-ai-factory-banishes-ai-horrors/",
+    "date": "Mon, 05 Oct 2026 15:11:40 +0000"
+  },
+  {
+    "source": "suse_news",
+    "title": "Your first 10 minutes on SUSE Rancher for AWS",
+    "link": "https://www.suse.com/c/your-first-10-minutes-on-suse-rancher-for-aws/",
+    "date": "Mon, 05 Oct 2026 06:37:17 +0000"
+  },
+  {
+    "source": "suse_news",
     "title": "The energy grid and the larger story of Europe’s digital sovereignty",
     "link": "https://www.suse.com/c/energy-grid-digital-sovereignty/",
     "date": "Mon, 05 Oct 2026 00:19:25 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "Avoiding Vendor Lock-In Through an Open Source Approach: A Developer’s Perspective",
-    "link": "https://www.suse.com/c/avoiding-vendor-lock-in-through-an-open-source-approach-a-developers-perspective/",
-    "date": "Thu, 01 Oct 2026 07:01:19 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "The Rise of Agentic AI on Kubernetes: Unleashing the New Infrastructure Layer",
-    "link": "https://www.suse.com/c/the-rise-of-agentic-ai-on-kubernetes-unleashing-the-new-infrastructure-layer/",
-    "date": "Thu, 01 Oct 2026 06:51:26 +0000"
+    "source": "broadcom_vmware",
+    "title": "VCF Security Hardening Guidance",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/05/vcf-security-configuration-guide/",
+    "date": "Tue, 06 Oct 2026 03:45:10 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Security Starts with Hardware",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/02/security-starts-with-hardware/",
-    "date": "Fri, 02 Oct 2026 15:38:44 +0000"
+    "title": "Optimizing AI Deployments with VMware Cloud Foundation (Part 3)",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/05/optimizing-ai-deployments-with-vmware-cloud-foundation-part-3/",
+    "date": "Mon, 05 Oct 2026 21:20:23 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Navigating the AI Threat Era: Upgrading to VMware Cloud Foundation 9.1 and Applying Express Patches",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/01/navigating-the-ai-threat-era-upgrading-to-vmware-cloud-foundation-9-1-and-applying-express-patches/",
-    "date": "Thu, 01 Oct 2026 17:17:22 +0000"
+    "title": "Forrester Spotlight Finds That VMware Cloud Foundation Streamlines Private Cloud Operations",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/05/forrester-spotlight-finds-that-vmware-cloud-foundation-streamlines-private-cloud-operations/",
+    "date": "Mon, 05 Oct 2026 20:59:56 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "BroadcomがサポートするKubernetes関連のOSSパッケージ (VKS アドオン) について",
-    "link": "https://blogs.vmware.com/vmware-japan/2026/10/vcf-vks-addons-jpn.html",
-    "date": "Thu, 01 Oct 2026 00:23:37 +0000"
+    "source": "veeam_intel",
+    "title": "Veeam Data Platform 13.1: Direct Backup to Amazon S3 Glacier for Unstructured Data",
+    "link": "https://www.veeam.com/blog/file-nas-backup-s3-glacier.html",
+    "date": "Mon, 05 Oct 2026 13:00:24 +0000"
   },
   {
     "source": "veeam_intel",
@@ -118,12 +124,6 @@
     "title": "Backup Software Hidden Costs Nobody Mentions",
     "link": "https://www.veeam.com/blog/backup-software-hidden-costs.html",
     "date": "Wed, 30 Sep 2026 21:20:33 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Stop Calling It Cloud Storage: What Actually Makes a Backup Copy Attack-Resistant",
-    "link": "https://www.veeam.com/blog/backup-copy-attack-resistant.html",
-    "date": "Wed, 30 Sep 2026 19:33:12 +0000"
   },
   {
     "source": "hackerrank",
