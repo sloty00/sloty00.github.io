@@ -37,6 +37,12 @@
   },
   {
     "source": "aws_news",
+    "title": "AWS Certificate Manager now supports ACME issuance through AWS PrivateLink",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/AWS-Certificate-Manager-ACME-Privatelink",
+    "date": "Tue, 06 Oct 2026 14:01:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "Amazon Redshift adds support for creating and refreshing Apache Iceberg materialized views",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-iceberg-materialized-views",
     "date": "Mon, 05 Oct 2026 21:57:18 GMT"
@@ -46,12 +52,6 @@
     "title": "GLM 5.3 by Z.ai is now generally available on Amazon Bedrock",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-glm-5-3/",
     "date": "Mon, 05 Oct 2026 21:42:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "AWS IAM Identity Center now supports network access controls for Identity Store",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-identity-store-network-controls/",
-    "date": "Mon, 05 Oct 2026 21:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -72,22 +72,16 @@
     "date": "Wed, 23 Sep 2026 18:00:00 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "Tales from the AI Crypt: How SUSE AI Factory Banishes AI Horrors",
-    "link": "https://www.suse.com/c/tales-from-the-ai-crypt-how-suse-ai-factory-banishes-ai-horrors/",
-    "date": "Mon, 05 Oct 2026 15:11:40 +0000"
+    "source": "broadcom_vmware",
+    "title": "Dependencies Are a Boat Anchor",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/06/dependencies-are-a-boat-anchor/",
+    "date": "Tue, 06 Oct 2026 17:08:20 +0000"
   },
   {
-    "source": "suse_news",
-    "title": "Your first 10 minutes on SUSE Rancher for AWS",
-    "link": "https://www.suse.com/c/your-first-10-minutes-on-suse-rancher-for-aws/",
-    "date": "Mon, 05 Oct 2026 06:37:17 +0000"
-  },
-  {
-    "source": "suse_news",
-    "title": "The energy grid and the larger story of Europe’s digital sovereignty",
-    "link": "https://www.suse.com/c/energy-grid-digital-sovereignty/",
-    "date": "Mon, 05 Oct 2026 00:19:25 +0000"
+    "source": "broadcom_vmware",
+    "title": "What’s New in VMware Cloud Foundation 9.1.1 for Single Sign-On",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/06/whats-new-in-vmware-cloud-foundation-9-1-1-for-single-sign-on/",
+    "date": "Tue, 06 Oct 2026 16:21:47 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -96,16 +90,10 @@
     "date": "Tue, 06 Oct 2026 03:45:10 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "Optimizing AI Deployments with VMware Cloud Foundation (Part 3)",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/05/optimizing-ai-deployments-with-vmware-cloud-foundation-part-3/",
-    "date": "Mon, 05 Oct 2026 21:20:23 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Forrester Spotlight Finds That VMware Cloud Foundation Streamlines Private Cloud Operations",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/05/forrester-spotlight-finds-that-vmware-cloud-foundation-streamlines-private-cloud-operations/",
-    "date": "Mon, 05 Oct 2026 20:59:56 +0000"
+    "source": "veeam_intel",
+    "title": "Salesforce Archiving: How to Cut Storage Costs Without Losing Compliance",
+    "link": "https://www.veeam.com/blog/salesforce-data-archiving-strategy.html",
+    "date": "Tue, 06 Oct 2026 17:56:30 +0000"
   },
   {
     "source": "veeam_intel",
@@ -118,12 +106,6 @@
     "title": "Start With What You Can Prove: Measuring the National Resilience Strategy",
     "link": "https://www.veeam.com/blog/national-resilience-strategy-metrics.html",
     "date": "Thu, 01 Oct 2026 12:00:00 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Backup Software Hidden Costs Nobody Mentions",
-    "link": "https://www.veeam.com/blog/backup-software-hidden-costs.html",
-    "date": "Wed, 30 Sep 2026 21:20:33 +0000"
   },
   {
     "source": "hackerrank",
