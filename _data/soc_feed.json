@@ -37,6 +37,12 @@
   },
   {
     "source": "aws_news",
+    "title": "AWS Batch now publishes job metrics to Amazon CloudWatch",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-batch-job-cloudwatch-metrics/",
+    "date": "Tue, 06 Oct 2026 17:30:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "AWS Certificate Manager now supports ACME issuance through AWS PrivateLink",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/AWS-Certificate-Manager-ACME-Privatelink",
     "date": "Tue, 06 Oct 2026 14:01:00 GMT"
@@ -46,12 +52,6 @@
     "title": "Amazon Redshift adds support for creating and refreshing Apache Iceberg materialized views",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-iceberg-materialized-views",
     "date": "Mon, 05 Oct 2026 21:57:18 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "GLM 5.3 by Z.ai is now generally available on Amazon Bedrock",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-glm-5-3/",
-    "date": "Mon, 05 Oct 2026 21:42:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -91,6 +91,12 @@
   },
   {
     "source": "veeam_intel",
+    "title": "Provable Compliance, Built in From Day One",
+    "link": "https://www.veeam.com/blog/backup-compliance-evidence.html",
+    "date": "Tue, 06 Oct 2026 18:01:18 +0000"
+  },
+  {
+    "source": "veeam_intel",
     "title": "Salesforce Archiving: How to Cut Storage Costs Without Losing Compliance",
     "link": "https://www.veeam.com/blog/salesforce-data-archiving-strategy.html",
     "date": "Tue, 06 Oct 2026 17:56:30 +0000"
@@ -100,12 +106,6 @@
     "title": "Veeam Data Platform 13.1: Direct Backup to Amazon S3 Glacier for Unstructured Data",
     "link": "https://www.veeam.com/blog/file-nas-backup-s3-glacier.html",
     "date": "Mon, 05 Oct 2026 13:00:24 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Start With What You Can Prove: Measuring the National Resilience Strategy",
-    "link": "https://www.veeam.com/blog/national-resilience-strategy-metrics.html",
-    "date": "Thu, 01 Oct 2026 12:00:00 +0000"
   },
   {
     "source": "hackerrank",
