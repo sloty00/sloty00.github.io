@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
+    "title": "AWS Capabilities by Region now offers availability notifications for individual features and advanced filters",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/awscapabilities-enhancements/",
+    "date": "Wed, 07 Oct 2026 15:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
+    "title": "Claude Haiku 5.5 is now available on AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/claude-haiku-5-5-aws-govcloud/",
+    "date": "Wed, 07 Oct 2026 14:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "AWS Batch now publishes job metrics to Amazon CloudWatch",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-batch-job-cloudwatch-metrics/",
     "date": "Tue, 06 Oct 2026 17:30:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "AWS Certificate Manager now supports ACME issuance through AWS PrivateLink",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/AWS-Certificate-Manager-ACME-Privatelink",
-    "date": "Tue, 06 Oct 2026 14:01:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Amazon Redshift adds support for creating and refreshing Apache Iceberg materialized views",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-iceberg-materialized-views",
-    "date": "Mon, 05 Oct 2026 21:57:18 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "VCF Breakroom Chats Episode 96 – The Infrastructure-Centric Path to App Modernization",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/07/vcf-breakroom-chats-episode-96-the-infrastructure-centric-path-to-app-modernization/",
+    "date": "Wed, 07 Oct 2026 15:02:58 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Dependencies Are a Boat Anchor",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/10/06/dependencies-are-a-boat-anchor/",
     "date": "Tue, 06 Oct 2026 17:08:20 +0000"
@@ -82,12 +88,6 @@
     "title": "What’s New in VMware Cloud Foundation 9.1.1 for Single Sign-On",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/10/06/whats-new-in-vmware-cloud-foundation-9-1-1-for-single-sign-on/",
     "date": "Tue, 06 Oct 2026 16:21:47 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "VCF Security Hardening Guidance",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/05/vcf-security-configuration-guide/",
-    "date": "Tue, 06 Oct 2026 03:45:10 +0000"
   },
   {
     "source": "veeam_intel",
