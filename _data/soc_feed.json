@@ -43,15 +43,15 @@
   },
   {
     "source": "aws_news",
-    "title": "Claude Haiku 5.5 is now available on AWS GovCloud (US)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/claude-haiku-5-5-aws-govcloud/",
-    "date": "Wed, 07 Oct 2026 14:00:00 GMT"
+    "title": "AWS Config now supports 77 new resource types",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-config-new-resource-types",
+    "date": "Wed, 07 Oct 2026 15:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Batch now publishes job metrics to Amazon CloudWatch",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-batch-job-cloudwatch-metrics/",
-    "date": "Tue, 06 Oct 2026 17:30:00 GMT"
+    "title": "Claude Haiku 5.5 is now available on AWS",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/claude-haiku-5-5-aws/",
+    "date": "Wed, 07 Oct 2026 14:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,21 +73,21 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Vulnerabilities: Everything You’ve Wanted To Know",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/07/vulnerabilities-everything-you-want-know/",
+    "date": "Wed, 07 Oct 2026 20:29:12 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "The Cloud Admin’s Path to Platform Engineering",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/07/the-cloud-admins-path-to-platform-engineering/",
+    "date": "Wed, 07 Oct 2026 18:14:55 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "VCF Breakroom Chats Episode 96 – The Infrastructure-Centric Path to App Modernization",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/10/07/vcf-breakroom-chats-episode-96-the-infrastructure-centric-path-to-app-modernization/",
     "date": "Wed, 07 Oct 2026 15:02:58 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Dependencies Are a Boat Anchor",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/06/dependencies-are-a-boat-anchor/",
-    "date": "Tue, 06 Oct 2026 17:08:20 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "What’s New in VMware Cloud Foundation 9.1.1 for Single Sign-On",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/06/whats-new-in-vmware-cloud-foundation-9-1-1-for-single-sign-on/",
-    "date": "Tue, 06 Oct 2026 16:21:47 +0000"
   },
   {
     "source": "veeam_intel",
