@@ -55,6 +55,12 @@
   },
   {
     "source": "gcp_cloud",
+    "title": "Google Cloud introduces the Gemini agent.",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/",
+    "date": "Thu, 08 Oct 2026 12:05:00 +0000"
+  },
+  {
+    "source": "gcp_cloud",
     "title": "Google is supporting water resilience in Chile.",
     "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/water-resilience-chile/",
     "date": "Wed, 30 Sep 2026 18:34:00 +0000"
@@ -66,10 +72,10 @@
     "date": "Wed, 23 Sep 2026 19:00:00 +0000"
   },
   {
-    "source": "gcp_cloud",
-    "title": "Google Beam expands with new regions, partners, and customers",
-    "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-    "date": "Wed, 23 Sep 2026 18:00:00 +0000"
+    "source": "broadcom_vmware",
+    "title": "Initial Triage Guide for VMware Cloud Foundation Private AI Services",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/08/initial-triage-guide-for-vmware-cloud-foundation-private-ai-services/",
+    "date": "Thu, 08 Oct 2026 15:05:00 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -84,10 +90,10 @@
     "date": "Wed, 07 Oct 2026 18:14:55 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "VCF Breakroom Chats Episode 96 – The Infrastructure-Centric Path to App Modernization",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/07/vcf-breakroom-chats-episode-96-the-infrastructure-centric-path-to-app-modernization/",
-    "date": "Wed, 07 Oct 2026 15:02:58 +0000"
+    "source": "veeam_intel",
+    "title": "Veeam Recovery Orchestrator v13.1: More Flexibility, Less Manual Work",
+    "link": "https://www.veeam.com/blog/whats-new-in-veeam-recovery-orchestrator-13-1.html",
+    "date": "Thu, 08 Oct 2026 12:00:00 +0000"
   },
   {
     "source": "veeam_intel",
@@ -100,12 +106,6 @@
     "title": "Salesforce Archiving: How to Cut Storage Costs Without Losing Compliance",
     "link": "https://www.veeam.com/blog/salesforce-data-archiving-strategy.html",
     "date": "Tue, 06 Oct 2026 17:56:30 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Veeam Data Platform 13.1: Direct Backup to Amazon S3 Glacier for Unstructured Data",
-    "link": "https://www.veeam.com/blog/file-nas-backup-s3-glacier.html",
-    "date": "Mon, 05 Oct 2026 13:00:24 +0000"
   },
   {
     "source": "hackerrank",
