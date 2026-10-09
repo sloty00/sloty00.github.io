@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS Capabilities by Region now offers availability notifications for individual features and advanced filters",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/awscapabilities-enhancements/",
-    "date": "Wed, 07 Oct 2026 15:00:00 GMT"
+    "title": "OpenAI GPT-6.1 Sol now supports Ultrafast mode on Amazon Bedrock",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-sol-ultrafast-amazon/",
+    "date": "Thu, 08 Oct 2026 19:41:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Config now supports 77 new resource types",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-config-new-resource-types",
-    "date": "Wed, 07 Oct 2026 15:00:00 GMT"
+    "title": "AWS Cost Explorer, Budgets, and Dashboards now support Amazon Bedrock product attributes",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-bedrock-attributes-in-cost-explorer/",
+    "date": "Thu, 08 Oct 2026 18:51:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Claude Haiku 5.5 is now available on AWS",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/claude-haiku-5-5-aws/",
-    "date": "Wed, 07 Oct 2026 14:00:00 GMT"
+    "title": "Amazon RDS for Oracle now supports minor version upgrade prechecks and a new RDS event to help reduce patching downtime",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-minor-version-upgrade-precheck-new-patching-rds-event/",
+    "date": "Thu, 08 Oct 2026 18:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Upgrade to VMware Cloud Foundation 9.1 and Express Patching Webinar Top 10 Questions Answered",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/08/upgrade-to-vmware-cloud-foundation-9-1-and-express-patching-webinar-top-10-questions-answered/",
+    "date": "Thu, 08 Oct 2026 18:00:46 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Initial Triage Guide for VMware Cloud Foundation Private AI Services",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/10/08/initial-triage-guide-for-vmware-cloud-foundation-private-ai-services/",
     "date": "Thu, 08 Oct 2026 15:05:00 +0000"
@@ -82,12 +88,6 @@
     "title": "Vulnerabilities: Everything You’ve Wanted To Know",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/10/07/vulnerabilities-everything-you-want-know/",
     "date": "Wed, 07 Oct 2026 20:29:12 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "The Cloud Admin’s Path to Platform Engineering",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/07/the-cloud-admins-path-to-platform-engineering/",
-    "date": "Wed, 07 Oct 2026 18:14:55 +0000"
   },
   {
     "source": "veeam_intel",
