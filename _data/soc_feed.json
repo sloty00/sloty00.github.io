@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "OpenAI GPT-6.1 Sol now supports Ultrafast mode on Amazon Bedrock",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-sol-ultrafast-amazon/",
-    "date": "Thu, 08 Oct 2026 19:41:00 GMT"
+    "title": "AWS Security Hub now exports findings to S3 in CSV or JSON format",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-exports-s3-csv-json/",
+    "date": "Fri, 09 Oct 2026 22:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Cost Explorer, Budgets, and Dashboards now support Amazon Bedrock product attributes",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-bedrock-attributes-in-cost-explorer/",
-    "date": "Thu, 08 Oct 2026 18:51:00 GMT"
+    "title": "Amazon EC2 R8gd instances are now available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ec2-r8gd-thf/",
+    "date": "Fri, 09 Oct 2026 19:29:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon RDS for Oracle now supports minor version upgrade prechecks and a new RDS event to help reduce patching downtime",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-minor-version-upgrade-precheck-new-patching-rds-event/",
-    "date": "Thu, 08 Oct 2026 18:00:00 GMT"
+    "title": "Amazon EC2 R8g instances now available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ec2-r8g-instances-thf/",
+    "date": "Fri, 09 Oct 2026 19:19:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,21 +73,27 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "CRITICAL ADVISORY: Pre-Upgrade Verification Required for vSphere Supervisor and VKS Environments Upgrading to vCenter 9.1.0 or 9.1.1",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/09/critical-advisory-pre-upgrade-verification-required-for-vsphere-supervisor-and-vks-environments-upgrading-to-vcenter-9-1-0-or-9-1-1/",
+    "date": "Fri, 09 Oct 2026 23:11:43 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "Certificates, Trust, and Network Encryption",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/09/certificates-trust-network-encryption/",
+    "date": "Fri, 09 Oct 2026 19:33:40 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Beyond the Kubernetes complexity: Delivering an AI-Ready Platform Developers Love (Over Lunch)",
     "link": "https://blogs.vmware.com/tanzu/beyond-the-kubernetes-complexity-delivering-an-ai-ready-platform-developers-love-over-lunch/",
     "date": "Fri, 09 Oct 2026 15:46:00 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "Creating a FinOps Dashboard in VMware Cloud Foundation",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/09/creating-a-finops-dashboard-in-vmware-cloud-foundation/",
-    "date": "Fri, 09 Oct 2026 13:26:48 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Automated Budget Control for Multi-Tenant Environments",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/09/automated-budget-control-for-multi-tenant-environments/",
-    "date": "Fri, 09 Oct 2026 13:20:47 +0000"
+    "source": "veeam_intel",
+    "title": "Backup for Small IT Teams: How to Choose and Run Backup as a Service",
+    "link": "https://www.veeam.com/blog/backup-for-small-it-teams.html",
+    "date": "Fri, 09 Oct 2026 21:21:41 +0000"
   },
   {
     "source": "veeam_intel",
@@ -100,12 +106,6 @@
     "title": "Provable Compliance, Built in From Day One",
     "link": "https://www.veeam.com/blog/backup-compliance-evidence.html",
     "date": "Tue, 06 Oct 2026 18:01:18 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Salesforce Archiving: How to Cut Storage Costs Without Losing Compliance",
-    "link": "https://www.veeam.com/blog/salesforce-data-archiving-strategy.html",
-    "date": "Tue, 06 Oct 2026 17:56:30 +0000"
   },
   {
     "source": "hackerrank",
