@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS Security Hub now exports findings to S3 in CSV or JSON format",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-exports-s3-csv-json/",
-    "date": "Fri, 09 Oct 2026 22:00:00 GMT"
+    "title": "AWS Transfer Family supports custom ports for public SFTP servers",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/transfer-family-custom-ports-sftp/",
+    "date": "Mon, 12 Oct 2026 08:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EC2 R8gd instances are now available in additional regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ec2-r8gd-thf/",
-    "date": "Fri, 09 Oct 2026 19:29:00 GMT"
+    "title": "Amazon ElastiCache for Valkey introduces ElastiCache Insights",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-valkey-elasticache-insights/",
+    "date": "Mon, 12 Oct 2026 07:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EC2 R8g instances now available in additional regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ec2-r8g-instances-thf/",
-    "date": "Fri, 09 Oct 2026 19:19:00 GMT"
+    "title": "Amazon OpenSearch Service now supports index-level encryption",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/opensearch-index-level-encryption",
+    "date": "Mon, 12 Oct 2026 02:30:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "AI, Kubernetes, and Cloud Native Innovations: Broadcom at KubeCon North America 2026",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/12/ai-kubernetes-and-cloud-native-innovations-broadcom-at-kubecon-north-america-2026/",
+    "date": "Mon, 12 Oct 2026 13:00:00 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "CRITICAL ADVISORY: Pre-Upgrade Verification Required for vSphere Supervisor and VKS Environments Upgrading to vCenter 9.1.0 or 9.1.1",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/10/09/critical-advisory-pre-upgrade-verification-required-for-vsphere-supervisor-and-vks-environments-upgrading-to-vcenter-9-1-0-or-9-1-1/",
     "date": "Fri, 09 Oct 2026 23:11:43 +0000"
@@ -82,12 +88,6 @@
     "title": "Certificates, Trust, and Network Encryption",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/10/09/certificates-trust-network-encryption/",
     "date": "Fri, 09 Oct 2026 19:33:40 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Beyond the Kubernetes complexity: Delivering an AI-Ready Platform Developers Love (Over Lunch)",
-    "link": "https://blogs.vmware.com/tanzu/beyond-the-kubernetes-complexity-delivering-an-ai-ready-platform-developers-love-over-lunch/",
-    "date": "Fri, 09 Oct 2026 15:46:00 +0000"
   },
   {
     "source": "veeam_intel",
