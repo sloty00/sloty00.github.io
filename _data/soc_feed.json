@@ -1,6 +1,12 @@
 [
   {
     "source": "sophos_threat",
+    "title": "building intent-based access control without reading minds",
+    "link": "https://www.sophos.com/en-us/blog/building-intent-based-access-control-without-reading-minds",
+    "date": "Tue, 13 Oct 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "Citrix NetScaler vulnerability (CVE-2026-88779) in active exploitation",
     "link": "https://www.sophos.com/en-us/blog/citrix-netscaler-vulnerability-cve-2026-88779-in-active-exploitation",
     "date": "Mon, 05 Oct 2026 00:00:00 GMT"
@@ -10,12 +16,6 @@
     "title": "TerminalFix and Lorem Ipsum Loader enable covert tunneling",
     "link": "https://www.sophos.com/en-us/blog/terminalfix-and-lorem-ipsum-loader-enable-covert-tunneling",
     "date": "Wed, 30 Sep 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "Citrix NetScaler vulnerabilities (CVE-2026-88771, CVE-2026-88772) in active exploitation",
-    "link": "https://www.sophos.com/en-us/blog/citrix-netscaler-cve-2026-88771-cve-2026-88772-in-active-exploitation",
-    "date": "Mon, 28 Sep 2026 00:00:00 GMT"
   },
   {
     "source": "sophos_ops",
@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
+    "title": "Amazon SageMaker Studio simplifies getting started for new AI/ML builders with social sign-in",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/sagemaker-studio-social-sign-in/",
+    "date": "Tue, 13 Oct 2026 17:24:00 GMT"
+  },
+  {
+    "source": "aws_news",
+    "title": "Bring deep SageMaker AI expertise to your coding agent with the AWS AI/ML skill in the Agent Toolkit for AWS",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bring-sagemaker-ai-expertise-to-your-coding-agent/",
+    "date": "Tue, 13 Oct 2026 14:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "Amazon CloudFront now supports AWS Lambda Web Functions as an origin",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/cloudfront-lambda-web-functions-origin/",
     "date": "Mon, 12 Oct 2026 23:10:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Amazon EC2 G7 instances now available in Europe (Frankfurt) and Europe (Stockholm) Regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-g7-european-regions/",
-    "date": "Mon, 12 Oct 2026 22:30:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Amazon Connect Customer now prefills step-by-step guides for after contact work",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-prefills-guides-acw",
-    "date": "Mon, 12 Oct 2026 22:28:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,21 +73,21 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Customer Favorite Capabilities: Accelerating Your Path to VCF 9.1.1",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/13/customer-favorite-capabilities-accelerating-your-path-to-vcf-9-1-1/",
+    "date": "Tue, 13 Oct 2026 15:00:00 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "Proactive Defense: Enhancing Hypervisor Security in the AI Era",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/13/proactive-hypervisor-defense-introducing-vmware-hyperarmor/",
+    "date": "Tue, 13 Oct 2026 07:01:00 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Patch Easier, Then Faster",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/10/12/patch-easier-then-faster/",
     "date": "Mon, 12 Oct 2026 20:43:47 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "AI, Kubernetes, and Cloud Native Innovations: Broadcom at KubeCon North America 2026",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/12/ai-kubernetes-and-cloud-native-innovations-broadcom-at-kubecon-north-america-2026/",
-    "date": "Mon, 12 Oct 2026 13:00:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "CRITICAL ADVISORY: Pre-Upgrade Verification Required for vSphere Supervisor and VKS Environments Upgrading to vCenter 9.1.0 or 9.1.1",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/09/critical-advisory-pre-upgrade-verification-required-for-vsphere-supervisor-and-vks-environments-upgrading-to-vcenter-9-1-0-or-9-1-1/",
-    "date": "Fri, 09 Oct 2026 23:11:43 +0000"
   },
   {
     "source": "veeam_intel",
