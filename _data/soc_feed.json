@@ -55,6 +55,12 @@
   },
   {
     "source": "gcp_cloud",
+    "title": "We’re powering European scientific discovery with advanced AI compute and frontier models.",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models/",
+    "date": "Wed, 14 Oct 2026 08:00:00 +0000"
+  },
+  {
+    "source": "gcp_cloud",
     "title": "Google Cloud introduces the Gemini agent.",
     "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/",
     "date": "Thu, 08 Oct 2026 12:05:00 +0000"
@@ -64,12 +70,6 @@
     "title": "Google is supporting water resilience in Chile.",
     "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/water-resilience-chile/",
     "date": "Wed, 30 Sep 2026 18:34:00 +0000"
-  },
-  {
-    "source": "gcp_cloud",
-    "title": "Anyone can make stunning HD videos with Gemini Omni in Google Vids",
-    "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-in-google-vids/",
-    "date": "Wed, 23 Sep 2026 19:00:00 +0000"
   },
   {
     "source": "broadcom_vmware",
