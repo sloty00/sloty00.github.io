@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon SageMaker Studio simplifies getting started for new AI/ML builders with social sign-in",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/sagemaker-studio-social-sign-in/",
-    "date": "Tue, 13 Oct 2026 17:24:00 GMT"
+    "title": "AWS Security Hub now supports resource criticality for prioritization",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-resource-criticality/",
+    "date": "Wed, 14 Oct 2026 01:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Bring deep SageMaker AI expertise to your coding agent with the AWS AI/ML skill in the Agent Toolkit for AWS",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bring-sagemaker-ai-expertise-to-your-coding-agent/",
-    "date": "Tue, 13 Oct 2026 14:00:00 GMT"
+    "title": "Amazon ECS adds LiveTaskCount and removes the charge for RunningTaskCount metric",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ecs-service-metrics/",
+    "date": "Tue, 13 Oct 2026 22:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon CloudFront now supports AWS Lambda Web Functions as an origin",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/cloudfront-lambda-web-functions-origin/",
-    "date": "Mon, 12 Oct 2026 23:10:00 GMT"
+    "title": "AWS Agent Registry now supports custom metadata for registry records",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-agent-registry-custom-metadata-registry-records",
+    "date": "Tue, 13 Oct 2026 21:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,21 +73,21 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Threat hunting and Cross-Component Forensics with VCF Audit Trail",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/13/threat-hunting-and-cross-component-forensics-with-vcf-audit-trail/",
+    "date": "Wed, 14 Oct 2026 03:05:50 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "Anatomy of an AI",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/13/ai-security-anatomy/",
+    "date": "Tue, 13 Oct 2026 21:06:43 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Customer Favorite Capabilities: Accelerating Your Path to VCF 9.1.1",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/10/13/customer-favorite-capabilities-accelerating-your-path-to-vcf-9-1-1/",
     "date": "Tue, 13 Oct 2026 15:00:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Proactive Defense: Enhancing Hypervisor Security in the AI Era",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/13/proactive-hypervisor-defense-introducing-vmware-hyperarmor/",
-    "date": "Tue, 13 Oct 2026 07:01:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Patch Easier, Then Faster",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/12/patch-easier-then-faster/",
-    "date": "Mon, 12 Oct 2026 20:43:47 +0000"
   },
   {
     "source": "veeam_intel",
