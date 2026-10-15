@@ -37,6 +37,12 @@
   },
   {
     "source": "aws_news",
+    "title": "AWS Security Hub CSPM now supports the Cyber Risk Institute profile version 2.2",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-cspm-cri-profile-v22/",
+    "date": "Thu, 15 Oct 2026 08:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "Amazon CloudWatch announces log routing and chained log parsers",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/cloudwatch-pipelines-log-routing/",
     "date": "Wed, 14 Oct 2026 22:14:00 GMT"
@@ -46,12 +52,6 @@
     "title": "Amazon SageMaker Studio simplifies getting started for new AI/ML builders with social sign-in",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-studio-social-sign-in/",
     "date": "Wed, 14 Oct 2026 22:00:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "ARC Region switch adds four new capabilities",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/region-switch-target-health-ssm-lambda/",
-    "date": "Wed, 14 Oct 2026 17:38:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -91,21 +91,21 @@
   },
   {
     "source": "veeam_intel",
-    "title": "Backup for Small IT Teams: How to Choose and Run Backup as a Service",
-    "link": "https://www.veeam.com/blog/backup-for-small-it-teams.html",
-    "date": "Fri, 09 Oct 2026 21:21:41 +0000"
+    "title": "Precision Resilience for the AI Era with Veeam Intelligent ResOps",
+    "link": "https://www.veeam.com/blog/intelligent-resops-minimum-viable-recovery.html",
+    "date": "Thu, 15 Oct 2026 13:09:58 +0000"
   },
   {
     "source": "veeam_intel",
-    "title": "Veeam Recovery Orchestrator v13.1: More Flexibility, Less Manual Work",
-    "link": "https://www.veeam.com/blog/whats-new-in-veeam-recovery-orchestrator-13-1.html",
-    "date": "Thu, 08 Oct 2026 12:00:00 +0000"
+    "title": "Partners: Your Next Revenue Opportunity Is Here. Veeam Intelligent ResOps for Microsoft 365 Is Now Available.",
+    "link": "https://www.veeam.com/blog/intelligent-resops-microsoft-365-partners.html",
+    "date": "Thu, 15 Oct 2026 13:01:23 +0000"
   },
   {
     "source": "veeam_intel",
-    "title": "Provable Compliance, Built in From Day One",
-    "link": "https://www.veeam.com/blog/backup-compliance-evidence.html",
-    "date": "Tue, 06 Oct 2026 18:01:18 +0000"
+    "title": "Veeam Named a Leader in the 2026 Gartner® Magic Quadrant™ for Privacy UX",
+    "link": "https://www.veeam.com/blog/gartner-magic-quadrant-privacy-ux-leader.html",
+    "date": "Thu, 15 Oct 2026 10:25:11 +0000"
   },
   {
     "source": "hackerrank",
