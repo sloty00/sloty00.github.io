@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS Security Hub now supports resource criticality for prioritization",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-resource-criticality/",
-    "date": "Wed, 14 Oct 2026 01:00:00 GMT"
+    "title": "Amazon CloudWatch announces log routing and chained log parsers",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/cloudwatch-pipelines-log-routing/",
+    "date": "Wed, 14 Oct 2026 22:14:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon ECS adds LiveTaskCount and removes the charge for RunningTaskCount metric",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ecs-service-metrics/",
-    "date": "Tue, 13 Oct 2026 22:00:00 GMT"
+    "title": "Amazon SageMaker Studio simplifies getting started for new AI/ML builders with social sign-in",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-studio-social-sign-in/",
+    "date": "Wed, 14 Oct 2026 22:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Agent Registry now supports custom metadata for registry records",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-agent-registry-custom-metadata-registry-records",
-    "date": "Tue, 13 Oct 2026 21:00:00 GMT"
+    "title": "ARC Region switch adds four new capabilities",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/region-switch-target-health-ssm-lambda/",
+    "date": "Wed, 14 Oct 2026 17:38:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,21 +73,21 @@
   },
   {
     "source": "broadcom_vmware",
-    "title": "Threat hunting and Cross-Component Forensics with VCF Audit Trail",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/13/threat-hunting-and-cross-component-forensics-with-vcf-audit-trail/",
-    "date": "Wed, 14 Oct 2026 03:05:50 +0000"
+    "title": "Optimizing AI Deployments with VMware Cloud Foundation (Part 4)",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/14/optimizing-ai-deployments-with-vmware-cloud-foundation-part-4/",
+    "date": "Wed, 14 Oct 2026 21:53:33 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Anatomy of an AI",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/13/ai-security-anatomy/",
-    "date": "Tue, 13 Oct 2026 21:06:43 +0000"
+    "title": "Show Me the Money: Cost Management and Chargeback in VMware Cloud Foundation",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/14/show-me-the-money-cost-management-and-chargeback-in-vmware-cloud-foundation/",
+    "date": "Wed, 14 Oct 2026 21:37:43 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Customer Favorite Capabilities: Accelerating Your Path to VCF 9.1.1",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/13/customer-favorite-capabilities-accelerating-your-path-to-vcf-9-1-1/",
-    "date": "Tue, 13 Oct 2026 15:00:00 +0000"
+    "title": "AI Security Threats: Real or Movie Plot?",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/14/ai-threats-real-or-movie-plot/",
+    "date": "Wed, 14 Oct 2026 21:12:00 +0000"
   },
   {
     "source": "veeam_intel",
