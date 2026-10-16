@@ -37,6 +37,12 @@
   },
   {
     "source": "aws_news",
+    "title": "AWS Transform announces Azure-to-AWS cloud-native code conversion",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-azure-to-aws-code-conversion/",
+    "date": "Fri, 16 Oct 2026 13:50:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "Web Search on Amazon Bedrock AgentCore expands to AWS GovCloud and 3 Regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-agentcore/",
     "date": "Thu, 15 Oct 2026 20:40:00 GMT"
@@ -46,12 +52,6 @@
     "title": "Amazon SageMaker Studio simplifies getting started for new AI/ML builders with new sign-in options",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-studio-new-sign-in-options/",
     "date": "Thu, 15 Oct 2026 20:10:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Amazon EC2 T8i instances are now available in South America (São Paulo)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-t8i-instances-south-america/",
-    "date": "Thu, 15 Oct 2026 20:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
