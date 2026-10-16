@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS Security Hub CSPM now supports the Cyber Risk Institute profile version 2.2",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-cspm-cri-profile-v22/",
-    "date": "Thu, 15 Oct 2026 08:00:00 GMT"
+    "title": "Web Search on Amazon Bedrock AgentCore expands to AWS GovCloud and 3 Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-agentcore/",
+    "date": "Thu, 15 Oct 2026 20:40:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon CloudWatch announces log routing and chained log parsers",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/cloudwatch-pipelines-log-routing/",
-    "date": "Wed, 14 Oct 2026 22:14:00 GMT"
+    "title": "Amazon SageMaker Studio simplifies getting started for new AI/ML builders with new sign-in options",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-studio-new-sign-in-options/",
+    "date": "Thu, 15 Oct 2026 20:10:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon SageMaker Studio simplifies getting started for new AI/ML builders with social sign-in",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-studio-social-sign-in/",
-    "date": "Wed, 14 Oct 2026 22:00:00 GMT"
+    "title": "Amazon EC2 T8i instances are now available in South America (São Paulo)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-t8i-instances-south-america/",
+    "date": "Thu, 15 Oct 2026 20:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "VCF Breakroom Chats Episode 95: Securing VMware vSphere Kubernetes Service with Nirmata and Kyverno",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/15/vcf-breakroom-chats-episode-95-securing-vmware-vsphere-kubernetes-service-with-nirmata-and-kyverno/",
+    "date": "Thu, 15 Oct 2026 17:27:19 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Optimizing AI Deployments with VMware Cloud Foundation (Part 4)",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/10/14/optimizing-ai-deployments-with-vmware-cloud-foundation-part-4/",
     "date": "Wed, 14 Oct 2026 21:53:33 +0000"
@@ -84,10 +90,10 @@
     "date": "Wed, 14 Oct 2026 21:37:43 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "AI Security Threats: Real or Movie Plot?",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/14/ai-threats-real-or-movie-plot/",
-    "date": "Wed, 14 Oct 2026 21:12:00 +0000"
+    "source": "veeam_intel",
+    "title": "Backup Software Comparison for Hybrid SMB Environments: How to Protect Servers, Cloud, and SaaS Without Tool Sprawl",
+    "link": "https://www.veeam.com/blog/backup-software-comparison-for-hybrid-smb-environments.html",
+    "date": "Thu, 15 Oct 2026 21:16:59 +0000"
   },
   {
     "source": "veeam_intel",
@@ -100,12 +106,6 @@
     "title": "Partners: Your Next Revenue Opportunity Is Here. Veeam Intelligent ResOps for Microsoft 365 Is Now Available.",
     "link": "https://www.veeam.com/blog/intelligent-resops-microsoft-365-partners.html",
     "date": "Thu, 15 Oct 2026 13:01:23 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Veeam Named a Leader in the 2026 Gartner® Magic Quadrant™ for Privacy UX",
-    "link": "https://www.veeam.com/blog/gartner-magic-quadrant-privacy-ux-leader.html",
-    "date": "Thu, 15 Oct 2026 10:25:11 +0000"
   },
   {
     "source": "hackerrank",
