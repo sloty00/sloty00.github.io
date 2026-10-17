@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS Transform announces Azure-to-AWS cloud-native code conversion",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-azure-to-aws-code-conversion/",
-    "date": "Fri, 16 Oct 2026 13:50:00 GMT"
+    "title": "Amazon CloudWatch log centralization now available in AWS GovCloud and additional commercial Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-cloudwatch-centralization-region-expansion",
+    "date": "Fri, 16 Oct 2026 20:04:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Web Search on Amazon Bedrock AgentCore expands to AWS GovCloud and 3 Regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-agentcore/",
-    "date": "Thu, 15 Oct 2026 20:40:00 GMT"
+    "title": "AWS Lambda durable functions are now available in AWS GovCloud (US) Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/durablefunctions-govcloud/",
+    "date": "Fri, 16 Oct 2026 18:26:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon SageMaker Studio simplifies getting started for new AI/ML builders with new sign-in options",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-studio-new-sign-in-options/",
-    "date": "Thu, 15 Oct 2026 20:10:00 GMT"
+    "title": "Nemotron 3.5 Super VL model now available on Amazon SageMaker JumpStart",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/nvidia-nemotron-3.5-super-vl-on-sagemaker-jumpstart/",
+    "date": "Fri, 16 Oct 2026 17:59:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,39 +73,39 @@
   },
   {
     "source": "broadcom_vmware",
-    "title": "VCF Breakroom Chats Episode 95: Securing VMware vSphere Kubernetes Service with Nirmata and Kyverno",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/15/vcf-breakroom-chats-episode-95-securing-vmware-vsphere-kubernetes-service-with-nirmata-and-kyverno/",
-    "date": "Thu, 15 Oct 2026 17:27:19 +0000"
+    "title": "Snapshots Are Your Best Friend",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/16/snapshots-are-your-best-friend/",
+    "date": "Fri, 16 Oct 2026 22:58:00 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Optimizing AI Deployments with VMware Cloud Foundation (Part 4)",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/14/optimizing-ai-deployments-with-vmware-cloud-foundation-part-4/",
-    "date": "Wed, 14 Oct 2026 21:53:33 +0000"
+    "title": "What It Actually Takes to Run AI at Production Scale",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/16/what-it-actually-takes-to-run-ai-at-production-scale/",
+    "date": "Fri, 16 Oct 2026 17:55:46 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Show Me the Money: Cost Management and Chargeback in VMware Cloud Foundation",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/14/show-me-the-money-cost-management-and-chargeback-in-vmware-cloud-foundation/",
-    "date": "Wed, 14 Oct 2026 21:37:43 +0000"
+    "title": "Why vSAN ESA Only Supports NVMe Solid State Storage Devices",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/16/why-vsan-esa-only-supports-nvme-solid-state-storage-devices/",
+    "date": "Fri, 16 Oct 2026 15:45:51 +0000"
+  },
+  {
+    "source": "veeam_intel",
+    "title": "Autonomy Is Only Safe When It Is Reversible",
+    "link": "https://www.veeam.com/blog/lenovo-ai-express-reversible-autonomy.html",
+    "date": "Fri, 16 Oct 2026 23:27:48 +0000"
+  },
+  {
+    "source": "veeam_intel",
+    "title": "Is Your Data Actually Ready for AI? A Readiness Check by Maturity Level",
+    "link": "https://www.veeam.com/blog/ai-readiness-maturity-levels.html",
+    "date": "Fri, 16 Oct 2026 23:21:28 +0000"
   },
   {
     "source": "veeam_intel",
     "title": "Backup Software Comparison for Hybrid SMB Environments: How to Protect Servers, Cloud, and SaaS Without Tool Sprawl",
     "link": "https://www.veeam.com/blog/backup-software-comparison-for-hybrid-smb-environments.html",
     "date": "Thu, 15 Oct 2026 21:16:59 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Precision Resilience for the AI Era with Veeam Intelligent ResOps",
-    "link": "https://www.veeam.com/blog/intelligent-resops-minimum-viable-recovery.html",
-    "date": "Thu, 15 Oct 2026 13:09:58 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Partners: Your Next Revenue Opportunity Is Here. Veeam Intelligent ResOps for Microsoft 365 Is Now Available.",
-    "link": "https://www.veeam.com/blog/intelligent-resops-microsoft-365-partners.html",
-    "date": "Thu, 15 Oct 2026 13:01:23 +0000"
   },
   {
     "source": "hackerrank",
