@@ -37,6 +37,12 @@
   },
   {
     "source": "aws_news",
+    "title": "Amazon GuardDuty adds optional threat detection rules for Runtime Monitoring",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-runtime-optional-detection-rules/",
+    "date": "Mon, 19 Oct 2026 16:01:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "Amazon CloudWatch log centralization now available in AWS GovCloud and additional commercial Regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-cloudwatch-centralization-region-expansion",
     "date": "Fri, 16 Oct 2026 20:04:00 GMT"
@@ -46,12 +52,6 @@
     "title": "AWS Lambda durable functions are now available in AWS GovCloud (US) Regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/durablefunctions-govcloud/",
     "date": "Fri, 16 Oct 2026 18:26:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Nemotron 3.5 Super VL model now available on Amazon SageMaker JumpStart",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/nvidia-nemotron-3.5-super-vl-on-sagemaker-jumpstart/",
-    "date": "Fri, 16 Oct 2026 17:59:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "AI vs. the Fortress: Can Autonomous Agents Breach VMware Security?",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/19/ai-vs-vmware-security/",
+    "date": "Mon, 19 Oct 2026 14:16:23 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Snapshots Are Your Best Friend",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/10/16/snapshots-are-your-best-friend/",
     "date": "Fri, 16 Oct 2026 22:58:00 +0000"
@@ -82,12 +88,6 @@
     "title": "What It Actually Takes to Run AI at Production Scale",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/10/16/what-it-actually-takes-to-run-ai-at-production-scale/",
     "date": "Fri, 16 Oct 2026 17:55:46 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Why vSAN ESA Only Supports NVMe Solid State Storage Devices",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/16/why-vsan-esa-only-supports-nvme-solid-state-storage-devices/",
-    "date": "Fri, 16 Oct 2026 15:45:51 +0000"
   },
   {
     "source": "veeam_intel",
