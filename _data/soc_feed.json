@@ -1,6 +1,12 @@
 [
   {
     "source": "sophos_threat",
+    "title": "BRONZE SANDCASTLE deploys modified Meterpreter shells",
+    "link": "https://www.sophos.com/en-us/blog/bronze-sandcastle-deploys-modified-meterpreter-shells",
+    "date": "Tue, 20 Oct 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "Graph reconnaissance and ServiceNow user enumeration in a modern identity intrusion",
     "link": "https://www.sophos.com/en-us/blog/graph-reconnaissance-and-servicenow-user-enumeration-in-a-modern-identity-intrusion",
     "date": "Mon, 19 Oct 2026 00:00:00 GMT"
@@ -10,12 +16,6 @@
     "title": "ConnectWise Cloud Backup application abused in cross-tenant token sweep",
     "link": "https://www.sophos.com/en-us/blog/connectwise-cloud-backup-application-abused-in-token-sweep",
     "date": "Mon, 19 Oct 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "building intent-based access control without reading minds",
-    "link": "https://www.sophos.com/en-us/blog/building-intent-based-access-control-without-reading-minds",
-    "date": "Tue, 13 Oct 2026 00:00:00 GMT"
   },
   {
     "source": "sophos_ops",
@@ -37,6 +37,12 @@
   },
   {
     "source": "aws_news",
+    "title": "Polly Generative engine upgraded with more natural speech, 14 new voices, and 2 new languages",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/polly-generative/",
+    "date": "Tue, 20 Oct 2026 15:32:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "Amazon Connect Customer Global Resiliency now provides business users visibility into resiliency readiness across linked Regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-readiness-overview",
     "date": "Mon, 19 Oct 2026 21:45:00 GMT"
@@ -46,12 +52,6 @@
     "title": "Amazon CloudWatch Omni is now available in additional AWS Regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-cloudwatch-omni-8-regions/",
     "date": "Mon, 19 Oct 2026 19:10:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "EC2 Image Builder now integrates with ASG for faster image builds",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-image-builder-asg-faster-builds/",
-    "date": "Mon, 19 Oct 2026 17:30:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,21 +73,21 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Architecting Data Services for Microsoft SQL Server on VMware Cloud Foundation: A Best Practices Guide",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/20/architecting-data-services-for-microsoft-sql-server-on-vmware-cloud-foundation-a-best-practices-guide/",
+    "date": "Tue, 20 Oct 2026 15:23:52 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "A Smarter, More Transparent Way to Forecast Capacity in VMware Cloud Foundation 9.1.1",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/20/a-smarter-more-transparent-way-to-forecast-capacity-in-vcf/",
+    "date": "Tue, 20 Oct 2026 13:42:48 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "AI vs. the Fortress: Can Autonomous Agents Breach VMware Security?",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/10/19/ai-vs-vmware-security/",
     "date": "Mon, 19 Oct 2026 14:16:23 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Snapshots Are Your Best Friend",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/16/snapshots-are-your-best-friend/",
-    "date": "Fri, 16 Oct 2026 22:58:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "What It Actually Takes to Run AI at Production Scale",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/16/what-it-actually-takes-to-run-ai-at-production-scale/",
-    "date": "Fri, 16 Oct 2026 17:55:46 +0000"
   },
   {
     "source": "veeam_intel",
