@@ -1,21 +1,21 @@
 [
   {
     "source": "sophos_threat",
+    "title": "Graph reconnaissance and ServiceNow user enumeration in a modern identity intrusion",
+    "link": "https://www.sophos.com/en-us/blog/graph-reconnaissance-and-servicenow-user-enumeration-in-a-modern-identity-intrusion",
+    "date": "Mon, 19 Oct 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
+    "title": "ConnectWise Cloud Backup application abused in cross-tenant token sweep",
+    "link": "https://www.sophos.com/en-us/blog/connectwise-cloud-backup-application-abused-in-token-sweep",
+    "date": "Mon, 19 Oct 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "building intent-based access control without reading minds",
     "link": "https://www.sophos.com/en-us/blog/building-intent-based-access-control-without-reading-minds",
     "date": "Tue, 13 Oct 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "Citrix NetScaler vulnerability (CVE-2026-88779) in active exploitation",
-    "link": "https://www.sophos.com/en-us/blog/citrix-netscaler-vulnerability-cve-2026-88779-in-active-exploitation",
-    "date": "Mon, 05 Oct 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "TerminalFix and Lorem Ipsum Loader enable covert tunneling",
-    "link": "https://www.sophos.com/en-us/blog/terminalfix-and-lorem-ipsum-loader-enable-covert-tunneling",
-    "date": "Wed, 30 Sep 2026 00:00:00 GMT"
   },
   {
     "source": "sophos_ops",
@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon GuardDuty adds optional threat detection rules for Runtime Monitoring",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-runtime-optional-detection-rules/",
-    "date": "Mon, 19 Oct 2026 16:01:00 GMT"
+    "title": "Amazon Connect Customer Global Resiliency now provides business users visibility into resiliency readiness across linked Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-readiness-overview",
+    "date": "Mon, 19 Oct 2026 21:45:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon CloudWatch log centralization now available in AWS GovCloud and additional commercial Regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-cloudwatch-centralization-region-expansion",
-    "date": "Fri, 16 Oct 2026 20:04:00 GMT"
+    "title": "Amazon CloudWatch Omni is now available in additional AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-cloudwatch-omni-8-regions/",
+    "date": "Mon, 19 Oct 2026 19:10:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Lambda durable functions are now available in AWS GovCloud (US) Regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/durablefunctions-govcloud/",
-    "date": "Fri, 16 Oct 2026 18:26:00 GMT"
+    "title": "EC2 Image Builder now integrates with ASG for faster image builds",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-image-builder-asg-faster-builds/",
+    "date": "Mon, 19 Oct 2026 17:30:00 GMT"
   },
   {
     "source": "gcp_cloud",
