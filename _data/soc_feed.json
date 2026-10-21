@@ -1,6 +1,12 @@
 [
   {
     "source": "sophos_threat",
+    "title": "Proof-of-concept exploit released for PHP vulnerabilities (CVE-2026-109618, CVE-2026-109619)",
+    "link": "https://www.sophos.com/en-us/blog/proof-of-concept-exploit-released-for-php-vulnerabilities-109618-109619",
+    "date": "Wed, 21 Oct 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "BRONZE SANDCASTLE deploys modified Meterpreter shells",
     "link": "https://www.sophos.com/en-us/blog/bronze-sandcastle-deploys-modified-meterpreter-shells",
     "date": "Tue, 20 Oct 2026 00:00:00 GMT"
@@ -9,12 +15,6 @@
     "source": "sophos_threat",
     "title": "Graph reconnaissance and ServiceNow user enumeration in a modern identity intrusion",
     "link": "https://www.sophos.com/en-us/blog/graph-reconnaissance-and-servicenow-user-enumeration-in-a-modern-identity-intrusion",
-    "date": "Mon, 19 Oct 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "ConnectWise Cloud Backup application abused in cross-tenant token sweep",
-    "link": "https://www.sophos.com/en-us/blog/connectwise-cloud-backup-application-abused-in-token-sweep",
     "date": "Mon, 19 Oct 2026 00:00:00 GMT"
   },
   {
@@ -91,6 +91,12 @@
   },
   {
     "source": "veeam_intel",
+    "title": "Veeam Extends Our #1 Market Share in Data Protection Software",
+    "link": "https://www.veeam.com/blog/idc-data-protection-market-share-tracker.html",
+    "date": "Wed, 21 Oct 2026 15:52:46 +0000"
+  },
+  {
+    "source": "veeam_intel",
     "title": "Autonomy Is Only Safe When It Is Reversible",
     "link": "https://www.veeam.com/blog/lenovo-ai-express-reversible-autonomy.html",
     "date": "Fri, 16 Oct 2026 23:27:48 +0000"
@@ -100,12 +106,6 @@
     "title": "Is Your Data Actually Ready for AI? A Readiness Check by Maturity Level",
     "link": "https://www.veeam.com/blog/ai-readiness-maturity-levels.html",
     "date": "Fri, 16 Oct 2026 23:21:28 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Backup Software Comparison for Hybrid SMB Environments: How to Protect Servers, Cloud, and SaaS Without Tool Sprawl",
-    "link": "https://www.veeam.com/blog/backup-software-comparison-for-hybrid-smb-environments.html",
-    "date": "Thu, 15 Oct 2026 21:16:59 +0000"
   },
   {
     "source": "hackerrank",
