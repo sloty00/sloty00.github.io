@@ -37,6 +37,12 @@
   },
   {
     "source": "aws_news",
+    "title": "AWS announces AWS Interconnect - last mile preview with Megaport",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announces-AWS-interconnect-last-mile-megaport-preview/",
+    "date": "Thu, 22 Oct 2026 12:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "AWS Transform adds storage migration assessments for Amazon S3, EBS, EFS, and FSx",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/transform-assess-s3-ebs-efs-fsx/",
     "date": "Wed, 21 Oct 2026 19:10:00 GMT"
@@ -46,12 +52,6 @@
     "title": "AWS Direct Connect announces 100G expansion in Manchester, England",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-direct-connect-100g-manchester/",
     "date": "Wed, 21 Oct 2026 17:21:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Amazon Aurora and Amazon RDS now support On-Demand Capacity Reservations",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-aurora-rds-on-demand-capacity-reservations/",
-    "date": "Wed, 21 Oct 2026 17:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,21 +73,21 @@
   },
   {
     "source": "broadcom_vmware",
-    "title": "Tenant Connectivity on VCF 9.1: Choosing a Design and Running It in Production (Part 6)",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/20/tenant-connectivity-on-vcf-9-1-choosing-a-design-and-running-it-in-production-part-6/",
-    "date": "Tue, 20 Oct 2026 17:25:07 +0000"
+    "title": "Neutralizing PHP2Shell: Stopping Critical PHP RCEs with VMware vDefend and Avi WAF",
+    "link": "https://blogs.vmware.com/load-balancing/2026/10/22/stop-php-rces-with-vdefend-avi-waf/",
+    "date": "Thu, 22 Oct 2026 14:51:40 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Tenant Connectivity on VCF 9.1: Serving the Data Center, Shared Services and the Internet from One Gateway (Part 5)",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/20/tenant-connectivity-on-vcf-9-1-serving-the-data-center-shared-services-and-the-internet-from-one-gateway-part-5/",
-    "date": "Tue, 20 Oct 2026 17:24:32 +0000"
+    "title": "Protecting Active Directory with VCF",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/22/protecting-active-directory/",
+    "date": "Thu, 22 Oct 2026 14:29:11 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Tenant Connectivity on VCF 9.1: When the Enterprise Must See Real Workload Addresses (Part 4)",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/20/tenant-connectivity-on-vcf-9-1-when-the-enterprise-must-see-real-workload-addresses-part-4/",
-    "date": "Tue, 20 Oct 2026 17:23:27 +0000"
+    "title": "Zero Trust Versus Identity Providers",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/22/zero-trust-identity-providers/",
+    "date": "Thu, 22 Oct 2026 14:29:01 +0000"
   },
   {
     "source": "veeam_intel",
