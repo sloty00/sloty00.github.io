@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Announcing Amazon ECS Gateway, a managed ingress solution for your ECS services",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/announcing-amazon-ecs-gateway/",
-    "date": "Tue, 20 Oct 2026 23:26:00 GMT"
+    "title": "AWS Transform adds storage migration assessments for Amazon S3, EBS, EFS, and FSx",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/transform-assess-s3-ebs-efs-fsx/",
+    "date": "Wed, 21 Oct 2026 19:10:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon DynamoDB global tables now support disassociating replicas",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/dynamodb-global-tables-disassociate/",
-    "date": "Tue, 20 Oct 2026 23:00:00 GMT"
+    "title": "AWS Direct Connect announces 100G expansion in Manchester, England",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-direct-connect-100g-manchester/",
+    "date": "Wed, 21 Oct 2026 17:21:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Polly Generative engine upgraded with more natural speech, 14 new voices, and 2 new languages",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/polly-generative/",
-    "date": "Tue, 20 Oct 2026 15:32:00 GMT"
+    "title": "Amazon Aurora and Amazon RDS now support On-Demand Capacity Reservations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-aurora-rds-on-demand-capacity-reservations/",
+    "date": "Wed, 21 Oct 2026 17:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
