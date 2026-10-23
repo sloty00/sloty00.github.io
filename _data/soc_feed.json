@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS announces AWS Interconnect - last mile preview with Megaport",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announces-AWS-interconnect-last-mile-megaport-preview/",
-    "date": "Thu, 22 Oct 2026 12:00:00 GMT"
+    "title": "Amazon Connect Customer now supports customizing the Customer Profiles app on the agent workspace",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-customize-cp",
+    "date": "Thu, 22 Oct 2026 21:10:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Transform adds storage migration assessments for Amazon S3, EBS, EFS, and FSx",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/transform-assess-s3-ebs-efs-fsx/",
-    "date": "Wed, 21 Oct 2026 19:10:00 GMT"
+    "title": "AWS Continuum for code vulnerabilities is now generally available",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-for-code-vulnerabilities-is-now-generally-available",
+    "date": "Thu, 22 Oct 2026 21:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Direct Connect announces 100G expansion in Manchester, England",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-direct-connect-100g-manchester/",
-    "date": "Wed, 21 Oct 2026 17:21:00 GMT"
+    "title": "Amazon OpenSearch Serverless now supports a 5-second default refresh interval",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-opensearch-serverless-supports-5-second-refresh-interval/",
+    "date": "Thu, 22 Oct 2026 18:34:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,21 +73,27 @@
   },
   {
     "source": "broadcom_vmware",
-    "title": "Neutralizing PHP2Shell: Stopping Critical PHP RCEs with VMware vDefend and Avi WAF",
-    "link": "https://blogs.vmware.com/load-balancing/2026/10/22/stop-php-rces-with-vdefend-avi-waf/",
-    "date": "Thu, 22 Oct 2026 14:51:40 +0000"
+    "title": "VMware Tanzu Platform 11.0: The Agent Platform for VMware Private AI Cloud",
+    "link": "https://blogs.vmware.com/tanzu/vmware-tanzu-platform-11-0-the-agent-platform-for-vmware-private-ai-cloud/",
+    "date": "Fri, 23 Oct 2026 00:06:00 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Protecting Active Directory with VCF",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/22/protecting-active-directory/",
-    "date": "Thu, 22 Oct 2026 14:29:11 +0000"
+    "title": "VCF Breakroom Chats | Ep. 97 – Enabling GitOps on VMware vSphere Kubernetes Service with Harness",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/22/vcf-breakroom-chats-ep-97-enabling-gitops-on-vmware-vsphere-kubernetes-service-with-harness/",
+    "date": "Thu, 22 Oct 2026 23:56:02 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Zero Trust Versus Identity Providers",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/22/zero-trust-identity-providers/",
-    "date": "Thu, 22 Oct 2026 14:29:01 +0000"
+    "title": "The Modern Compute Primitive: Why Declarative VM Management Matters Now (Introducing KubeVM Service)",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/22/introducing-kubevm-service/",
+    "date": "Thu, 22 Oct 2026 18:30:00 +0000"
+  },
+  {
+    "source": "veeam_intel",
+    "title": "What Is ROT Data? A 6 Step Guide to Automating Data Minimization",
+    "link": "https://www.veeam.com/blog/rot-data-minimization.html",
+    "date": "Thu, 22 Oct 2026 17:10:39 +0000"
   },
   {
     "source": "veeam_intel",
@@ -100,12 +106,6 @@
     "title": "Autonomy Is Only Safe When It Is Reversible",
     "link": "https://www.veeam.com/blog/lenovo-ai-express-reversible-autonomy.html",
     "date": "Fri, 16 Oct 2026 23:27:48 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Is Your Data Actually Ready for AI? A Readiness Check by Maturity Level",
-    "link": "https://www.veeam.com/blog/ai-readiness-maturity-levels.html",
-    "date": "Fri, 16 Oct 2026 23:21:28 +0000"
   },
   {
     "source": "hackerrank",
