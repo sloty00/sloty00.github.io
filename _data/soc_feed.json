@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon Connect Customer now supports customizing the Customer Profiles app on the agent workspace",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-customize-cp",
-    "date": "Thu, 22 Oct 2026 21:10:00 GMT"
+    "title": "Web Search on AWS Bedrock now supports domain filtering and user location controls",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/",
+    "date": "Fri, 23 Oct 2026 21:04:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Continuum for code vulnerabilities is now generally available",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-for-code-vulnerabilities-is-now-generally-available",
-    "date": "Thu, 22 Oct 2026 21:00:00 GMT"
+    "title": "Amazon Connect Customer Global Resiliency now supports persistent chat across linked AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-persistent-chat",
+    "date": "Fri, 23 Oct 2026 17:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon OpenSearch Serverless now supports a 5-second default refresh interval",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-opensearch-serverless-supports-5-second-refresh-interval/",
-    "date": "Thu, 22 Oct 2026 18:34:00 GMT"
+    "title": "AWS Transit Gateway and AWS Cloud WAN now support 1:1 NAT",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transit-gateway-cloud-wan-1-1-nat/",
+    "date": "Fri, 23 Oct 2026 15:43:00 GMT"
   },
   {
     "source": "gcp_cloud",
