@@ -37,6 +37,12 @@
   },
   {
     "source": "aws_news",
+    "title": "Amazon ECR now supports replication backfill for existing container images",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/replication-backfill-amazon-ecr",
+    "date": "Mon, 26 Oct 2026 20:24:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "OpenAI GPT-6.1 Terra is now generally available on Amazon Bedrock",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/",
     "date": "Mon, 26 Oct 2026 18:27:00 GMT"
@@ -46,12 +52,6 @@
     "title": "Amazon WorkSpaces Core Managed Instances now supports ModifyVolume API",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-workspaces-cmi-modifyvolume/",
     "date": "Mon, 26 Oct 2026 18:00:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Amazon SageMaker Unified Studio adds light mode support for IDC-based domains",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/smus-light-mode",
-    "date": "Mon, 26 Oct 2026 15:32:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -91,6 +91,12 @@
   },
   {
     "source": "veeam_intel",
+    "title": "AI Agent Safety Needs Boundaries and Trusted, Recoverable Data",
+    "link": "https://www.veeam.com/blog/ai-agent-safety-trusted-recoverable-data.html",
+    "date": "Tue, 27 Oct 2026 08:00:31 +0000"
+  },
+  {
+    "source": "veeam_intel",
     "title": "What Is ROT Data? A 6 Step Guide to Automating Data Minimization",
     "link": "https://www.veeam.com/blog/rot-data-minimization.html",
     "date": "Thu, 22 Oct 2026 17:10:39 +0000"
@@ -100,12 +106,6 @@
     "title": "Veeam Extends Our #1 Market Share in Data Protection Software",
     "link": "https://www.veeam.com/blog/idc-data-protection-market-share-tracker.html",
     "date": "Wed, 21 Oct 2026 15:52:46 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Autonomy Is Only Safe When It Is Reversible",
-    "link": "https://www.veeam.com/blog/lenovo-ai-express-reversible-autonomy.html",
-    "date": "Fri, 16 Oct 2026 23:27:48 +0000"
   },
   {
     "source": "hackerrank",
