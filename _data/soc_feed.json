@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon Connect Customer now lets you view metrics by customer lifetime value and repeat-caller status",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-boma-segment/",
-    "date": "Mon, 26 Oct 2026 13:47:00 GMT"
+    "title": "OpenAI GPT-6.1 Terra is now generally available on Amazon Bedrock",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/",
+    "date": "Mon, 26 Oct 2026 18:27:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Connect Customer now measures the outcomes that drive retention and revenue",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-boma-metrics/",
-    "date": "Mon, 26 Oct 2026 13:31:00 GMT"
+    "title": "Amazon WorkSpaces Core Managed Instances now supports ModifyVolume API",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-workspaces-cmi-modifyvolume/",
+    "date": "Mon, 26 Oct 2026 18:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Web Search on Amazon Bedrock now supports domain filtering and user location controls",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/",
-    "date": "Fri, 23 Oct 2026 21:04:00 GMT"
+    "title": "Amazon SageMaker Unified Studio adds light mode support for IDC-based domains",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/smus-light-mode",
+    "date": "Mon, 26 Oct 2026 15:32:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "From Open Source to Enterprise: Understanding the VMware Salt API Evolution",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/26/from-open-source-to-enterprise-understanding-the-vmware-salt-api-evolution/",
+    "date": "Mon, 26 Oct 2026 17:30:35 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "AI時代のプライベートクラウド多層防御： VMware Cloud Foundation®で実現する仮想基盤の堅牢化とリスク低減策（第1回）",
     "link": "https://blogs.vmware.com/vmware-japan/2026/10/ai-private-cloud-defense-in-depth1.html",
     "date": "Mon, 26 Oct 2026 05:40:30 +0000"
@@ -82,12 +88,6 @@
     "title": "VCF Helping You Respond to PHP2Shell",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/10/23/vulnerability-response-vcf-php2shell/",
     "date": "Fri, 23 Oct 2026 13:18:36 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Encryption Key Provider Design",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/23/key-provider-design/",
-    "date": "Fri, 23 Oct 2026 13:18:22 +0000"
   },
   {
     "source": "veeam_intel",
