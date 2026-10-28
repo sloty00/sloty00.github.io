@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon ECR now supports replication backfill for existing container images",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/replication-backfill-amazon-ecr",
-    "date": "Mon, 26 Oct 2026 20:24:00 GMT"
+    "title": "Amazon ECS now supports GPU sharing with NVIDIA Multi-Process Service (MPS)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-gpu-sharing-nvidia-mps/",
+    "date": "Tue, 27 Oct 2026 23:31:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "OpenAI GPT-6.1 Terra is now generally available on Amazon Bedrock",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/",
-    "date": "Mon, 26 Oct 2026 18:27:00 GMT"
+    "title": "SageMaker MLflow Apps now support MLflow 3.16",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/mflow-version-3-16/",
+    "date": "Tue, 27 Oct 2026 20:40:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon WorkSpaces Core Managed Instances now supports ModifyVolume API",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-workspaces-cmi-modifyvolume/",
-    "date": "Mon, 26 Oct 2026 18:00:00 GMT"
+    "title": "Amazon Aurora serverless now supports up to 384 ACUs",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-serverless-supports-384-acu/",
+    "date": "Tue, 27 Oct 2026 16:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
