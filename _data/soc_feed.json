@@ -1,6 +1,12 @@
 [
   {
     "source": "sophos_threat",
+    "title": "Node2Shell (CVE-2026-111497) in active exploitation",
+    "link": "https://www.sophos.com/en-us/blog/node2shell-cve-2026-111497-in-active-exploitation",
+    "date": "Wed, 28 Oct 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "Proof-of-concept exploit released for PHP vulnerabilities (CVE-2026-109618, CVE-2026-109619)",
     "link": "https://www.sophos.com/en-us/blog/proof-of-concept-exploit-released-for-php-vulnerabilities-109618-109619",
     "date": "Wed, 21 Oct 2026 00:00:00 GMT"
@@ -10,12 +16,6 @@
     "title": "BRONZE SANDCASTLE deploys modified Meterpreter shells",
     "link": "https://www.sophos.com/en-us/blog/bronze-sandcastle-deploys-modified-meterpreter-shells",
     "date": "Tue, 20 Oct 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "Graph reconnaissance and ServiceNow user enumeration in a modern identity intrusion",
-    "link": "https://www.sophos.com/en-us/blog/graph-reconnaissance-and-servicenow-user-enumeration-in-a-modern-identity-intrusion",
-    "date": "Mon, 19 Oct 2026 00:00:00 GMT"
   },
   {
     "source": "sophos_ops",
@@ -73,39 +73,39 @@
   },
   {
     "source": "broadcom_vmware",
-    "title": "From Open Source to Enterprise: Understanding the VMware Salt API Evolution",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/26/from-open-source-to-enterprise-understanding-the-vmware-salt-api-evolution/",
-    "date": "Mon, 26 Oct 2026 17:30:35 +0000"
+    "title": "New Whitepaper: Architecting a Governed, Multi-Tenant Private AI Cloud with VCF 9",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/28/new-whitepaper-architecting-a-governed-multi-tenant-private-ai-cloud-with-vcf-9/",
+    "date": "Wed, 28 Oct 2026 13:00:00 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "AI時代のプライベートクラウド多層防御： VMware Cloud Foundation®で実現する仮想基盤の堅牢化とリスク低減策（第1回）",
-    "link": "https://blogs.vmware.com/vmware-japan/2026/10/ai-private-cloud-defense-in-depth1.html",
-    "date": "Mon, 26 Oct 2026 05:40:30 +0000"
+    "title": "From Infrastructure to Agents: A Hands-on Guide to Secure Private AI with Broadcom – Part 4",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/28/from-infrastructure-to-agents-a-hands-on-guide-to-secure-private-ai-with-broadcom-part-4/",
+    "date": "Wed, 28 Oct 2026 11:38:02 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "VCF Helping You Respond to PHP2Shell",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/23/vulnerability-response-vcf-php2shell/",
-    "date": "Fri, 23 Oct 2026 13:18:36 +0000"
+    "title": "導入事例：アイテック阪急阪神様",
+    "link": "https://blogs.vmware.com/vmware-japan/2026/10/customer-case-studies_itec.html",
+    "date": "Wed, 28 Oct 2026 03:30:08 +0000"
   },
   {
     "source": "veeam_intel",
-    "title": "AI Agent Safety Needs Boundaries and Trusted, Recoverable Data",
-    "link": "https://www.veeam.com/blog/ai-agent-safety-trusted-recoverable-data.html",
-    "date": "Tue, 27 Oct 2026 08:00:31 +0000"
+    "title": "The Silent Ransom Group Leak Shows Why Paying for Silence Fails",
+    "link": "https://www.veeam.com/blog/cyber-extortion-payment-trends-q3-2026.html",
+    "date": "Wed, 28 Oct 2026 17:02:46 +0000"
   },
   {
     "source": "veeam_intel",
-    "title": "What Is ROT Data? A 6 Step Guide to Automating Data Minimization",
-    "link": "https://www.veeam.com/blog/rot-data-minimization.html",
-    "date": "Thu, 22 Oct 2026 17:10:39 +0000"
+    "title": "Data backup and recovery: backup vs. replication and when to use both",
+    "link": "https://www.veeam.com/blog/data-backup-and-recovery.html",
+    "date": "Wed, 28 Oct 2026 14:08:53 +0000"
   },
   {
     "source": "veeam_intel",
-    "title": "Veeam Extends Our #1 Market Share in Data Protection Software",
-    "link": "https://www.veeam.com/blog/idc-data-protection-market-share-tracker.html",
-    "date": "Wed, 21 Oct 2026 15:52:46 +0000"
+    "title": "Multicloud Backup Without the Silos",
+    "link": "https://www.veeam.com/blog/unified-multicloud-protection.html",
+    "date": "Wed, 28 Oct 2026 07:55:55 +0000"
   },
   {
     "source": "hackerrank",
