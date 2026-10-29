@@ -1,6 +1,12 @@
 [
   {
     "source": "sophos_threat",
+    "title": "AI used in Aur0ra ransomware testing and execution",
+    "link": "https://www.sophos.com/en-us/blog/ai-used-in-aur0ra-ransomware-testing-and-execution",
+    "date": "Thu, 29 Oct 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "Node2Shell (CVE-2026-111497) in active exploitation",
     "link": "https://www.sophos.com/en-us/blog/node2shell-cve-2026-111497-in-active-exploitation",
     "date": "Wed, 28 Oct 2026 00:00:00 GMT"
@@ -10,12 +16,6 @@
     "title": "Proof-of-concept exploit released for PHP vulnerabilities (CVE-2026-109618, CVE-2026-109619)",
     "link": "https://www.sophos.com/en-us/blog/proof-of-concept-exploit-released-for-php-vulnerabilities-109618-109619",
     "date": "Wed, 21 Oct 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "BRONZE SANDCASTLE deploys modified Meterpreter shells",
-    "link": "https://www.sophos.com/en-us/blog/bronze-sandcastle-deploys-modified-meterpreter-shells",
-    "date": "Tue, 20 Oct 2026 00:00:00 GMT"
   },
   {
     "source": "sophos_ops",
@@ -73,39 +73,39 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Security Features Inside the Virtual Machine",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/29/vm-security-features/",
+    "date": "Thu, 29 Oct 2026 15:32:08 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "Not About Backups, It’s About Restores",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/28/not-about-backups-its-about-restores/",
+    "date": "Thu, 29 Oct 2026 03:29:34 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "The 13-Hour Collapse: Why Frontier AI Demands the End of Periodic Patching",
     "link": "https://blogs.vmware.com/tanzu/the-13-hour-collapse-why-frontier-ai-demands-the-end-of-periodic-patching/",
     "date": "Wed, 28 Oct 2026 23:49:17 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "New Whitepaper: Architecting a Governed, Multi-Tenant Private AI Cloud with VCF 9",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/28/new-whitepaper-architecting-a-governed-multi-tenant-private-ai-cloud-with-vcf-9/",
-    "date": "Wed, 28 Oct 2026 13:00:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "From Infrastructure to Agents: A Hands-on Guide to Secure Private AI with Broadcom – Part 4",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/28/from-infrastructure-to-agents-a-hands-on-guide-to-secure-private-ai-with-broadcom-part-4/",
-    "date": "Wed, 28 Oct 2026 11:38:02 +0000"
+    "source": "veeam_intel",
+    "title": "5 levels of resilience maturity in education",
+    "link": "https://www.veeam.com/blog/education-resilience-maturity-confidence-gap.html",
+    "date": "Thu, 29 Oct 2026 15:44:02 +0000"
   },
   {
     "source": "veeam_intel",
-    "title": "The Silent Ransom Group Leak Shows Why Paying for Silence Fails",
-    "link": "https://www.veeam.com/blog/cyber-extortion-payment-trends-q3-2026.html",
-    "date": "Wed, 28 Oct 2026 17:02:46 +0000"
+    "title": "Data sovereignty doesn’t stop at production",
+    "link": "https://www.veeam.com/blog/backup-data-sovereignty.html",
+    "date": "Thu, 29 Oct 2026 15:31:17 +0000"
   },
   {
     "source": "veeam_intel",
-    "title": "Data backup and recovery: backup vs. replication and when to use both",
-    "link": "https://www.veeam.com/blog/data-backup-and-recovery.html",
-    "date": "Wed, 28 Oct 2026 14:08:53 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Multicloud Backup Without the Silos",
-    "link": "https://www.veeam.com/blog/unified-multicloud-protection.html",
-    "date": "Wed, 28 Oct 2026 07:55:55 +0000"
+    "title": "Recover From the Attacks You Don’t Detect",
+    "link": "https://www.veeam.com/blog/recover-from-undetected-attacks.html",
+    "date": "Thu, 29 Oct 2026 12:38:42 +0000"
   },
   {
     "source": "hackerrank",
