@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon RDS for Oracle now supports September 2026 Monthly Recommended Patch",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-september-mrp",
-    "date": "Wed, 28 Oct 2026 21:00:00 GMT"
+    "title": "AWS Marketplace now enables partners to list once and sell through multiple subsidiary accounts",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-marketplace-subsidiary-account-authorization",
+    "date": "Thu, 29 Oct 2026 20:12:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Bedrock AgentCore CLI version 1.0 is now available",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-agentcore-cli-version-1-0-available/",
-    "date": "Wed, 28 Oct 2026 20:00:00 GMT"
+    "title": "Amazon RDS for Oracle and SQL Server now support storage autoscaling on additional storage volumes",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-sqlserver-autoscaling-additional-storage-volumes",
+    "date": "Thu, 29 Oct 2026 18:06:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Lambda supports Seekable OCI (SOCI) lazy loading for Lambda Managed Instances",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-seekable-oci-soci/",
-    "date": "Wed, 28 Oct 2026 18:44:00 GMT"
+    "title": "Amazon Aurora now supports post-quantum TLS key exchange",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-postgresql-post-quantum-tls-key-exchange/",
+    "date": "Thu, 29 Oct 2026 16:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Eliminating Manual DDLs: Automated Foreign Schema Import in Tanzu Greenplum & PXF",
+    "link": "https://blogs.vmware.com/tanzu/eliminating-manual-ddls-automated-foreign-schema-import-in-tanzu-greenplum-pxf/",
+    "date": "Fri, 30 Oct 2026 00:38:36 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Security Features Inside the Virtual Machine",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/10/29/vm-security-features/",
     "date": "Thu, 29 Oct 2026 15:32:08 +0000"
@@ -82,12 +88,6 @@
     "title": "Not About Backups, It’s About Restores",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/10/28/not-about-backups-its-about-restores/",
     "date": "Thu, 29 Oct 2026 03:29:34 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "The 13-Hour Collapse: Why Frontier AI Demands the End of Periodic Patching",
-    "link": "https://blogs.vmware.com/tanzu/the-13-hour-collapse-why-frontier-ai-demands-the-end-of-periodic-patching/",
-    "date": "Wed, 28 Oct 2026 23:49:17 +0000"
   },
   {
     "source": "veeam_intel",
