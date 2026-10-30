@@ -1,6 +1,12 @@
 [
   {
     "source": "sophos_threat",
+    "title": "Malicious Claude Code extension distributed through Cursor marketplace",
+    "link": "https://www.sophos.com/en-us/blog/malicious-claude-code-extension-distributed-through-cursor-marketplace",
+    "date": "Fri, 30 Oct 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "AI used in Aur0ra ransomware testing and execution",
     "link": "https://www.sophos.com/en-us/blog/ai-used-in-aur0ra-ransomware-testing-and-execution",
     "date": "Thu, 29 Oct 2026 00:00:00 GMT"
@@ -10,12 +16,6 @@
     "title": "Node2Shell (CVE-2026-111497) in active exploitation",
     "link": "https://www.sophos.com/en-us/blog/node2shell-cve-2026-111497-in-active-exploitation",
     "date": "Wed, 28 Oct 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "Proof-of-concept exploit released for PHP vulnerabilities (CVE-2026-109618, CVE-2026-109619)",
-    "link": "https://www.sophos.com/en-us/blog/proof-of-concept-exploit-released-for-php-vulnerabilities-109618-109619",
-    "date": "Wed, 21 Oct 2026 00:00:00 GMT"
   },
   {
     "source": "sophos_ops",
@@ -37,21 +37,27 @@
   },
   {
     "source": "aws_news",
+    "title": "AWS WAF announces automatic SDK integration for Amazon CloudFront distributions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-waf-automatic-sdk-integration-amazon-cloudfront/",
+    "date": "Fri, 30 Oct 2026 15:57:00 GMT"
+  },
+  {
+    "source": "aws_news",
+    "title": "AWS Glue Data Catalog now supports Apache Iceberg table optimization in the US West (N. California) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/glue-data-catalog-optimizers-us-west-1/",
+    "date": "Fri, 30 Oct 2026 08:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "AWS Marketplace now enables partners to list once and sell through multiple subsidiary accounts",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-marketplace-subsidiary-account-authorization",
     "date": "Thu, 29 Oct 2026 20:12:00 GMT"
   },
   {
-    "source": "aws_news",
-    "title": "Amazon RDS for Oracle and SQL Server now support storage autoscaling on additional storage volumes",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-sqlserver-autoscaling-additional-storage-volumes",
-    "date": "Thu, 29 Oct 2026 18:06:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Amazon Aurora now supports post-quantum TLS key exchange",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-postgresql-post-quantum-tls-key-exchange/",
-    "date": "Thu, 29 Oct 2026 16:00:00 GMT"
+    "source": "gcp_cloud",
+    "title": "See who has access to your Gmail inbox in 2 minutes.",
+    "link": "https://blog.google/innovation-and-ai/technology/safety-security/google-security-checkup/",
+    "date": "Fri, 30 Oct 2026 16:00:00 +0000"
   },
   {
     "source": "gcp_cloud",
@@ -66,46 +72,40 @@
     "date": "Thu, 08 Oct 2026 12:05:00 +0000"
   },
   {
-    "source": "gcp_cloud",
-    "title": "Google is supporting water resilience in Chile.",
-    "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/water-resilience-chile/",
-    "date": "Wed, 30 Sep 2026 18:34:00 +0000"
+    "source": "broadcom_vmware",
+    "title": "Workloads Keeping Secrets: Confidential Computing",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/30/confidential-computing/",
+    "date": "Fri, 30 Oct 2026 15:28:27 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Eliminating Manual DDLs: Automated Foreign Schema Import in Tanzu Greenplum & PXF",
-    "link": "https://blogs.vmware.com/tanzu/eliminating-manual-ddls-automated-foreign-schema-import-in-tanzu-greenplum-pxf/",
-    "date": "Fri, 30 Oct 2026 00:38:36 +0000"
+    "title": "プライベートクラウドで実現する次世代 DBaaS の全貌 〜VMware® Data Services Manager (DSM) 9.1 徹底解剖  〜",
+    "link": "https://blogs.vmware.com/vmware-japan/2026/10/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%99%E3%83%BC%E3%83%88%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%81%A7%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E6%AC%A1%E4%B8%96%E4%BB%A3-dbaas-%E3%81%AE%E5%85%A8%E8%B2%8C.html",
+    "date": "Fri, 30 Oct 2026 13:05:07 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Security Features Inside the Virtual Machine",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/29/vm-security-features/",
-    "date": "Thu, 29 Oct 2026 15:32:08 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Not About Backups, It’s About Restores",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/28/not-about-backups-its-about-restores/",
-    "date": "Thu, 29 Oct 2026 03:29:34 +0000"
+    "title": "Why VMware Memory Tiering is Not Just Swapping to NVMe",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/30/why-vmware-memory-tiering-is-not-just-swapping-to-nvme/",
+    "date": "Fri, 30 Oct 2026 11:00:00 +0000"
   },
   {
     "source": "veeam_intel",
-    "title": "5 levels of resilience maturity in education",
-    "link": "https://www.veeam.com/blog/education-resilience-maturity-confidence-gap.html",
-    "date": "Thu, 29 Oct 2026 15:44:02 +0000"
+    "title": "Replication for Disaster Recovery: How to Hit Tight RTOs and RPOs",
+    "link": "https://www.veeam.com/blog/replication-for-disaster-recovery.html",
+    "date": "Fri, 30 Oct 2026 14:03:49 +0000"
   },
   {
     "source": "veeam_intel",
-    "title": "Data sovereignty doesn’t stop at production",
-    "link": "https://www.veeam.com/blog/backup-data-sovereignty.html",
-    "date": "Thu, 29 Oct 2026 15:31:17 +0000"
+    "title": "Five data tricks you don’t want this Halloween",
+    "link": "https://www.veeam.com/blog/halloween-data-tricks.html",
+    "date": "Fri, 30 Oct 2026 13:59:10 +0000"
   },
   {
     "source": "veeam_intel",
-    "title": "Recover From the Attacks You Don’t Detect",
-    "link": "https://www.veeam.com/blog/recover-from-undetected-attacks.html",
-    "date": "Thu, 29 Oct 2026 12:38:42 +0000"
+    "title": "RESILIENCE AS A BOARDROOM STRATEGY",
+    "link": "https://www.veeam.com/blog/everpure-enterprise-data-cloud-veeam.html",
+    "date": "Fri, 30 Oct 2026 12:00:00 +0000"
   },
   {
     "source": "hackerrank",
