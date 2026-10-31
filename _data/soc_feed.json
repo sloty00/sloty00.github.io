@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS WAF announces automatic SDK integration for Amazon CloudFront distributions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-waf-automatic-sdk-integration-amazon-cloudfront/",
-    "date": "Fri, 30 Oct 2026 15:57:00 GMT"
+    "title": "Amazon Bedrock expands API support and introduces Cross-Region Inferencing for OpenAI models in AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-openai-runtime-govcloud/",
+    "date": "Fri, 30 Oct 2026 20:43:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Glue Data Catalog now supports Apache Iceberg table optimization in the US West (N. California) Region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/glue-data-catalog-optimizers-us-west-1/",
-    "date": "Fri, 30 Oct 2026 08:00:00 GMT"
+    "title": "Web Search now available on Kiro in AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/kiro-web-search-aws-govcloud-us/",
+    "date": "Fri, 30 Oct 2026 19:40:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Marketplace now enables partners to list once and sell through multiple subsidiary accounts",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-marketplace-subsidiary-account-authorization",
-    "date": "Thu, 29 Oct 2026 20:12:00 GMT"
+    "title": "Amazon Connect Customer automatically saves in-progress emails as drafts",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-email-draft-save/",
+    "date": "Fri, 30 Oct 2026 19:30:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Good Fences, Good Neighbors: Isolating Infrastructure Management",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/30/isolating-management-network/",
+    "date": "Fri, 30 Oct 2026 18:05:07 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Workloads Keeping Secrets: Confidential Computing",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/10/30/confidential-computing/",
     "date": "Fri, 30 Oct 2026 15:28:27 +0000"
@@ -82,12 +88,6 @@
     "title": "プライベートクラウドで実現する次世代 DBaaS の全貌 〜VMware® Data Services Manager (DSM) 9.1 徹底解剖  〜",
     "link": "https://blogs.vmware.com/vmware-japan/2026/10/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%99%E3%83%BC%E3%83%88%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%81%A7%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E6%AC%A1%E4%B8%96%E4%BB%A3-dbaas-%E3%81%AE%E5%85%A8%E8%B2%8C.html",
     "date": "Fri, 30 Oct 2026 13:05:07 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Why VMware Memory Tiering is Not Just Swapping to NVMe",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/30/why-vmware-memory-tiering-is-not-just-swapping-to-nvme/",
-    "date": "Fri, 30 Oct 2026 11:00:00 +0000"
   },
   {
     "source": "veeam_intel",
@@ -103,7 +103,7 @@
   },
   {
     "source": "veeam_intel",
-    "title": "RESILIENCE AS A BOARDROOM STRATEGY",
+    "title": "Resilience as a boardroom strategy",
     "link": "https://www.veeam.com/blog/everpure-enterprise-data-cloud-veeam.html",
     "date": "Fri, 30 Oct 2026 12:00:00 +0000"
   },
