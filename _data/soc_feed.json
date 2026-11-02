@@ -73,6 +73,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "第2回：仮想パッチを用いたセキュリティパッチ適用までの「猶予期間」の消滅",
+    "link": "https://blogs.vmware.com/vmware-japan/2026/11/vdefend-virtual-patching-avi-waf.html",
+    "date": "Mon, 02 Nov 2026 02:39:03 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Good Fences, Good Neighbors: Isolating Infrastructure Management",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/10/30/isolating-management-network/",
     "date": "Fri, 30 Oct 2026 18:05:07 +0000"
@@ -82,12 +88,6 @@
     "title": "Workloads Keeping Secrets: Confidential Computing",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/10/30/confidential-computing/",
     "date": "Fri, 30 Oct 2026 15:28:27 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "プライベートクラウドで実現する次世代 DBaaS の全貌 〜VMware® Data Services Manager (DSM) 9.1 徹底解剖  〜",
-    "link": "https://blogs.vmware.com/vmware-japan/2026/10/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%99%E3%83%BC%E3%83%88%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%81%A7%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E6%AC%A1%E4%B8%96%E4%BB%A3-dbaas-%E3%81%AE%E5%85%A8%E8%B2%8C.html",
-    "date": "Fri, 30 Oct 2026 13:05:07 +0000"
   },
   {
     "source": "veeam_intel",
