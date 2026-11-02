@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon Bedrock expands API support and introduces Cross-Region Inferencing for OpenAI models in AWS GovCloud (US)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-openai-runtime-govcloud/",
-    "date": "Fri, 30 Oct 2026 20:43:00 GMT"
+    "title": "Haiku 5.5 now available on Kiro in AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/kiro-haiku-5-5-aws-govcloud-us/",
+    "date": "Mon, 02 Nov 2026 20:45:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Web Search now available on Kiro in AWS GovCloud (US)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/kiro-web-search-aws-govcloud-us/",
-    "date": "Fri, 30 Oct 2026 19:40:00 GMT"
+    "title": "Amazon RDS now supports per snapshot billing",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-per-snapshot-billing/",
+    "date": "Mon, 02 Nov 2026 18:43:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Connect Customer automatically saves in-progress emails as drafts",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-email-draft-save/",
-    "date": "Fri, 30 Oct 2026 19:30:00 GMT"
+    "title": "Amazon Quick on desktop now uses your organization's existing Amazon Quick sign-in",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-quick-desktop-organization-sign-in/",
+    "date": "Mon, 02 Nov 2026 18:36:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,21 +73,21 @@
   },
   {
     "source": "broadcom_vmware",
-    "title": "第2回：仮想パッチを用いたセキュリティパッチ適用までの「猶予期間」の消滅",
-    "link": "https://blogs.vmware.com/vmware-japan/2026/11/vdefend-virtual-patching-avi-waf.html",
-    "date": "Mon, 02 Nov 2026 02:39:03 +0000"
+    "title": "Introducing VMware Cloud Foundation Telco: Unified Platform for Telco-Grade Infrastructure",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/02/introducing-vmware-cloud-foundation-telco/",
+    "date": "Mon, 02 Nov 2026 15:00:00 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Good Fences, Good Neighbors: Isolating Infrastructure Management",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/30/isolating-management-network/",
-    "date": "Fri, 30 Oct 2026 18:05:07 +0000"
+    "title": "VMware vSphere Kubernetes Service 3.8: Advancing AI and Modern Workloads in Private Cloud",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/02/vks-3-8-advancing-ai-modern-workloads-private-cloud/",
+    "date": "Mon, 02 Nov 2026 14:00:00 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Workloads Keeping Secrets: Confidential Computing",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/10/30/confidential-computing/",
-    "date": "Fri, 30 Oct 2026 15:28:27 +0000"
+    "title": "Improving Partition Pruning for Cross-Type Joins in Tanzu Greenplum",
+    "link": "https://blogs.vmware.com/tanzu/improving-partition-pruning-for-cross-type-joins-in-tanzu-greenplum/",
+    "date": "Mon, 02 Nov 2026 09:38:00 +0000"
   },
   {
     "source": "veeam_intel",
