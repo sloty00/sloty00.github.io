@@ -37,6 +37,12 @@
   },
   {
     "source": "aws_news",
+    "title": "Amazon RDS for Oracle now supports M8i and R8i instances in additional AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-m8i-r8i-instances-new-regions/",
+    "date": "Tue, 03 Nov 2026 00:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "Haiku 5.5 now available on Kiro in AWS GovCloud (US)",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/kiro-haiku-5-5-aws-govcloud-us/",
     "date": "Mon, 02 Nov 2026 20:45:00 GMT"
@@ -46,12 +52,6 @@
     "title": "Amazon RDS now supports per snapshot billing",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-per-snapshot-billing/",
     "date": "Mon, 02 Nov 2026 18:43:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Amazon Quick on desktop now uses your organization's existing Amazon Quick sign-in",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-quick-desktop-organization-sign-in/",
-    "date": "Mon, 02 Nov 2026 18:36:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,21 +73,21 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Optimizing Columnar Storage in Tanzu Greenplum, Part 1: Accelerating Filters with Implied Indexing",
+    "link": "https://blogs.vmware.com/tanzu/optimizing-columnar-storage-in-tanzu-greenplum-part-1-accelerating-filters-with-implied-indexing/",
+    "date": "Tue, 03 Nov 2026 04:36:29 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "Lakehouse Analytics: Querying & Ingesting Apache Iceberg Data with Tanzu Greenplum",
+    "link": "https://blogs.vmware.com/tanzu/lakehouse-analytics-querying-ingesting-apache-iceberg-data-with-tanzu-greenplum/",
+    "date": "Tue, 03 Nov 2026 00:02:19 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Introducing VMware Cloud Foundation Telco: Unified Platform for Telco-Grade Infrastructure",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/11/02/introducing-vmware-cloud-foundation-telco/",
     "date": "Mon, 02 Nov 2026 15:00:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "VMware vSphere Kubernetes Service 3.8: Advancing AI and Modern Workloads in Private Cloud",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/02/vks-3-8-advancing-ai-modern-workloads-private-cloud/",
-    "date": "Mon, 02 Nov 2026 14:00:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Improving Partition Pruning for Cross-Type Joins in Tanzu Greenplum",
-    "link": "https://blogs.vmware.com/tanzu/improving-partition-pruning-for-cross-type-joins-in-tanzu-greenplum/",
-    "date": "Mon, 02 Nov 2026 09:38:00 +0000"
   },
   {
     "source": "veeam_intel",
