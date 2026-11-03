@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
+    "title": "AWS Transform for mainframe improves the reimagine modernization workflow",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-mainframe-reimagine/",
+    "date": "Tue, 03 Nov 2026 08:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
+    "title": "Amazon EKS Capabilities now supports Argo CD Notifications",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-argo-cd-notifications",
+    "date": "Tue, 03 Nov 2026 06:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "Amazon RDS for Oracle now supports M8i and R8i instances in additional AWS Regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-m8i-r8i-instances-new-regions/",
     "date": "Tue, 03 Nov 2026 00:00:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Haiku 5.5 now available on Kiro in AWS GovCloud (US)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/kiro-haiku-5-5-aws-govcloud-us/",
-    "date": "Mon, 02 Nov 2026 20:45:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Amazon RDS now supports per snapshot billing",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-per-snapshot-billing/",
-    "date": "Mon, 02 Nov 2026 18:43:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,21 +73,27 @@
   },
   {
     "source": "broadcom_vmware",
-    "title": "Optimizing Columnar Storage in Tanzu Greenplum, Part 1: Accelerating Filters with Implied Indexing",
-    "link": "https://blogs.vmware.com/tanzu/optimizing-columnar-storage-in-tanzu-greenplum-part-1-accelerating-filters-with-implied-indexing/",
-    "date": "Tue, 03 Nov 2026 04:36:29 +0000"
+    "title": "When Production AI Hits a Wall, Private Cloud Is the Way Through",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/03/when-production-ai-hits-a-wall-private-cloud-is-the-way-through/",
+    "date": "Tue, 03 Nov 2026 14:00:00 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Lakehouse Analytics: Querying & Ingesting Apache Iceberg Data with Tanzu Greenplum",
-    "link": "https://blogs.vmware.com/tanzu/lakehouse-analytics-querying-ingesting-apache-iceberg-data-with-tanzu-greenplum/",
-    "date": "Tue, 03 Nov 2026 00:02:19 +0000"
+    "title": "From PHP2Shell Alert to Action: Identify and Patch Your Workloads Using VMware Salt",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/03/php2shell-alert-to-action-using-vmware-salt/",
+    "date": "Tue, 03 Nov 2026 13:00:00 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Introducing VMware Cloud Foundation Telco: Unified Platform for Telco-Grade Infrastructure",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/02/introducing-vmware-cloud-foundation-telco/",
-    "date": "Mon, 02 Nov 2026 15:00:00 +0000"
+    "title": "Step Into the Spotlight: Submit to Speak at VMware Explore 2027",
+    "link": "https://blogs.vmware.com/explore/apply-to-speak-at-vmware-explore/",
+    "date": "Tue, 03 Nov 2026 12:00:00 +0000"
+  },
+  {
+    "source": "veeam_intel",
+    "title": "One year as the only Platinum Microsoft 365 Backup provider",
+    "link": "https://www.veeam.com/blog/platinum-microsoft-365-backup-partner.html",
+    "date": "Tue, 03 Nov 2026 14:54:59 +0000"
   },
   {
     "source": "veeam_intel",
@@ -100,12 +106,6 @@
     "title": "Five data tricks you don’t want this Halloween",
     "link": "https://www.veeam.com/blog/halloween-data-tricks.html",
     "date": "Fri, 30 Oct 2026 13:59:10 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Resilience as a boardroom strategy",
-    "link": "https://www.veeam.com/blog/everpure-enterprise-data-cloud-veeam.html",
-    "date": "Fri, 30 Oct 2026 12:00:00 +0000"
   },
   {
     "source": "hackerrank",
