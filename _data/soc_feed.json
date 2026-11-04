@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
+    "title": "Amazon RDS for Oracle now supports copying option groups during cross-Region snapshot copy",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-oracle-cross-region-snapshot-copy-option-group/",
+    "date": "Wed, 04 Nov 2026 18:40:00 GMT"
+  },
+  {
+    "source": "aws_news",
+    "title": "AWS announces AWS Interconnect - last mile preview with Equinix",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/interconnect-last-mile-preview-equinix/",
+    "date": "Wed, 04 Nov 2026 17:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "Amazon Connect Customer lets agents pause and resume emails",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-pause-resume-email/",
     "date": "Tue, 03 Nov 2026 20:15:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Amazon Connect Customer prefills the email address for new threads started from cases",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-email-addresses/",
-    "date": "Tue, 03 Nov 2026 17:00:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "AWS Config now supports 10 new resource types",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-config-new-resource-types",
-    "date": "Tue, 03 Nov 2026 16:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,39 +73,39 @@
   },
   {
     "source": "broadcom_vmware",
-    "title": "What’s Coming Next: VMware Cloud on AWS SDDC Upgrade to Version 9.1",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/03/whats-coming-next-vmware-cloud-on-aws-sddc-upgrade-to-version-9-1/",
-    "date": "Wed, 04 Nov 2026 02:46:21 +0000"
+    "title": "Broadcom Updates VMware Portfolio to Protect and Accelerate Private AI Cloud Deployments",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/04/broadcom-vcf-portfolio-updates/",
+    "date": "Wed, 04 Nov 2026 17:00:00 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Announcing AI-Ready Data Foundations in Tanzu Platform: Trusted Data for Reliable Agentic AI",
-    "link": "https://blogs.vmware.com/tanzu/announcing-ai-ready-data-foundations-in-tanzu-platform-trusted-data-for-reliable-agentic-ai/",
-    "date": "Tue, 03 Nov 2026 21:47:32 +0000"
+    "title": "Demystifying VCF Automation Node Architecture & Load Balancing",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/04/demystifying-vcf-automation-node-architecture-load-balancing/",
+    "date": "Wed, 04 Nov 2026 14:00:00 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "When Production AI Hits a Wall, Private Cloud Is the Way Through",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/03/when-production-ai-hits-a-wall-private-cloud-is-the-way-through/",
-    "date": "Tue, 03 Nov 2026 14:00:00 +0000"
+    "title": "導入事例：福岡ひびき信用金庫様",
+    "link": "https://blogs.vmware.com/vmware-japan/2026/11/custome-case-studies-fukuoka.html",
+    "date": "Wed, 04 Nov 2026 05:20:45 +0000"
+  },
+  {
+    "source": "veeam_intel",
+    "title": "Resilience as a boardroom strategy",
+    "link": "https://www.veeam.com/blog/everpure-enterprise-data-cloud-veeam.html",
+    "date": "Wed, 04 Nov 2026 16:00:02 +0000"
+  },
+  {
+    "source": "veeam_intel",
+    "title": "Operational resilience is becoming the new standard for financial services technology leaders",
+    "link": "https://www.veeam.com/blog/operational-resilience-financial-services-apj.html",
+    "date": "Wed, 04 Nov 2026 15:44:05 +0000"
   },
   {
     "source": "veeam_intel",
     "title": "One year as the only Platinum Microsoft 365 Backup provider",
     "link": "https://www.veeam.com/blog/platinum-microsoft-365-backup-partner.html",
     "date": "Tue, 03 Nov 2026 14:54:59 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Replication for Disaster Recovery: How to Hit Tight RTOs and RPOs",
-    "link": "https://www.veeam.com/blog/replication-for-disaster-recovery.html",
-    "date": "Fri, 30 Oct 2026 14:03:49 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Five data tricks you don’t want this Halloween",
-    "link": "https://www.veeam.com/blog/halloween-data-tricks.html",
-    "date": "Fri, 30 Oct 2026 13:59:10 +0000"
   },
   {
     "source": "hackerrank",
