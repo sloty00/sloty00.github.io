@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS Transform for mainframe improves the reimagine modernization workflow",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-mainframe-reimagine/",
-    "date": "Tue, 03 Nov 2026 08:00:00 GMT"
+    "title": "Amazon Connect Customer lets agents pause and resume emails",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-pause-resume-email/",
+    "date": "Tue, 03 Nov 2026 20:15:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EKS Capabilities now supports Argo CD Notifications",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-argo-cd-notifications",
-    "date": "Tue, 03 Nov 2026 06:00:00 GMT"
+    "title": "Amazon Connect Customer prefills the email address for new threads started from cases",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-email-addresses/",
+    "date": "Tue, 03 Nov 2026 17:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon RDS for Oracle now supports M8i and R8i instances in additional AWS Regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-m8i-r8i-instances-new-regions/",
-    "date": "Tue, 03 Nov 2026 00:00:00 GMT"
+    "title": "AWS Config now supports 10 new resource types",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-config-new-resource-types",
+    "date": "Tue, 03 Nov 2026 16:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,21 +73,21 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "What’s Coming Next: VMware Cloud on AWS SDDC Upgrade to Version 9.1",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/03/whats-coming-next-vmware-cloud-on-aws-sddc-upgrade-to-version-9-1/",
+    "date": "Wed, 04 Nov 2026 02:46:21 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "Announcing AI-Ready Data Foundations in Tanzu Platform: Trusted Data for Reliable Agentic AI",
+    "link": "https://blogs.vmware.com/tanzu/announcing-ai-ready-data-foundations-in-tanzu-platform-trusted-data-for-reliable-agentic-ai/",
+    "date": "Tue, 03 Nov 2026 21:47:32 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "When Production AI Hits a Wall, Private Cloud Is the Way Through",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/11/03/when-production-ai-hits-a-wall-private-cloud-is-the-way-through/",
     "date": "Tue, 03 Nov 2026 14:00:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "From PHP2Shell Alert to Action: Identify and Patch Your Workloads Using VMware Salt",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/03/php2shell-alert-to-action-using-vmware-salt/",
-    "date": "Tue, 03 Nov 2026 13:00:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Step Into the Spotlight: Submit to Speak at VMware Explore 2027",
-    "link": "https://blogs.vmware.com/explore/apply-to-speak-at-vmware-explore/",
-    "date": "Tue, 03 Nov 2026 12:00:00 +0000"
   },
   {
     "source": "veeam_intel",
