@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
+    "title": "Amazon ECS Managed Daemons can now collect json-file logs from application containers on Amazon ECS Managed Instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ecs-managed-instances-json-file-log-driver/",
+    "date": "Wed, 04 Nov 2026 21:29:00 GMT"
+  },
+  {
+    "source": "aws_news",
+    "title": "Amazon DocumentDB (with MongoDB compatibility) is now available in the Asia Pacific (Taipei) and Asia Pacific (New Zealand) Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-documentdb-mongodb-compatibility-asia-pacific-taipei-new-zealand-regions/",
+    "date": "Wed, 04 Nov 2026 19:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "Amazon RDS for Oracle now supports copying option groups during cross-Region snapshot copy",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-oracle-cross-region-snapshot-copy-option-group/",
     "date": "Wed, 04 Nov 2026 18:40:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "AWS announces AWS Interconnect - last mile preview with Equinix",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/interconnect-last-mile-preview-equinix/",
-    "date": "Wed, 04 Nov 2026 17:00:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Amazon Connect Customer lets agents pause and resume emails",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-pause-resume-email/",
-    "date": "Tue, 03 Nov 2026 20:15:00 GMT"
   },
   {
     "source": "gcp_cloud",
