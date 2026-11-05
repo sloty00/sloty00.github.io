@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon ECS Managed Daemons can now collect json-file logs from application containers on Amazon ECS Managed Instances",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ecs-managed-instances-json-file-log-driver/",
-    "date": "Wed, 04 Nov 2026 21:29:00 GMT"
+    "title": "Amazon Cognito announces 99.99% Service Level Agreement for the Plus feature plan",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cognito-sla-update/",
+    "date": "Thu, 05 Nov 2026 18:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon DocumentDB (with MongoDB compatibility) is now available in the Asia Pacific (Taipei) and Asia Pacific (New Zealand) Regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-documentdb-mongodb-compatibility-asia-pacific-taipei-new-zealand-regions/",
-    "date": "Wed, 04 Nov 2026 19:00:00 GMT"
+    "title": "IAM Roles Anywhere now supports automatic certificate revocation checking",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-roles-anywhere-cdp/",
+    "date": "Thu, 05 Nov 2026 17:38:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon RDS for Oracle now supports copying option groups during cross-Region snapshot copy",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-oracle-cross-region-snapshot-copy-option-group/",
-    "date": "Wed, 04 Nov 2026 18:40:00 GMT"
+    "title": "Amazon SageMaker AI Studio Now Supports IAM Identity Center Multi-Region Replication",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-ai-studio-iam/",
+    "date": "Thu, 05 Nov 2026 08:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "VCF 9 で完遂するメインフレーム・モダナイゼーション#2",
+    "link": "https://blogs.vmware.com/vmware-japan/2026/11/vcf9_mainframe_2.html",
+    "date": "Thu, 05 Nov 2026 05:49:52 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Broadcom Updates VMware Portfolio to Protect and Accelerate Private AI Cloud Deployments",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/11/04/broadcom-vcf-portfolio-updates/",
     "date": "Wed, 04 Nov 2026 17:00:00 +0000"
@@ -84,28 +90,22 @@
     "date": "Wed, 04 Nov 2026 14:00:00 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "導入事例：福岡ひびき信用金庫様",
-    "link": "https://blogs.vmware.com/vmware-japan/2026/11/custome-case-studies-fukuoka.html",
-    "date": "Wed, 04 Nov 2026 05:20:45 +0000"
+    "source": "veeam_intel",
+    "title": "When Everything Else Fails: Why Your Backup Platform Is Your Last Line of Defense",
+    "link": "https://www.veeam.com/blog/backup-last-line-of-defense.html",
+    "date": "Thu, 05 Nov 2026 09:47:39 +0000"
   },
   {
     "source": "veeam_intel",
-    "title": "Resilience as a boardroom strategy",
-    "link": "https://www.veeam.com/blog/everpure-enterprise-data-cloud-veeam.html",
-    "date": "Wed, 04 Nov 2026 16:00:02 +0000"
+    "title": "Backup from Storage Snapshots: How it works and when to use it",
+    "link": "https://www.veeam.com/blog/backup-from-storage-snapshots.html",
+    "date": "Thu, 05 Nov 2026 09:42:36 +0000"
   },
   {
     "source": "veeam_intel",
-    "title": "Operational resilience is becoming the new standard for financial services technology leaders",
-    "link": "https://www.veeam.com/blog/operational-resilience-financial-services-apj.html",
-    "date": "Wed, 04 Nov 2026 15:44:05 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "One year as the only Platinum Microsoft 365 Backup provider",
-    "link": "https://www.veeam.com/blog/platinum-microsoft-365-backup-partner.html",
-    "date": "Tue, 03 Nov 2026 14:54:59 +0000"
+    "title": "Resilience by Design: Protecting Enterprise RAG on Red Hat OpenShift AI",
+    "link": "https://www.veeam.com/blog/rag-backup-openshift-ai.html",
+    "date": "Thu, 05 Nov 2026 07:59:06 +0000"
   },
   {
     "source": "hackerrank",
