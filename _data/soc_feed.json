@@ -37,21 +37,27 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon Cognito announces 99.99% Service Level Agreement for the Plus feature plan",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cognito-sla-update/",
-    "date": "Thu, 05 Nov 2026 18:00:00 GMT"
+    "title": "AWS Security Hub now provides an SBOM inventory for your compute resources",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-sbom-inventory/",
+    "date": "Fri, 06 Nov 2026 00:30:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "IAM Roles Anywhere now supports automatic certificate revocation checking",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-roles-anywhere-cdp/",
-    "date": "Thu, 05 Nov 2026 17:38:00 GMT"
+    "title": "AWS Interconnect - last mile announces new metro in Northern Virginia, USA",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/interconnect-last-mile-northern-virginia/",
+    "date": "Thu, 05 Nov 2026 21:30:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon SageMaker AI Studio Now Supports IAM Identity Center Multi-Region Replication",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-ai-studio-iam/",
-    "date": "Thu, 05 Nov 2026 08:00:00 GMT"
+    "title": "Announcing Web Answer on Amazon Bedrock AgentCore",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/web-answer-amazon-bedrock/",
+    "date": "Thu, 05 Nov 2026 20:56:00 GMT"
+  },
+  {
+    "source": "gcp_cloud",
+    "title": "Generate longer AI videos with Omni 1.2 Flash in Google Vids at no cost.",
+    "link": "https://blog.google/products-and-platforms/products/workspace/omni-1-2-flash-google-vids/",
+    "date": "Thu, 05 Nov 2026 20:00:00 +0000"
   },
   {
     "source": "gcp_cloud",
@@ -66,10 +72,10 @@
     "date": "Wed, 14 Oct 2026 08:00:00 +0000"
   },
   {
-    "source": "gcp_cloud",
-    "title": "Google Cloud introduces the Gemini agent.",
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/",
-    "date": "Thu, 08 Oct 2026 12:05:00 +0000"
+    "source": "broadcom_vmware",
+    "title": "導入事例：マツダ株式会社様",
+    "link": "https://blogs.vmware.com/vmware-japan/2026/11/customer-case-studies-mazda.html",
+    "date": "Fri, 06 Nov 2026 02:01:21 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -82,12 +88,6 @@
     "title": "Broadcom Updates VMware Portfolio to Protect and Accelerate Private AI Cloud Deployments",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/11/04/broadcom-vcf-portfolio-updates/",
     "date": "Wed, 04 Nov 2026 17:00:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Demystifying VCF Automation Node Architecture & Load Balancing",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/04/demystifying-vcf-automation-node-architecture-load-balancing/",
-    "date": "Wed, 04 Nov 2026 14:00:00 +0000"
   },
   {
     "source": "veeam_intel",
