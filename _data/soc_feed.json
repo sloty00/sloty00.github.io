@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS Security Hub now provides an SBOM inventory for your compute resources",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-sbom-inventory/",
-    "date": "Fri, 06 Nov 2026 00:30:00 GMT"
+    "title": "AWS launches support for amortization of EC2 Capacity Blocks for ML",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-ec2-capacity-blocks-ml/",
+    "date": "Fri, 06 Nov 2026 15:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Interconnect - last mile announces new metro in Northern Virginia, USA",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/interconnect-last-mile-northern-virginia/",
-    "date": "Thu, 05 Nov 2026 21:30:00 GMT"
+    "title": "Capacity Reservation Resource Groups now support Amazon EC2 Capacity Blocks and interruptible Capacity Reservations in AWS GovCloud (US) Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/capacity-reservation-resource-groups-support-in-aws-govcloud-regions",
+    "date": "Fri, 06 Nov 2026 14:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Announcing Web Answer on Amazon Bedrock AgentCore",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/web-answer-amazon-bedrock/",
-    "date": "Thu, 05 Nov 2026 20:56:00 GMT"
+    "title": "Amazon Simple Email Service is now available in six new AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-simple-email-service-new-aws-regions/",
+    "date": "Fri, 06 Nov 2026 08:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -91,21 +91,21 @@
   },
   {
     "source": "veeam_intel",
+    "title": "Data doesn’t retire, it just gets cheaper to keep",
+    "link": "https://www.veeam.com/blog/data-backup-last-line-of-defense.html",
+    "date": "Fri, 06 Nov 2026 14:13:16 +0000"
+  },
+  {
+    "source": "veeam_intel",
+    "title": "Retire the Landing Zone: Instant Recoveries Now Run Straight From Dell Data Domain",
+    "link": "https://www.veeam.com/blog/dell-data-domain-primary-target.html",
+    "date": "Fri, 06 Nov 2026 09:29:10 +0000"
+  },
+  {
+    "source": "veeam_intel",
     "title": "When Everything Else Fails: Why Your Backup Platform Is Your Last Line of Defense",
     "link": "https://www.veeam.com/blog/backup-last-line-of-defense.html",
     "date": "Thu, 05 Nov 2026 09:47:39 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Backup from Storage Snapshots: How it works and when to use it",
-    "link": "https://www.veeam.com/blog/backup-from-storage-snapshots.html",
-    "date": "Thu, 05 Nov 2026 09:42:36 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Resilience by Design: Protecting Enterprise RAG on Red Hat OpenShift AI",
-    "link": "https://www.veeam.com/blog/rag-backup-openshift-ai.html",
-    "date": "Thu, 05 Nov 2026 07:59:06 +0000"
   },
   {
     "source": "hackerrank",
