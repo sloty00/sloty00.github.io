@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS launches support for amortization of EC2 Capacity Blocks for ML",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-ec2-capacity-blocks-ml/",
-    "date": "Fri, 06 Nov 2026 15:00:00 GMT"
+    "title": "Kimi K3.1 Pro (Highspeed) now available on Amazon Bedrock",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/moonshot-ai-kimi-k3-1-pro-on-amazon-bedrock",
+    "date": "Fri, 06 Nov 2026 22:47:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Capacity Reservation Resource Groups now support Amazon EC2 Capacity Blocks and interruptible Capacity Reservations in AWS GovCloud (US) Regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/capacity-reservation-resource-groups-support-in-aws-govcloud-regions",
-    "date": "Fri, 06 Nov 2026 14:00:00 GMT"
+    "title": "Agent Registry is now generally available in AWS GovCloud (US-West) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-agent-registry-govcloud-us-west/",
+    "date": "Fri, 06 Nov 2026 19:48:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Simple Email Service is now available in six new AWS Regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-simple-email-service-new-aws-regions/",
-    "date": "Fri, 06 Nov 2026 08:00:00 GMT"
+    "title": "Amazon MSK Replicator is now available in AWS GovCloud (US-East, US-West) Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-replicator-additional-aws-regions",
+    "date": "Fri, 06 Nov 2026 16:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
