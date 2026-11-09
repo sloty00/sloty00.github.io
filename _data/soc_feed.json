@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Kimi K3.1 Pro (Highspeed) now available on Amazon Bedrock",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/moonshot-ai-kimi-k3-1-pro-on-amazon-bedrock",
-    "date": "Fri, 06 Nov 2026 22:47:00 GMT"
+    "title": "Claude Fable 5.2 is now available on AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/claude-fable-5-2-aws-govcloud/",
+    "date": "Mon, 09 Nov 2026 18:30:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Agent Registry is now generally available in AWS GovCloud (US-West) Region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-agent-registry-govcloud-us-west/",
-    "date": "Fri, 06 Nov 2026 19:48:00 GMT"
+    "title": "Amazon Bedrock now offers Claude Mythos 5.2 to Eligible Customers in AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-claude-mythos-5-2-govcloud/",
+    "date": "Mon, 09 Nov 2026 18:30:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon MSK Replicator is now available in AWS GovCloud (US-East, US-West) Regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-replicator-additional-aws-regions",
-    "date": "Fri, 06 Nov 2026 16:00:00 GMT"
+    "title": "Amazon Connect Customer launches evaluation form templates",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-customer-evaluation-form-templates/",
+    "date": "Mon, 09 Nov 2026 18:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,21 +73,21 @@
   },
   {
     "source": "broadcom_vmware",
-    "title": "導入事例：マツダ株式会社様",
-    "link": "https://blogs.vmware.com/vmware-japan/2026/11/customer-case-studies-mazda.html",
-    "date": "Fri, 06 Nov 2026 02:01:21 +0000"
+    "title": "VCF Breakroom Chats | Episode 99 – Unlocking the ISV Ecosystem with VMware Cloud Foundation",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/09/vcf-breakroom-chats-episode-99-unlocking-the-isv-ecosystem-with-vmware-cloud-foundation/",
+    "date": "Mon, 09 Nov 2026 21:08:17 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "VCF 9 で完遂するメインフレーム・モダナイゼーション#2",
-    "link": "https://blogs.vmware.com/vmware-japan/2026/11/vcf9_mainframe_2.html",
-    "date": "Thu, 05 Nov 2026 05:49:52 +0000"
+    "title": "VCF Breakroom Chats | Episode 98- Governing AI Traffic with Kong and VMware vSphere Kubernetes Service (VKS)",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/09/vcf-breakroom-chats-episode-98-governing-ai-traffic-with-kong-and-vmware-vsphere-kubernetes-service-vks/",
+    "date": "Mon, 09 Nov 2026 21:03:34 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Broadcom Updates VMware Portfolio to Protect and Accelerate Private AI Cloud Deployments",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/04/broadcom-vcf-portfolio-updates/",
-    "date": "Wed, 04 Nov 2026 17:00:00 +0000"
+    "title": "VMware Cloud Foundation Named a G2 Leader in IaaS for Fall 2026!",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/09/vmware-cloud-foundation-named-a-g2-leader-in-iaas-for-fall-2026/",
+    "date": "Mon, 09 Nov 2026 14:00:00 +0000"
   },
   {
     "source": "veeam_intel",
