@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Claude Fable 5.2 is now available on AWS GovCloud (US)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/claude-fable-5-2-aws-govcloud/",
-    "date": "Mon, 09 Nov 2026 18:30:00 GMT"
+    "title": "Amazon Bedrock AgentCore now offers a Web Search API",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-web-search-api/",
+    "date": "Tue, 10 Nov 2026 00:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Bedrock now offers Claude Mythos 5.2 to Eligible Customers in AWS GovCloud (US)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-claude-mythos-5-2-govcloud/",
-    "date": "Mon, 09 Nov 2026 18:30:00 GMT"
+    "title": "Amazon CloudWatch Logs announces account-level retention policies",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-log-retention/",
+    "date": "Mon, 09 Nov 2026 22:15:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Connect Customer launches evaluation form templates",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-customer-evaluation-form-templates/",
-    "date": "Mon, 09 Nov 2026 18:00:00 GMT"
+    "title": "AWS Glue adds 100 new native connectors for popular SaaS applications",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-glue-adds-100-new-native-connectors/",
+    "date": "Mon, 09 Nov 2026 21:33:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,21 +73,21 @@
   },
   {
     "source": "broadcom_vmware",
-    "title": "VCF Breakroom Chats | Episode 99 – Unlocking the ISV Ecosystem with VMware Cloud Foundation",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/09/vcf-breakroom-chats-episode-99-unlocking-the-isv-ecosystem-with-vmware-cloud-foundation/",
-    "date": "Mon, 09 Nov 2026 21:08:17 +0000"
+    "title": "VCF Firewall Planner Tool: A Step-by-Step Walkthrough from 1,063 Candidate Rules to 224",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/09/vcf-firewall-planner-tool-a-step-by-step-walkthrough-from-1063-candidate-rules-to-224/",
+    "date": "Tue, 10 Nov 2026 04:52:22 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "VCF Breakroom Chats | Episode 98- Governing AI Traffic with Kong and VMware vSphere Kubernetes Service (VKS)",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/09/vcf-breakroom-chats-episode-98-governing-ai-traffic-with-kong-and-vmware-vsphere-kubernetes-service-vks/",
-    "date": "Mon, 09 Nov 2026 21:03:34 +0000"
+    "title": "VMware Cloud Foundation Delivers a Secure Path to Production for Every Workload",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/09/vmware-cloud-foundation-delivers-a-secure-path-to-production-for-every-workload/",
+    "date": "Mon, 09 Nov 2026 23:31:13 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "VMware Cloud Foundation Named a G2 Leader in IaaS for Fall 2026!",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/09/vmware-cloud-foundation-named-a-g2-leader-in-iaas-for-fall-2026/",
-    "date": "Mon, 09 Nov 2026 14:00:00 +0000"
+    "title": "VCF Breakroom Chats | Episode 100 – Bringing AI Agents to VMware vSphere Kubernetes Service with Solo.io",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/09/vcf-breakroom-chats-episode-100-bringing-ai-agents-to-vmware-vsphere-kubernetes-service-with-solo-io/",
+    "date": "Mon, 09 Nov 2026 21:30:00 +0000"
   },
   {
     "source": "veeam_intel",
