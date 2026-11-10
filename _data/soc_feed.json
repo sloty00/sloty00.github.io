@@ -1,21 +1,21 @@
 [
   {
     "source": "sophos_threat",
+    "title": "N-able issues advisory on critical vulnerabilities",
+    "link": "https://www.sophos.com/en-us/blog/n-able-issues-advisory-on-critical-vulnerabilities",
+    "date": "Tue, 10 Nov 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
+    "title": "ARTEX: Attackers apply agentic AI",
+    "link": "https://www.sophos.com/en-us/blog/artex-attackers-apply-agentic-ai",
+    "date": "Tue, 10 Nov 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "Malicious Claude Code extension distributed through Cursor marketplace",
     "link": "https://www.sophos.com/en-us/blog/malicious-claude-code-extension-distributed-through-cursor-marketplace",
     "date": "Fri, 30 Oct 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "AI used in Aur0ra ransomware testing and execution",
-    "link": "https://www.sophos.com/en-us/blog/ai-used-in-aur0ra-ransomware-testing-and-execution",
-    "date": "Thu, 29 Oct 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "Node2Shell (CVE-2026-111497) in active exploitation",
-    "link": "https://www.sophos.com/en-us/blog/node2shell-cve-2026-111497-in-active-exploitation",
-    "date": "Wed, 28 Oct 2026 00:00:00 GMT"
   },
   {
     "source": "sophos_ops",
@@ -37,21 +37,33 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon Bedrock AgentCore now offers a Web Search API",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-web-search-api/",
-    "date": "Tue, 10 Nov 2026 00:00:00 GMT"
+    "title": "AWS Partner Central now provides an improved business planning experience",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-business-planning/",
+    "date": "Tue, 10 Nov 2026 16:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon CloudWatch Logs announces account-level retention policies",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-log-retention/",
-    "date": "Mon, 09 Nov 2026 22:15:00 GMT"
+    "title": "CloudWatch PromQL alarms now support EC2 and Application Auto Scaling",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-alarms-autoscaling-group-actions",
+    "date": "Tue, 10 Nov 2026 03:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Glue adds 100 new native connectors for popular SaaS applications",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-glue-adds-100-new-native-connectors/",
-    "date": "Mon, 09 Nov 2026 21:33:00 GMT"
+    "title": "Amazon OpenSearch Service now lets you validate and roll back version upgrades",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-service/upgrades/",
+    "date": "Tue, 10 Nov 2026 02:30:00 GMT"
+  },
+  {
+    "source": "gcp_cloud",
+    "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+    "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+    "date": "Tue, 10 Nov 2026 14:00:00 +0000"
+  },
+  {
+    "source": "gcp_cloud",
+    "title": "Google Cloud launches Gemini for healthcare.",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+    "date": "Tue, 10 Nov 2026 13:00:00 +0000"
   },
   {
     "source": "gcp_cloud",
@@ -60,16 +72,16 @@
     "date": "Thu, 05 Nov 2026 20:00:00 +0000"
   },
   {
-    "source": "gcp_cloud",
-    "title": "See who has access to your Gmail inbox in 2 minutes.",
-    "link": "https://blog.google/innovation-and-ai/technology/safety-security/google-security-checkup/",
-    "date": "Fri, 30 Oct 2026 16:00:00 +0000"
+    "source": "broadcom_vmware",
+    "title": "How VM API and KubeVM Service Deliver Open Standards and Enterprise Execution",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/10/vm-api-and-kubevm-service/",
+    "date": "Tue, 10 Nov 2026 17:47:27 +0000"
   },
   {
-    "source": "gcp_cloud",
-    "title": "We’re powering European scientific discovery with advanced AI compute and frontier models.",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models/",
-    "date": "Wed, 14 Oct 2026 08:00:00 +0000"
+    "source": "broadcom_vmware",
+    "title": "Running Agent Substrate on VMware vSphere Kubernetes Service",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/10/running-agent-substrate-on-vmware-vsphere-kubernetes-service/",
+    "date": "Tue, 10 Nov 2026 14:00:00 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -78,16 +90,10 @@
     "date": "Tue, 10 Nov 2026 04:52:22 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "VMware Cloud Foundation Delivers a Secure Path to Production for Every Workload",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/09/vmware-cloud-foundation-delivers-a-secure-path-to-production-for-every-workload/",
-    "date": "Mon, 09 Nov 2026 23:31:13 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "VCF Breakroom Chats | Episode 100 – Bringing AI Agents to VMware vSphere Kubernetes Service with Solo.io",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/09/vcf-breakroom-chats-episode-100-bringing-ai-agents-to-vmware-vsphere-kubernetes-service-with-solo-io/",
-    "date": "Mon, 09 Nov 2026 21:30:00 +0000"
+    "source": "veeam_intel",
+    "title": "Egress fees explained: Costs and how to reduce them",
+    "link": "https://www.veeam.com/blog/egress-fees.html",
+    "date": "Tue, 10 Nov 2026 15:57:49 +0000"
   },
   {
     "source": "veeam_intel",
@@ -100,12 +106,6 @@
     "title": "Retire the Landing Zone: Instant Recoveries Now Run Straight From Dell Data Domain",
     "link": "https://www.veeam.com/blog/dell-data-domain-primary-target.html",
     "date": "Fri, 06 Nov 2026 09:29:10 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "When Everything Else Fails: Why Your Backup Platform Is Your Last Line of Defense",
-    "link": "https://www.veeam.com/blog/backup-last-line-of-defense.html",
-    "date": "Thu, 05 Nov 2026 09:47:39 +0000"
   },
   {
     "source": "hackerrank",
