@@ -37,39 +37,39 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS Billing and Cost Management now supports AWS Billing Conductor and AWS Billing Transfer views as source views for custom billing views",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-billing-and-cost-management-multi-source-custom-billing-views",
-    "date": "Tue, 10 Nov 2026 23:22:00 GMT"
+    "title": "AWS Lambda MicroVMs now supports the x86 CPU architecture",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-microvms-x86-architecture/",
+    "date": "Wed, 11 Nov 2026 18:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EC2 G7 instances now available in additional regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-g7-additional-regions/",
-    "date": "Tue, 10 Nov 2026 19:30:00 GMT"
+    "title": "Amazon EKS Auto Mode now supports security groups for Pods",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-auto-mode-security-groups-for-pods/",
+    "date": "Wed, 11 Nov 2026 17:26:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon OpenSearch Service announces managed cross-Region disaster recovery",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-service-managed-cross-region-disaster-recovery/",
-    "date": "Tue, 10 Nov 2026 19:00:00 GMT"
+    "title": "AWS Quick apps are now available in Asia Pacific (Singapore)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-apps-available-in-asia-pacific-singapore/",
+    "date": "Wed, 11 Nov 2026 15:20:00 GMT"
+  },
+  {
+    "source": "gcp_cloud",
+    "title": "Google Cloud leaders share what to expect in cybersecurity for 2027.",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cybersecurity-2027/",
+    "date": "Wed, 11 Nov 2026 17:00:00 +0000"
+  },
+  {
+    "source": "gcp_cloud",
+    "title": "Get certified as a Google Cloud Professional Agentic Architect.",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/",
+    "date": "Wed, 11 Nov 2026 17:00:00 +0000"
   },
   {
     "source": "gcp_cloud",
     "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
     "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
     "date": "Tue, 10 Nov 2026 14:00:00 +0000"
-  },
-  {
-    "source": "gcp_cloud",
-    "title": "Google Cloud launches Gemini for healthcare.",
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-    "date": "Tue, 10 Nov 2026 13:00:00 +0000"
-  },
-  {
-    "source": "gcp_cloud",
-    "title": "Generate longer AI videos with Omni 1.2 Flash in Google Vids at no cost.",
-    "link": "https://blog.google/products-and-platforms/products/workspace/omni-1-2-flash-google-vids/",
-    "date": "Thu, 05 Nov 2026 20:00:00 +0000"
   },
   {
     "source": "broadcom_vmware",
