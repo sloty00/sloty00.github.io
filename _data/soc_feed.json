@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS Partner Central now provides an improved business planning experience",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-business-planning/",
-    "date": "Tue, 10 Nov 2026 16:00:00 GMT"
+    "title": "AWS Billing and Cost Management now supports AWS Billing Conductor and AWS Billing Transfer views as source views for custom billing views",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-billing-and-cost-management-multi-source-custom-billing-views",
+    "date": "Tue, 10 Nov 2026 23:22:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "CloudWatch PromQL alarms now support EC2 and Application Auto Scaling",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-alarms-autoscaling-group-actions",
-    "date": "Tue, 10 Nov 2026 03:00:00 GMT"
+    "title": "Amazon EC2 G7 instances now available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-g7-additional-regions/",
+    "date": "Tue, 10 Nov 2026 19:30:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon OpenSearch Service now lets you validate and roll back version upgrades",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-service/upgrades/",
-    "date": "Tue, 10 Nov 2026 02:30:00 GMT"
+    "title": "Amazon OpenSearch Service announces managed cross-Region disaster recovery",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-service-managed-cross-region-disaster-recovery/",
+    "date": "Tue, 10 Nov 2026 19:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -103,7 +103,7 @@
   },
   {
     "source": "veeam_intel",
-    "title": "Retire the Landing Zone: Instant Recoveries Now Run Straight From Dell Data Domain",
+    "title": "Retire the recovery tier: Instant recoveries now run straight from Dell Data Domain",
     "link": "https://www.veeam.com/blog/dell-data-domain-primary-target.html",
     "date": "Fri, 06 Nov 2026 09:29:10 +0000"
   },
