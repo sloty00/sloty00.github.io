@@ -1,6 +1,12 @@
 [
   {
     "source": "sophos_threat",
+    "title": "Malicious ScreenConnect deployments observed",
+    "link": "https://www.sophos.com/en-us/blog/malicious-screenconnect-deployments-observed",
+    "date": "Wed, 11 Nov 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "N-able issues advisory on critical vulnerabilities",
     "link": "https://www.sophos.com/en-us/blog/n-able-issues-advisory-on-critical-vulnerabilities",
     "date": "Tue, 10 Nov 2026 00:00:00 GMT"
@@ -10,12 +16,6 @@
     "title": "ARTEX: Attackers apply agentic AI",
     "link": "https://www.sophos.com/en-us/blog/artex-attackers-apply-agentic-ai",
     "date": "Tue, 10 Nov 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "Malicious Claude Code extension distributed through Cursor marketplace",
-    "link": "https://www.sophos.com/en-us/blog/malicious-claude-code-extension-distributed-through-cursor-marketplace",
-    "date": "Fri, 30 Oct 2026 00:00:00 GMT"
   },
   {
     "source": "sophos_ops",
@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS Lambda MicroVMs now supports the x86 CPU architecture",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-microvms-x86-architecture/",
-    "date": "Wed, 11 Nov 2026 18:00:00 GMT"
+    "title": "Ornith-1.0-9B and Ornith-1.0-35B models now available on Amazon SageMaker JumpStart",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/ornith-1-0-9b-ornith-1-0-35b-on-sagemaker-jumpstart/",
+    "date": "Wed, 11 Nov 2026 23:36:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EKS Auto Mode now supports security groups for Pods",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-auto-mode-security-groups-for-pods/",
-    "date": "Wed, 11 Nov 2026 17:26:00 GMT"
+    "title": "DeepSeek-V4-Pro, DeepSeek-V4-Flash, and DeepSeek-V4.1-Flash models now available on Amazon SageMaker JumpStart",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/deepseek-v4-pro-v4-flash-v4.1-flash-on-sagemaker-jumpstart/",
+    "date": "Wed, 11 Nov 2026 23:18:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Quick apps are now available in Asia Pacific (Singapore)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-apps-available-in-asia-pacific-singapore/",
-    "date": "Wed, 11 Nov 2026 15:20:00 GMT"
+    "title": "AWS Network Security Manager now available in AWS European Sovereign Cloud and Additional New Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/network-security-mgr-eu-sovereign-cloud/",
+    "date": "Wed, 11 Nov 2026 21:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Beat the Ticking Clock: Continuous Security in the Era of AI Exploits",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/11/beat-the-ticking-clock-continuous-security-in-the-era-of-ai-exploits/",
+    "date": "Wed, 11 Nov 2026 19:19:23 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "How VM API and KubeVM Service Deliver Open Standards and Enterprise Execution",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/11/10/vm-api-and-kubevm-service/",
     "date": "Tue, 10 Nov 2026 17:47:27 +0000"
@@ -82,12 +88,6 @@
     "title": "Running Agent Substrate on VMware vSphere Kubernetes Service",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/11/10/running-agent-substrate-on-vmware-vsphere-kubernetes-service/",
     "date": "Tue, 10 Nov 2026 14:00:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "VCF Firewall Planner Tool: A Step-by-Step Walkthrough from 1,063 Candidate Rules to 224",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/09/vcf-firewall-planner-tool-a-step-by-step-walkthrough-from-1063-candidate-rules-to-224/",
-    "date": "Tue, 10 Nov 2026 04:52:22 +0000"
   },
   {
     "source": "veeam_intel",
