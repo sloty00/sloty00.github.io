@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
+    "title": "EC2 Image Builder console now integrates with the DevOps Agent for troubleshooting and resource creation",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-image-builder-devops-agent-integration",
+    "date": "Thu, 12 Nov 2026 08:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
+    "title": "The next generation AgentCore runtime is now the default",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/new-agentcore-runtime-default/",
+    "date": "Thu, 12 Nov 2026 05:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "Ornith-1.0-9B and Ornith-1.0-35B models now available on Amazon SageMaker JumpStart",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/ornith-1-0-9b-ornith-1-0-35b-on-sagemaker-jumpstart/",
     "date": "Wed, 11 Nov 2026 23:36:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "DeepSeek-V4-Pro, DeepSeek-V4-Flash, and DeepSeek-V4.1-Flash models now available on Amazon SageMaker JumpStart",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/deepseek-v4-pro-v4-flash-v4.1-flash-on-sagemaker-jumpstart/",
-    "date": "Wed, 11 Nov 2026 23:18:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "AWS Network Security Manager now available in AWS European Sovereign Cloud and Additional New Regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/network-security-mgr-eu-sovereign-cloud/",
-    "date": "Wed, 11 Nov 2026 21:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,21 +73,21 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Strengthening Cloud-Native Security Through Upstream Collaboration",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/12/strengthening-cloud-native-security-through-upstream-collaboration/",
+    "date": "Thu, 12 Nov 2026 16:00:00 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "Unlocking AI Performance: Benefits and Certification of VMware AI ReadyNodes",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/12/benefits-and-certification-of-vmware-ai-readynodes/",
+    "date": "Thu, 12 Nov 2026 15:00:00 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Beat the Ticking Clock: Continuous Security in the Era of AI Exploits",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/11/11/beat-the-ticking-clock-continuous-security-in-the-era-of-ai-exploits/",
     "date": "Wed, 11 Nov 2026 19:19:23 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "How VM API and KubeVM Service Deliver Open Standards and Enterprise Execution",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/10/vm-api-and-kubevm-service/",
-    "date": "Tue, 10 Nov 2026 17:47:27 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Running Agent Substrate on VMware vSphere Kubernetes Service",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/10/running-agent-substrate-on-vmware-vsphere-kubernetes-service/",
-    "date": "Tue, 10 Nov 2026 14:00:00 +0000"
   },
   {
     "source": "veeam_intel",
