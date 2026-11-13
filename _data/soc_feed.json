@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
+    "title": "Grok 4.7 now available on Kiro in AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/kiro-grok-4-7-aws-govcloud-us/",
+    "date": "Fri, 13 Nov 2026 13:13:00 GMT"
+  },
+  {
+    "source": "aws_news",
+    "title": "Amazon RDS for Oracle reduces downtime for automatic minor version upgrades and scheduled maintenance",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-reduces-maintenance-downtime-for-amvu-scheduled-upgrades/",
+    "date": "Fri, 13 Nov 2026 08:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "Amazon Cognito now supports OAuth 2.0 token exchange",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-token-exchange/",
     "date": "Thu, 12 Nov 2026 22:00:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Amazon Aurora and RDS now support Graviton5-based R9g database instances",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-rds-postgresql-mysql-mariadb-r9g-instances/",
-    "date": "Thu, 12 Nov 2026 19:02:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Amazon MWAA now supports fine-grained access control with IAM Identity Center and multi-team environments",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/mwaa-fine-grained-access-control/",
-    "date": "Thu, 12 Nov 2026 18:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -91,6 +91,12 @@
   },
   {
     "source": "veeam_intel",
+    "title": "Veeam at Microsoft Ignite 2026: Sessions, the Leaders’ Lounge, and how to meet our team",
+    "link": "https://www.veeam.com/blog/veeam-at-microsoft-ignite-2026.html",
+    "date": "Fri, 13 Nov 2026 08:59:46 +0000"
+  },
+  {
+    "source": "veeam_intel",
     "title": "Egress fees explained: Costs and how to reduce them",
     "link": "https://www.veeam.com/blog/egress-fees.html",
     "date": "Tue, 10 Nov 2026 15:57:49 +0000"
@@ -100,12 +106,6 @@
     "title": "Data doesn’t retire, it just gets cheaper to keep",
     "link": "https://www.veeam.com/blog/data-backup-last-line-of-defense.html",
     "date": "Fri, 06 Nov 2026 14:13:16 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Retire the recovery tier: Instant recoveries now run straight from Dell Data Domain",
-    "link": "https://www.veeam.com/blog/dell-data-domain-primary-target.html",
-    "date": "Fri, 06 Nov 2026 09:29:10 +0000"
   },
   {
     "source": "hackerrank",
