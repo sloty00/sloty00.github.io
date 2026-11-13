@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "EC2 Image Builder console now integrates with the DevOps Agent for troubleshooting and resource creation",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-image-builder-devops-agent-integration",
-    "date": "Thu, 12 Nov 2026 08:00:00 GMT"
+    "title": "Amazon Cognito now supports OAuth 2.0 token exchange",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-token-exchange/",
+    "date": "Thu, 12 Nov 2026 22:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "The next generation AgentCore runtime is now the default",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/new-agentcore-runtime-default/",
-    "date": "Thu, 12 Nov 2026 05:00:00 GMT"
+    "title": "Amazon Aurora and RDS now support Graviton5-based R9g database instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-rds-postgresql-mysql-mariadb-r9g-instances/",
+    "date": "Thu, 12 Nov 2026 19:02:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Ornith-1.0-9B and Ornith-1.0-35B models now available on Amazon SageMaker JumpStart",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/ornith-1-0-9b-ornith-1-0-35b-on-sagemaker-jumpstart/",
-    "date": "Wed, 11 Nov 2026 23:36:00 GMT"
+    "title": "Amazon MWAA now supports fine-grained access control with IAM Identity Center and multi-team environments",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/mwaa-fine-grained-access-control/",
+    "date": "Thu, 12 Nov 2026 18:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
