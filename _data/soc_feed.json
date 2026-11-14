@@ -37,6 +37,12 @@
   },
   {
     "source": "aws_news",
+    "title": "Aurora PostgreSQL with express configuration now supported in CloudFormation",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-postgresql-cloudformation/",
+    "date": "Fri, 13 Nov 2026 16:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "Grok 4.7 now available on Kiro in AWS GovCloud (US)",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/kiro-grok-4-7-aws-govcloud-us/",
     "date": "Fri, 13 Nov 2026 13:13:00 GMT"
@@ -46,12 +52,6 @@
     "title": "Amazon RDS for Oracle reduces downtime for automatic minor version upgrades and scheduled maintenance",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-reduces-maintenance-downtime-for-amvu-scheduled-upgrades/",
     "date": "Fri, 13 Nov 2026 08:00:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Amazon Cognito now supports OAuth 2.0 token exchange",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-token-exchange/",
-    "date": "Thu, 12 Nov 2026 22:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
