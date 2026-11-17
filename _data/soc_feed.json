@@ -1,6 +1,12 @@
 [
   {
     "source": "sophos_threat",
+    "title": "Hijacked Optimizely snippets served malicious code on major websites",
+    "link": "https://www.sophos.com/en-us/blog/hijacked-optimizely-snippets-served-malicious-code",
+    "date": "Tue, 17 Nov 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "Malicious ScreenConnect deployments observed",
     "link": "https://www.sophos.com/en-us/blog/malicious-screenconnect-deployments-observed",
     "date": "Wed, 11 Nov 2026 00:00:00 GMT"
@@ -9,12 +15,6 @@
     "source": "sophos_threat",
     "title": "N-able issues advisory on critical vulnerabilities",
     "link": "https://www.sophos.com/en-us/blog/n-able-issues-advisory-on-critical-vulnerabilities",
-    "date": "Tue, 10 Nov 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "ARTEX: Attackers apply agentic AI",
-    "link": "https://www.sophos.com/en-us/blog/artex-attackers-apply-agentic-ai",
     "date": "Tue, 10 Nov 2026 00:00:00 GMT"
   },
   {
@@ -37,25 +37,31 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon ECR now replicates image deletions across regions and accounts",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/replication-deletes-amazon-ecr",
-    "date": "Mon, 16 Nov 2026 22:07:00 GMT"
+    "title": "Amazon API Gateway REST APIs now support JWT authorizers",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-authorizers-jwt/",
+    "date": "Tue, 17 Nov 2026 19:22:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EBS now supports associating additional KMS keys with snapshots",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ebs-snapshots-associate-kms-keys/",
-    "date": "Mon, 16 Nov 2026 22:00:00 GMT"
+    "title": "AWS Config announces managed conformance packs",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-config-managed-conformance-packs",
+    "date": "Tue, 17 Nov 2026 17:49:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon S3 Vectors now supports hybrid search combining vector and full text for more relevant search results",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/s3-vectors-hybrid-search/",
-    "date": "Mon, 16 Nov 2026 21:00:00 GMT"
+    "title": "Amazon Aurora DSQL now offers SQL statement statistics in Database Insights",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-statement-statistics/",
+    "date": "Tue, 17 Nov 2026 17:37:00 GMT"
   },
   {
     "source": "gcp_cloud",
-    "title": "The era of autonomous attacks has arrived.",
+    "title": "Anyone can create a personal avatar of themselves in Google Vids, at no cost.",
+    "link": "https://blog.google/products-and-platforms/products/workspace/vids-personal-avatars-no-cost/",
+    "date": "Tue, 17 Nov 2026 17:00:00 +0000"
+  },
+  {
+    "source": "gcp_cloud",
+    "title": "Outpace automated cyber threats with security built for nonstop defense.",
     "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-ai-threat-tracker-q4-2026/",
     "date": "Mon, 16 Nov 2026 18:30:00 +0000"
   },
@@ -66,28 +72,22 @@
     "date": "Mon, 16 Nov 2026 16:00:00 +0000"
   },
   {
-    "source": "gcp_cloud",
-    "title": "Google Cloud leaders share what to expect in cybersecurity for 2027.",
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cybersecurity-2027/",
-    "date": "Wed, 11 Nov 2026 17:00:00 +0000"
+    "source": "broadcom_vmware",
+    "title": "The GitOps Advantage: How VCF Automation Reduces Ephemeral Environment Toil by Up to 80%",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/17/the-gitops-advantage-how-vcf-automation-reduces-ephemeral-environment-toil-by-up-to-80/",
+    "date": "Tue, 17 Nov 2026 14:00:00 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "Virtual Private Clouds in VMware vSphere Kubernetes Service: The Recommended Network Stack",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/17/virtual-private-clouds-in-vmware-vsphere-kubernetes-service-the-recommended-network-stack/",
+    "date": "Tue, 17 Nov 2026 14:00:00 +0000"
   },
   {
     "source": "broadcom_vmware",
     "title": "Announcing the General Availability of Holodeck 9.1.1",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/11/16/announcing-the-general-availability-of-holodeck-9-1-1/",
     "date": "Tue, 17 Nov 2026 05:21:31 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Know the Moment Your VCF Platform Changes: Alerting on New Services Runtime Nodes",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/16/know-the-moment-your-vcf-platform-changes-alerting-on-new-services-runtime-nodes/",
-    "date": "Mon, 16 Nov 2026 13:12:02 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Building a VCF 9.1 Installer Depot Offline, without a Download Token",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/16/building-a-vcf-9-1-installer-depot-offline-without-a-download-token/",
-    "date": "Mon, 16 Nov 2026 08:33:04 +0000"
   },
   {
     "source": "veeam_intel",
