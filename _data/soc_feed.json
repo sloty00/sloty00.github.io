@@ -37,21 +37,33 @@
   },
   {
     "source": "aws_news",
-    "title": "Aurora PostgreSQL with express configuration now supported in CloudFormation",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-postgresql-cloudformation/",
-    "date": "Fri, 13 Nov 2026 16:00:00 GMT"
+    "title": "Amazon ECR now replicates image deletions across regions and accounts",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/replication-deletes-amazon-ecr",
+    "date": "Mon, 16 Nov 2026 22:07:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Grok 4.7 now available on Kiro in AWS GovCloud (US)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/kiro-grok-4-7-aws-govcloud-us/",
-    "date": "Fri, 13 Nov 2026 13:13:00 GMT"
+    "title": "Amazon EBS now supports associating additional KMS keys with snapshots",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ebs-snapshots-associate-kms-keys/",
+    "date": "Mon, 16 Nov 2026 22:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon RDS for Oracle reduces downtime for automatic minor version upgrades and scheduled maintenance",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-reduces-maintenance-downtime-for-amvu-scheduled-upgrades/",
-    "date": "Fri, 13 Nov 2026 08:00:00 GMT"
+    "title": "Amazon S3 Vectors now supports hybrid search combining vector and full text for more relevant search results",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/s3-vectors-hybrid-search/",
+    "date": "Mon, 16 Nov 2026 21:00:00 GMT"
+  },
+  {
+    "source": "gcp_cloud",
+    "title": "The era of autonomous attacks has arrived.",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-ai-threat-tracker-q4-2026/",
+    "date": "Mon, 16 Nov 2026 18:30:00 +0000"
+  },
+  {
+    "source": "gcp_cloud",
+    "title": "New AI training performance benchmarks for Google TPUs",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/training-performance-benchmarks-tpus/",
+    "date": "Mon, 16 Nov 2026 16:00:00 +0000"
   },
   {
     "source": "gcp_cloud",
@@ -60,34 +72,22 @@
     "date": "Wed, 11 Nov 2026 17:00:00 +0000"
   },
   {
-    "source": "gcp_cloud",
-    "title": "Get certified as a Google Cloud Professional Agentic Architect.",
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/",
-    "date": "Wed, 11 Nov 2026 17:00:00 +0000"
-  },
-  {
-    "source": "gcp_cloud",
-    "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-    "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-    "date": "Tue, 10 Nov 2026 14:00:00 +0000"
+    "source": "broadcom_vmware",
+    "title": "Announcing the General Availability of Holodeck 9.1.1",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/16/announcing-the-general-availability-of-holodeck-9-1-1/",
+    "date": "Tue, 17 Nov 2026 05:21:31 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Strengthening Cloud-Native Security Through Upstream Collaboration",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/12/strengthening-cloud-native-security-through-upstream-collaboration/",
-    "date": "Thu, 12 Nov 2026 16:00:00 +0000"
+    "title": "Know the Moment Your VCF Platform Changes: Alerting on New Services Runtime Nodes",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/16/know-the-moment-your-vcf-platform-changes-alerting-on-new-services-runtime-nodes/",
+    "date": "Mon, 16 Nov 2026 13:12:02 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Unlocking AI Performance: Benefits and Certification of VMware AI ReadyNodes",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/12/benefits-and-certification-of-vmware-ai-readynodes/",
-    "date": "Thu, 12 Nov 2026 15:00:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Beat the Ticking Clock: Continuous Security in the Era of AI Exploits",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/11/beat-the-ticking-clock-continuous-security-in-the-era-of-ai-exploits/",
-    "date": "Wed, 11 Nov 2026 19:19:23 +0000"
+    "title": "Building a VCF 9.1 Installer Depot Offline, without a Download Token",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/16/building-a-vcf-9-1-installer-depot-offline-without-a-download-token/",
+    "date": "Mon, 16 Nov 2026 08:33:04 +0000"
   },
   {
     "source": "veeam_intel",
