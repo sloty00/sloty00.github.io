@@ -1,6 +1,12 @@
 [
   {
     "source": "sophos_threat",
+    "title": "Patches released for critical ‘NGINX2Root’ vulnerabilities",
+    "link": "https://www.sophos.com/en-us/blog/patches-released-for-critical-nginx2root-vulnerabilities",
+    "date": "Wed, 18 Nov 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "Hijacked Optimizely snippets served malicious code on major websites",
     "link": "https://www.sophos.com/en-us/blog/hijacked-optimizely-snippets-served-malicious-code",
     "date": "Tue, 17 Nov 2026 00:00:00 GMT"
@@ -10,12 +16,6 @@
     "title": "'Java4Shell' vulnerability (CVE-2026-114938) could allow remote code execution",
     "link": "https://www.sophos.com/en-us/blog/java4shell-could-allow-remote-code-execution",
     "date": "Tue, 17 Nov 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "Malicious ScreenConnect deployments observed",
-    "link": "https://www.sophos.com/en-us/blog/malicious-screenconnect-deployments-observed",
-    "date": "Wed, 11 Nov 2026 00:00:00 GMT"
   },
   {
     "source": "sophos_ops",
@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon WorkSpaces Applications adds support for smart card redirection",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-workspaces-applications-smart-card-redirection/",
-    "date": "Tue, 17 Nov 2026 23:46:00 GMT"
+    "title": "Amazon CloudFront Announces WebSocket and gRPC Support for Origin Mutual TLS",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudfront-origin-mtls-websockets-grpc/",
+    "date": "Wed, 18 Nov 2026 18:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EMR 8.2 is now available",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-emr-8.2/",
-    "date": "Tue, 17 Nov 2026 22:25:00 GMT"
+    "title": "AWS Lambda adds support for GPU instances on Lambda Managed Instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-gpu-managed-instances/",
+    "date": "Wed, 18 Nov 2026 18:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Introducing the Apache Spark Optimization Agent for Amazon EMR Serverless",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/apache-spark-optimization-agent/",
-    "date": "Tue, 17 Nov 2026 22:25:00 GMT"
+    "title": "Amazon RDS for MySQL supports MySQL minor version 8.4.13",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-mysql-8413-available/",
+    "date": "Wed, 18 Nov 2026 17:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "New Diagnostics Content Pack in VCF Operations 9.1",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/18/new-diagnostics-content-pack-in-vcf-operations-9-1/",
+    "date": "Wed, 18 Nov 2026 17:57:01 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "導入事例：Qsol株式会社様",
     "link": "https://blogs.vmware.com/vmware-japan/2026/11/customer-case-studies-qsol.html",
     "date": "Wed, 18 Nov 2026 02:04:22 +0000"
@@ -81,12 +87,6 @@
     "source": "broadcom_vmware",
     "title": "The GitOps Advantage: How VCF Automation Reduces Ephemeral Environment Toil by Up to 80%",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/11/17/the-gitops-advantage-how-vcf-automation-reduces-ephemeral-environment-toil-by-up-to-80/",
-    "date": "Tue, 17 Nov 2026 14:00:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Virtual Private Clouds in VMware vSphere Kubernetes Service: The Recommended Network Stack",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/17/virtual-private-clouds-in-vmware-vsphere-kubernetes-service-the-recommended-network-stack/",
     "date": "Tue, 17 Nov 2026 14:00:00 +0000"
   },
   {
