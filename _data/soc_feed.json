@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon CloudFront Announces WebSocket and gRPC Support for Origin Mutual TLS",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudfront-origin-mtls-websockets-grpc/",
-    "date": "Wed, 18 Nov 2026 18:00:00 GMT"
+    "title": "Amazon OpenSearch Memory is now generally available",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-memory-generally-available/",
+    "date": "Wed, 18 Nov 2026 21:09:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Lambda adds support for GPU instances on Lambda Managed Instances",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-gpu-managed-instances/",
-    "date": "Wed, 18 Nov 2026 18:00:00 GMT"
+    "title": "Introducing the Apache Spark Optimization Agent for AWS Glue ETL",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/apache-spark-aws-glue-etl/",
+    "date": "Wed, 18 Nov 2026 20:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon RDS for MySQL supports MySQL minor version 8.4.13",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-mysql-8413-available/",
-    "date": "Wed, 18 Nov 2026 17:00:00 GMT"
+    "title": "Amazon SageMaker AI now supports cross-Region inference routing",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-cross-region-routing/",
+    "date": "Wed, 18 Nov 2026 20:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -67,9 +67,15 @@
   },
   {
     "source": "gcp_cloud",
-    "title": "New AI training performance benchmarks for Google TPUs",
+    "title": "New AI training performance benchmarks for Google TPUs and NVIDIA GPUs on Google Cloud",
     "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/training-performance-benchmarks-tpus/",
     "date": "Mon, 16 Nov 2026 16:00:00 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "VCF 9.1 and 6th Gen AMD EPYC CPUs Achieve VMmark Leadership Scores",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/18/vcf-9-1-and-6th-gen-amd-epyc-cpus-achieve-vmmark-leadership-scores/",
+    "date": "Wed, 18 Nov 2026 23:22:17 +0000"
   },
   {
     "source": "broadcom_vmware",
@@ -82,12 +88,6 @@
     "title": "導入事例：Qsol株式会社様",
     "link": "https://blogs.vmware.com/vmware-japan/2026/11/customer-case-studies-qsol.html",
     "date": "Wed, 18 Nov 2026 02:04:22 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "The GitOps Advantage: How VCF Automation Reduces Ephemeral Environment Toil by Up to 80%",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/17/the-gitops-advantage-how-vcf-automation-reduces-ephemeral-environment-toil-by-up-to-80/",
-    "date": "Tue, 17 Nov 2026 14:00:00 +0000"
   },
   {
     "source": "veeam_intel",
