@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS Elemental MediaTailor adds Dynamic Avail Sizing for live HLS",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-elemental-mediatailor-dynamic-avail-sizing-live-hls",
-    "date": "Thu, 19 Nov 2026 18:00:00 GMT"
+    "title": "AWS Marketplace now supports agentic payments with AgentCore",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-agentic-payments-agentcore/",
+    "date": "Thu, 19 Nov 2026 21:30:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Aurora DSQL now supports multi-Region peering across continents",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-intercontinental-multi-region-clusters/",
-    "date": "Thu, 19 Nov 2026 15:56:00 GMT"
+    "title": "Amazon Cognito now supports client ID metadata documents",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-client-id-metadata-documents/",
+    "date": "Thu, 19 Nov 2026 21:00:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Marketplace now supports buyer contact sharing at subscription",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-buyer-contact-sharing/",
-    "date": "Thu, 19 Nov 2026 13:00:00 GMT"
+    "title": "Amazon Aurora DSQL now delivers up to 50% higher write throughput",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-higher-write-throughput/",
+    "date": "Thu, 19 Nov 2026 20:53:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "導入事例：株式会社ラウンドワンジャパン様",
+    "link": "https://blogs.vmware.com/vmware-japan/2026/11/customer-case-studies-roundone.html",
+    "date": "Fri, 20 Nov 2026 02:15:20 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Securing 5G with VMware HyperArmor on VCF Telco: Hypervisor-Layer Defense across Control and User Planes",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/11/19/securing-5g-with-vmware-hyperarmor-on-vcf-telco-hypervisor-layer-defense-across-control-and-user-planes/",
     "date": "Thu, 19 Nov 2026 17:55:46 +0000"
@@ -84,28 +90,22 @@
     "date": "Thu, 19 Nov 2026 05:39:39 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "VCF 9.1 and 6th Gen AMD EPYC CPUs Achieve VMmark Leadership Scores",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/18/vcf-9-1-and-6th-gen-amd-epyc-cpus-achieve-vmmark-leadership-scores/",
-    "date": "Wed, 18 Nov 2026 23:22:17 +0000"
+    "source": "veeam_intel",
+    "title": "Outage, Attack, or AI Agent Drift: Lessons from the Microsoft 365",
+    "link": "https://www.veeam.com/blog/microsoft-365-outage-2026-lessons.html",
+    "date": "Thu, 19 Nov 2026 22:07:36 +0000"
+  },
+  {
+    "source": "veeam_intel",
+    "title": "Everything is Mission Critical Until Everything is Down",
+    "link": "https://www.veeam.com/blog/recovery-prioritization-resilience-rules.html",
+    "date": "Thu, 19 Nov 2026 20:35:59 +0000"
   },
   {
     "source": "veeam_intel",
     "title": "Trusted Data, Resilient Nations: Why Data Resilience Is a National Security Priority",
     "link": "https://www.veeam.com/blog/singapore-international-cyber-week-2026.html",
     "date": "Thu, 19 Nov 2026 17:07:27 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Veeam at Microsoft Ignite 2026: Sessions, the Leaders’ Lounge, and how to meet our team",
-    "link": "https://www.veeam.com/blog/veeam-at-microsoft-ignite-2026.html",
-    "date": "Fri, 13 Nov 2026 08:59:46 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Egress fees explained: Costs and how to reduce them",
-    "link": "https://www.veeam.com/blog/egress-fees.html",
-    "date": "Tue, 10 Nov 2026 15:57:49 +0000"
   },
   {
     "source": "hackerrank",
