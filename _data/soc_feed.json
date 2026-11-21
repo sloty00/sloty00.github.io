@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS Billing and Cost Management now offers APIs to track payment status",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-billing-cost-management-apis-payment-status/",
-    "date": "Fri, 20 Nov 2026 18:30:00 GMT"
+    "title": "Amazon CloudWatch Omni now supports Microsoft Azure platform logs, metrics and traces",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-omni-microsoft-azure",
+    "date": "Sat, 21 Nov 2026 01:10:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon EventBridge Scheduler adds 589 new API actions and event bus targets",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/eventbridge-scheduler-new-api-actions/",
-    "date": "Fri, 20 Nov 2026 18:00:00 GMT"
+    "title": "Web Search on Amazon Bedrock expands language support and country-aware search",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/web-search-amazon-bedrock/",
+    "date": "Sat, 21 Nov 2026 00:17:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS CloudFormation Service-Managed StackSets adds custom execution roles with nested stacks support",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/stacksets-custom-execution-roles/",
-    "date": "Fri, 20 Nov 2026 17:45:00 GMT"
+    "title": "Amazon RDS for Oracle now supports Primary Endpoint",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-primary-endpoint-v2/",
+    "date": "Fri, 20 Nov 2026 22:54:00 GMT"
   },
   {
     "source": "gcp_cloud",
