@@ -73,21 +73,21 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Microsoft SQL Server Failover Clustering on VCF 9.1 VM Service: Supervisor Direct Implementation (Part 2)",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/22/microsoft-sql-server-failover-clustering-on-vcf-9-1-vm-service-supervisor-direct-implementation-part-2/",
+    "date": "Mon, 23 Nov 2026 03:00:00 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "Microsoft SQL Server Failover Clustering on VCF 9.1 VM Service: Requirements, Topology and Methods (Part 1)",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/22/microsoft-sql-server-failover-clustering-on-vcf-9-1-vm-service-requirements-topology-and-methods-part-1/",
+    "date": "Sun, 22 Nov 2026 21:00:00 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "From AI Experimentation to Production: Key Takeaways from KubeCon North America 2026",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/11/20/from-ai-experimentation-to-production-key-takeaways-from-kubecon-north-america-2026/",
     "date": "Fri, 20 Nov 2026 16:10:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "How Glencore Cut Memory Costs by Pairing DRAM with NVMe Tiering in VMware Cloud Foundation",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/20/how-glencore-cut-memory-costs-by-pairing-dram-with-nvme-tiering-in-vmware-cloud-foundation/",
-    "date": "Fri, 20 Nov 2026 16:00:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Migrate from vSAN OSA to vSAN ESA in VCF 9.1 Without Extra Hardware",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/20/migrate-from-vsan-osa-to-vsan-esa-in-vcf-9-1-without-extra-hardware/",
-    "date": "Fri, 20 Nov 2026 13:00:00 +0000"
   },
   {
     "source": "veeam_intel",
