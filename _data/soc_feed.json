@@ -1,6 +1,12 @@
 [
   {
     "source": "sophos_threat",
+    "title": "Proof-of-concept exploit code available for Ghostscript ‘Upload2Shell’ vulnerability (CVE-2026-125396)",
+    "link": "https://www.sophos.com/en-us/blog/proof-of-concept-available-for-ghostscript-upload2shell",
+    "date": "Mon, 23 Nov 2026 00:00:00 GMT"
+  },
+  {
+    "source": "sophos_threat",
     "title": "Patches released for critical ‘NGINX2Root’ vulnerabilities",
     "link": "https://www.sophos.com/en-us/blog/patches-released-for-critical-nginx2root-vulnerabilities",
     "date": "Wed, 18 Nov 2026 00:00:00 GMT"
@@ -9,12 +15,6 @@
     "source": "sophos_threat",
     "title": "Hijacked Optimizely snippets served malicious code on major websites",
     "link": "https://www.sophos.com/en-us/blog/hijacked-optimizely-snippets-served-malicious-code",
-    "date": "Tue, 17 Nov 2026 00:00:00 GMT"
-  },
-  {
-    "source": "sophos_threat",
-    "title": "'Java4Shell' vulnerability (CVE-2026-114938) could allow remote code execution",
-    "link": "https://www.sophos.com/en-us/blog/java4shell-could-allow-remote-code-execution",
     "date": "Tue, 17 Nov 2026 00:00:00 GMT"
   },
   {
@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS Quick now supports plugins to bundle agents, skills, connectors and flows",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-plugins-bundle-agents-skills-connectors-flows/",
-    "date": "Sat, 21 Nov 2026 02:58:00 GMT"
+    "title": "AWS WAF introduces simplified pricing",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-waf-introduces-simplified-pricing/",
+    "date": "Mon, 23 Nov 2026 18:51:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon CloudWatch Omni now supports Microsoft Azure platform logs, metrics and traces",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-omni-microsoft-azure",
-    "date": "Sat, 21 Nov 2026 01:10:00 GMT"
+    "title": "AWS WAF announces automated discovery and protection for LLM, MCP, and A2A endpoints using Amazon Bedrock Guardrails",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/waf-ai-endpoint-discovery-protection/",
+    "date": "Mon, 23 Nov 2026 18:47:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS Quick launches a new web experience with updated browser extension and Microsoft 365 add-ins",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-launches-new-web-experience-updated-browser-extension-microsoft-365-add-ins/",
-    "date": "Sat, 21 Nov 2026 00:27:00 GMT"
+    "title": "Amazon Connect Customer launches the ability to force logout agents directly from the analytics dashboard",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-force-logout/",
+    "date": "Mon, 23 Nov 2026 18:35:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,39 +73,39 @@
   },
   {
     "source": "broadcom_vmware",
-    "title": "Microsoft SQL Server Failover Clustering on VCF 9.1 VM Service: Supervisor Direct Implementation (Part 2)",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/22/microsoft-sql-server-failover-clustering-on-vcf-9-1-vm-service-supervisor-direct-implementation-part-2/",
-    "date": "Mon, 23 Nov 2026 03:00:00 +0000"
+    "title": "Agentic AI for Enhanced Network Operations in VMware Cloud Foundation",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/23/agentic-ai-for-enhanced-network-operations-in-vmware-cloud-foundation/",
+    "date": "Mon, 23 Nov 2026 16:00:00 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Microsoft SQL Server Failover Clustering on VCF 9.1 VM Service: Requirements, Topology and Methods (Part 1)",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/22/microsoft-sql-server-failover-clustering-on-vcf-9-1-vm-service-requirements-topology-and-methods-part-1/",
-    "date": "Sun, 22 Nov 2026 21:00:00 +0000"
+    "title": "Microsoft SQL Server Failover Clustering on VCF 9.1 VM Service: VCF Automation Blueprint Based Implementation (Part 4)",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/23/microsoft-sql-server-failover-clustering-on-vcf-9-1-vm-service-vcf-automation-blueprint-based-implementation-part-4/",
+    "date": "Mon, 23 Nov 2026 15:00:00 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "From AI Experimentation to Production: Key Takeaways from KubeCon North America 2026",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/20/from-ai-experimentation-to-production-key-takeaways-from-kubecon-north-america-2026/",
-    "date": "Fri, 20 Nov 2026 16:10:00 +0000"
+    "title": "Escaping the Silos: A Deep Dive into vSphere Kubernetes Service 3.6 (and the Hands-on Lab You Need to Take)",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/23/escaping-the-silos-a-deep-dive-into-vsphere-kubernetes-service-3-6-and-the-hands-on-lab-you-need-to-take/",
+    "date": "Mon, 23 Nov 2026 14:00:00 +0000"
   },
   {
     "source": "veeam_intel",
-    "title": "Outage, Attack, or AI Agent Drift: Lessons from the Microsoft 365 Outage",
-    "link": "https://www.veeam.com/blog/microsoft-365-outage-2026-lessons.html",
-    "date": "Thu, 19 Nov 2026 22:07:36 +0000"
+    "title": "Cut Microsoft 365 Audit Prep with Veeam Intelligent ResOps",
+    "link": "https://www.veeam.com/blog/veeam-intelligent-resops-microsoft-365-compliance.html",
+    "date": "Mon, 23 Nov 2026 14:59:37 +0000"
   },
   {
     "source": "veeam_intel",
-    "title": "Everything is Mission Critical Until Everything is Down",
-    "link": "https://www.veeam.com/blog/recovery-prioritization-resilience-rules.html",
-    "date": "Thu, 19 Nov 2026 20:35:59 +0000"
+    "title": "Find and Quarantine ROT Data in Microsoft 365 with Veeam Intelligent ResOps",
+    "link": "https://www.veeam.com/blog/veeam-intelligent-resops-rot-data-quarantine.html",
+    "date": "Mon, 23 Nov 2026 14:55:15 +0000"
   },
   {
     "source": "veeam_intel",
-    "title": "Trusted Data, Resilient Nations: Why Data Resilience Is a National Security Priority",
-    "link": "https://www.veeam.com/blog/singapore-international-cyber-week-2026.html",
-    "date": "Thu, 19 Nov 2026 17:07:27 +0000"
+    "title": "Get Microsoft 365 Ready for Copilot and AI Agents with Veeam Intelligent ResOps",
+    "link": "https://www.veeam.com/blog/veeam-intelligent-resops-copilot-ai-agents.html",
+    "date": "Mon, 23 Nov 2026 14:50:22 +0000"
   },
   {
     "source": "hackerrank",
