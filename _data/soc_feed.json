@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
+    "title": "AWS CloudFormation makes resource coverage comprehensive with 206 new types",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudformation-coverage-expansion/",
+    "date": "Tue, 24 Nov 2026 20:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
+    "title": "Amazon RDS for SQL Server now supports up to 500 databases per instance",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-sqlserver-supports-500-databases-per-instance",
+    "date": "Tue, 24 Nov 2026 08:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "Amazon EC2 X8i instances are now available in the Asia Pacific (New Zealand) Region",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-x8i-new-zealand/",
     "date": "Mon, 23 Nov 2026 23:21:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "AWS Sign-In introduces configurable Sign-in duration of up to 90 days",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/configurable-aws-sign-in-duration/",
-    "date": "Mon, 23 Nov 2026 23:14:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Amazon SageMaker HyperPod now supports managed observability and user management extensions for Slurm clusters",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-extensions/",
-    "date": "Mon, 23 Nov 2026 20:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,21 +73,21 @@
   },
   {
     "source": "broadcom_vmware",
-    "title": "Agentic AI for Enhanced Network Operations in VMware Cloud Foundation",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/23/agentic-ai-for-enhanced-network-operations-in-vmware-cloud-foundation/",
-    "date": "Mon, 23 Nov 2026 16:00:00 +0000"
+    "title": "What’s New in VMware Cloud Foundation Edge  9.1.2",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/24/whats-new-in-vmware-cloud-foundation-edge-9-1-2/",
+    "date": "Tue, 24 Nov 2026 15:30:00 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Microsoft SQL Server Failover Clustering on VCF 9.1 VM Service: VCF Automation Blueprint Based Implementation (Part 4)",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/23/microsoft-sql-server-failover-clustering-on-vcf-9-1-vm-service-vcf-automation-blueprint-based-implementation-part-4/",
-    "date": "Mon, 23 Nov 2026 15:00:00 +0000"
+    "title": "Automate Day-0 AI Deployment with AI infrastructure quickstart in VCF 9.1.2",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/24/automate-day-0-ai-deployment-with-ai-infrastructure-quickstart-in-vcf-9-1-2/",
+    "date": "Tue, 24 Nov 2026 15:30:00 +0000"
   },
   {
     "source": "broadcom_vmware",
-    "title": "Escaping the Silos: A Deep Dive into vSphere Kubernetes Service 3.6 (and the Hands-on Lab You Need to Take)",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/23/escaping-the-silos-a-deep-dive-into-vsphere-kubernetes-service-3-6-and-the-hands-on-lab-you-need-to-take/",
-    "date": "Mon, 23 Nov 2026 14:00:00 +0000"
+    "title": "Strengthening Security and Simplifying Operations with VMware vSphere Foundation 9.1.2",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/24/strengthening-security-and-simplifying-operations-with-vmware-vsphere-foundation-9-1-2/",
+    "date": "Tue, 24 Nov 2026 15:30:00 +0000"
   },
   {
     "source": "veeam_intel",
