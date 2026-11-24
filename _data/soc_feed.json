@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "AWS WAF introduces simplified pricing",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-waf-introduces-simplified-pricing/",
-    "date": "Mon, 23 Nov 2026 18:51:00 GMT"
+    "title": "Amazon EC2 X8i instances are now available in the Asia Pacific (New Zealand) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-x8i-new-zealand/",
+    "date": "Mon, 23 Nov 2026 23:21:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS WAF announces automated discovery and protection for LLM, MCP, and A2A endpoints using Amazon Bedrock Guardrails",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/waf-ai-endpoint-discovery-protection/",
-    "date": "Mon, 23 Nov 2026 18:47:00 GMT"
+    "title": "AWS Sign-In introduces configurable Sign-in duration of up to 90 days",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/configurable-aws-sign-in-duration/",
+    "date": "Mon, 23 Nov 2026 23:14:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon Connect Customer launches the ability to force logout agents directly from the analytics dashboard",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-force-logout/",
-    "date": "Mon, 23 Nov 2026 18:35:00 GMT"
+    "title": "Amazon SageMaker HyperPod now supports managed observability and user management extensions for Slurm clusters",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-extensions/",
+    "date": "Mon, 23 Nov 2026 20:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -109,6 +109,12 @@
   },
   {
     "source": "hackerrank",
+    "title": "The Generalist Is Back. They Just Used to Be a Specialist",
+    "link": "https://www.hackerrank.com/blog/the-generalist-is-back-they-just-used-to-be-a-specialist/",
+    "date": "Tue, 24 Nov 2026 05:42:52 +0000"
+  },
+  {
+    "source": "hackerrank",
     "title": "The New Technical Hiring Bar: CS Fundamentals, AI Fluency, and Judgment",
     "link": "https://www.hackerrank.com/blog/the-new-technical-hiring-bar-cs-fundamentals-ai-fluency-and-judgment/",
     "date": "Wed, 05 Aug 2026 20:25:47 +0000"
@@ -118,11 +124,5 @@
     "title": "How Chakra by HackerRank works",
     "link": "https://www.hackerrank.com/blog/how-chakra-by-hackerrank-works/",
     "date": "Wed, 05 Aug 2026 20:23:03 +0000"
-  },
-  {
-    "source": "hackerrank",
-    "title": "How HackerRank Is Rebuilding Developer Hiring for the Agentic Era",
-    "link": "https://www.hackerrank.com/blog/how-hackerrank-is-rebuilding-developer-hiring-for-the-agentic-era/",
-    "date": "Wed, 29 Jul 2026 19:14:36 +0000"
   }
 ]
