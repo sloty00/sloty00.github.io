@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
+    "title": "Amazon Bedrock adds bedrock-runtime endpoint support for OpenAI Daybreak Red in AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/gpt-daybreak-red-runtime-govcloud/",
+    "date": "Tue, 24 Nov 2026 21:27:00 GMT"
+  },
+  {
+    "source": "aws_news",
+    "title": "Amazon OpenSearch Serverless is now available in the Africa (Cape Town) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-serverless-available-cape-town-region/",
+    "date": "Tue, 24 Nov 2026 20:22:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "AWS CloudFormation makes resource coverage comprehensive with 206 new types",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudformation-coverage-expansion/",
     "date": "Tue, 24 Nov 2026 20:00:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Amazon RDS for SQL Server now supports up to 500 databases per instance",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-sqlserver-supports-500-databases-per-instance",
-    "date": "Tue, 24 Nov 2026 08:00:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Amazon EC2 X8i instances are now available in the Asia Pacific (New Zealand) Region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-x8i-new-zealand/",
-    "date": "Mon, 23 Nov 2026 23:21:00 GMT"
   },
   {
     "source": "gcp_cloud",
