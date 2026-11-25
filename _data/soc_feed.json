@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
-    "title": "Amazon Bedrock adds bedrock-runtime endpoint support for OpenAI Daybreak Red in AWS GovCloud (US)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/gpt-daybreak-red-runtime-govcloud/",
-    "date": "Tue, 24 Nov 2026 21:27:00 GMT"
+    "title": "Amazon EC2 M8g instances are now available in Israel (Tel Aviv)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m8g-instances-telaviv-region/",
+    "date": "Wed, 25 Nov 2026 17:15:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "Amazon OpenSearch Serverless is now available in the Africa (Cape Town) Region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-serverless-available-cape-town-region/",
-    "date": "Tue, 24 Nov 2026 20:22:00 GMT"
+    "title": "Amazon EC2 M9gd instances are now available in Asia Pacific (Seoul)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m9gd-asiapacific-seoul/",
+    "date": "Wed, 25 Nov 2026 17:10:00 GMT"
   },
   {
     "source": "aws_news",
-    "title": "AWS CloudFormation makes resource coverage comprehensive with 206 new types",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudformation-coverage-expansion/",
-    "date": "Tue, 24 Nov 2026 20:00:00 GMT"
+    "title": "Amazon EC2 C9gd instances now available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c9gd-instances-additional-regions/",
+    "date": "Wed, 25 Nov 2026 16:49:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,39 +73,39 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "Building Enterprise AI Agents on VMware vSphere Kubernetes Service Part 2: Declarative Orchestration with kagent",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/25/running-kagent-on-vmware-vsphere-kubernetes-service/",
+    "date": "Wed, 25 Nov 2026 16:00:00 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
+    "title": "Using the Salt API Behind VCF Security Posture Management",
+    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/25/using-the-salt-api-behind-vcf-security-posture-management/",
+    "date": "Wed, 25 Nov 2026 13:52:43 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "What’s New in VMware Cloud Foundation Edge  9.1.2",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/11/24/whats-new-in-vmware-cloud-foundation-edge-9-1-2/",
     "date": "Tue, 24 Nov 2026 15:30:00 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "Automate Day-0 AI Deployment with AI infrastructure quickstart in VCF 9.1.2",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/24/automate-day-0-ai-deployment-with-ai-infrastructure-quickstart-in-vcf-9-1-2/",
-    "date": "Tue, 24 Nov 2026 15:30:00 +0000"
+    "source": "veeam_intel",
+    "title": "On-premises AI vs. cloud AI: The data protection trade-offs nobody budgets in",
+    "link": "https://www.veeam.com/blog/on-prem-ai-vs-cloud-ai.html",
+    "date": "Wed, 25 Nov 2026 15:32:21 +0000"
   },
   {
-    "source": "broadcom_vmware",
-    "title": "Strengthening Security and Simplifying Operations with VMware vSphere Foundation 9.1.2",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/24/strengthening-security-and-simplifying-operations-with-vmware-vsphere-foundation-9-1-2/",
-    "date": "Tue, 24 Nov 2026 15:30:00 +0000"
+    "source": "veeam_intel",
+    "title": "Where data protection sits in an enterprise AI reference architecture",
+    "link": "https://www.veeam.com/blog/ai-reference-architecture-data-protection.html",
+    "date": "Wed, 25 Nov 2026 08:16:35 +0000"
   },
   {
     "source": "veeam_intel",
     "title": "Cut Microsoft 365 Audit Prep with Veeam Intelligent ResOps",
     "link": "https://www.veeam.com/blog/veeam-intelligent-resops-microsoft-365-compliance.html",
     "date": "Mon, 23 Nov 2026 14:59:37 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Find and Quarantine ROT Data in Microsoft 365 with Veeam Intelligent ResOps",
-    "link": "https://www.veeam.com/blog/veeam-intelligent-resops-rot-data-quarantine.html",
-    "date": "Mon, 23 Nov 2026 14:55:15 +0000"
-  },
-  {
-    "source": "veeam_intel",
-    "title": "Get Microsoft 365 Ready for Copilot and AI Agents with Veeam Intelligent ResOps",
-    "link": "https://www.veeam.com/blog/veeam-intelligent-resops-copilot-ai-agents.html",
-    "date": "Mon, 23 Nov 2026 14:50:22 +0000"
   },
   {
     "source": "hackerrank",
