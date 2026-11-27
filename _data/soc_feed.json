@@ -37,6 +37,12 @@
   },
   {
     "source": "aws_news",
+    "title": "Amazon RDS for PostgreSQL supports minor versions 18.7, 17.12, 16.16, 15.20, and 14.25",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-postgresql-18-7-17-12-16-16-15-20-14-25/",
+    "date": "Thu, 26 Nov 2026 17:00:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "AWS Lambda now supports orchestrating MicroVMs with Lambda durable functions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-microvm/",
     "date": "Wed, 25 Nov 2026 20:00:00 GMT"
@@ -46,12 +52,6 @@
     "title": "Amazon CloudWatch Omni now integrates with PagerDuty",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-omni-pagerduty/",
     "date": "Wed, 25 Nov 2026 20:00:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Amazon EC2 M8g instances are now available in Israel (Tel Aviv)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m8g-instances-telaviv-region/",
-    "date": "Wed, 25 Nov 2026 17:15:00 GMT"
   },
   {
     "source": "gcp_cloud",
@@ -73,6 +73,12 @@
   },
   {
     "source": "broadcom_vmware",
+    "title": "VMware Cloud Foundation 9.1.2 の一般提供（GA）を開始",
+    "link": "https://blogs.vmware.com/vmware-japan/2026/11/9-1-2-ga-release.html",
+    "date": "Fri, 27 Nov 2026 02:40:26 +0000"
+  },
+  {
+    "source": "broadcom_vmware",
     "title": "Diagnostics for VMware Cloud Foundation Operations – Newest Findings",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/11/25/diagnostics-for-vmware-cloud-foundation-operations-newest-findings-3/",
     "date": "Wed, 25 Nov 2026 22:16:01 +0000"
@@ -82,12 +88,6 @@
     "title": "Building Enterprise AI Agents on VMware vSphere Kubernetes Service Part 2: Declarative Orchestration with kagent",
     "link": "https://blogs.vmware.com/cloud-foundation/2026/11/25/running-kagent-on-vmware-vsphere-kubernetes-service/",
     "date": "Wed, 25 Nov 2026 16:00:00 +0000"
-  },
-  {
-    "source": "broadcom_vmware",
-    "title": "Using the Salt API Behind VCF Security Posture Management",
-    "link": "https://blogs.vmware.com/cloud-foundation/2026/11/25/using-the-salt-api-behind-vcf-security-posture-management/",
-    "date": "Wed, 25 Nov 2026 13:52:43 +0000"
   },
   {
     "source": "veeam_intel",
