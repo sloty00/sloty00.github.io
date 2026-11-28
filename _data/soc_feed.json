@@ -37,21 +37,21 @@
   },
   {
     "source": "aws_news",
+    "title": "Amazon Timestream for InfluxDB 3 now supports heterogeneous clusters",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/influxdb-heterogeneous-cluster/",
+    "date": "Fri, 27 Nov 2026 22:30:00 GMT"
+  },
+  {
+    "source": "aws_news",
+    "title": "Amazon CloudWatch announces basic OpenTelemetry enrichment at no additional cost",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-opentelemetry-enrichment/",
+    "date": "Fri, 27 Nov 2026 21:03:00 GMT"
+  },
+  {
+    "source": "aws_news",
     "title": "Amazon Neptune introduces Neptune Graph Sessions, smaller graphs designed for agents that scale to zero and resume automatically",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-neptune-graph-sessions-generally-available",
     "date": "Fri, 27 Nov 2026 19:00:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "Amazon RDS for PostgreSQL supports minor versions 18.7, 17.12, 16.16, 15.20, and 14.25",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-postgresql-18-7-17-12-16-16-15-20-14-25/",
-    "date": "Thu, 26 Nov 2026 17:00:00 GMT"
-  },
-  {
-    "source": "aws_news",
-    "title": "AWS Lambda now supports orchestrating MicroVMs with Lambda durable functions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-microvm/",
-    "date": "Wed, 25 Nov 2026 20:00:00 GMT"
   },
   {
     "source": "gcp_cloud",
